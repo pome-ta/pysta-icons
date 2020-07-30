@@ -23,7 +23,6 @@ class DataSource:
 
   def tableview_cell_for_row(self, tv, section, row):
     cell = ui.TableViewCell()
-    #cell.accessory_type = 'detail_button'
     icon = self.all_icons[row]
 
     img_view = ui.ImageView(frame=(24, 6.4, 32, 32))
@@ -49,15 +48,12 @@ class TVDelegate:
   def tableview_did_select(self, tv, section, row):
     icon = tv.data_source.all_icons[row]
     DetailView(icon)
-    print(icon.name)
-    #DetailView()
 
 
 class DetailView(ui.View):
   def __init__(self, icon):
     w_size = ui.get_window_size()
     self._h2, self._w2 = w_size / 2
-    #self.add_subview(img_view)
     self.look_view(icon)
     self.present(hide_title_bar=True)
 
@@ -81,25 +77,18 @@ class DetailView(ui.View):
     i_view = ui.ImageView()
     i_view.image = icon
     i_view.content_mode = 1
-    #i_view.bg_color = 'red'
     i_view.width = b_w * .925
     i_view.height = b_h * .925
-    i_view.x = (b_w *.5) - (i_view.width * .5)
+    i_view.x = (b_w * .5) - (i_view.width * .5)
     i_view.y = (b_h * .5) - (i_view.height * .5)
     base.add_subview(i_view)
-    
+
   def set_name(self):
     label = ui.Label()
     label.bg_color = 'red'
     label.text = 'Name: Hoge_Huga_Piyo'
     label.flex = 'W'
     return label
-
-
-#tes_icon = ui.Image.named('EditorCompletionsRightEdgeOverlay')
-#tes_icon = ui.Image.named('Action')
-#tes_icon = ui.Image.named('AppIcon')
-#dv = DetailView(tes_icon)
 
 
 class MainView(ui.View):
