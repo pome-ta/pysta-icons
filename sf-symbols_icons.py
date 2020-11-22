@@ -28,4 +28,3 @@ sf_assets = CUICatalog.alloc().initWithURL_error_(
 
 assets_list = sf_assets.allImageNames()
 dialogs.list_dialog(items=get_symbols(assets_list))
-
