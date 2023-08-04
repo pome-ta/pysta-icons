@@ -1,3 +1,7 @@
+# 📝 2023/08/05
+
+[Get list of SF Symbol names in code | Apple Developer Forums](https://developer.apple.com/forums/thread/695321)
+
 # 📝 2023/08/04
 
 
