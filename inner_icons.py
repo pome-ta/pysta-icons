@@ -15,6 +15,7 @@ def create_icons():
 
 
 class DataSource:
+
   def __init__(self):
     self.all_icons = create_icons()
 
@@ -45,12 +46,14 @@ class DataSource:
 
 
 class TVDelegate:
+
   def tableview_did_select(self, tv, section, row):
     icon = tv.data_source.all_icons[row]
     DetailView(icon)
 
 
 class DetailView(ui.View):
+
   def __init__(self, icon):
     w_size = ui.get_window_size()
     self._h2, self._w2 = w_size / 2
@@ -92,6 +95,7 @@ class DetailView(ui.View):
 
 
 class MainView(ui.View):
+
   def __init__(self):
     self.table_view = ui.TableView()
     self.table_view.data_source = DataSource()
