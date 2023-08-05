@@ -1,0 +1,33 @@
+{
+  "BuildMachineOSBuild": "20A241133",
+  "CFBundleDevelopmentRegion": "en",
+  "CFBundleExecutable": "CoreGlyphs",
+  "CFBundleIdentifier": "com.apple.CoreGlyphs",
+  "CFBundleInfoDictionaryVersion": "6.0",
+  "CFBundleLocalizations": [
+    "ar",
+    "he",
+    "hi",
+    "ja",
+    "ko",
+    "th",
+    "zh-Hans",
+    "zh-Hant"
+  ],
+  "CFBundleName": "CoreGlyphs",
+  "CFBundlePackageType": "BNDL",
+  "CFBundleShortVersionString": "1.0",
+  "CFBundleSupportedPlatforms": [
+    "MacOSX"
+  ],
+  "CFBundleVersion": "65.1.4.0.3",
+  "DTCompiler": "com.apple.compilers.llvm.clang.1_0",
+  "DTPlatformBuild": "13E6049a",
+  "DTPlatformName": "macosx",
+  "DTPlatformVersion": "12.6",
+  "DTSDKBuild": "21G105",
+  "DTSDKName": "macosx12.6.internal",
+  "DTXcode": "1330",
+  "DTXcodeBuild": "13E6049a",
+  "LSMinimumSystemVersion": "12.6"
+}

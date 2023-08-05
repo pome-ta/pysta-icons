@@ -1,0 +1,94 @@
+[
+  {
+    "icon": "square.grid.2x2",
+    "key": "all"
+  },
+  {
+    "icon": "sparkles",
+    "key": "whatsnew"
+  },
+  {
+    "icon": "paintpalette",
+    "key": "multicolor"
+  },
+  {
+    "icon": "message",
+    "key": "communication"
+  },
+  {
+    "icon": "cloud.sun",
+    "key": "weather"
+  },
+  {
+    "icon": "folder",
+    "key": "objectsandtools"
+  },
+  {
+    "icon": "desktopcomputer",
+    "key": "devices"
+  },
+  {
+    "icon": "gamecontroller",
+    "key": "gaming"
+  },
+  {
+    "icon": "antenna.radiowaves.left.and.right",
+    "key": "connectivity"
+  },
+  {
+    "icon": "car.fill",
+    "key": "transportation"
+  },
+  {
+    "icon": "person.crop.circle",
+    "key": "human"
+  },
+  {
+    "icon": "leaf",
+    "key": "nature"
+  },
+  {
+    "icon": "slider.horizontal.3",
+    "key": "editing"
+  },
+  {
+    "icon": "textformat",
+    "key": "textformatting"
+  },
+  {
+    "icon": "playpause",
+    "key": "media"
+  },
+  {
+    "icon": "command",
+    "key": "keyboard"
+  },
+  {
+    "icon": "cart",
+    "key": "commerce"
+  },
+  {
+    "icon": "timer",
+    "key": "time"
+  },
+  {
+    "icon": "heart",
+    "key": "health"
+  },
+  {
+    "icon": "square.on.circle",
+    "key": "shapes"
+  },
+  {
+    "icon": "arrow.forward",
+    "key": "arrows"
+  },
+  {
+    "icon": "a.circle",
+    "key": "indices"
+  },
+  {
+    "icon": "x.squareroot",
+    "key": "math"
+  }
+]

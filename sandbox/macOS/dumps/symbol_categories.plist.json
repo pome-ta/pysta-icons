@@ -1,0 +1,9769 @@
+{
+  "0.circle": [
+    "indices"
+  ],
+  "0.circle.fill": [
+    "indices",
+    "multicolor"
+  ],
+  "0.square": [
+    "indices"
+  ],
+  "0.square.fill": [
+    "indices",
+    "multicolor"
+  ],
+  "00.circle": [
+    "indices"
+  ],
+  "00.circle.fill": [
+    "indices",
+    "multicolor"
+  ],
+  "00.square": [
+    "indices"
+  ],
+  "00.square.fill": [
+    "indices",
+    "multicolor"
+  ],
+  "01.circle": [
+    "indices"
+  ],
+  "01.circle.fill": [
+    "indices",
+    "multicolor"
+  ],
+  "01.square": [
+    "indices"
+  ],
+  "01.square.fill": [
+    "indices",
+    "multicolor"
+  ],
+  "02.circle": [
+    "indices"
+  ],
+  "02.circle.fill": [
+    "indices",
+    "multicolor"
+  ],
+  "02.square": [
+    "indices"
+  ],
+  "02.square.fill": [
+    "indices",
+    "multicolor"
+  ],
+  "03.circle": [
+    "indices"
+  ],
+  "03.circle.fill": [
+    "indices",
+    "multicolor"
+  ],
+  "03.square": [
+    "indices"
+  ],
+  "03.square.fill": [
+    "indices",
+    "multicolor"
+  ],
+  "04.circle": [
+    "indices"
+  ],
+  "04.circle.fill": [
+    "indices",
+    "multicolor"
+  ],
+  "04.square": [
+    "indices"
+  ],
+  "04.square.fill": [
+    "indices",
+    "multicolor"
+  ],
+  "05.circle": [
+    "indices"
+  ],
+  "05.circle.fill": [
+    "indices",
+    "multicolor"
+  ],
+  "05.square": [
+    "indices"
+  ],
+  "05.square.fill": [
+    "indices",
+    "multicolor"
+  ],
+  "06.circle": [
+    "indices"
+  ],
+  "06.circle.fill": [
+    "indices",
+    "multicolor"
+  ],
+  "06.square": [
+    "indices"
+  ],
+  "06.square.fill": [
+    "indices",
+    "multicolor"
+  ],
+  "07.circle": [
+    "indices"
+  ],
+  "07.circle.fill": [
+    "indices",
+    "multicolor"
+  ],
+  "07.square": [
+    "indices"
+  ],
+  "07.square.fill": [
+    "indices",
+    "multicolor"
+  ],
+  "08.circle": [
+    "indices"
+  ],
+  "08.circle.fill": [
+    "indices",
+    "multicolor"
+  ],
+  "08.square": [
+    "indices"
+  ],
+  "08.square.fill": [
+    "indices",
+    "multicolor"
+  ],
+  "09.circle": [
+    "indices"
+  ],
+  "09.circle.fill": [
+    "indices",
+    "multicolor"
+  ],
+  "09.square": [
+    "indices"
+  ],
+  "09.square.fill": [
+    "indices",
+    "multicolor"
+  ],
+  "1.circle": [
+    "indices"
+  ],
+  "1.circle.fill": [
+    "indices",
+    "multicolor"
+  ],
+  "1.magnifyingglass": [
+    "objectsandtools"
+  ],
+  "1.magnifyingglass.ar": [
+    "objectsandtools"
+  ],
+  "1.magnifyingglass.hi": [
+    "objectsandtools"
+  ],
+  "1.square": [
+    "indices"
+  ],
+  "1.square.fill": [
+    "indices",
+    "multicolor"
+  ],
+  "10.circle": [
+    "indices"
+  ],
+  "10.circle.fill": [
+    "indices",
+    "multicolor"
+  ],
+  "10.square": [
+    "indices"
+  ],
+  "10.square.fill": [
+    "indices",
+    "multicolor"
+  ],
+  "11.circle": [
+    "indices"
+  ],
+  "11.circle.fill": [
+    "indices",
+    "multicolor"
+  ],
+  "11.square": [
+    "indices"
+  ],
+  "11.square.fill": [
+    "indices",
+    "multicolor"
+  ],
+  "12.circle": [
+    "indices"
+  ],
+  "12.circle.fill": [
+    "indices",
+    "multicolor"
+  ],
+  "12.square": [
+    "indices"
+  ],
+  "12.square.fill": [
+    "indices",
+    "multicolor"
+  ],
+  "123.rectangle": [
+    "textformatting"
+  ],
+  "123.rectangle.ar": [
+    "textformatting"
+  ],
+  "123.rectangle.fill": [
+    "textformatting"
+  ],
+  "123.rectangle.fill.ar": [
+    "textformatting"
+  ],
+  "123.rectangle.fill.hi": [
+    "textformatting"
+  ],
+  "123.rectangle.hi": [
+    "textformatting"
+  ],
+  "13.circle": [
+    "indices"
+  ],
+  "13.circle.fill": [
+    "indices",
+    "multicolor"
+  ],
+  "13.square": [
+    "indices"
+  ],
+  "13.square.fill": [
+    "indices",
+    "multicolor"
+  ],
+  "14.circle": [
+    "indices"
+  ],
+  "14.circle.fill": [
+    "indices",
+    "multicolor"
+  ],
+  "14.square": [
+    "indices"
+  ],
+  "14.square.fill": [
+    "indices",
+    "multicolor"
+  ],
+  "15.circle": [
+    "indices"
+  ],
+  "15.circle.fill": [
+    "indices",
+    "multicolor"
+  ],
+  "15.square": [
+    "indices"
+  ],
+  "15.square.fill": [
+    "indices",
+    "multicolor"
+  ],
+  "16.circle": [
+    "indices"
+  ],
+  "16.circle.fill": [
+    "indices",
+    "multicolor"
+  ],
+  "16.square": [
+    "indices"
+  ],
+  "16.square.fill": [
+    "indices",
+    "multicolor"
+  ],
+  "17.circle": [
+    "indices"
+  ],
+  "17.circle.fill": [
+    "indices",
+    "multicolor"
+  ],
+  "17.square": [
+    "indices"
+  ],
+  "17.square.fill": [
+    "indices",
+    "multicolor"
+  ],
+  "18.circle": [
+    "indices"
+  ],
+  "18.circle.fill": [
+    "indices",
+    "multicolor"
+  ],
+  "18.square": [
+    "indices"
+  ],
+  "18.square.fill": [
+    "indices",
+    "multicolor"
+  ],
+  "19.circle": [
+    "indices"
+  ],
+  "19.circle.fill": [
+    "indices",
+    "multicolor"
+  ],
+  "19.square": [
+    "indices"
+  ],
+  "19.square.fill": [
+    "indices",
+    "multicolor"
+  ],
+  "2.circle": [
+    "indices"
+  ],
+  "2.circle.fill": [
+    "indices",
+    "multicolor"
+  ],
+  "2.square": [
+    "indices"
+  ],
+  "2.square.fill": [
+    "indices",
+    "multicolor"
+  ],
+  "20.circle": [
+    "indices"
+  ],
+  "20.circle.fill": [
+    "indices",
+    "multicolor"
+  ],
+  "20.square": [
+    "indices"
+  ],
+  "20.square.fill": [
+    "indices",
+    "multicolor"
+  ],
+  "21.circle": [
+    "indices"
+  ],
+  "21.circle.fill": [
+    "indices",
+    "multicolor"
+  ],
+  "21.square": [
+    "indices"
+  ],
+  "21.square.fill": [
+    "indices",
+    "multicolor"
+  ],
+  "22.circle": [
+    "indices"
+  ],
+  "22.circle.fill": [
+    "indices",
+    "multicolor"
+  ],
+  "22.square": [
+    "indices"
+  ],
+  "22.square.fill": [
+    "indices",
+    "multicolor"
+  ],
+  "23.circle": [
+    "indices"
+  ],
+  "23.circle.fill": [
+    "indices",
+    "multicolor"
+  ],
+  "23.square": [
+    "indices"
+  ],
+  "23.square.fill": [
+    "indices",
+    "multicolor"
+  ],
+  "24.circle": [
+    "indices"
+  ],
+  "24.circle.fill": [
+    "indices",
+    "multicolor"
+  ],
+  "24.square": [
+    "indices"
+  ],
+  "24.square.fill": [
+    "indices",
+    "multicolor"
+  ],
+  "25.circle": [
+    "indices"
+  ],
+  "25.circle.fill": [
+    "indices",
+    "multicolor"
+  ],
+  "25.square": [
+    "indices"
+  ],
+  "25.square.fill": [
+    "indices",
+    "multicolor"
+  ],
+  "26.circle": [
+    "indices"
+  ],
+  "26.circle.fill": [
+    "indices",
+    "multicolor"
+  ],
+  "26.square": [
+    "indices"
+  ],
+  "26.square.fill": [
+    "indices",
+    "multicolor"
+  ],
+  "27.circle": [
+    "indices"
+  ],
+  "27.circle.fill": [
+    "indices",
+    "multicolor"
+  ],
+  "27.square": [
+    "indices"
+  ],
+  "27.square.fill": [
+    "indices",
+    "multicolor"
+  ],
+  "28.circle": [
+    "indices"
+  ],
+  "28.circle.fill": [
+    "indices",
+    "multicolor"
+  ],
+  "28.square": [
+    "indices"
+  ],
+  "28.square.fill": [
+    "indices",
+    "multicolor"
+  ],
+  "29.circle": [
+    "indices"
+  ],
+  "29.circle.fill": [
+    "indices",
+    "multicolor"
+  ],
+  "29.square": [
+    "indices"
+  ],
+  "29.square.fill": [
+    "indices",
+    "multicolor"
+  ],
+  "3.circle": [
+    "indices"
+  ],
+  "3.circle.fill": [
+    "indices",
+    "multicolor"
+  ],
+  "3.square": [
+    "indices"
+  ],
+  "3.square.fill": [
+    "indices",
+    "multicolor"
+  ],
+  "30.circle": [
+    "indices"
+  ],
+  "30.circle.fill": [
+    "indices",
+    "multicolor"
+  ],
+  "30.square": [
+    "indices"
+  ],
+  "30.square.fill": [
+    "indices",
+    "multicolor"
+  ],
+  "31.circle": [
+    "indices"
+  ],
+  "31.circle.fill": [
+    "indices",
+    "multicolor"
+  ],
+  "31.square": [
+    "indices"
+  ],
+  "31.square.fill": [
+    "indices",
+    "multicolor"
+  ],
+  "32.circle": [
+    "indices"
+  ],
+  "32.circle.fill": [
+    "indices",
+    "multicolor"
+  ],
+  "32.square": [
+    "indices"
+  ],
+  "32.square.fill": [
+    "indices",
+    "multicolor"
+  ],
+  "33.circle": [
+    "indices"
+  ],
+  "33.circle.fill": [
+    "indices",
+    "multicolor"
+  ],
+  "33.square": [
+    "indices"
+  ],
+  "33.square.fill": [
+    "indices",
+    "multicolor"
+  ],
+  "34.circle": [
+    "indices"
+  ],
+  "34.circle.fill": [
+    "indices",
+    "multicolor"
+  ],
+  "34.square": [
+    "indices"
+  ],
+  "34.square.fill": [
+    "indices",
+    "multicolor"
+  ],
+  "35.circle": [
+    "indices"
+  ],
+  "35.circle.fill": [
+    "indices",
+    "multicolor"
+  ],
+  "35.square": [
+    "indices"
+  ],
+  "35.square.fill": [
+    "indices",
+    "multicolor"
+  ],
+  "36.circle": [
+    "indices"
+  ],
+  "36.circle.fill": [
+    "indices",
+    "multicolor"
+  ],
+  "36.square": [
+    "indices"
+  ],
+  "36.square.fill": [
+    "indices",
+    "multicolor"
+  ],
+  "37.circle": [
+    "indices"
+  ],
+  "37.circle.fill": [
+    "indices",
+    "multicolor"
+  ],
+  "37.square": [
+    "indices"
+  ],
+  "37.square.fill": [
+    "indices",
+    "multicolor"
+  ],
+  "38.circle": [
+    "indices"
+  ],
+  "38.circle.fill": [
+    "indices",
+    "multicolor"
+  ],
+  "38.square": [
+    "indices"
+  ],
+  "38.square.fill": [
+    "indices",
+    "multicolor"
+  ],
+  "39.circle": [
+    "indices"
+  ],
+  "39.circle.fill": [
+    "indices",
+    "multicolor"
+  ],
+  "39.square": [
+    "indices"
+  ],
+  "39.square.fill": [
+    "indices",
+    "multicolor"
+  ],
+  "4.alt.circle": [
+    "indices"
+  ],
+  "4.alt.circle.fill": [
+    "indices",
+    "multicolor"
+  ],
+  "4.alt.square": [
+    "indices"
+  ],
+  "4.alt.square.fill": [
+    "indices",
+    "multicolor"
+  ],
+  "4.circle": [
+    "indices"
+  ],
+  "4.circle.fill": [
+    "indices",
+    "multicolor"
+  ],
+  "4.square": [
+    "indices"
+  ],
+  "4.square.fill": [
+    "indices",
+    "multicolor"
+  ],
+  "40.circle": [
+    "indices"
+  ],
+  "40.circle.fill": [
+    "indices",
+    "multicolor"
+  ],
+  "40.square": [
+    "indices"
+  ],
+  "40.square.fill": [
+    "indices",
+    "multicolor"
+  ],
+  "41.circle": [
+    "indices"
+  ],
+  "41.circle.fill": [
+    "indices",
+    "multicolor"
+  ],
+  "41.square": [
+    "indices"
+  ],
+  "41.square.fill": [
+    "indices",
+    "multicolor"
+  ],
+  "42.circle": [
+    "indices"
+  ],
+  "42.circle.fill": [
+    "indices",
+    "multicolor"
+  ],
+  "42.square": [
+    "indices"
+  ],
+  "42.square.fill": [
+    "indices",
+    "multicolor"
+  ],
+  "43.circle": [
+    "indices"
+  ],
+  "43.circle.fill": [
+    "indices",
+    "multicolor"
+  ],
+  "43.square": [
+    "indices"
+  ],
+  "43.square.fill": [
+    "indices",
+    "multicolor"
+  ],
+  "44.circle": [
+    "indices"
+  ],
+  "44.circle.fill": [
+    "indices",
+    "multicolor"
+  ],
+  "44.square": [
+    "indices"
+  ],
+  "44.square.fill": [
+    "indices",
+    "multicolor"
+  ],
+  "45.circle": [
+    "indices"
+  ],
+  "45.circle.fill": [
+    "indices",
+    "multicolor"
+  ],
+  "45.square": [
+    "indices"
+  ],
+  "45.square.fill": [
+    "indices",
+    "multicolor"
+  ],
+  "46.circle": [
+    "indices"
+  ],
+  "46.circle.fill": [
+    "indices",
+    "multicolor"
+  ],
+  "46.square": [
+    "indices"
+  ],
+  "46.square.fill": [
+    "indices",
+    "multicolor"
+  ],
+  "47.circle": [
+    "indices"
+  ],
+  "47.circle.fill": [
+    "indices",
+    "multicolor"
+  ],
+  "47.square": [
+    "indices"
+  ],
+  "47.square.fill": [
+    "indices",
+    "multicolor"
+  ],
+  "48.circle": [
+    "indices"
+  ],
+  "48.circle.fill": [
+    "indices",
+    "multicolor"
+  ],
+  "48.square": [
+    "indices"
+  ],
+  "48.square.fill": [
+    "indices",
+    "multicolor"
+  ],
+  "49.circle": [
+    "indices"
+  ],
+  "49.circle.fill": [
+    "indices",
+    "multicolor"
+  ],
+  "49.square": [
+    "indices"
+  ],
+  "49.square.fill": [
+    "indices",
+    "multicolor"
+  ],
+  "4k.tv": [
+    "devices"
+  ],
+  "4k.tv.fill": [
+    "devices"
+  ],
+  "5.circle": [
+    "indices"
+  ],
+  "5.circle.fill": [
+    "indices",
+    "multicolor"
+  ],
+  "5.square": [
+    "indices"
+  ],
+  "5.square.fill": [
+    "indices",
+    "multicolor"
+  ],
+  "50.circle": [
+    "indices"
+  ],
+  "50.circle.fill": [
+    "indices",
+    "multicolor"
+  ],
+  "50.square": [
+    "indices"
+  ],
+  "50.square.fill": [
+    "indices",
+    "multicolor"
+  ],
+  "6.alt.circle": [
+    "indices"
+  ],
+  "6.alt.circle.fill": [
+    "indices",
+    "multicolor"
+  ],
+  "6.alt.square": [
+    "indices"
+  ],
+  "6.alt.square.fill": [
+    "indices",
+    "multicolor"
+  ],
+  "6.circle": [
+    "indices"
+  ],
+  "6.circle.fill": [
+    "indices",
+    "multicolor"
+  ],
+  "6.square": [
+    "indices"
+  ],
+  "6.square.fill": [
+    "indices",
+    "multicolor"
+  ],
+  "7.circle": [
+    "indices"
+  ],
+  "7.circle.fill": [
+    "indices",
+    "multicolor"
+  ],
+  "7.square": [
+    "indices"
+  ],
+  "7.square.fill": [
+    "indices",
+    "multicolor"
+  ],
+  "8.circle": [
+    "indices"
+  ],
+  "8.circle.fill": [
+    "indices",
+    "multicolor"
+  ],
+  "8.square": [
+    "indices"
+  ],
+  "8.square.fill": [
+    "indices",
+    "multicolor"
+  ],
+  "9.alt.circle": [
+    "indices"
+  ],
+  "9.alt.circle.fill": [
+    "indices",
+    "multicolor"
+  ],
+  "9.alt.square": [
+    "indices"
+  ],
+  "9.alt.square.fill": [
+    "indices",
+    "multicolor"
+  ],
+  "9.circle": [
+    "indices"
+  ],
+  "9.circle.fill": [
+    "indices",
+    "multicolor"
+  ],
+  "9.square": [
+    "indices"
+  ],
+  "9.square.fill": [
+    "indices",
+    "multicolor"
+  ],
+  "a.circle": [
+    "gaming",
+    "indices"
+  ],
+  "a.circle.fill": [
+    "gaming",
+    "indices",
+    "multicolor"
+  ],
+  "a.magnify": [
+    "textformatting"
+  ],
+  "a.square": [
+    "indices"
+  ],
+  "a.square.fill": [
+    "indices",
+    "multicolor"
+  ],
+  "abc": [
+    "textformatting"
+  ],
+  "airplane": [
+    "transportation"
+  ],
+  "airplane.arrival": [
+    "transportation"
+  ],
+  "airplane.circle": [
+    "transportation"
+  ],
+  "airplane.circle.fill": [
+    "multicolor",
+    "transportation"
+  ],
+  "airplane.departure": [
+    "transportation"
+  ],
+  "airplayaudio.badge.exclamationmark": [
+    "multicolor"
+  ],
+  "airplayaudio.circle.fill": [
+    "multicolor"
+  ],
+  "airplayvideo.badge.exclamationmark": [
+    "multicolor"
+  ],
+  "airplayvideo.circle.fill": [
+    "multicolor"
+  ],
+  "airpod.gen3.left": [
+    "devices"
+  ],
+  "airpod.gen3.right": [
+    "devices"
+  ],
+  "airpod.left": [
+    "devices"
+  ],
+  "airpod.right": [
+    "devices"
+  ],
+  "airpodpro.left": [
+    "devices"
+  ],
+  "airpodpro.right": [
+    "devices"
+  ],
+  "airpods": [
+    "devices"
+  ],
+  "airpods.chargingcase": [
+    "devices"
+  ],
+  "airpods.chargingcase.fill": [
+    "devices"
+  ],
+  "airpods.chargingcase.wireless": [
+    "devices"
+  ],
+  "airpods.chargingcase.wireless.fill": [
+    "devices"
+  ],
+  "airpods.gen3": [
+    "devices"
+  ],
+  "airpods.gen3.chargingcase.wireless": [
+    "devices"
+  ],
+  "airpods.gen3.chargingcase.wireless.fill": [
+    "devices"
+  ],
+  "airpodsmax": [
+    "devices",
+    "objectsandtools"
+  ],
+  "airpodspro": [
+    "devices"
+  ],
+  "airpodspro.chargingcase.wireless": [
+    "devices"
+  ],
+  "airpodspro.chargingcase.wireless.fill": [
+    "devices"
+  ],
+  "airport.express": [
+    "devices"
+  ],
+  "airport.extreme": [
+    "devices"
+  ],
+  "airport.extreme.tower": [
+    "devices"
+  ],
+  "airtag": [
+    "devices"
+  ],
+  "airtag.fill": [
+    "devices"
+  ],
+  "airtag.radiowaves.forward": [
+    "devices"
+  ],
+  "airtag.radiowaves.forward.fill": [
+    "devices"
+  ],
+  "airtag.radiowaves.forward.fill.rtl": [
+    "devices"
+  ],
+  "airtag.radiowaves.forward.rtl": [
+    "devices"
+  ],
+  "alarm": [
+    "multicolor",
+    "objectsandtools",
+    "time"
+  ],
+  "alarm.fill": [
+    "objectsandtools",
+    "time"
+  ],
+  "allergens": [
+    "health",
+    "multicolor",
+    "nature"
+  ],
+  "alt": [
+    "keyboard"
+  ],
+  "amplifier": [
+    "objectsandtools"
+  ],
+  "ant": [
+    "nature"
+  ],
+  "ant.circle": [
+    "nature"
+  ],
+  "ant.circle.fill": [
+    "multicolor",
+    "nature"
+  ],
+  "ant.fill": [
+    "nature"
+  ],
+  "antenna.radiowaves.left.and.right": [
+    "connectivity",
+    "multicolor",
+    "objectsandtools"
+  ],
+  "antenna.radiowaves.left.and.right.circle": [
+    "connectivity",
+    "multicolor",
+    "objectsandtools"
+  ],
+  "antenna.radiowaves.left.and.right.circle.fill": [
+    "connectivity",
+    "multicolor",
+    "objectsandtools"
+  ],
+  "antenna.radiowaves.left.and.right.slash": [
+    "connectivity",
+    "objectsandtools"
+  ],
+  "app": [
+    "shapes"
+  ],
+  "app.badge": [
+    "multicolor"
+  ],
+  "app.badge.checkmark": [
+    "multicolor"
+  ],
+  "app.badge.checkmark.fill": [
+    "multicolor"
+  ],
+  "app.badge.fill": [
+    "multicolor"
+  ],
+  "app.fill": [
+    "shapes"
+  ],
+  "applepencil": [
+    "devices"
+  ],
+  "appletv": [
+    "devices"
+  ],
+  "appletv.fill": [
+    "devices"
+  ],
+  "appletvremote.gen1": [
+    "devices"
+  ],
+  "appletvremote.gen1.fill": [
+    "devices"
+  ],
+  "appletvremote.gen2": [
+    "devices"
+  ],
+  "appletvremote.gen2.fill": [
+    "devices"
+  ],
+  "appletvremote.gen3": [
+    "devices"
+  ],
+  "appletvremote.gen3.fill": [
+    "devices"
+  ],
+  "appletvremote.gen4": [
+    "devices"
+  ],
+  "appletvremote.gen4.fill": [
+    "devices"
+  ],
+  "applewatch": [
+    "devices"
+  ],
+  "applewatch.case.inset.filled": [
+    "devices"
+  ],
+  "applewatch.radiowaves.left.and.right": [
+    "devices"
+  ],
+  "applewatch.side.right": [
+    "devices"
+  ],
+  "applewatch.slash": [
+    "devices"
+  ],
+  "applewatch.watchface": [
+    "devices"
+  ],
+  "apps.ipad": [
+    "devices"
+  ],
+  "apps.ipad.landscape": [
+    "devices"
+  ],
+  "apps.iphone": [
+    "devices"
+  ],
+  "apps.iphone.badge.plus": [
+    "devices",
+    "multicolor"
+  ],
+  "apps.iphone.landscape": [
+    "devices"
+  ],
+  "apps.iphone.landscape.rtl": [
+    "devices"
+  ],
+  "aqi.high": [
+    "multicolor",
+    "weather"
+  ],
+  "aqi.low": [
+    "weather"
+  ],
+  "aqi.medium": [
+    "weather"
+  ],
+  "archivebox": [
+    "objectsandtools"
+  ],
+  "archivebox.circle": [
+    "objectsandtools"
+  ],
+  "archivebox.circle.fill": [
+    "multicolor",
+    "objectsandtools"
+  ],
+  "archivebox.fill": [
+    "objectsandtools"
+  ],
+  "arkit.badge.xmark": [
+    "multicolor"
+  ],
+  "arrow.2.squarepath": [
+    "arrows"
+  ],
+  "arrow.3.trianglepath": [
+    "arrows"
+  ],
+  "arrow.backward": [
+    "arrows"
+  ],
+  "arrow.backward.circle": [
+    "arrows"
+  ],
+  "arrow.backward.circle.fill": [
+    "arrows"
+  ],
+  "arrow.backward.square": [
+    "arrows"
+  ],
+  "arrow.backward.square.fill": [
+    "arrows"
+  ],
+  "arrow.backward.to.line": [
+    "arrows",
+    "keyboard"
+  ],
+  "arrow.backward.to.line.circle": [
+    "arrows"
+  ],
+  "arrow.backward.to.line.circle.fill": [
+    "arrows",
+    "multicolor"
+  ],
+  "arrow.clockwise": [
+    "arrows"
+  ],
+  "arrow.clockwise.circle": [
+    "arrows"
+  ],
+  "arrow.clockwise.circle.fill": [
+    "arrows",
+    "multicolor"
+  ],
+  "arrow.clockwise.heart": [
+    "arrows"
+  ],
+  "arrow.clockwise.heart.fill": [
+    "arrows"
+  ],
+  "arrow.clockwise.icloud": [
+    "connectivity"
+  ],
+  "arrow.clockwise.icloud.fill": [
+    "connectivity"
+  ],
+  "arrow.counterclockwise": [
+    "arrows"
+  ],
+  "arrow.counterclockwise.circle": [
+    "arrows"
+  ],
+  "arrow.counterclockwise.circle.fill": [
+    "arrows",
+    "multicolor"
+  ],
+  "arrow.counterclockwise.icloud": [
+    "connectivity"
+  ],
+  "arrow.counterclockwise.icloud.fill": [
+    "connectivity"
+  ],
+  "arrow.down": [
+    "arrows"
+  ],
+  "arrow.down.app": [
+    "arrows"
+  ],
+  "arrow.down.app.fill": [
+    "arrows"
+  ],
+  "arrow.down.backward": [
+    "arrows"
+  ],
+  "arrow.down.backward.circle": [
+    "arrows"
+  ],
+  "arrow.down.backward.circle.fill": [
+    "arrows",
+    "multicolor"
+  ],
+  "arrow.down.backward.square": [
+    "arrows"
+  ],
+  "arrow.down.backward.square.fill": [
+    "arrows"
+  ],
+  "arrow.down.circle": [
+    "arrows"
+  ],
+  "arrow.down.circle.fill": [
+    "arrows",
+    "multicolor"
+  ],
+  "arrow.down.doc": [
+    "objectsandtools"
+  ],
+  "arrow.down.doc.fill": [
+    "objectsandtools"
+  ],
+  "arrow.down.forward": [
+    "arrows"
+  ],
+  "arrow.down.forward.and.arrow.up.backward": [
+    "arrows"
+  ],
+  "arrow.down.forward.and.arrow.up.backward.circle": [
+    "arrows"
+  ],
+  "arrow.down.forward.and.arrow.up.backward.circle.fill": [
+    "arrows",
+    "multicolor"
+  ],
+  "arrow.down.forward.circle": [
+    "arrows"
+  ],
+  "arrow.down.forward.circle.fill": [
+    "arrows",
+    "multicolor"
+  ],
+  "arrow.down.forward.square": [
+    "arrows"
+  ],
+  "arrow.down.forward.square.fill": [
+    "arrows"
+  ],
+  "arrow.down.heart": [
+    "arrows"
+  ],
+  "arrow.down.heart.fill": [
+    "arrows"
+  ],
+  "arrow.down.left": [
+    "arrows"
+  ],
+  "arrow.down.left.circle": [
+    "arrows"
+  ],
+  "arrow.down.left.circle.fill": [
+    "arrows",
+    "multicolor"
+  ],
+  "arrow.down.left.square": [
+    "arrows"
+  ],
+  "arrow.down.left.square.fill": [
+    "arrows"
+  ],
+  "arrow.down.left.video": [
+    "communication"
+  ],
+  "arrow.down.left.video.fill": [
+    "communication"
+  ],
+  "arrow.down.right": [
+    "arrows"
+  ],
+  "arrow.down.right.and.arrow.up.left": [
+    "arrows"
+  ],
+  "arrow.down.right.and.arrow.up.left.circle": [
+    "arrows"
+  ],
+  "arrow.down.right.and.arrow.up.left.circle.fill": [
+    "arrows",
+    "multicolor"
+  ],
+  "arrow.down.right.circle": [
+    "arrows"
+  ],
+  "arrow.down.right.circle.fill": [
+    "arrows",
+    "multicolor"
+  ],
+  "arrow.down.right.square": [
+    "arrows"
+  ],
+  "arrow.down.right.square.fill": [
+    "arrows"
+  ],
+  "arrow.down.square": [
+    "arrows"
+  ],
+  "arrow.down.square.fill": [
+    "arrows"
+  ],
+  "arrow.down.to.line": [
+    "arrows",
+    "keyboard"
+  ],
+  "arrow.down.to.line.circle": [
+    "arrows"
+  ],
+  "arrow.down.to.line.circle.fill": [
+    "arrows",
+    "multicolor"
+  ],
+  "arrow.down.to.line.compact": [
+    "arrows",
+    "keyboard"
+  ],
+  "arrow.forward": [
+    "arrows"
+  ],
+  "arrow.forward.circle": [
+    "arrows"
+  ],
+  "arrow.forward.circle.fill": [
+    "arrows",
+    "multicolor"
+  ],
+  "arrow.forward.square": [
+    "arrows"
+  ],
+  "arrow.forward.square.fill": [
+    "arrows"
+  ],
+  "arrow.forward.to.line": [
+    "arrows",
+    "keyboard"
+  ],
+  "arrow.forward.to.line.circle": [
+    "arrows"
+  ],
+  "arrow.forward.to.line.circle.fill": [
+    "arrows",
+    "multicolor"
+  ],
+  "arrow.left": [
+    "arrows"
+  ],
+  "arrow.left.and.right": [
+    "arrows"
+  ],
+  "arrow.left.and.right.circle": [
+    "arrows"
+  ],
+  "arrow.left.and.right.circle.fill": [
+    "arrows",
+    "multicolor"
+  ],
+  "arrow.left.and.right.righttriangle.left.righttriangle.right": [
+    "editing"
+  ],
+  "arrow.left.and.right.righttriangle.left.righttriangle.right.fill": [
+    "editing"
+  ],
+  "arrow.left.and.right.square": [
+    "arrows"
+  ],
+  "arrow.left.and.right.square.fill": [
+    "arrows"
+  ],
+  "arrow.left.arrow.right": [
+    "arrows"
+  ],
+  "arrow.left.arrow.right.circle": [
+    "arrows"
+  ],
+  "arrow.left.arrow.right.circle.fill": [
+    "arrows",
+    "multicolor"
+  ],
+  "arrow.left.arrow.right.square": [
+    "arrows"
+  ],
+  "arrow.left.arrow.right.square.fill": [
+    "arrows"
+  ],
+  "arrow.left.circle": [
+    "arrows"
+  ],
+  "arrow.left.circle.fill": [
+    "arrows",
+    "multicolor"
+  ],
+  "arrow.left.square": [
+    "arrows"
+  ],
+  "arrow.left.square.fill": [
+    "arrows"
+  ],
+  "arrow.left.to.line": [
+    "arrows",
+    "keyboard"
+  ],
+  "arrow.left.to.line.circle": [
+    "arrows"
+  ],
+  "arrow.left.to.line.circle.fill": [
+    "arrows",
+    "multicolor"
+  ],
+  "arrow.left.to.line.compact": [
+    "arrows",
+    "keyboard"
+  ],
+  "arrow.rectanglepath": [
+    "media"
+  ],
+  "arrow.right": [
+    "arrows"
+  ],
+  "arrow.right.circle": [
+    "arrows"
+  ],
+  "arrow.right.circle.fill": [
+    "arrows",
+    "multicolor"
+  ],
+  "arrow.right.doc.on.clipboard": [
+    "objectsandtools"
+  ],
+  "arrow.right.square": [
+    "arrows"
+  ],
+  "arrow.right.square.fill": [
+    "arrows"
+  ],
+  "arrow.right.to.line": [
+    "arrows",
+    "keyboard"
+  ],
+  "arrow.right.to.line.circle": [
+    "arrows"
+  ],
+  "arrow.right.to.line.circle.fill": [
+    "arrows",
+    "multicolor"
+  ],
+  "arrow.right.to.line.compact": [
+    "arrows",
+    "keyboard"
+  ],
+  "arrow.triangle.2.circlepath": [
+    "arrows"
+  ],
+  "arrow.triangle.2.circlepath.camera": [
+    "objectsandtools"
+  ],
+  "arrow.triangle.2.circlepath.camera.fill": [
+    "objectsandtools"
+  ],
+  "arrow.triangle.2.circlepath.circle": [
+    "arrows"
+  ],
+  "arrow.triangle.2.circlepath.circle.fill": [
+    "arrows",
+    "multicolor"
+  ],
+  "arrow.triangle.2.circlepath.doc.on.clipboard": [
+    "objectsandtools"
+  ],
+  "arrow.triangle.branch": [
+    "arrows"
+  ],
+  "arrow.triangle.capsulepath": [
+    "arrows"
+  ],
+  "arrow.triangle.merge": [
+    "arrows"
+  ],
+  "arrow.triangle.pull": [
+    "arrows"
+  ],
+  "arrow.triangle.swap": [
+    "arrows"
+  ],
+  "arrow.triangle.turn.up.right.circle": [
+    "arrows"
+  ],
+  "arrow.triangle.turn.up.right.circle.fill": [
+    "arrows",
+    "multicolor"
+  ],
+  "arrow.triangle.turn.up.right.diamond": [
+    "arrows"
+  ],
+  "arrow.triangle.turn.up.right.diamond.fill": [
+    "arrows"
+  ],
+  "arrow.turn.down.left": [
+    "arrows"
+  ],
+  "arrow.turn.down.right": [
+    "arrows"
+  ],
+  "arrow.turn.left.down": [
+    "arrows"
+  ],
+  "arrow.turn.left.up": [
+    "arrows"
+  ],
+  "arrow.turn.right.down": [
+    "arrows"
+  ],
+  "arrow.turn.right.up": [
+    "arrows"
+  ],
+  "arrow.turn.up.forward.iphone": [
+    "devices"
+  ],
+  "arrow.turn.up.forward.iphone.fill": [
+    "devices"
+  ],
+  "arrow.turn.up.left": [
+    "arrows"
+  ],
+  "arrow.turn.up.right": [
+    "arrows"
+  ],
+  "arrow.up": [
+    "arrows"
+  ],
+  "arrow.up.and.down": [
+    "arrows"
+  ],
+  "arrow.up.and.down.and.arrow.left.and.right": [
+    "arrows"
+  ],
+  "arrow.up.and.down.circle": [
+    "arrows"
+  ],
+  "arrow.up.and.down.circle.fill": [
+    "arrows",
+    "multicolor"
+  ],
+  "arrow.up.and.down.righttriangle.up.righttriangle.down": [
+    "editing"
+  ],
+  "arrow.up.and.down.righttriangle.up.righttriangle.down.fill": [
+    "editing"
+  ],
+  "arrow.up.and.down.square": [
+    "arrows"
+  ],
+  "arrow.up.and.down.square.fill": [
+    "arrows"
+  ],
+  "arrow.up.and.person.rectangle.portrait": [
+    "human"
+  ],
+  "arrow.up.and.person.rectangle.turn.left": [
+    "human"
+  ],
+  "arrow.up.and.person.rectangle.turn.right": [
+    "human"
+  ],
+  "arrow.up.arrow.down": [
+    "arrows"
+  ],
+  "arrow.up.arrow.down.circle": [
+    "arrows"
+  ],
+  "arrow.up.arrow.down.circle.fill": [
+    "arrows",
+    "multicolor"
+  ],
+  "arrow.up.arrow.down.square": [
+    "arrows"
+  ],
+  "arrow.up.arrow.down.square.fill": [
+    "arrows"
+  ],
+  "arrow.up.backward": [
+    "arrows"
+  ],
+  "arrow.up.backward.and.arrow.down.forward": [
+    "arrows"
+  ],
+  "arrow.up.backward.and.arrow.down.forward.circle": [
+    "arrows"
+  ],
+  "arrow.up.backward.and.arrow.down.forward.circle.fill": [
+    "arrows",
+    "multicolor"
+  ],
+  "arrow.up.backward.circle": [
+    "arrows"
+  ],
+  "arrow.up.backward.circle.fill": [
+    "arrows",
+    "multicolor"
+  ],
+  "arrow.up.backward.square": [
+    "arrows"
+  ],
+  "arrow.up.backward.square.fill": [
+    "arrows"
+  ],
+  "arrow.up.bin": [
+    "objectsandtools"
+  ],
+  "arrow.up.bin.fill": [
+    "objectsandtools"
+  ],
+  "arrow.up.circle": [
+    "arrows"
+  ],
+  "arrow.up.circle.fill": [
+    "arrows",
+    "multicolor"
+  ],
+  "arrow.up.doc": [
+    "objectsandtools"
+  ],
+  "arrow.up.doc.fill": [
+    "objectsandtools"
+  ],
+  "arrow.up.doc.on.clipboard": [
+    "objectsandtools"
+  ],
+  "arrow.up.forward": [
+    "arrows"
+  ],
+  "arrow.up.forward.app": [
+    "arrows"
+  ],
+  "arrow.up.forward.app.fill": [
+    "arrows"
+  ],
+  "arrow.up.forward.circle": [
+    "arrows"
+  ],
+  "arrow.up.forward.circle.fill": [
+    "arrows",
+    "multicolor"
+  ],
+  "arrow.up.forward.square": [
+    "arrows"
+  ],
+  "arrow.up.forward.square.fill": [
+    "arrows"
+  ],
+  "arrow.up.heart": [
+    "arrows"
+  ],
+  "arrow.up.heart.fill": [
+    "arrows"
+  ],
+  "arrow.up.left": [
+    "arrows"
+  ],
+  "arrow.up.left.and.arrow.down.right": [
+    "arrows"
+  ],
+  "arrow.up.left.and.arrow.down.right.circle": [
+    "arrows"
+  ],
+  "arrow.up.left.and.arrow.down.right.circle.fill": [
+    "arrows",
+    "multicolor"
+  ],
+  "arrow.up.left.and.down.right.and.arrow.up.right.and.down.left": [
+    "arrows"
+  ],
+  "arrow.up.left.and.down.right.magnifyingglass": [
+    "objectsandtools"
+  ],
+  "arrow.up.left.circle": [
+    "arrows"
+  ],
+  "arrow.up.left.circle.fill": [
+    "arrows",
+    "multicolor"
+  ],
+  "arrow.up.left.square": [
+    "arrows"
+  ],
+  "arrow.up.left.square.fill": [
+    "arrows"
+  ],
+  "arrow.up.message": [
+    "communication"
+  ],
+  "arrow.up.message.fill": [
+    "communication"
+  ],
+  "arrow.up.right": [
+    "arrows"
+  ],
+  "arrow.up.right.circle": [
+    "arrows"
+  ],
+  "arrow.up.right.circle.fill": [
+    "arrows",
+    "multicolor"
+  ],
+  "arrow.up.right.square": [
+    "arrows"
+  ],
+  "arrow.up.right.square.fill": [
+    "arrows"
+  ],
+  "arrow.up.right.video": [
+    "communication"
+  ],
+  "arrow.up.right.video.fill": [
+    "communication"
+  ],
+  "arrow.up.square": [
+    "arrows"
+  ],
+  "arrow.up.square.fill": [
+    "arrows"
+  ],
+  "arrow.up.to.line": [
+    "arrows",
+    "keyboard"
+  ],
+  "arrow.up.to.line.circle": [
+    "arrows"
+  ],
+  "arrow.up.to.line.circle.fill": [
+    "arrows",
+    "multicolor"
+  ],
+  "arrow.up.to.line.compact": [
+    "arrows",
+    "keyboard"
+  ],
+  "arrow.uturn.backward": [
+    "arrows"
+  ],
+  "arrow.uturn.backward.circle": [
+    "arrows"
+  ],
+  "arrow.uturn.backward.circle.badge.ellipsis": [
+    "arrows"
+  ],
+  "arrow.uturn.backward.circle.fill": [
+    "arrows",
+    "multicolor"
+  ],
+  "arrow.uturn.backward.square": [
+    "arrows"
+  ],
+  "arrow.uturn.backward.square.fill": [
+    "arrows"
+  ],
+  "arrow.uturn.down": [
+    "arrows"
+  ],
+  "arrow.uturn.down.circle": [
+    "arrows"
+  ],
+  "arrow.uturn.down.circle.fill": [
+    "arrows",
+    "multicolor"
+  ],
+  "arrow.uturn.down.square": [
+    "arrows"
+  ],
+  "arrow.uturn.down.square.fill": [
+    "arrows"
+  ],
+  "arrow.uturn.forward": [
+    "arrows"
+  ],
+  "arrow.uturn.forward.circle": [
+    "arrows"
+  ],
+  "arrow.uturn.forward.circle.fill": [
+    "arrows",
+    "multicolor"
+  ],
+  "arrow.uturn.forward.square": [
+    "arrows"
+  ],
+  "arrow.uturn.forward.square.fill": [
+    "arrows"
+  ],
+  "arrow.uturn.left": [
+    "arrows"
+  ],
+  "arrow.uturn.left.circle": [
+    "arrows"
+  ],
+  "arrow.uturn.left.circle.badge.ellipsis": [
+    "arrows"
+  ],
+  "arrow.uturn.left.circle.fill": [
+    "arrows",
+    "multicolor"
+  ],
+  "arrow.uturn.left.square": [
+    "arrows"
+  ],
+  "arrow.uturn.left.square.fill": [
+    "arrows"
+  ],
+  "arrow.uturn.right": [
+    "arrows"
+  ],
+  "arrow.uturn.right.circle": [
+    "arrows"
+  ],
+  "arrow.uturn.right.circle.fill": [
+    "arrows",
+    "multicolor"
+  ],
+  "arrow.uturn.right.square": [
+    "arrows"
+  ],
+  "arrow.uturn.right.square.fill": [
+    "arrows"
+  ],
+  "arrow.uturn.up": [
+    "arrows"
+  ],
+  "arrow.uturn.up.circle": [
+    "arrows"
+  ],
+  "arrow.uturn.up.circle.fill": [
+    "arrows",
+    "multicolor"
+  ],
+  "arrow.uturn.up.square": [
+    "arrows"
+  ],
+  "arrow.uturn.up.square.fill": [
+    "arrows"
+  ],
+  "arrowshape.bounce.forward": [
+    "arrows"
+  ],
+  "arrowshape.bounce.forward.fill": [
+    "arrows"
+  ],
+  "arrowshape.bounce.right": [
+    "arrows"
+  ],
+  "arrowshape.bounce.right.fill": [
+    "arrows"
+  ],
+  "arrowshape.turn.up.backward": [
+    "arrows"
+  ],
+  "arrowshape.turn.up.backward.2": [
+    "arrows"
+  ],
+  "arrowshape.turn.up.backward.2.circle": [
+    "arrows"
+  ],
+  "arrowshape.turn.up.backward.2.circle.fill": [
+    "arrows",
+    "multicolor"
+  ],
+  "arrowshape.turn.up.backward.2.fill": [
+    "arrows"
+  ],
+  "arrowshape.turn.up.backward.circle": [
+    "arrows"
+  ],
+  "arrowshape.turn.up.backward.circle.fill": [
+    "arrows",
+    "multicolor"
+  ],
+  "arrowshape.turn.up.backward.fill": [
+    "arrows"
+  ],
+  "arrowshape.turn.up.forward": [
+    "arrows"
+  ],
+  "arrowshape.turn.up.forward.circle": [
+    "arrows"
+  ],
+  "arrowshape.turn.up.forward.circle.fill": [
+    "arrows",
+    "multicolor"
+  ],
+  "arrowshape.turn.up.forward.fill": [
+    "arrows"
+  ],
+  "arrowshape.turn.up.left": [
+    "arrows"
+  ],
+  "arrowshape.turn.up.left.2": [
+    "arrows"
+  ],
+  "arrowshape.turn.up.left.2.circle": [
+    "arrows"
+  ],
+  "arrowshape.turn.up.left.2.circle.fill": [
+    "arrows",
+    "multicolor"
+  ],
+  "arrowshape.turn.up.left.2.fill": [
+    "arrows"
+  ],
+  "arrowshape.turn.up.left.circle": [
+    "arrows"
+  ],
+  "arrowshape.turn.up.left.circle.fill": [
+    "arrows",
+    "multicolor"
+  ],
+  "arrowshape.turn.up.left.fill": [
+    "arrows"
+  ],
+  "arrowshape.turn.up.right": [
+    "arrows"
+  ],
+  "arrowshape.turn.up.right.circle": [
+    "arrows"
+  ],
+  "arrowshape.turn.up.right.circle.fill": [
+    "arrows",
+    "multicolor"
+  ],
+  "arrowshape.turn.up.right.fill": [
+    "arrows"
+  ],
+  "arrowshape.zigzag.forward": [
+    "arrows"
+  ],
+  "arrowshape.zigzag.forward.fill": [
+    "arrows"
+  ],
+  "arrowshape.zigzag.right": [
+    "arrows"
+  ],
+  "arrowshape.zigzag.right.fill": [
+    "arrows"
+  ],
+  "arrowtriangle.backward": [
+    "arrows"
+  ],
+  "arrowtriangle.backward.circle": [
+    "arrows"
+  ],
+  "arrowtriangle.backward.circle.fill": [
+    "arrows",
+    "multicolor"
+  ],
+  "arrowtriangle.backward.fill": [
+    "arrows"
+  ],
+  "arrowtriangle.backward.square": [
+    "arrows"
+  ],
+  "arrowtriangle.backward.square.fill": [
+    "arrows"
+  ],
+  "arrowtriangle.down": [
+    "arrows"
+  ],
+  "arrowtriangle.down.circle": [
+    "arrows",
+    "gaming"
+  ],
+  "arrowtriangle.down.circle.fill": [
+    "arrows",
+    "gaming",
+    "multicolor"
+  ],
+  "arrowtriangle.down.fill": [
+    "arrows"
+  ],
+  "arrowtriangle.down.square": [
+    "arrows"
+  ],
+  "arrowtriangle.down.square.fill": [
+    "arrows"
+  ],
+  "arrowtriangle.forward": [
+    "arrows"
+  ],
+  "arrowtriangle.forward.circle": [
+    "arrows"
+  ],
+  "arrowtriangle.forward.circle.fill": [
+    "arrows",
+    "multicolor"
+  ],
+  "arrowtriangle.forward.fill": [
+    "arrows"
+  ],
+  "arrowtriangle.forward.square": [
+    "arrows"
+  ],
+  "arrowtriangle.forward.square.fill": [
+    "arrows"
+  ],
+  "arrowtriangle.left": [
+    "arrows"
+  ],
+  "arrowtriangle.left.and.line.vertical.and.arrowtriangle.right": [
+    "arrows"
+  ],
+  "arrowtriangle.left.and.line.vertical.and.arrowtriangle.right.fill": [
+    "arrows"
+  ],
+  "arrowtriangle.left.circle": [
+    "arrows",
+    "gaming"
+  ],
+  "arrowtriangle.left.circle.fill": [
+    "arrows",
+    "gaming",
+    "multicolor"
+  ],
+  "arrowtriangle.left.fill": [
+    "arrows"
+  ],
+  "arrowtriangle.left.square": [
+    "arrows"
+  ],
+  "arrowtriangle.left.square.fill": [
+    "arrows"
+  ],
+  "arrowtriangle.right": [
+    "arrows"
+  ],
+  "arrowtriangle.right.and.line.vertical.and.arrowtriangle.left": [
+    "arrows"
+  ],
+  "arrowtriangle.right.and.line.vertical.and.arrowtriangle.left.fill": [
+    "arrows"
+  ],
+  "arrowtriangle.right.circle": [
+    "arrows",
+    "gaming"
+  ],
+  "arrowtriangle.right.circle.fill": [
+    "arrows",
+    "gaming",
+    "multicolor"
+  ],
+  "arrowtriangle.right.fill": [
+    "arrows"
+  ],
+  "arrowtriangle.right.square": [
+    "arrows"
+  ],
+  "arrowtriangle.right.square.fill": [
+    "arrows"
+  ],
+  "arrowtriangle.up": [
+    "arrows"
+  ],
+  "arrowtriangle.up.circle": [
+    "arrows",
+    "gaming"
+  ],
+  "arrowtriangle.up.circle.fill": [
+    "arrows",
+    "gaming",
+    "multicolor"
+  ],
+  "arrowtriangle.up.fill": [
+    "arrows"
+  ],
+  "arrowtriangle.up.square": [
+    "arrows"
+  ],
+  "arrowtriangle.up.square.fill": [
+    "arrows"
+  ],
+  "aspectratio": [
+    "editing"
+  ],
+  "aspectratio.fill": [
+    "editing"
+  ],
+  "asterisk.circle.fill": [
+    "multicolor"
+  ],
+  "at": [
+    "multicolor"
+  ],
+  "at.badge.minus": [
+    "multicolor"
+  ],
+  "at.badge.plus": [
+    "multicolor"
+  ],
+  "at.circle": [
+    "multicolor"
+  ],
+  "at.circle.fill": [
+    "multicolor"
+  ],
+  "australsign.circle": [
+    "commerce",
+    "indices"
+  ],
+  "australsign.circle.fill": [
+    "commerce",
+    "indices",
+    "multicolor"
+  ],
+  "australsign.square": [
+    "commerce",
+    "indices"
+  ],
+  "australsign.square.fill": [
+    "commerce",
+    "indices",
+    "multicolor"
+  ],
+  "b.circle": [
+    "gaming",
+    "indices"
+  ],
+  "b.circle.fill": [
+    "gaming",
+    "indices",
+    "multicolor"
+  ],
+  "b.square": [
+    "indices"
+  ],
+  "b.square.fill": [
+    "indices",
+    "multicolor"
+  ],
+  "backward": [
+    "media"
+  ],
+  "backward.circle": [
+    "media"
+  ],
+  "backward.circle.fill": [
+    "media",
+    "multicolor"
+  ],
+  "backward.end": [
+    "media"
+  ],
+  "backward.end.alt": [
+    "media"
+  ],
+  "backward.end.alt.fill": [
+    "media"
+  ],
+  "backward.end.fill": [
+    "media"
+  ],
+  "backward.fill": [
+    "media"
+  ],
+  "backward.frame": [
+    "media"
+  ],
+  "backward.frame.fill": [
+    "media"
+  ],
+  "badge.plus.radiowaves.forward": [
+    "multicolor"
+  ],
+  "badge.plus.radiowaves.right": [
+    "multicolor"
+  ],
+  "bag": [
+    "commerce"
+  ],
+  "bag.badge.minus": [
+    "commerce",
+    "multicolor"
+  ],
+  "bag.badge.plus": [
+    "commerce",
+    "multicolor"
+  ],
+  "bag.circle": [
+    "commerce"
+  ],
+  "bag.circle.fill": [
+    "commerce",
+    "multicolor"
+  ],
+  "bag.fill": [
+    "commerce"
+  ],
+  "bag.fill.badge.minus": [
+    "commerce",
+    "multicolor"
+  ],
+  "bag.fill.badge.plus": [
+    "commerce",
+    "multicolor"
+  ],
+  "bahtsign.circle": [
+    "commerce",
+    "indices"
+  ],
+  "bahtsign.circle.fill": [
+    "commerce",
+    "indices",
+    "multicolor"
+  ],
+  "bahtsign.square": [
+    "commerce",
+    "indices"
+  ],
+  "bahtsign.square.fill": [
+    "commerce",
+    "indices",
+    "multicolor"
+  ],
+  "bandage": [
+    "editing",
+    "health",
+    "objectsandtools"
+  ],
+  "bandage.fill": [
+    "editing",
+    "health",
+    "objectsandtools"
+  ],
+  "banknote": [
+    "commerce"
+  ],
+  "banknote.fill": [
+    "commerce"
+  ],
+  "barometer": [
+    "objectsandtools"
+  ],
+  "battery.0": [
+    "objectsandtools"
+  ],
+  "battery.100": [
+    "multicolor",
+    "objectsandtools"
+  ],
+  "battery.100.bolt": [
+    "multicolor",
+    "objectsandtools"
+  ],
+  "battery.100.bolt.rtl": [
+    "multicolor",
+    "objectsandtools"
+  ],
+  "battery.25": [
+    "multicolor",
+    "objectsandtools"
+  ],
+  "battery.50": [
+    "multicolor",
+    "objectsandtools"
+  ],
+  "battery.75": [
+    "multicolor",
+    "objectsandtools"
+  ],
+  "beats.earphones": [
+    "devices"
+  ],
+  "beats.fit.pro": [
+    "devices"
+  ],
+  "beats.fit.pro.chargingcase": [
+    "devices"
+  ],
+  "beats.fit.pro.chargingcase.fill": [
+    "devices"
+  ],
+  "beats.fit.pro.left": [
+    "devices"
+  ],
+  "beats.fit.pro.right": [
+    "devices"
+  ],
+  "beats.headphones": [
+    "devices",
+    "objectsandtools"
+  ],
+  "beats.powerbeats": [
+    "devices"
+  ],
+  "beats.powerbeats3": [
+    "devices"
+  ],
+  "beats.powerbeatspro": [
+    "devices"
+  ],
+  "beats.powerbeatspro.chargingcase": [
+    "devices"
+  ],
+  "beats.powerbeatspro.chargingcase.fill": [
+    "devices"
+  ],
+  "beats.powerbeatspro.left": [
+    "devices"
+  ],
+  "beats.powerbeatspro.right": [
+    "devices"
+  ],
+  "beats.studiobud.left": [
+    "devices"
+  ],
+  "beats.studiobud.right": [
+    "devices"
+  ],
+  "beats.studiobuds": [
+    "devices"
+  ],
+  "beats.studiobuds.chargingcase": [
+    "devices"
+  ],
+  "beats.studiobuds.chargingcase.fill": [
+    "devices"
+  ],
+  "bed.double": [
+    "health",
+    "multicolor",
+    "objectsandtools"
+  ],
+  "bed.double.circle": [
+    "health",
+    "multicolor",
+    "objectsandtools"
+  ],
+  "bed.double.circle.fill": [
+    "health",
+    "multicolor",
+    "objectsandtools"
+  ],
+  "bed.double.fill": [
+    "health",
+    "multicolor",
+    "objectsandtools"
+  ],
+  "bell": [
+    "multicolor",
+    "objectsandtools"
+  ],
+  "bell.and.waveform": [
+    "objectsandtools"
+  ],
+  "bell.and.waveform.fill": [
+    "objectsandtools"
+  ],
+  "bell.badge": [
+    "multicolor",
+    "objectsandtools"
+  ],
+  "bell.badge.circle": [
+    "multicolor",
+    "objectsandtools"
+  ],
+  "bell.badge.circle.fill": [
+    "multicolor",
+    "objectsandtools"
+  ],
+  "bell.badge.fill": [
+    "multicolor",
+    "objectsandtools"
+  ],
+  "bell.circle": [
+    "multicolor",
+    "objectsandtools"
+  ],
+  "bell.circle.fill": [
+    "multicolor",
+    "objectsandtools"
+  ],
+  "bell.fill": [
+    "multicolor",
+    "objectsandtools"
+  ],
+  "bell.slash": [
+    "objectsandtools"
+  ],
+  "bell.slash.circle": [
+    "objectsandtools"
+  ],
+  "bell.slash.circle.fill": [
+    "multicolor",
+    "objectsandtools"
+  ],
+  "bell.slash.fill": [
+    "objectsandtools"
+  ],
+  "bell.square": [
+    "multicolor",
+    "objectsandtools"
+  ],
+  "bell.square.fill": [
+    "multicolor",
+    "objectsandtools"
+  ],
+  "bicycle": [
+    "transportation"
+  ],
+  "bicycle.circle": [
+    "transportation"
+  ],
+  "bicycle.circle.fill": [
+    "multicolor",
+    "transportation"
+  ],
+  "binoculars": [
+    "objectsandtools"
+  ],
+  "binoculars.fill": [
+    "objectsandtools"
+  ],
+  "bitcoinsign.circle": [
+    "commerce",
+    "indices"
+  ],
+  "bitcoinsign.circle.fill": [
+    "commerce",
+    "indices",
+    "multicolor"
+  ],
+  "bitcoinsign.square": [
+    "commerce",
+    "indices"
+  ],
+  "bitcoinsign.square.fill": [
+    "commerce",
+    "indices",
+    "multicolor"
+  ],
+  "bold": [
+    "multicolor",
+    "textformatting"
+  ],
+  "bold.italic.underline": [
+    "multicolor",
+    "textformatting"
+  ],
+  "bold.underline": [
+    "multicolor",
+    "textformatting"
+  ],
+  "bolt": [
+    "nature"
+  ],
+  "bolt.batteryblock": [
+    "objectsandtools"
+  ],
+  "bolt.batteryblock.fill": [
+    "objectsandtools"
+  ],
+  "bolt.car": [
+    "multicolor",
+    "transportation"
+  ],
+  "bolt.car.circle": [
+    "multicolor",
+    "transportation"
+  ],
+  "bolt.car.circle.fill": [
+    "multicolor",
+    "transportation"
+  ],
+  "bolt.car.fill": [
+    "multicolor",
+    "transportation"
+  ],
+  "bolt.circle": [
+    "multicolor",
+    "nature"
+  ],
+  "bolt.circle.fill": [
+    "multicolor",
+    "nature"
+  ],
+  "bolt.fill": [
+    "multicolor",
+    "nature"
+  ],
+  "bolt.heart": [
+    "health"
+  ],
+  "bolt.heart.fill": [
+    "health"
+  ],
+  "bolt.horizontal": [
+    "connectivity"
+  ],
+  "bolt.horizontal.circle": [
+    "connectivity"
+  ],
+  "bolt.horizontal.circle.fill": [
+    "connectivity",
+    "multicolor"
+  ],
+  "bolt.horizontal.fill": [
+    "connectivity"
+  ],
+  "bolt.horizontal.icloud": [
+    "connectivity"
+  ],
+  "bolt.horizontal.icloud.fill": [
+    "connectivity"
+  ],
+  "bolt.shield": [
+    "objectsandtools"
+  ],
+  "bolt.shield.fill": [
+    "objectsandtools"
+  ],
+  "bolt.slash": [
+    "nature"
+  ],
+  "bolt.slash.circle": [
+    "nature"
+  ],
+  "bolt.slash.circle.fill": [
+    "multicolor",
+    "nature"
+  ],
+  "bolt.slash.fill": [
+    "nature"
+  ],
+  "bolt.square": [
+    "multicolor",
+    "nature"
+  ],
+  "bolt.square.fill": [
+    "multicolor",
+    "nature"
+  ],
+  "bonjour": [
+    "connectivity",
+    "multicolor"
+  ],
+  "book": [
+    "objectsandtools"
+  ],
+  "book.circle": [
+    "objectsandtools"
+  ],
+  "book.circle.fill": [
+    "multicolor",
+    "objectsandtools"
+  ],
+  "book.closed": [
+    "objectsandtools"
+  ],
+  "book.closed.circle": [
+    "objectsandtools"
+  ],
+  "book.closed.circle.fill": [
+    "objectsandtools"
+  ],
+  "book.closed.fill": [
+    "objectsandtools"
+  ],
+  "book.fill": [
+    "objectsandtools"
+  ],
+  "bookmark": [
+    "multicolor",
+    "objectsandtools"
+  ],
+  "bookmark.circle": [
+    "multicolor",
+    "objectsandtools"
+  ],
+  "bookmark.circle.fill": [
+    "multicolor",
+    "objectsandtools"
+  ],
+  "bookmark.fill": [
+    "multicolor",
+    "objectsandtools"
+  ],
+  "bookmark.slash": [
+    "multicolor",
+    "objectsandtools"
+  ],
+  "bookmark.slash.fill": [
+    "multicolor",
+    "objectsandtools"
+  ],
+  "bookmark.square": [
+    "multicolor",
+    "objectsandtools"
+  ],
+  "bookmark.square.fill": [
+    "multicolor",
+    "objectsandtools"
+  ],
+  "books.vertical": [
+    "objectsandtools"
+  ],
+  "books.vertical.circle": [
+    "objectsandtools"
+  ],
+  "books.vertical.circle.fill": [
+    "objectsandtools"
+  ],
+  "books.vertical.fill": [
+    "objectsandtools"
+  ],
+  "brain": [
+    "health",
+    "human"
+  ],
+  "brain.head.profile": [
+    "health",
+    "human"
+  ],
+  "brazilianrealsign.circle": [
+    "commerce",
+    "indices"
+  ],
+  "brazilianrealsign.circle.fill": [
+    "commerce",
+    "indices",
+    "multicolor"
+  ],
+  "brazilianrealsign.square": [
+    "commerce",
+    "indices"
+  ],
+  "brazilianrealsign.square.fill": [
+    "commerce",
+    "indices",
+    "multicolor"
+  ],
+  "briefcase": [
+    "multicolor",
+    "objectsandtools"
+  ],
+  "briefcase.circle": [
+    "multicolor",
+    "objectsandtools"
+  ],
+  "briefcase.circle.fill": [
+    "multicolor",
+    "objectsandtools"
+  ],
+  "briefcase.fill": [
+    "multicolor",
+    "objectsandtools"
+  ],
+  "bubble.left": [
+    "communication"
+  ],
+  "bubble.left.and.bubble.right": [
+    "communication"
+  ],
+  "bubble.left.and.bubble.right.fill": [
+    "communication"
+  ],
+  "bubble.left.and.exclamationmark.bubble.right": [
+    "communication"
+  ],
+  "bubble.left.and.exclamationmark.bubble.right.fill": [
+    "communication"
+  ],
+  "bubble.left.circle": [
+    "communication"
+  ],
+  "bubble.left.circle.fill": [
+    "communication"
+  ],
+  "bubble.left.fill": [
+    "communication"
+  ],
+  "bubble.middle.bottom": [
+    "communication"
+  ],
+  "bubble.middle.bottom.fill": [
+    "communication"
+  ],
+  "bubble.middle.top": [
+    "communication"
+  ],
+  "bubble.middle.top.fill": [
+    "communication"
+  ],
+  "bubble.right": [
+    "communication"
+  ],
+  "bubble.right.circle": [
+    "communication"
+  ],
+  "bubble.right.circle.fill": [
+    "communication"
+  ],
+  "bubble.right.fill": [
+    "communication"
+  ],
+  "building": [
+    "objectsandtools"
+  ],
+  "building.2": [
+    "objectsandtools"
+  ],
+  "building.2.crop.circle": [
+    "objectsandtools"
+  ],
+  "building.2.crop.circle.fill": [
+    "multicolor",
+    "objectsandtools"
+  ],
+  "building.2.fill": [
+    "objectsandtools"
+  ],
+  "building.fill": [
+    "objectsandtools"
+  ],
+  "bus": [
+    "transportation"
+  ],
+  "bus.doubledecker": [
+    "transportation"
+  ],
+  "bus.doubledecker.fill": [
+    "transportation"
+  ],
+  "bus.fill": [
+    "transportation"
+  ],
+  "c.circle": [
+    "indices"
+  ],
+  "c.circle.fill": [
+    "indices",
+    "multicolor"
+  ],
+  "c.square": [
+    "indices"
+  ],
+  "c.square.fill": [
+    "indices",
+    "multicolor"
+  ],
+  "cable.connector": [
+    "devices"
+  ],
+  "cable.connector.horizontal": [
+    "devices"
+  ],
+  "cablecar": [
+    "transportation"
+  ],
+  "cablecar.fill": [
+    "transportation"
+  ],
+  "calendar": [
+    "multicolor",
+    "objectsandtools"
+  ],
+  "calendar.badge.clock": [
+    "multicolor",
+    "objectsandtools"
+  ],
+  "calendar.badge.clock.rtl": [
+    "multicolor",
+    "objectsandtools"
+  ],
+  "calendar.badge.exclamationmark": [
+    "multicolor",
+    "objectsandtools"
+  ],
+  "calendar.badge.minus": [
+    "multicolor",
+    "objectsandtools"
+  ],
+  "calendar.badge.plus": [
+    "multicolor",
+    "objectsandtools"
+  ],
+  "calendar.circle": [
+    "multicolor",
+    "objectsandtools"
+  ],
+  "calendar.circle.fill": [
+    "multicolor",
+    "objectsandtools"
+  ],
+  "calendar.day.timeline.leading": [
+    "multicolor"
+  ],
+  "calendar.day.timeline.left": [
+    "multicolor"
+  ],
+  "calendar.day.timeline.right": [
+    "multicolor"
+  ],
+  "calendar.day.timeline.trailing": [
+    "multicolor"
+  ],
+  "camera": [
+    "objectsandtools"
+  ],
+  "camera.badge.ellipsis": [
+    "objectsandtools"
+  ],
+  "camera.circle": [
+    "objectsandtools"
+  ],
+  "camera.circle.fill": [
+    "multicolor",
+    "objectsandtools"
+  ],
+  "camera.fill": [
+    "objectsandtools"
+  ],
+  "camera.fill.badge.ellipsis": [
+    "objectsandtools"
+  ],
+  "camera.filters": [
+    "editing",
+    "objectsandtools"
+  ],
+  "camera.macro": [
+    "whatsnew"
+  ],
+  "camera.macro.circle": [
+    "whatsnew"
+  ],
+  "camera.macro.circle.fill": [
+    "whatsnew"
+  ],
+  "camera.on.rectangle": [
+    "objectsandtools"
+  ],
+  "camera.on.rectangle.fill": [
+    "objectsandtools"
+  ],
+  "camera.shutter.button": [
+    "objectsandtools"
+  ],
+  "camera.shutter.button.fill": [
+    "objectsandtools"
+  ],
+  "camera.viewfinder": [
+    "objectsandtools"
+  ],
+  "candybarphone": [
+    "devices"
+  ],
+  "capslock": [
+    "keyboard"
+  ],
+  "capslock.fill": [
+    "keyboard"
+  ],
+  "capsule": [
+    "shapes"
+  ],
+  "capsule.fill": [
+    "shapes"
+  ],
+  "capsule.portrait": [
+    "shapes"
+  ],
+  "capsule.portrait.fill": [
+    "shapes"
+  ],
+  "captions.bubble": [
+    "communication"
+  ],
+  "captions.bubble.fill": [
+    "communication"
+  ],
+  "car": [
+    "transportation"
+  ],
+  "car.2": [
+    "transportation"
+  ],
+  "car.2.fill": [
+    "transportation"
+  ],
+  "car.circle": [
+    "multicolor",
+    "transportation"
+  ],
+  "car.circle.fill": [
+    "multicolor",
+    "transportation"
+  ],
+  "car.ferry": [
+    "transportation"
+  ],
+  "car.ferry.fill": [
+    "transportation"
+  ],
+  "car.fill": [
+    "multicolor",
+    "transportation"
+  ],
+  "cart": [
+    "commerce"
+  ],
+  "cart.badge.minus": [
+    "commerce",
+    "multicolor"
+  ],
+  "cart.badge.plus": [
+    "commerce",
+    "multicolor"
+  ],
+  "cart.circle": [
+    "commerce"
+  ],
+  "cart.circle.fill": [
+    "commerce",
+    "multicolor"
+  ],
+  "cart.fill": [
+    "commerce"
+  ],
+  "cart.fill.badge.minus": [
+    "commerce",
+    "multicolor"
+  ],
+  "cart.fill.badge.plus": [
+    "commerce",
+    "multicolor"
+  ],
+  "case": [
+    "objectsandtools"
+  ],
+  "case.fill": [
+    "objectsandtools"
+  ],
+  "cedisign.circle": [
+    "commerce",
+    "indices"
+  ],
+  "cedisign.circle.fill": [
+    "commerce",
+    "indices",
+    "multicolor"
+  ],
+  "cedisign.square": [
+    "commerce",
+    "indices"
+  ],
+  "cedisign.square.fill": [
+    "commerce",
+    "indices",
+    "multicolor"
+  ],
+  "centsign.circle": [
+    "commerce",
+    "indices"
+  ],
+  "centsign.circle.fill": [
+    "commerce",
+    "indices",
+    "multicolor"
+  ],
+  "centsign.square": [
+    "commerce",
+    "indices"
+  ],
+  "centsign.square.fill": [
+    "commerce",
+    "indices",
+    "multicolor"
+  ],
+  "character": [
+    "textformatting"
+  ],
+  "character.ar": [
+    "textformatting"
+  ],
+  "character.book.closed": [
+    "objectsandtools"
+  ],
+  "character.book.closed.ar": [
+    "objectsandtools"
+  ],
+  "character.book.closed.fill": [
+    "objectsandtools"
+  ],
+  "character.book.closed.fill.ar": [
+    "objectsandtools"
+  ],
+  "character.book.closed.fill.he": [
+    "objectsandtools"
+  ],
+  "character.book.closed.fill.hi": [
+    "objectsandtools"
+  ],
+  "character.book.closed.fill.ja": [
+    "objectsandtools"
+  ],
+  "character.book.closed.fill.ko": [
+    "objectsandtools"
+  ],
+  "character.book.closed.fill.th": [
+    "objectsandtools"
+  ],
+  "character.book.closed.fill.zh": [
+    "objectsandtools"
+  ],
+  "character.book.closed.he": [
+    "objectsandtools"
+  ],
+  "character.book.closed.hi": [
+    "objectsandtools"
+  ],
+  "character.book.closed.ja": [
+    "objectsandtools"
+  ],
+  "character.book.closed.ko": [
+    "objectsandtools"
+  ],
+  "character.book.closed.th": [
+    "objectsandtools"
+  ],
+  "character.book.closed.zh": [
+    "objectsandtools"
+  ],
+  "character.bubble": [
+    "communication"
+  ],
+  "character.bubble.ar": [
+    "communication"
+  ],
+  "character.bubble.fill": [
+    "communication"
+  ],
+  "character.bubble.fill.ar": [
+    "communication"
+  ],
+  "character.bubble.fill.he": [
+    "communication"
+  ],
+  "character.bubble.fill.hi": [
+    "communication"
+  ],
+  "character.bubble.fill.ja": [
+    "communication"
+  ],
+  "character.bubble.fill.ko": [
+    "communication"
+  ],
+  "character.bubble.fill.th": [
+    "communication"
+  ],
+  "character.bubble.fill.zh": [
+    "communication"
+  ],
+  "character.bubble.he": [
+    "communication"
+  ],
+  "character.bubble.hi": [
+    "communication"
+  ],
+  "character.bubble.ja": [
+    "communication"
+  ],
+  "character.bubble.ko": [
+    "communication"
+  ],
+  "character.bubble.th": [
+    "communication"
+  ],
+  "character.bubble.zh": [
+    "communication"
+  ],
+  "character.cursor.ibeam": [
+    "textformatting"
+  ],
+  "character.cursor.ibeam.ar": [
+    "textformatting"
+  ],
+  "character.cursor.ibeam.he": [
+    "textformatting"
+  ],
+  "character.cursor.ibeam.hi": [
+    "textformatting"
+  ],
+  "character.cursor.ibeam.ja": [
+    "textformatting"
+  ],
+  "character.cursor.ibeam.ko": [
+    "textformatting"
+  ],
+  "character.cursor.ibeam.th": [
+    "textformatting"
+  ],
+  "character.cursor.ibeam.zh": [
+    "textformatting"
+  ],
+  "character.he": [
+    "textformatting"
+  ],
+  "character.hi": [
+    "textformatting"
+  ],
+  "character.ja": [
+    "textformatting"
+  ],
+  "character.ko": [
+    "textformatting"
+  ],
+  "character.textbox": [
+    "textformatting"
+  ],
+  "character.textbox.ar": [
+    "textformatting"
+  ],
+  "character.textbox.he": [
+    "textformatting"
+  ],
+  "character.textbox.hi": [
+    "textformatting"
+  ],
+  "character.textbox.ja": [
+    "textformatting"
+  ],
+  "character.textbox.ko": [
+    "textformatting"
+  ],
+  "character.textbox.th": [
+    "textformatting"
+  ],
+  "character.textbox.zh": [
+    "textformatting"
+  ],
+  "character.th": [
+    "textformatting"
+  ],
+  "character.zh": [
+    "textformatting"
+  ],
+  "chart.xyaxis.line": [
+    "objectsandtools"
+  ],
+  "checkerboard.shield": [
+    "objectsandtools"
+  ],
+  "checkmark": [
+    "multicolor"
+  ],
+  "checkmark.bubble": [
+    "communication"
+  ],
+  "checkmark.bubble.fill": [
+    "communication"
+  ],
+  "checkmark.circle": [
+    "multicolor"
+  ],
+  "checkmark.circle.fill": [
+    "multicolor"
+  ],
+  "checkmark.circle.trianglebadge.exclamationmark": [
+    "multicolor"
+  ],
+  "checkmark.icloud": [
+    "connectivity"
+  ],
+  "checkmark.icloud.fill": [
+    "connectivity"
+  ],
+  "checkmark.shield": [
+    "objectsandtools"
+  ],
+  "checkmark.shield.fill": [
+    "objectsandtools"
+  ],
+  "checkmark.square": [
+    "multicolor"
+  ],
+  "checkmark.square.fill": [
+    "multicolor"
+  ],
+  "chevron.backward": [
+    "arrows"
+  ],
+  "chevron.backward.2": [
+    "arrows"
+  ],
+  "chevron.backward.circle": [
+    "arrows"
+  ],
+  "chevron.backward.circle.fill": [
+    "arrows",
+    "multicolor"
+  ],
+  "chevron.backward.square": [
+    "arrows"
+  ],
+  "chevron.backward.square.fill": [
+    "arrows"
+  ],
+  "chevron.compact.down": [
+    "arrows"
+  ],
+  "chevron.compact.left": [
+    "arrows"
+  ],
+  "chevron.compact.right": [
+    "arrows"
+  ],
+  "chevron.compact.up": [
+    "arrows"
+  ],
+  "chevron.down": [
+    "arrows"
+  ],
+  "chevron.down.circle": [
+    "arrows"
+  ],
+  "chevron.down.circle.fill": [
+    "arrows",
+    "multicolor"
+  ],
+  "chevron.down.square": [
+    "arrows"
+  ],
+  "chevron.down.square.fill": [
+    "arrows"
+  ],
+  "chevron.forward": [
+    "arrows"
+  ],
+  "chevron.forward.2": [
+    "arrows"
+  ],
+  "chevron.forward.circle": [
+    "arrows"
+  ],
+  "chevron.forward.circle.fill": [
+    "arrows",
+    "multicolor"
+  ],
+  "chevron.forward.square": [
+    "arrows"
+  ],
+  "chevron.forward.square.fill": [
+    "arrows"
+  ],
+  "chevron.left": [
+    "arrows"
+  ],
+  "chevron.left.2": [
+    "arrows"
+  ],
+  "chevron.left.circle": [
+    "arrows"
+  ],
+  "chevron.left.circle.fill": [
+    "arrows",
+    "multicolor"
+  ],
+  "chevron.left.square": [
+    "arrows"
+  ],
+  "chevron.left.square.fill": [
+    "arrows"
+  ],
+  "chevron.right": [
+    "arrows"
+  ],
+  "chevron.right.2": [
+    "arrows"
+  ],
+  "chevron.right.circle": [
+    "arrows"
+  ],
+  "chevron.right.circle.fill": [
+    "arrows",
+    "multicolor"
+  ],
+  "chevron.right.square": [
+    "arrows"
+  ],
+  "chevron.right.square.fill": [
+    "arrows"
+  ],
+  "chevron.up": [
+    "arrows"
+  ],
+  "chevron.up.chevron.down": [
+    "arrows"
+  ],
+  "chevron.up.circle": [
+    "arrows"
+  ],
+  "chevron.up.circle.fill": [
+    "arrows",
+    "multicolor"
+  ],
+  "chevron.up.square": [
+    "arrows"
+  ],
+  "chevron.up.square.fill": [
+    "arrows"
+  ],
+  "circle": [
+    "shapes"
+  ],
+  "circle.and.line.horizontal": [
+    "editing"
+  ],
+  "circle.and.line.horizontal.fill": [
+    "editing"
+  ],
+  "circle.circle": [
+    "gaming"
+  ],
+  "circle.circle.fill": [
+    "gaming",
+    "multicolor"
+  ],
+  "circle.dashed": [
+    "editing"
+  ],
+  "circle.dashed.inset.filled": [
+    "editing"
+  ],
+  "circle.fill": [
+    "shapes"
+  ],
+  "circle.grid.3x3.circle.fill": [
+    "multicolor"
+  ],
+  "circle.grid.cross": [
+    "gaming"
+  ],
+  "circle.grid.cross.down.filled": [
+    "gaming"
+  ],
+  "circle.grid.cross.fill": [
+    "gaming"
+  ],
+  "circle.grid.cross.left.filled": [
+    "gaming"
+  ],
+  "circle.grid.cross.right.filled": [
+    "gaming"
+  ],
+  "circle.grid.cross.up.filled": [
+    "gaming"
+  ],
+  "circle.hexagongrid.circle.fill": [
+    "multicolor"
+  ],
+  "circle.hexagongrid.fill": [
+    "multicolor"
+  ],
+  "circle.lefthalf.filled": [
+    "editing"
+  ],
+  "circle.righthalf.filled": [
+    "editing"
+  ],
+  "circle.square": [
+    "gaming"
+  ],
+  "circle.square.fill": [
+    "gaming"
+  ],
+  "circlebadge.fill": [
+    "multicolor"
+  ],
+  "clear": [
+    "keyboard",
+    "multicolor"
+  ],
+  "clear.fill": [
+    "keyboard",
+    "multicolor"
+  ],
+  "clock": [
+    "multicolor",
+    "objectsandtools",
+    "time"
+  ],
+  "clock.arrow.2.circlepath": [
+    "time"
+  ],
+  "clock.arrow.circlepath": [
+    "time"
+  ],
+  "clock.badge.checkmark": [
+    "multicolor",
+    "objectsandtools",
+    "time"
+  ],
+  "clock.badge.checkmark.fill": [
+    "multicolor",
+    "objectsandtools",
+    "time"
+  ],
+  "clock.badge.exclamationmark": [
+    "multicolor",
+    "objectsandtools",
+    "time"
+  ],
+  "clock.badge.exclamationmark.fill": [
+    "multicolor",
+    "objectsandtools",
+    "time"
+  ],
+  "clock.circle": [
+    "objectsandtools",
+    "time"
+  ],
+  "clock.circle.fill": [
+    "objectsandtools",
+    "time"
+  ],
+  "clock.fill": [
+    "objectsandtools",
+    "time"
+  ],
+  "cloud": [
+    "weather"
+  ],
+  "cloud.bolt": [
+    "weather"
+  ],
+  "cloud.bolt.fill": [
+    "multicolor",
+    "weather"
+  ],
+  "cloud.bolt.rain": [
+    "weather"
+  ],
+  "cloud.bolt.rain.fill": [
+    "multicolor",
+    "weather"
+  ],
+  "cloud.drizzle": [
+    "weather"
+  ],
+  "cloud.drizzle.fill": [
+    "multicolor",
+    "weather"
+  ],
+  "cloud.fill": [
+    "multicolor",
+    "weather"
+  ],
+  "cloud.fog": [
+    "weather"
+  ],
+  "cloud.fog.fill": [
+    "multicolor",
+    "weather"
+  ],
+  "cloud.hail": [
+    "weather"
+  ],
+  "cloud.hail.fill": [
+    "multicolor",
+    "weather"
+  ],
+  "cloud.heavyrain": [
+    "weather"
+  ],
+  "cloud.heavyrain.fill": [
+    "multicolor",
+    "weather"
+  ],
+  "cloud.moon": [
+    "weather"
+  ],
+  "cloud.moon.bolt": [
+    "weather"
+  ],
+  "cloud.moon.bolt.fill": [
+    "multicolor",
+    "weather"
+  ],
+  "cloud.moon.fill": [
+    "multicolor",
+    "weather"
+  ],
+  "cloud.moon.rain": [
+    "weather"
+  ],
+  "cloud.moon.rain.fill": [
+    "multicolor",
+    "weather"
+  ],
+  "cloud.rain": [
+    "weather"
+  ],
+  "cloud.rain.fill": [
+    "multicolor",
+    "weather"
+  ],
+  "cloud.sleet": [
+    "weather"
+  ],
+  "cloud.sleet.fill": [
+    "multicolor",
+    "weather"
+  ],
+  "cloud.snow": [
+    "weather"
+  ],
+  "cloud.snow.fill": [
+    "multicolor",
+    "weather"
+  ],
+  "cloud.sun": [
+    "weather"
+  ],
+  "cloud.sun.bolt": [
+    "weather"
+  ],
+  "cloud.sun.bolt.fill": [
+    "multicolor",
+    "weather"
+  ],
+  "cloud.sun.fill": [
+    "multicolor",
+    "weather"
+  ],
+  "cloud.sun.rain": [
+    "weather"
+  ],
+  "cloud.sun.rain.fill": [
+    "multicolor",
+    "weather"
+  ],
+  "coloncurrencysign.circle": [
+    "commerce",
+    "indices"
+  ],
+  "coloncurrencysign.circle.fill": [
+    "commerce",
+    "indices",
+    "multicolor"
+  ],
+  "coloncurrencysign.square": [
+    "commerce",
+    "indices"
+  ],
+  "coloncurrencysign.square.fill": [
+    "commerce",
+    "indices",
+    "multicolor"
+  ],
+  "comb": [
+    "objectsandtools"
+  ],
+  "comb.fill": [
+    "objectsandtools"
+  ],
+  "command": [
+    "keyboard"
+  ],
+  "command.circle": [
+    "keyboard"
+  ],
+  "command.circle.fill": [
+    "keyboard",
+    "multicolor"
+  ],
+  "command.square": [
+    "keyboard"
+  ],
+  "command.square.fill": [
+    "keyboard"
+  ],
+  "computermouse": [
+    "devices"
+  ],
+  "computermouse.fill": [
+    "devices"
+  ],
+  "control": [
+    "keyboard"
+  ],
+  "cpu": [
+    "objectsandtools"
+  ],
+  "cpu.fill": [
+    "objectsandtools"
+  ],
+  "creditcard": [
+    "commerce"
+  ],
+  "creditcard.and.123": [
+    "commerce"
+  ],
+  "creditcard.circle": [
+    "commerce"
+  ],
+  "creditcard.circle.fill": [
+    "commerce",
+    "multicolor"
+  ],
+  "creditcard.fill": [
+    "commerce"
+  ],
+  "creditcard.trianglebadge.exclamationmark": [
+    "commerce",
+    "multicolor"
+  ],
+  "crop": [
+    "editing",
+    "objectsandtools"
+  ],
+  "crop.rotate": [
+    "editing",
+    "objectsandtools"
+  ],
+  "cross": [
+    "health"
+  ],
+  "cross.case": [
+    "health",
+    "objectsandtools"
+  ],
+  "cross.case.fill": [
+    "health",
+    "objectsandtools"
+  ],
+  "cross.circle": [
+    "health"
+  ],
+  "cross.circle.fill": [
+    "health",
+    "multicolor"
+  ],
+  "cross.fill": [
+    "health"
+  ],
+  "cross.vial": [
+    "multicolor",
+    "objectsandtools"
+  ],
+  "cross.vial.fill": [
+    "objectsandtools"
+  ],
+  "crown": [
+    "objectsandtools"
+  ],
+  "crown.fill": [
+    "objectsandtools"
+  ],
+  "cruzeirosign.circle": [
+    "commerce",
+    "indices"
+  ],
+  "cruzeirosign.circle.fill": [
+    "commerce",
+    "indices",
+    "multicolor"
+  ],
+  "cruzeirosign.square": [
+    "commerce",
+    "indices"
+  ],
+  "cruzeirosign.square.fill": [
+    "commerce",
+    "indices",
+    "multicolor"
+  ],
+  "cube": [
+    "objectsandtools"
+  ],
+  "cube.fill": [
+    "objectsandtools"
+  ],
+  "cup.and.saucer": [
+    "objectsandtools"
+  ],
+  "cup.and.saucer.fill": [
+    "objectsandtools"
+  ],
+  "d.circle": [
+    "indices"
+  ],
+  "d.circle.fill": [
+    "indices",
+    "multicolor"
+  ],
+  "d.square": [
+    "indices"
+  ],
+  "d.square.fill": [
+    "indices",
+    "multicolor"
+  ],
+  "decrease.indent": [
+    "multicolor",
+    "textformatting"
+  ],
+  "decrease.quotelevel": [
+    "multicolor",
+    "textformatting"
+  ],
+  "delete.backward": [
+    "keyboard",
+    "multicolor"
+  ],
+  "delete.backward.fill": [
+    "keyboard",
+    "multicolor"
+  ],
+  "delete.forward": [
+    "keyboard",
+    "multicolor"
+  ],
+  "delete.forward.fill": [
+    "keyboard",
+    "multicolor"
+  ],
+  "delete.left": [
+    "keyboard",
+    "multicolor"
+  ],
+  "delete.left.fill": [
+    "keyboard",
+    "multicolor"
+  ],
+  "delete.right": [
+    "keyboard",
+    "multicolor"
+  ],
+  "delete.right.fill": [
+    "keyboard",
+    "multicolor"
+  ],
+  "deskclock": [
+    "objectsandtools",
+    "time"
+  ],
+  "deskclock.fill": [
+    "objectsandtools",
+    "time"
+  ],
+  "desktopcomputer": [
+    "devices"
+  ],
+  "desktopcomputer.and.arrow.down": [
+    "devices"
+  ],
+  "desktopcomputer.trianglebadge.exclamationmark": [
+    "devices",
+    "multicolor"
+  ],
+  "dial.max": [
+    "editing",
+    "objectsandtools"
+  ],
+  "dial.max.fill": [
+    "editing",
+    "objectsandtools"
+  ],
+  "dial.min": [
+    "editing",
+    "objectsandtools"
+  ],
+  "dial.min.fill": [
+    "editing",
+    "objectsandtools"
+  ],
+  "diamond": [
+    "shapes"
+  ],
+  "diamond.fill": [
+    "shapes"
+  ],
+  "dice": [
+    "objectsandtools"
+  ],
+  "dice.fill": [
+    "objectsandtools"
+  ],
+  "die.face.1": [
+    "objectsandtools"
+  ],
+  "die.face.1.fill": [
+    "objectsandtools"
+  ],
+  "die.face.2": [
+    "objectsandtools"
+  ],
+  "die.face.2.fill": [
+    "objectsandtools"
+  ],
+  "die.face.3": [
+    "objectsandtools"
+  ],
+  "die.face.3.fill": [
+    "objectsandtools"
+  ],
+  "die.face.4": [
+    "objectsandtools"
+  ],
+  "die.face.4.fill": [
+    "objectsandtools"
+  ],
+  "die.face.5": [
+    "objectsandtools"
+  ],
+  "die.face.5.fill": [
+    "objectsandtools"
+  ],
+  "die.face.6": [
+    "objectsandtools"
+  ],
+  "die.face.6.fill": [
+    "objectsandtools"
+  ],
+  "digitalcrown.arrow.clockwise": [
+    "devices"
+  ],
+  "digitalcrown.arrow.clockwise.fill": [
+    "devices"
+  ],
+  "digitalcrown.arrow.counterclockwise": [
+    "devices"
+  ],
+  "digitalcrown.arrow.counterclockwise.fill": [
+    "devices"
+  ],
+  "digitalcrown.horizontal.arrow.clockwise": [
+    "devices"
+  ],
+  "digitalcrown.horizontal.arrow.clockwise.fill": [
+    "devices"
+  ],
+  "digitalcrown.horizontal.arrow.counterclockwise": [
+    "devices"
+  ],
+  "digitalcrown.horizontal.arrow.counterclockwise.fill": [
+    "devices"
+  ],
+  "digitalcrown.horizontal.press": [
+    "devices"
+  ],
+  "digitalcrown.horizontal.press.fill": [
+    "devices"
+  ],
+  "digitalcrown.press": [
+    "devices"
+  ],
+  "digitalcrown.press.fill": [
+    "devices"
+  ],
+  "display": [
+    "devices"
+  ],
+  "display.2": [
+    "devices"
+  ],
+  "display.and.arrow.down": [
+    "devices"
+  ],
+  "display.trianglebadge.exclamationmark": [
+    "devices",
+    "multicolor"
+  ],
+  "divide": [
+    "math"
+  ],
+  "divide.circle": [
+    "math"
+  ],
+  "divide.circle.fill": [
+    "math",
+    "multicolor"
+  ],
+  "divide.square": [
+    "math"
+  ],
+  "divide.square.fill": [
+    "math"
+  ],
+  "doc": [
+    "objectsandtools"
+  ],
+  "doc.badge.ellipsis": [
+    "objectsandtools"
+  ],
+  "doc.badge.gearshape": [
+    "objectsandtools"
+  ],
+  "doc.badge.gearshape.fill": [
+    "objectsandtools"
+  ],
+  "doc.badge.plus": [
+    "multicolor",
+    "objectsandtools"
+  ],
+  "doc.circle": [
+    "objectsandtools"
+  ],
+  "doc.circle.fill": [
+    "multicolor",
+    "objectsandtools"
+  ],
+  "doc.fill": [
+    "objectsandtools"
+  ],
+  "doc.fill.badge.ellipsis": [
+    "objectsandtools"
+  ],
+  "doc.fill.badge.plus": [
+    "multicolor",
+    "objectsandtools"
+  ],
+  "doc.on.clipboard": [
+    "objectsandtools"
+  ],
+  "doc.on.clipboard.fill": [
+    "objectsandtools"
+  ],
+  "doc.on.doc": [
+    "objectsandtools"
+  ],
+  "doc.on.doc.fill": [
+    "objectsandtools"
+  ],
+  "doc.text": [
+    "objectsandtools"
+  ],
+  "doc.text.fill": [
+    "objectsandtools"
+  ],
+  "doc.text.magnifyingglass": [
+    "objectsandtools"
+  ],
+  "dollarsign.circle": [
+    "commerce",
+    "indices"
+  ],
+  "dollarsign.circle.fill": [
+    "commerce",
+    "indices",
+    "multicolor"
+  ],
+  "dollarsign.square": [
+    "commerce",
+    "indices"
+  ],
+  "dollarsign.square.fill": [
+    "commerce",
+    "indices",
+    "multicolor"
+  ],
+  "dongsign.circle": [
+    "commerce",
+    "indices"
+  ],
+  "dongsign.circle.fill": [
+    "commerce",
+    "indices",
+    "multicolor"
+  ],
+  "dongsign.square": [
+    "commerce",
+    "indices"
+  ],
+  "dongsign.square.fill": [
+    "commerce",
+    "indices",
+    "multicolor"
+  ],
+  "dot.radiowaves.forward": [
+    "connectivity"
+  ],
+  "dot.radiowaves.left.and.right": [
+    "connectivity"
+  ],
+  "dot.radiowaves.right": [
+    "connectivity"
+  ],
+  "dot.radiowaves.up.forward": [
+    "connectivity"
+  ],
+  "dots.and.line.vertical.and.cursorarrow.rectangle": [
+    "whatsnew"
+  ],
+  "dpad": [
+    "gaming"
+  ],
+  "dpad.down.filled": [
+    "gaming"
+  ],
+  "dpad.fill": [
+    "gaming"
+  ],
+  "dpad.left.filled": [
+    "gaming"
+  ],
+  "dpad.right.filled": [
+    "gaming"
+  ],
+  "dpad.up.filled": [
+    "gaming"
+  ],
+  "drop": [
+    "nature"
+  ],
+  "drop.circle": [
+    "nature"
+  ],
+  "drop.circle.fill": [
+    "nature"
+  ],
+  "drop.fill": [
+    "nature"
+  ],
+  "drop.triangle": [
+    "nature"
+  ],
+  "drop.triangle.fill": [
+    "multicolor",
+    "nature"
+  ],
+  "e.circle": [
+    "indices"
+  ],
+  "e.circle.fill": [
+    "indices",
+    "multicolor"
+  ],
+  "e.square": [
+    "indices"
+  ],
+  "e.square.fill": [
+    "indices",
+    "multicolor"
+  ],
+  "ear": [
+    "health",
+    "human",
+    "multicolor"
+  ],
+  "ear.and.waveform": [
+    "health",
+    "human"
+  ],
+  "ear.badge.checkmark": [
+    "health",
+    "human",
+    "multicolor"
+  ],
+  "ear.fill": [
+    "health",
+    "human",
+    "multicolor"
+  ],
+  "ear.trianglebadge.exclamationmark": [
+    "health",
+    "human",
+    "multicolor"
+  ],
+  "earbuds": [
+    "devices"
+  ],
+  "earbuds.case": [
+    "devices"
+  ],
+  "earbuds.case.fill": [
+    "devices"
+  ],
+  "earpods": [
+    "devices"
+  ],
+  "eject": [
+    "keyboard"
+  ],
+  "eject.circle": [
+    "keyboard"
+  ],
+  "eject.circle.fill": [
+    "keyboard",
+    "multicolor"
+  ],
+  "eject.fill": [
+    "keyboard"
+  ],
+  "ellipsis.bubble": [
+    "communication"
+  ],
+  "ellipsis.bubble.fill": [
+    "communication"
+  ],
+  "ellipsis.circle.fill": [
+    "multicolor"
+  ],
+  "ellipsis.vertical.bubble": [
+    "communication"
+  ],
+  "ellipsis.vertical.bubble.fill": [
+    "communication"
+  ],
+  "envelope": [
+    "communication"
+  ],
+  "envelope.arrow.triangle.branch": [
+    "communication"
+  ],
+  "envelope.arrow.triangle.branch.fill": [
+    "communication"
+  ],
+  "envelope.badge": [
+    "communication"
+  ],
+  "envelope.badge.fill": [
+    "communication"
+  ],
+  "envelope.circle": [
+    "communication"
+  ],
+  "envelope.circle.fill": [
+    "communication",
+    "multicolor"
+  ],
+  "envelope.fill": [
+    "communication"
+  ],
+  "envelope.open": [
+    "communication"
+  ],
+  "envelope.open.fill": [
+    "communication"
+  ],
+  "equal": [
+    "math"
+  ],
+  "equal.circle": [
+    "math"
+  ],
+  "equal.circle.fill": [
+    "math",
+    "multicolor"
+  ],
+  "equal.square": [
+    "math"
+  ],
+  "equal.square.fill": [
+    "math"
+  ],
+  "escape": [
+    "keyboard"
+  ],
+  "esim": [
+    "objectsandtools"
+  ],
+  "esim.fill": [
+    "objectsandtools"
+  ],
+  "eurosign.circle": [
+    "commerce",
+    "indices"
+  ],
+  "eurosign.circle.fill": [
+    "commerce",
+    "indices",
+    "multicolor"
+  ],
+  "eurosign.square": [
+    "commerce",
+    "indices"
+  ],
+  "eurosign.square.fill": [
+    "commerce",
+    "indices",
+    "multicolor"
+  ],
+  "exclamationmark": [
+    "multicolor"
+  ],
+  "exclamationmark.2": [
+    "multicolor"
+  ],
+  "exclamationmark.3": [
+    "multicolor"
+  ],
+  "exclamationmark.applewatch": [
+    "devices"
+  ],
+  "exclamationmark.arrow.triangle.2.circlepath": [
+    "arrows"
+  ],
+  "exclamationmark.bubble": [
+    "communication"
+  ],
+  "exclamationmark.bubble.circle": [
+    "communication"
+  ],
+  "exclamationmark.bubble.circle.fill": [
+    "communication"
+  ],
+  "exclamationmark.bubble.fill": [
+    "communication"
+  ],
+  "exclamationmark.circle": [
+    "indices",
+    "multicolor"
+  ],
+  "exclamationmark.circle.fill": [
+    "indices",
+    "multicolor"
+  ],
+  "exclamationmark.icloud": [
+    "connectivity"
+  ],
+  "exclamationmark.icloud.fill": [
+    "connectivity"
+  ],
+  "exclamationmark.octagon": [
+    "multicolor"
+  ],
+  "exclamationmark.octagon.fill": [
+    "multicolor"
+  ],
+  "exclamationmark.shield": [
+    "objectsandtools"
+  ],
+  "exclamationmark.shield.fill": [
+    "objectsandtools"
+  ],
+  "exclamationmark.square": [
+    "indices",
+    "multicolor"
+  ],
+  "exclamationmark.square.fill": [
+    "indices",
+    "multicolor"
+  ],
+  "exclamationmark.triangle.fill": [
+    "multicolor"
+  ],
+  "externaldrive": [
+    "objectsandtools"
+  ],
+  "externaldrive.badge.checkmark": [
+    "multicolor",
+    "objectsandtools"
+  ],
+  "externaldrive.badge.icloud": [
+    "objectsandtools"
+  ],
+  "externaldrive.badge.minus": [
+    "multicolor",
+    "objectsandtools"
+  ],
+  "externaldrive.badge.person.crop": [
+    "human",
+    "objectsandtools"
+  ],
+  "externaldrive.badge.plus": [
+    "multicolor",
+    "objectsandtools"
+  ],
+  "externaldrive.badge.timemachine": [
+    "objectsandtools"
+  ],
+  "externaldrive.badge.wifi": [
+    "multicolor",
+    "objectsandtools"
+  ],
+  "externaldrive.badge.xmark": [
+    "multicolor",
+    "objectsandtools"
+  ],
+  "externaldrive.connected.to.line.below": [
+    "connectivity",
+    "objectsandtools"
+  ],
+  "externaldrive.connected.to.line.below.fill": [
+    "connectivity",
+    "objectsandtools"
+  ],
+  "externaldrive.fill": [
+    "objectsandtools"
+  ],
+  "externaldrive.fill.badge.checkmark": [
+    "multicolor",
+    "objectsandtools"
+  ],
+  "externaldrive.fill.badge.icloud": [
+    "objectsandtools"
+  ],
+  "externaldrive.fill.badge.minus": [
+    "multicolor",
+    "objectsandtools"
+  ],
+  "externaldrive.fill.badge.person.crop": [
+    "human",
+    "objectsandtools"
+  ],
+  "externaldrive.fill.badge.plus": [
+    "multicolor",
+    "objectsandtools"
+  ],
+  "externaldrive.fill.badge.timemachine": [
+    "objectsandtools"
+  ],
+  "externaldrive.fill.badge.wifi": [
+    "multicolor",
+    "objectsandtools"
+  ],
+  "externaldrive.fill.badge.xmark": [
+    "multicolor",
+    "objectsandtools"
+  ],
+  "eye": [
+    "health",
+    "human"
+  ],
+  "eye.circle": [
+    "health",
+    "human"
+  ],
+  "eye.circle.fill": [
+    "health",
+    "human",
+    "multicolor"
+  ],
+  "eye.fill": [
+    "health",
+    "human"
+  ],
+  "eye.slash": [
+    "editing",
+    "human"
+  ],
+  "eye.slash.circle": [
+    "human"
+  ],
+  "eye.slash.circle.fill": [
+    "human",
+    "multicolor"
+  ],
+  "eye.slash.fill": [
+    "editing",
+    "human"
+  ],
+  "eye.square": [
+    "health",
+    "human"
+  ],
+  "eye.square.fill": [
+    "health",
+    "human"
+  ],
+  "eye.trianglebadge.exclamationmark": [
+    "health",
+    "human",
+    "multicolor"
+  ],
+  "eye.trianglebadge.exclamationmark.fill": [
+    "health",
+    "human",
+    "multicolor"
+  ],
+  "eyebrow": [
+    "human"
+  ],
+  "eyedropper": [
+    "editing",
+    "objectsandtools"
+  ],
+  "eyedropper.full": [
+    "editing",
+    "objectsandtools"
+  ],
+  "eyedropper.halffull": [
+    "editing",
+    "objectsandtools"
+  ],
+  "eyeglasses": [
+    "objectsandtools"
+  ],
+  "eyes": [
+    "human"
+  ],
+  "eyes.inverse": [
+    "human"
+  ],
+  "f.circle": [
+    "indices"
+  ],
+  "f.circle.fill": [
+    "indices",
+    "multicolor"
+  ],
+  "f.cursive.circle.fill": [
+    "multicolor"
+  ],
+  "f.square": [
+    "indices"
+  ],
+  "f.square.fill": [
+    "indices",
+    "multicolor"
+  ],
+  "face.dashed": [
+    "human"
+  ],
+  "face.dashed.fill": [
+    "human"
+  ],
+  "face.smiling": [
+    "human"
+  ],
+  "face.smiling.fill": [
+    "human"
+  ],
+  "faceid": [
+    "multicolor"
+  ],
+  "facemask": [
+    "health",
+    "objectsandtools"
+  ],
+  "facemask.fill": [
+    "health",
+    "objectsandtools"
+  ],
+  "fanblades": [
+    "objectsandtools"
+  ],
+  "fanblades.fill": [
+    "objectsandtools"
+  ],
+  "faxmachine": [
+    "devices",
+    "objectsandtools"
+  ],
+  "ferry": [
+    "transportation"
+  ],
+  "ferry.fill": [
+    "transportation"
+  ],
+  "figure.roll": [
+    "human"
+  ],
+  "figure.stand": [
+    "human"
+  ],
+  "figure.stand.line.dotted.figure.stand": [
+    "human"
+  ],
+  "figure.walk": [
+    "human",
+    "transportation"
+  ],
+  "figure.walk.circle": [
+    "human",
+    "transportation"
+  ],
+  "figure.walk.circle.fill": [
+    "human",
+    "multicolor",
+    "transportation"
+  ],
+  "figure.walk.diamond": [
+    "human",
+    "transportation"
+  ],
+  "figure.walk.diamond.fill": [
+    "human",
+    "transportation"
+  ],
+  "figure.wave": [
+    "human",
+    "transportation"
+  ],
+  "figure.wave.circle": [
+    "human",
+    "transportation"
+  ],
+  "figure.wave.circle.fill": [
+    "human",
+    "multicolor",
+    "transportation"
+  ],
+  "filemenu.and.selection": [
+    "multicolor"
+  ],
+  "film": [
+    "objectsandtools"
+  ],
+  "film.circle": [
+    "objectsandtools"
+  ],
+  "film.circle.fill": [
+    "multicolor",
+    "objectsandtools"
+  ],
+  "film.fill": [
+    "objectsandtools"
+  ],
+  "flag": [
+    "multicolor",
+    "objectsandtools"
+  ],
+  "flag.2.crossed": [
+    "objectsandtools"
+  ],
+  "flag.2.crossed.fill": [
+    "objectsandtools"
+  ],
+  "flag.and.flag.filled.crossed": [
+    "objectsandtools"
+  ],
+  "flag.badge.ellipsis": [
+    "objectsandtools"
+  ],
+  "flag.badge.ellipsis.fill": [
+    "objectsandtools"
+  ],
+  "flag.circle": [
+    "multicolor",
+    "objectsandtools"
+  ],
+  "flag.circle.fill": [
+    "multicolor",
+    "objectsandtools"
+  ],
+  "flag.fill": [
+    "multicolor",
+    "objectsandtools"
+  ],
+  "flag.filled.and.flag.crossed": [
+    "objectsandtools"
+  ],
+  "flag.slash": [
+    "objectsandtools"
+  ],
+  "flag.slash.circle": [
+    "objectsandtools"
+  ],
+  "flag.slash.circle.fill": [
+    "multicolor",
+    "objectsandtools"
+  ],
+  "flag.slash.fill": [
+    "objectsandtools"
+  ],
+  "flag.square": [
+    "multicolor",
+    "objectsandtools"
+  ],
+  "flag.square.fill": [
+    "multicolor",
+    "objectsandtools"
+  ],
+  "flame": [
+    "nature"
+  ],
+  "flame.circle": [
+    "nature"
+  ],
+  "flame.circle.fill": [
+    "nature"
+  ],
+  "flame.fill": [
+    "nature"
+  ],
+  "flashlight.off.fill": [
+    "objectsandtools"
+  ],
+  "flashlight.on.fill": [
+    "objectsandtools"
+  ],
+  "flipphone": [
+    "devices"
+  ],
+  "florinsign.circle": [
+    "commerce",
+    "indices"
+  ],
+  "florinsign.circle.fill": [
+    "commerce",
+    "indices",
+    "multicolor"
+  ],
+  "florinsign.square": [
+    "commerce",
+    "indices"
+  ],
+  "florinsign.square.fill": [
+    "commerce",
+    "indices",
+    "multicolor"
+  ],
+  "folder": [
+    "multicolor",
+    "objectsandtools"
+  ],
+  "folder.badge.gearshape": [
+    "objectsandtools"
+  ],
+  "folder.badge.minus": [
+    "multicolor",
+    "objectsandtools"
+  ],
+  "folder.badge.person.crop": [
+    "human",
+    "objectsandtools"
+  ],
+  "folder.badge.plus": [
+    "multicolor",
+    "objectsandtools"
+  ],
+  "folder.badge.questionmark": [
+    "multicolor",
+    "objectsandtools"
+  ],
+  "folder.badge.questionmark.ar": [
+    "multicolor",
+    "objectsandtools"
+  ],
+  "folder.circle": [
+    "multicolor",
+    "objectsandtools"
+  ],
+  "folder.circle.fill": [
+    "multicolor",
+    "objectsandtools"
+  ],
+  "folder.fill": [
+    "multicolor",
+    "objectsandtools"
+  ],
+  "folder.fill.badge.gearshape": [
+    "objectsandtools"
+  ],
+  "folder.fill.badge.minus": [
+    "multicolor",
+    "objectsandtools"
+  ],
+  "folder.fill.badge.person.crop": [
+    "human",
+    "objectsandtools"
+  ],
+  "folder.fill.badge.plus": [
+    "multicolor",
+    "objectsandtools"
+  ],
+  "folder.fill.badge.questionmark": [
+    "multicolor",
+    "objectsandtools"
+  ],
+  "folder.fill.badge.questionmark.ar": [
+    "multicolor",
+    "objectsandtools"
+  ],
+  "fork.knife": [
+    "multicolor",
+    "objectsandtools"
+  ],
+  "fork.knife.circle": [
+    "multicolor",
+    "objectsandtools"
+  ],
+  "fork.knife.circle.fill": [
+    "multicolor",
+    "objectsandtools"
+  ],
+  "forward": [
+    "media"
+  ],
+  "forward.circle": [
+    "media"
+  ],
+  "forward.circle.fill": [
+    "media",
+    "multicolor"
+  ],
+  "forward.end": [
+    "media"
+  ],
+  "forward.end.alt": [
+    "media"
+  ],
+  "forward.end.alt.fill": [
+    "media"
+  ],
+  "forward.end.fill": [
+    "media"
+  ],
+  "forward.fill": [
+    "media"
+  ],
+  "forward.frame": [
+    "media"
+  ],
+  "forward.frame.fill": [
+    "media"
+  ],
+  "francsign.circle": [
+    "commerce",
+    "indices"
+  ],
+  "francsign.circle.fill": [
+    "commerce",
+    "indices",
+    "multicolor"
+  ],
+  "francsign.square": [
+    "commerce",
+    "indices"
+  ],
+  "francsign.square.fill": [
+    "commerce",
+    "indices",
+    "multicolor"
+  ],
+  "fuelpump": [
+    "objectsandtools",
+    "transportation"
+  ],
+  "fuelpump.circle": [
+    "objectsandtools",
+    "transportation"
+  ],
+  "fuelpump.circle.fill": [
+    "multicolor",
+    "objectsandtools",
+    "transportation"
+  ],
+  "fuelpump.fill": [
+    "objectsandtools",
+    "transportation"
+  ],
+  "function": [
+    "math"
+  ],
+  "g.circle": [
+    "indices"
+  ],
+  "g.circle.fill": [
+    "indices",
+    "multicolor"
+  ],
+  "g.square": [
+    "indices"
+  ],
+  "g.square.fill": [
+    "indices",
+    "multicolor"
+  ],
+  "gamecontroller": [
+    "devices",
+    "gaming",
+    "objectsandtools"
+  ],
+  "gamecontroller.fill": [
+    "devices",
+    "gaming",
+    "objectsandtools"
+  ],
+  "gauge": [
+    "objectsandtools"
+  ],
+  "gauge.badge.minus": [
+    "multicolor",
+    "objectsandtools"
+  ],
+  "gauge.badge.plus": [
+    "multicolor",
+    "objectsandtools"
+  ],
+  "gear": [
+    "multicolor",
+    "objectsandtools"
+  ],
+  "gear.badge.checkmark": [
+    "multicolor"
+  ],
+  "gear.badge.questionmark": [
+    "multicolor"
+  ],
+  "gear.badge.xmark": [
+    "multicolor"
+  ],
+  "gear.circle": [
+    "multicolor"
+  ],
+  "gear.circle.fill": [
+    "multicolor"
+  ],
+  "gearshape": [
+    "objectsandtools"
+  ],
+  "gearshape.2": [
+    "objectsandtools"
+  ],
+  "gearshape.2.fill": [
+    "objectsandtools"
+  ],
+  "gearshape.circle.fill": [
+    "multicolor"
+  ],
+  "gearshape.fill": [
+    "objectsandtools"
+  ],
+  "gift": [
+    "multicolor",
+    "objectsandtools"
+  ],
+  "gift.circle": [
+    "multicolor",
+    "objectsandtools"
+  ],
+  "gift.circle.fill": [
+    "multicolor",
+    "objectsandtools"
+  ],
+  "gift.fill": [
+    "multicolor",
+    "objectsandtools"
+  ],
+  "giftcard": [
+    "commerce"
+  ],
+  "giftcard.fill": [
+    "commerce"
+  ],
+  "globe": [
+    "keyboard"
+  ],
+  "globe.americas": [
+    "nature"
+  ],
+  "globe.americas.fill": [
+    "nature"
+  ],
+  "globe.asia.australia": [
+    "nature"
+  ],
+  "globe.asia.australia.fill": [
+    "nature"
+  ],
+  "globe.badge.chevron.backward": [
+    "keyboard"
+  ],
+  "globe.europe.africa": [
+    "nature"
+  ],
+  "globe.europe.africa.fill": [
+    "nature"
+  ],
+  "gobackward": [
+    "media"
+  ],
+  "gobackward.10": [
+    "media"
+  ],
+  "gobackward.10.ar": [
+    "media"
+  ],
+  "gobackward.10.hi": [
+    "media"
+  ],
+  "gobackward.15": [
+    "media"
+  ],
+  "gobackward.15.ar": [
+    "media"
+  ],
+  "gobackward.15.hi": [
+    "media"
+  ],
+  "gobackward.30": [
+    "media"
+  ],
+  "gobackward.30.ar": [
+    "media"
+  ],
+  "gobackward.30.hi": [
+    "media"
+  ],
+  "gobackward.45": [
+    "media"
+  ],
+  "gobackward.45.ar": [
+    "media"
+  ],
+  "gobackward.45.hi": [
+    "media"
+  ],
+  "gobackward.5": [
+    "media"
+  ],
+  "gobackward.5.ar": [
+    "media"
+  ],
+  "gobackward.5.hi": [
+    "media"
+  ],
+  "gobackward.60": [
+    "media"
+  ],
+  "gobackward.60.ar": [
+    "media"
+  ],
+  "gobackward.60.hi": [
+    "media"
+  ],
+  "gobackward.75": [
+    "media"
+  ],
+  "gobackward.75.ar": [
+    "media"
+  ],
+  "gobackward.75.hi": [
+    "media"
+  ],
+  "gobackward.90": [
+    "media"
+  ],
+  "gobackward.90.ar": [
+    "media"
+  ],
+  "gobackward.90.hi": [
+    "media"
+  ],
+  "gobackward.minus": [
+    "media"
+  ],
+  "goforward": [
+    "media"
+  ],
+  "goforward.10": [
+    "media"
+  ],
+  "goforward.10.ar": [
+    "media"
+  ],
+  "goforward.10.hi": [
+    "media"
+  ],
+  "goforward.15": [
+    "media"
+  ],
+  "goforward.15.ar": [
+    "media"
+  ],
+  "goforward.15.hi": [
+    "media"
+  ],
+  "goforward.30": [
+    "media"
+  ],
+  "goforward.30.ar": [
+    "media"
+  ],
+  "goforward.30.hi": [
+    "media"
+  ],
+  "goforward.45": [
+    "media"
+  ],
+  "goforward.45.ar": [
+    "media"
+  ],
+  "goforward.45.hi": [
+    "media"
+  ],
+  "goforward.5": [
+    "media"
+  ],
+  "goforward.5.ar": [
+    "media"
+  ],
+  "goforward.5.hi": [
+    "media"
+  ],
+  "goforward.60": [
+    "media"
+  ],
+  "goforward.60.ar": [
+    "media"
+  ],
+  "goforward.60.hi": [
+    "media"
+  ],
+  "goforward.75": [
+    "media"
+  ],
+  "goforward.75.ar": [
+    "media"
+  ],
+  "goforward.75.hi": [
+    "media"
+  ],
+  "goforward.90": [
+    "media"
+  ],
+  "goforward.90.ar": [
+    "media"
+  ],
+  "goforward.90.hi": [
+    "media"
+  ],
+  "goforward.plus": [
+    "media"
+  ],
+  "graduationcap": [
+    "objectsandtools"
+  ],
+  "graduationcap.circle": [
+    "objectsandtools"
+  ],
+  "graduationcap.circle.fill": [
+    "objectsandtools"
+  ],
+  "graduationcap.fill": [
+    "objectsandtools"
+  ],
+  "greaterthan": [
+    "math"
+  ],
+  "greaterthan.circle": [
+    "math"
+  ],
+  "greaterthan.circle.fill": [
+    "math",
+    "multicolor"
+  ],
+  "greaterthan.square": [
+    "math"
+  ],
+  "greaterthan.square.fill": [
+    "math"
+  ],
+  "greetingcard": [
+    "objectsandtools"
+  ],
+  "greetingcard.fill": [
+    "objectsandtools"
+  ],
+  "grid.circle.fill": [
+    "multicolor"
+  ],
+  "guaranisign.circle": [
+    "commerce",
+    "indices"
+  ],
+  "guaranisign.circle.fill": [
+    "commerce",
+    "indices",
+    "multicolor"
+  ],
+  "guaranisign.square": [
+    "commerce",
+    "indices"
+  ],
+  "guaranisign.square.fill": [
+    "commerce",
+    "indices",
+    "multicolor"
+  ],
+  "guitars": [
+    "objectsandtools"
+  ],
+  "guitars.fill": [
+    "objectsandtools"
+  ],
+  "gyroscope": [
+    "objectsandtools"
+  ],
+  "h.circle": [
+    "indices"
+  ],
+  "h.circle.fill": [
+    "indices",
+    "multicolor"
+  ],
+  "h.square": [
+    "indices"
+  ],
+  "h.square.fill": [
+    "indices",
+    "multicolor"
+  ],
+  "hammer": [
+    "objectsandtools"
+  ],
+  "hammer.circle": [
+    "objectsandtools"
+  ],
+  "hammer.circle.fill": [
+    "multicolor",
+    "objectsandtools"
+  ],
+  "hammer.fill": [
+    "objectsandtools"
+  ],
+  "hand.draw": [
+    "human"
+  ],
+  "hand.draw.fill": [
+    "human"
+  ],
+  "hand.point.down": [
+    "human"
+  ],
+  "hand.point.down.fill": [
+    "human"
+  ],
+  "hand.point.left": [
+    "human"
+  ],
+  "hand.point.left.fill": [
+    "human"
+  ],
+  "hand.point.right": [
+    "human"
+  ],
+  "hand.point.right.fill": [
+    "human"
+  ],
+  "hand.point.up": [
+    "human"
+  ],
+  "hand.point.up.braille": [
+    "human"
+  ],
+  "hand.point.up.braille.fill": [
+    "human"
+  ],
+  "hand.point.up.fill": [
+    "human"
+  ],
+  "hand.point.up.left": [
+    "human"
+  ],
+  "hand.point.up.left.fill": [
+    "human"
+  ],
+  "hand.raised": [
+    "human",
+    "multicolor"
+  ],
+  "hand.raised.circle": [
+    "human",
+    "multicolor"
+  ],
+  "hand.raised.circle.fill": [
+    "human",
+    "multicolor"
+  ],
+  "hand.raised.fill": [
+    "human",
+    "multicolor"
+  ],
+  "hand.raised.slash": [
+    "human"
+  ],
+  "hand.raised.slash.fill": [
+    "human"
+  ],
+  "hand.raised.square": [
+    "human",
+    "multicolor"
+  ],
+  "hand.raised.square.fill": [
+    "human",
+    "multicolor"
+  ],
+  "hand.tap": [
+    "human"
+  ],
+  "hand.tap.fill": [
+    "human"
+  ],
+  "hand.thumbsdown": [
+    "human"
+  ],
+  "hand.thumbsdown.circle": [
+    "human"
+  ],
+  "hand.thumbsdown.circle.fill": [
+    "human",
+    "multicolor"
+  ],
+  "hand.thumbsdown.fill": [
+    "human"
+  ],
+  "hand.thumbsup": [
+    "human"
+  ],
+  "hand.thumbsup.circle": [
+    "human"
+  ],
+  "hand.thumbsup.circle.fill": [
+    "human",
+    "multicolor"
+  ],
+  "hand.thumbsup.fill": [
+    "human"
+  ],
+  "hand.wave": [
+    "human"
+  ],
+  "hand.wave.fill": [
+    "human"
+  ],
+  "hands.clap": [
+    "human"
+  ],
+  "hands.clap.fill": [
+    "human"
+  ],
+  "hands.sparkles": [
+    "human"
+  ],
+  "hands.sparkles.fill": [
+    "human"
+  ],
+  "hare": [
+    "nature"
+  ],
+  "hare.fill": [
+    "nature"
+  ],
+  "headphones": [
+    "devices",
+    "objectsandtools"
+  ],
+  "headphones.circle": [
+    "devices",
+    "objectsandtools"
+  ],
+  "headphones.circle.fill": [
+    "devices",
+    "multicolor",
+    "objectsandtools"
+  ],
+  "hearingdevice.ear": [
+    "devices",
+    "human"
+  ],
+  "heart": [
+    "health",
+    "multicolor"
+  ],
+  "heart.circle": [
+    "health",
+    "multicolor"
+  ],
+  "heart.circle.fill": [
+    "health",
+    "multicolor"
+  ],
+  "heart.fill": [
+    "health",
+    "multicolor"
+  ],
+  "heart.rectangle": [
+    "multicolor"
+  ],
+  "heart.rectangle.fill": [
+    "multicolor"
+  ],
+  "heart.slash.circle.fill": [
+    "multicolor"
+  ],
+  "heart.square": [
+    "multicolor"
+  ],
+  "heart.square.fill": [
+    "multicolor"
+  ],
+  "heart.text.square": [
+    "health"
+  ],
+  "heart.text.square.fill": [
+    "health"
+  ],
+  "hexagon": [
+    "shapes"
+  ],
+  "hexagon.fill": [
+    "shapes"
+  ],
+  "hifispeaker": [
+    "devices"
+  ],
+  "hifispeaker.2": [
+    "devices"
+  ],
+  "hifispeaker.2.fill": [
+    "devices"
+  ],
+  "hifispeaker.and.appletv": [
+    "devices"
+  ],
+  "hifispeaker.and.appletv.fill": [
+    "devices"
+  ],
+  "hifispeaker.and.homepod": [
+    "devices"
+  ],
+  "hifispeaker.and.homepod.fill": [
+    "devices"
+  ],
+  "hifispeaker.and.homepodmini": [
+    "devices"
+  ],
+  "hifispeaker.and.homepodmini.fill": [
+    "devices"
+  ],
+  "hifispeaker.fill": [
+    "devices"
+  ],
+  "highlighter": [
+    "editing",
+    "objectsandtools"
+  ],
+  "homekit": [
+    "multicolor"
+  ],
+  "homepod": [
+    "devices"
+  ],
+  "homepod.2": [
+    "devices"
+  ],
+  "homepod.2.fill": [
+    "devices"
+  ],
+  "homepod.and.appletv": [
+    "devices"
+  ],
+  "homepod.and.appletv.fill": [
+    "devices"
+  ],
+  "homepod.and.homepodmini": [
+    "devices"
+  ],
+  "homepod.and.homepodmini.fill": [
+    "devices"
+  ],
+  "homepod.fill": [
+    "devices"
+  ],
+  "homepodmini": [
+    "devices"
+  ],
+  "homepodmini.2": [
+    "devices"
+  ],
+  "homepodmini.2.fill": [
+    "devices"
+  ],
+  "homepodmini.and.appletv": [
+    "devices"
+  ],
+  "homepodmini.and.appletv.fill": [
+    "devices"
+  ],
+  "homepodmini.fill": [
+    "devices"
+  ],
+  "hourglass": [
+    "multicolor",
+    "objectsandtools",
+    "time"
+  ],
+  "hourglass.badge.plus": [
+    "multicolor",
+    "objectsandtools",
+    "time"
+  ],
+  "hourglass.bottomhalf.filled": [
+    "multicolor",
+    "objectsandtools",
+    "time"
+  ],
+  "hourglass.circle": [
+    "multicolor",
+    "objectsandtools",
+    "time"
+  ],
+  "hourglass.circle.fill": [
+    "multicolor",
+    "objectsandtools",
+    "time"
+  ],
+  "hourglass.tophalf.filled": [
+    "multicolor",
+    "objectsandtools",
+    "time"
+  ],
+  "house": [
+    "gaming"
+  ],
+  "house.circle": [
+    "gaming",
+    "multicolor"
+  ],
+  "house.circle.fill": [
+    "gaming",
+    "multicolor"
+  ],
+  "house.fill": [
+    "gaming",
+    "multicolor"
+  ],
+  "hryvniasign.circle": [
+    "commerce",
+    "indices"
+  ],
+  "hryvniasign.circle.fill": [
+    "commerce",
+    "indices",
+    "multicolor"
+  ],
+  "hryvniasign.square": [
+    "commerce",
+    "indices"
+  ],
+  "hryvniasign.square.fill": [
+    "commerce",
+    "indices",
+    "multicolor"
+  ],
+  "humidity": [
+    "weather"
+  ],
+  "humidity.fill": [
+    "weather"
+  ],
+  "hurricane": [
+    "multicolor",
+    "weather"
+  ],
+  "i.circle": [
+    "indices"
+  ],
+  "i.circle.fill": [
+    "indices",
+    "multicolor"
+  ],
+  "i.square": [
+    "indices"
+  ],
+  "i.square.fill": [
+    "indices",
+    "multicolor"
+  ],
+  "icloud": [
+    "connectivity"
+  ],
+  "icloud.and.arrow.down": [
+    "connectivity"
+  ],
+  "icloud.and.arrow.down.fill": [
+    "connectivity"
+  ],
+  "icloud.and.arrow.up": [
+    "connectivity"
+  ],
+  "icloud.and.arrow.up.fill": [
+    "connectivity"
+  ],
+  "icloud.circle": [
+    "connectivity",
+    "multicolor"
+  ],
+  "icloud.circle.fill": [
+    "connectivity",
+    "multicolor"
+  ],
+  "icloud.fill": [
+    "connectivity",
+    "multicolor"
+  ],
+  "icloud.slash": [
+    "connectivity"
+  ],
+  "icloud.slash.fill": [
+    "connectivity"
+  ],
+  "icloud.square": [
+    "connectivity",
+    "multicolor"
+  ],
+  "icloud.square.fill": [
+    "connectivity",
+    "multicolor"
+  ],
+  "increase.indent": [
+    "multicolor",
+    "textformatting"
+  ],
+  "increase.quotelevel": [
+    "multicolor",
+    "textformatting"
+  ],
+  "indianrupeesign.circle": [
+    "commerce",
+    "indices"
+  ],
+  "indianrupeesign.circle.fill": [
+    "commerce",
+    "indices",
+    "multicolor"
+  ],
+  "indianrupeesign.square": [
+    "commerce",
+    "indices"
+  ],
+  "indianrupeesign.square.fill": [
+    "commerce",
+    "indices",
+    "multicolor"
+  ],
+  "infinity": [
+    "media"
+  ],
+  "infinity.circle": [
+    "media"
+  ],
+  "infinity.circle.fill": [
+    "media",
+    "multicolor"
+  ],
+  "info": [
+    "multicolor"
+  ],
+  "info.circle": [
+    "multicolor"
+  ],
+  "info.circle.fill": [
+    "multicolor"
+  ],
+  "internaldrive": [
+    "objectsandtools"
+  ],
+  "internaldrive.fill": [
+    "objectsandtools"
+  ],
+  "ipad": [
+    "devices"
+  ],
+  "ipad.and.arrow.forward": [
+    "devices"
+  ],
+  "ipad.and.iphone": [
+    "devices"
+  ],
+  "ipad.badge.play": [
+    "devices"
+  ],
+  "ipad.homebutton": [
+    "devices"
+  ],
+  "ipad.homebutton.badge.play": [
+    "devices"
+  ],
+  "ipad.homebutton.landscape": [
+    "devices"
+  ],
+  "ipad.homebutton.landscape.badge.play": [
+    "devices"
+  ],
+  "ipad.landscape": [
+    "devices"
+  ],
+  "ipad.landscape.badge.play": [
+    "devices"
+  ],
+  "ipad.rear.camera": [
+    "devices"
+  ],
+  "iphone": [
+    "devices"
+  ],
+  "iphone.and.arrow.forward": [
+    "devices"
+  ],
+  "iphone.badge.play": [
+    "devices"
+  ],
+  "iphone.circle": [
+    "devices"
+  ],
+  "iphone.circle.fill": [
+    "devices"
+  ],
+  "iphone.homebutton": [
+    "devices"
+  ],
+  "iphone.homebutton.badge.play": [
+    "devices"
+  ],
+  "iphone.homebutton.circle": [
+    "devices"
+  ],
+  "iphone.homebutton.circle.fill": [
+    "devices"
+  ],
+  "iphone.homebutton.landscape": [
+    "devices"
+  ],
+  "iphone.homebutton.radiowaves.left.and.right": [
+    "devices"
+  ],
+  "iphone.homebutton.radiowaves.left.and.right.circle": [
+    "devices"
+  ],
+  "iphone.homebutton.radiowaves.left.and.right.circle.fill": [
+    "devices"
+  ],
+  "iphone.homebutton.slash": [
+    "devices"
+  ],
+  "iphone.homebutton.slash.circle": [
+    "devices"
+  ],
+  "iphone.homebutton.slash.circle.fill": [
+    "devices"
+  ],
+  "iphone.landscape": [
+    "devices"
+  ],
+  "iphone.radiowaves.left.and.right": [
+    "devices"
+  ],
+  "iphone.radiowaves.left.and.right.circle": [
+    "devices"
+  ],
+  "iphone.radiowaves.left.and.right.circle.fill": [
+    "devices"
+  ],
+  "iphone.rear.camera": [
+    "devices"
+  ],
+  "iphone.slash": [
+    "devices"
+  ],
+  "iphone.slash.circle": [
+    "devices"
+  ],
+  "iphone.slash.circle.fill": [
+    "devices"
+  ],
+  "iphone.smartbatterycase.gen1": [
+    "devices"
+  ],
+  "iphone.smartbatterycase.gen2": [
+    "devices"
+  ],
+  "ipod": [
+    "devices"
+  ],
+  "ipodshuffle.gen1": [
+    "devices"
+  ],
+  "ipodshuffle.gen2": [
+    "devices"
+  ],
+  "ipodshuffle.gen3": [
+    "devices"
+  ],
+  "ipodshuffle.gen4": [
+    "devices"
+  ],
+  "ipodtouch": [
+    "devices"
+  ],
+  "ipodtouch.landscape": [
+    "devices"
+  ],
+  "ipodtouch.slash": [
+    "devices"
+  ],
+  "italic": [
+    "multicolor",
+    "textformatting"
+  ],
+  "ivfluid.bag": [
+    "multicolor",
+    "objectsandtools"
+  ],
+  "ivfluid.bag.fill": [
+    "multicolor",
+    "objectsandtools"
+  ],
+  "j.circle": [
+    "indices"
+  ],
+  "j.circle.fill": [
+    "indices",
+    "multicolor"
+  ],
+  "j.square": [
+    "indices"
+  ],
+  "j.square.fill": [
+    "indices",
+    "multicolor"
+  ],
+  "k.circle": [
+    "indices"
+  ],
+  "k.circle.fill": [
+    "indices",
+    "multicolor"
+  ],
+  "k.square": [
+    "indices"
+  ],
+  "k.square.fill": [
+    "indices",
+    "multicolor"
+  ],
+  "key": [
+    "objectsandtools"
+  ],
+  "key.fill": [
+    "objectsandtools"
+  ],
+  "key.icloud": [
+    "connectivity"
+  ],
+  "key.icloud.fill": [
+    "connectivity"
+  ],
+  "key.viewfinder": [
+    "objectsandtools",
+    "whatsnew"
+  ],
+  "keyboard": [
+    "devices",
+    "keyboard"
+  ],
+  "keyboard.badge.ellipsis": [
+    "devices",
+    "keyboard"
+  ],
+  "keyboard.chevron.compact.down": [
+    "devices",
+    "keyboard"
+  ],
+  "keyboard.chevron.compact.left": [
+    "devices",
+    "keyboard"
+  ],
+  "keyboard.fill": [
+    "devices",
+    "keyboard"
+  ],
+  "keyboard.onehanded.left": [
+    "devices",
+    "keyboard"
+  ],
+  "keyboard.onehanded.right": [
+    "devices",
+    "keyboard"
+  ],
+  "kipsign.circle": [
+    "commerce",
+    "indices"
+  ],
+  "kipsign.circle.fill": [
+    "commerce",
+    "indices",
+    "multicolor"
+  ],
+  "kipsign.square": [
+    "commerce",
+    "indices"
+  ],
+  "kipsign.square.fill": [
+    "commerce",
+    "indices",
+    "multicolor"
+  ],
+  "l.circle": [
+    "gaming",
+    "indices"
+  ],
+  "l.circle.fill": [
+    "gaming",
+    "indices",
+    "multicolor"
+  ],
+  "l.joystick": [
+    "gaming"
+  ],
+  "l.joystick.fill": [
+    "gaming"
+  ],
+  "l.joystick.press.down": [
+    "gaming"
+  ],
+  "l.joystick.press.down.fill": [
+    "gaming"
+  ],
+  "l.joystick.tilt.down": [
+    "gaming"
+  ],
+  "l.joystick.tilt.down.fill": [
+    "gaming"
+  ],
+  "l.joystick.tilt.left": [
+    "gaming"
+  ],
+  "l.joystick.tilt.left.fill": [
+    "gaming"
+  ],
+  "l.joystick.tilt.right": [
+    "gaming"
+  ],
+  "l.joystick.tilt.right.fill": [
+    "gaming"
+  ],
+  "l.joystick.tilt.up": [
+    "gaming"
+  ],
+  "l.joystick.tilt.up.fill": [
+    "gaming"
+  ],
+  "l.rectangle.roundedbottom": [
+    "gaming"
+  ],
+  "l.rectangle.roundedbottom.fill": [
+    "gaming"
+  ],
+  "l.square": [
+    "indices"
+  ],
+  "l.square.fill": [
+    "indices",
+    "multicolor"
+  ],
+  "l1.rectangle.roundedbottom": [
+    "gaming"
+  ],
+  "l1.rectangle.roundedbottom.fill": [
+    "gaming"
+  ],
+  "l2.rectangle.roundedtop": [
+    "gaming"
+  ],
+  "l2.rectangle.roundedtop.fill": [
+    "gaming"
+  ],
+  "ladybug": [
+    "nature"
+  ],
+  "ladybug.fill": [
+    "multicolor",
+    "nature"
+  ],
+  "laptopcomputer": [
+    "devices"
+  ],
+  "laptopcomputer.and.arrow.down": [
+    "devices"
+  ],
+  "laptopcomputer.and.iphone": [
+    "devices"
+  ],
+  "laptopcomputer.trianglebadge.exclamationmark": [
+    "devices",
+    "multicolor"
+  ],
+  "larisign.circle": [
+    "commerce",
+    "indices"
+  ],
+  "larisign.circle.fill": [
+    "commerce",
+    "indices",
+    "multicolor"
+  ],
+  "larisign.square": [
+    "commerce",
+    "indices"
+  ],
+  "larisign.square.fill": [
+    "commerce",
+    "indices",
+    "multicolor"
+  ],
+  "lasso": [
+    "editing",
+    "objectsandtools"
+  ],
+  "lasso.and.sparkles": [
+    "editing",
+    "objectsandtools"
+  ],
+  "latch.2.case": [
+    "objectsandtools"
+  ],
+  "latch.2.case.fill": [
+    "objectsandtools"
+  ],
+  "lb.rectangle.roundedbottom": [
+    "gaming"
+  ],
+  "lb.rectangle.roundedbottom.fill": [
+    "gaming"
+  ],
+  "leaf": [
+    "multicolor",
+    "nature"
+  ],
+  "leaf.arrow.triangle.circlepath": [
+    "arrows",
+    "nature"
+  ],
+  "leaf.circle": [
+    "multicolor",
+    "nature"
+  ],
+  "leaf.circle.fill": [
+    "multicolor",
+    "nature"
+  ],
+  "leaf.fill": [
+    "multicolor",
+    "nature"
+  ],
+  "lessthan": [
+    "math"
+  ],
+  "lessthan.circle": [
+    "math"
+  ],
+  "lessthan.circle.fill": [
+    "math",
+    "multicolor"
+  ],
+  "lessthan.square": [
+    "math"
+  ],
+  "lessthan.square.fill": [
+    "math"
+  ],
+  "level": [
+    "objectsandtools"
+  ],
+  "level.fill": [
+    "objectsandtools"
+  ],
+  "lifepreserver": [
+    "objectsandtools"
+  ],
+  "lifepreserver.fill": [
+    "objectsandtools"
+  ],
+  "light.max": [
+    "keyboard"
+  ],
+  "light.min": [
+    "keyboard"
+  ],
+  "lightbulb": [
+    "objectsandtools"
+  ],
+  "lightbulb.circle": [
+    "objectsandtools"
+  ],
+  "lightbulb.circle.fill": [
+    "objectsandtools"
+  ],
+  "lightbulb.fill": [
+    "objectsandtools"
+  ],
+  "lightbulb.slash": [
+    "objectsandtools"
+  ],
+  "lightbulb.slash.fill": [
+    "objectsandtools"
+  ],
+  "line.2.horizontal.decrease.circle.fill": [
+    "multicolor"
+  ],
+  "line.3.horizontal.circle": [
+    "gaming"
+  ],
+  "line.3.horizontal.circle.fill": [
+    "gaming",
+    "multicolor"
+  ],
+  "line.3.horizontal.decrease.circle.fill": [
+    "multicolor"
+  ],
+  "link": [
+    "multicolor",
+    "objectsandtools"
+  ],
+  "link.badge.plus": [
+    "multicolor",
+    "objectsandtools"
+  ],
+  "link.circle": [
+    "multicolor",
+    "objectsandtools"
+  ],
+  "link.circle.fill": [
+    "multicolor",
+    "objectsandtools"
+  ],
+  "link.icloud": [
+    "connectivity"
+  ],
+  "link.icloud.fill": [
+    "connectivity"
+  ],
+  "lirasign.circle": [
+    "commerce",
+    "indices"
+  ],
+  "lirasign.circle.fill": [
+    "commerce",
+    "indices",
+    "multicolor"
+  ],
+  "lirasign.square": [
+    "commerce",
+    "indices"
+  ],
+  "lirasign.square.fill": [
+    "commerce",
+    "indices",
+    "multicolor"
+  ],
+  "list.bullet": [
+    "multicolor",
+    "textformatting"
+  ],
+  "list.bullet.circle": [
+    "textformatting"
+  ],
+  "list.bullet.circle.fill": [
+    "multicolor",
+    "textformatting"
+  ],
+  "list.bullet.indent": [
+    "multicolor",
+    "textformatting"
+  ],
+  "list.dash": [
+    "multicolor",
+    "textformatting"
+  ],
+  "list.number": [
+    "multicolor",
+    "textformatting"
+  ],
+  "list.number.ar": [
+    "multicolor",
+    "textformatting"
+  ],
+  "list.number.hi": [
+    "textformatting"
+  ],
+  "list.number.rtl": [
+    "multicolor",
+    "textformatting"
+  ],
+  "list.star": [
+    "multicolor",
+    "textformatting"
+  ],
+  "list.triangle": [
+    "multicolor",
+    "textformatting"
+  ],
+  "location": [
+    "arrows",
+    "multicolor"
+  ],
+  "location.circle": [
+    "arrows",
+    "multicolor"
+  ],
+  "location.circle.fill": [
+    "arrows",
+    "multicolor"
+  ],
+  "location.fill": [
+    "arrows",
+    "multicolor"
+  ],
+  "location.magnifyingglass": [
+    "objectsandtools"
+  ],
+  "location.north": [
+    "arrows",
+    "multicolor"
+  ],
+  "location.north.circle": [
+    "arrows",
+    "multicolor"
+  ],
+  "location.north.circle.fill": [
+    "arrows",
+    "multicolor"
+  ],
+  "location.north.fill": [
+    "arrows",
+    "multicolor"
+  ],
+  "location.north.line": [
+    "arrows",
+    "multicolor"
+  ],
+  "location.north.line.fill": [
+    "arrows",
+    "multicolor"
+  ],
+  "location.slash": [
+    "arrows"
+  ],
+  "location.slash.fill": [
+    "arrows"
+  ],
+  "location.square": [
+    "arrows",
+    "multicolor"
+  ],
+  "location.square.fill": [
+    "arrows",
+    "multicolor"
+  ],
+  "lock": [
+    "multicolor",
+    "objectsandtools"
+  ],
+  "lock.applewatch": [
+    "devices"
+  ],
+  "lock.circle": [
+    "multicolor",
+    "objectsandtools"
+  ],
+  "lock.circle.fill": [
+    "multicolor",
+    "objectsandtools"
+  ],
+  "lock.desktopcomputer": [
+    "devices"
+  ],
+  "lock.display": [
+    "devices"
+  ],
+  "lock.doc": [
+    "objectsandtools"
+  ],
+  "lock.doc.fill": [
+    "objectsandtools"
+  ],
+  "lock.fill": [
+    "multicolor",
+    "objectsandtools"
+  ],
+  "lock.icloud": [
+    "connectivity"
+  ],
+  "lock.icloud.fill": [
+    "connectivity"
+  ],
+  "lock.ipad": [
+    "devices"
+  ],
+  "lock.iphone": [
+    "devices"
+  ],
+  "lock.laptopcomputer": [
+    "devices"
+  ],
+  "lock.open": [
+    "objectsandtools"
+  ],
+  "lock.open.applewatch": [
+    "devices"
+  ],
+  "lock.open.desktopcomputer": [
+    "devices"
+  ],
+  "lock.open.display": [
+    "devices"
+  ],
+  "lock.open.fill": [
+    "objectsandtools"
+  ],
+  "lock.open.ipad": [
+    "devices"
+  ],
+  "lock.open.iphone": [
+    "devices"
+  ],
+  "lock.open.laptopcomputer": [
+    "devices"
+  ],
+  "lock.rectangle": [
+    "objectsandtools"
+  ],
+  "lock.rectangle.fill": [
+    "objectsandtools"
+  ],
+  "lock.rectangle.on.rectangle": [
+    "objectsandtools"
+  ],
+  "lock.rectangle.on.rectangle.fill": [
+    "objectsandtools"
+  ],
+  "lock.rectangle.stack": [
+    "objectsandtools"
+  ],
+  "lock.rectangle.stack.fill": [
+    "objectsandtools"
+  ],
+  "lock.rotation": [
+    "objectsandtools"
+  ],
+  "lock.rotation.open": [
+    "objectsandtools"
+  ],
+  "lock.shield": [
+    "objectsandtools"
+  ],
+  "lock.shield.fill": [
+    "objectsandtools"
+  ],
+  "lock.slash": [
+    "objectsandtools"
+  ],
+  "lock.slash.fill": [
+    "objectsandtools"
+  ],
+  "lock.square": [
+    "multicolor",
+    "objectsandtools"
+  ],
+  "lock.square.fill": [
+    "multicolor",
+    "objectsandtools"
+  ],
+  "lock.square.stack": [
+    "objectsandtools"
+  ],
+  "lock.square.stack.fill": [
+    "objectsandtools"
+  ],
+  "logo.playstation": [
+    "gaming"
+  ],
+  "logo.xbox": [
+    "gaming"
+  ],
+  "loupe": [
+    "editing"
+  ],
+  "lt.rectangle.roundedtop": [
+    "gaming"
+  ],
+  "lt.rectangle.roundedtop.fill": [
+    "gaming"
+  ],
+  "lungs": [
+    "health",
+    "human",
+    "multicolor"
+  ],
+  "lungs.fill": [
+    "health",
+    "human",
+    "multicolor"
+  ],
+  "m.circle": [
+    "indices"
+  ],
+  "m.circle.fill": [
+    "indices",
+    "multicolor"
+  ],
+  "m.square": [
+    "indices"
+  ],
+  "m.square.fill": [
+    "indices",
+    "multicolor"
+  ],
+  "macmini": [
+    "devices"
+  ],
+  "macmini.fill": [
+    "devices"
+  ],
+  "macpro.gen1": [
+    "devices"
+  ],
+  "macpro.gen1.fill": [
+    "devices"
+  ],
+  "macpro.gen2": [
+    "devices"
+  ],
+  "macpro.gen2.fill": [
+    "devices"
+  ],
+  "macpro.gen3": [
+    "devices"
+  ],
+  "macpro.gen3.fill": [
+    "devices"
+  ],
+  "macpro.gen3.server": [
+    "devices"
+  ],
+  "macwindow": [
+    "multicolor"
+  ],
+  "macwindow.badge.plus": [
+    "multicolor"
+  ],
+  "magazine": [
+    "objectsandtools"
+  ],
+  "magazine.fill": [
+    "objectsandtools"
+  ],
+  "magicmouse": [
+    "devices"
+  ],
+  "magicmouse.fill": [
+    "devices"
+  ],
+  "magnifyingglass": [
+    "objectsandtools"
+  ],
+  "magnifyingglass.circle": [
+    "objectsandtools"
+  ],
+  "magnifyingglass.circle.fill": [
+    "multicolor",
+    "objectsandtools"
+  ],
+  "magsafe.batterypack": [
+    "devices"
+  ],
+  "magsafe.batterypack.fill": [
+    "devices"
+  ],
+  "manatsign.circle": [
+    "commerce",
+    "indices"
+  ],
+  "manatsign.circle.fill": [
+    "commerce",
+    "indices",
+    "multicolor"
+  ],
+  "manatsign.square": [
+    "commerce",
+    "indices"
+  ],
+  "manatsign.square.fill": [
+    "commerce",
+    "indices",
+    "multicolor"
+  ],
+  "map": [
+    "objectsandtools"
+  ],
+  "map.circle": [
+    "objectsandtools"
+  ],
+  "map.circle.fill": [
+    "multicolor",
+    "objectsandtools"
+  ],
+  "map.fill": [
+    "objectsandtools"
+  ],
+  "mappin": [
+    "multicolor",
+    "objectsandtools"
+  ],
+  "mappin.and.ellipse": [
+    "multicolor",
+    "objectsandtools"
+  ],
+  "mappin.circle": [
+    "multicolor",
+    "objectsandtools"
+  ],
+  "mappin.circle.fill": [
+    "multicolor",
+    "objectsandtools"
+  ],
+  "mappin.slash": [
+    "objectsandtools"
+  ],
+  "mappin.square": [
+    "multicolor",
+    "objectsandtools"
+  ],
+  "mappin.square.fill": [
+    "multicolor",
+    "objectsandtools"
+  ],
+  "mediastick": [
+    "devices"
+  ],
+  "megaphone": [
+    "objectsandtools"
+  ],
+  "megaphone.fill": [
+    "objectsandtools"
+  ],
+  "memories.badge.minus": [
+    "multicolor"
+  ],
+  "memories.badge.plus": [
+    "multicolor"
+  ],
+  "memorychip": [
+    "objectsandtools"
+  ],
+  "memorychip.fill": [
+    "objectsandtools"
+  ],
+  "menucard": [
+    "objectsandtools"
+  ],
+  "menucard.fill": [
+    "objectsandtools"
+  ],
+  "message": [
+    "communication",
+    "multicolor"
+  ],
+  "message.and.waveform": [
+    "communication"
+  ],
+  "message.and.waveform.fill": [
+    "communication"
+  ],
+  "message.circle": [
+    "communication",
+    "multicolor"
+  ],
+  "message.circle.fill": [
+    "communication",
+    "multicolor"
+  ],
+  "message.fill": [
+    "communication",
+    "multicolor"
+  ],
+  "metronome": [
+    "objectsandtools"
+  ],
+  "metronome.fill": [
+    "objectsandtools"
+  ],
+  "mic": [
+    "communication",
+    "multicolor"
+  ],
+  "mic.badge.plus": [
+    "communication",
+    "multicolor"
+  ],
+  "mic.circle": [
+    "communication",
+    "multicolor"
+  ],
+  "mic.circle.fill": [
+    "communication",
+    "multicolor"
+  ],
+  "mic.fill": [
+    "communication",
+    "multicolor"
+  ],
+  "mic.fill.badge.plus": [
+    "communication",
+    "multicolor"
+  ],
+  "mic.slash": [
+    "communication"
+  ],
+  "mic.slash.circle": [
+    "communication"
+  ],
+  "mic.slash.circle.fill": [
+    "communication",
+    "multicolor"
+  ],
+  "mic.slash.fill": [
+    "communication"
+  ],
+  "mic.square": [
+    "communication",
+    "multicolor"
+  ],
+  "mic.square.fill": [
+    "communication",
+    "multicolor"
+  ],
+  "millsign.circle": [
+    "commerce",
+    "indices"
+  ],
+  "millsign.circle.fill": [
+    "commerce",
+    "indices",
+    "multicolor"
+  ],
+  "millsign.square": [
+    "commerce",
+    "indices"
+  ],
+  "millsign.square.fill": [
+    "commerce",
+    "indices",
+    "multicolor"
+  ],
+  "minus": [
+    "gaming",
+    "math",
+    "multicolor"
+  ],
+  "minus.circle": [
+    "gaming",
+    "math",
+    "multicolor"
+  ],
+  "minus.circle.fill": [
+    "gaming",
+    "math",
+    "multicolor"
+  ],
+  "minus.diamond": [
+    "multicolor"
+  ],
+  "minus.diamond.fill": [
+    "multicolor"
+  ],
+  "minus.forwardslash.plus": [
+    "math"
+  ],
+  "minus.magnifyingglass": [
+    "objectsandtools"
+  ],
+  "minus.plus.batteryblock": [
+    "objectsandtools"
+  ],
+  "minus.plus.batteryblock.fill": [
+    "objectsandtools"
+  ],
+  "minus.rectangle": [
+    "math",
+    "multicolor"
+  ],
+  "minus.rectangle.fill": [
+    "math",
+    "multicolor"
+  ],
+  "minus.rectangle.portrait": [
+    "multicolor"
+  ],
+  "minus.rectangle.portrait.fill": [
+    "multicolor"
+  ],
+  "minus.square": [
+    "math",
+    "multicolor"
+  ],
+  "minus.square.fill": [
+    "math",
+    "multicolor"
+  ],
+  "moon": [
+    "weather"
+  ],
+  "moon.circle": [
+    "weather"
+  ],
+  "moon.circle.fill": [
+    "multicolor",
+    "weather"
+  ],
+  "moon.fill": [
+    "multicolor",
+    "weather"
+  ],
+  "moon.stars": [
+    "weather"
+  ],
+  "moon.stars.fill": [
+    "multicolor",
+    "weather"
+  ],
+  "mount": [
+    "keyboard"
+  ],
+  "mount.fill": [
+    "keyboard"
+  ],
+  "mouth": [
+    "human"
+  ],
+  "mouth.fill": [
+    "human"
+  ],
+  "move.3d": [
+    "editing"
+  ],
+  "multiply": [
+    "math"
+  ],
+  "multiply.circle": [
+    "math"
+  ],
+  "multiply.circle.fill": [
+    "math",
+    "multicolor"
+  ],
+  "multiply.square": [
+    "math"
+  ],
+  "multiply.square.fill": [
+    "math"
+  ],
+  "music.mic": [
+    "objectsandtools"
+  ],
+  "music.mic.circle": [
+    "objectsandtools"
+  ],
+  "music.mic.circle.fill": [
+    "multicolor",
+    "objectsandtools"
+  ],
+  "music.note.tv": [
+    "devices"
+  ],
+  "music.note.tv.fill": [
+    "devices"
+  ],
+  "mustache": [
+    "human"
+  ],
+  "mustache.fill": [
+    "human"
+  ],
+  "n.circle": [
+    "indices"
+  ],
+  "n.circle.fill": [
+    "indices",
+    "multicolor"
+  ],
+  "n.square": [
+    "indices"
+  ],
+  "n.square.fill": [
+    "indices",
+    "multicolor"
+  ],
+  "nairasign.circle": [
+    "commerce",
+    "indices"
+  ],
+  "nairasign.circle.fill": [
+    "commerce",
+    "indices",
+    "multicolor"
+  ],
+  "nairasign.square": [
+    "commerce",
+    "indices"
+  ],
+  "nairasign.square.fill": [
+    "commerce",
+    "indices",
+    "multicolor"
+  ],
+  "network": [
+    "connectivity",
+    "multicolor"
+  ],
+  "network.badge.shield.half.filled": [
+    "connectivity"
+  ],
+  "newspaper": [
+    "objectsandtools"
+  ],
+  "newspaper.circle": [
+    "objectsandtools"
+  ],
+  "newspaper.circle.fill": [
+    "objectsandtools"
+  ],
+  "newspaper.fill": [
+    "objectsandtools"
+  ],
+  "nose": [
+    "human"
+  ],
+  "nose.fill": [
+    "human"
+  ],
+  "note": [
+    "objectsandtools"
+  ],
+  "note.text": [
+    "objectsandtools"
+  ],
+  "note.text.badge.plus": [
+    "multicolor",
+    "objectsandtools"
+  ],
+  "number": [
+    "math"
+  ],
+  "number.circle": [
+    "math"
+  ],
+  "number.circle.fill": [
+    "math",
+    "multicolor"
+  ],
+  "number.square": [
+    "math"
+  ],
+  "number.square.fill": [
+    "math"
+  ],
+  "o.circle": [
+    "indices"
+  ],
+  "o.circle.fill": [
+    "indices",
+    "multicolor"
+  ],
+  "o.square": [
+    "indices"
+  ],
+  "o.square.fill": [
+    "indices",
+    "multicolor"
+  ],
+  "octagon": [
+    "shapes"
+  ],
+  "octagon.fill": [
+    "shapes"
+  ],
+  "opticaldisc": [
+    "objectsandtools"
+  ],
+  "opticaldiscdrive": [
+    "objectsandtools"
+  ],
+  "opticaldiscdrive.fill": [
+    "objectsandtools"
+  ],
+  "option": [
+    "keyboard"
+  ],
+  "oval": [
+    "shapes"
+  ],
+  "oval.fill": [
+    "shapes"
+  ],
+  "oval.portrait": [
+    "shapes"
+  ],
+  "oval.portrait.fill": [
+    "shapes"
+  ],
+  "p.circle": [
+    "indices"
+  ],
+  "p.circle.fill": [
+    "indices",
+    "multicolor"
+  ],
+  "p.square": [
+    "indices"
+  ],
+  "p.square.fill": [
+    "indices",
+    "multicolor"
+  ],
+  "paintbrush": [
+    "editing",
+    "objectsandtools"
+  ],
+  "paintbrush.fill": [
+    "editing",
+    "objectsandtools"
+  ],
+  "paintbrush.pointed": [
+    "editing",
+    "objectsandtools"
+  ],
+  "paintbrush.pointed.fill": [
+    "editing",
+    "objectsandtools"
+  ],
+  "paintpalette": [
+    "multicolor",
+    "objectsandtools"
+  ],
+  "paintpalette.fill": [
+    "multicolor",
+    "objectsandtools"
+  ],
+  "paperclip": [
+    "multicolor",
+    "objectsandtools"
+  ],
+  "paperclip.badge.ellipsis": [
+    "objectsandtools"
+  ],
+  "paperclip.circle": [
+    "multicolor",
+    "objectsandtools"
+  ],
+  "paperclip.circle.fill": [
+    "multicolor",
+    "objectsandtools"
+  ],
+  "paperplane": [
+    "objectsandtools"
+  ],
+  "paperplane.circle": [
+    "objectsandtools"
+  ],
+  "paperplane.circle.fill": [
+    "multicolor",
+    "objectsandtools"
+  ],
+  "paperplane.fill": [
+    "objectsandtools"
+  ],
+  "paragraphsign": [
+    "textformatting"
+  ],
+  "parkingsign.circle.fill": [
+    "multicolor"
+  ],
+  "pause": [
+    "media"
+  ],
+  "pause.circle": [
+    "media"
+  ],
+  "pause.circle.fill": [
+    "media",
+    "multicolor"
+  ],
+  "pause.fill": [
+    "media"
+  ],
+  "pause.rectangle": [
+    "media"
+  ],
+  "pause.rectangle.fill": [
+    "media"
+  ],
+  "pawprint": [
+    "nature"
+  ],
+  "pawprint.circle": [
+    "nature"
+  ],
+  "pawprint.circle.fill": [
+    "nature"
+  ],
+  "pawprint.fill": [
+    "nature"
+  ],
+  "pc": [
+    "devices",
+    "multicolor"
+  ],
+  "pencil": [
+    "editing",
+    "objectsandtools"
+  ],
+  "pencil.and.outline": [
+    "editing",
+    "objectsandtools"
+  ],
+  "pencil.circle": [
+    "editing",
+    "objectsandtools"
+  ],
+  "pencil.circle.fill": [
+    "editing",
+    "multicolor",
+    "objectsandtools"
+  ],
+  "pencil.slash": [
+    "editing",
+    "objectsandtools"
+  ],
+  "pencil.tip": [
+    "editing",
+    "objectsandtools"
+  ],
+  "pencil.tip.crop.circle": [
+    "editing",
+    "objectsandtools"
+  ],
+  "pencil.tip.crop.circle.badge.arrow.forward": [
+    "editing",
+    "objectsandtools"
+  ],
+  "pencil.tip.crop.circle.badge.minus": [
+    "editing",
+    "multicolor",
+    "objectsandtools"
+  ],
+  "pencil.tip.crop.circle.badge.plus": [
+    "editing",
+    "multicolor",
+    "objectsandtools"
+  ],
+  "pentagon": [
+    "shapes"
+  ],
+  "pentagon.fill": [
+    "shapes"
+  ],
+  "percent": [
+    "math"
+  ],
+  "percent.ar": [
+    "math"
+  ],
+  "person": [
+    "human"
+  ],
+  "person.2": [
+    "human"
+  ],
+  "person.2.circle": [
+    "human"
+  ],
+  "person.2.circle.fill": [
+    "human",
+    "multicolor"
+  ],
+  "person.2.crop.square.stack": [
+    "human"
+  ],
+  "person.2.crop.square.stack.fill": [
+    "human"
+  ],
+  "person.2.fill": [
+    "human"
+  ],
+  "person.2.wave.2": [
+    "human"
+  ],
+  "person.2.wave.2.fill": [
+    "human"
+  ],
+  "person.3": [
+    "human"
+  ],
+  "person.3.fill": [
+    "human"
+  ],
+  "person.3.sequence": [
+    "human"
+  ],
+  "person.3.sequence.fill": [
+    "human"
+  ],
+  "person.and.arrow.left.and.arrow.right": [
+    "human"
+  ],
+  "person.badge.clock": [
+    "human"
+  ],
+  "person.badge.clock.fill": [
+    "human"
+  ],
+  "person.badge.key": [
+    "human",
+    "whatsnew"
+  ],
+  "person.badge.key.fill": [
+    "human",
+    "whatsnew"
+  ],
+  "person.badge.minus": [
+    "human",
+    "multicolor"
+  ],
+  "person.badge.plus": [
+    "human",
+    "multicolor"
+  ],
+  "person.circle": [
+    "human"
+  ],
+  "person.circle.fill": [
+    "human",
+    "multicolor"
+  ],
+  "person.crop.artframe": [
+    "human"
+  ],
+  "person.crop.circle": [
+    "human"
+  ],
+  "person.crop.circle.badge": [
+    "human"
+  ],
+  "person.crop.circle.badge.checkmark": [
+    "human",
+    "multicolor"
+  ],
+  "person.crop.circle.badge.clock": [
+    "human"
+  ],
+  "person.crop.circle.badge.clock.fill": [
+    "human"
+  ],
+  "person.crop.circle.badge.exclamationmark": [
+    "human",
+    "multicolor"
+  ],
+  "person.crop.circle.badge.exclamationmark.fill": [
+    "human",
+    "multicolor"
+  ],
+  "person.crop.circle.badge.fill": [
+    "human"
+  ],
+  "person.crop.circle.badge.minus": [
+    "human",
+    "multicolor"
+  ],
+  "person.crop.circle.badge.moon": [
+    "human"
+  ],
+  "person.crop.circle.badge.moon.fill": [
+    "human"
+  ],
+  "person.crop.circle.badge.plus": [
+    "human",
+    "multicolor"
+  ],
+  "person.crop.circle.badge.questionmark": [
+    "human",
+    "multicolor"
+  ],
+  "person.crop.circle.badge.questionmark.ar": [
+    "human",
+    "multicolor"
+  ],
+  "person.crop.circle.badge.questionmark.fill": [
+    "human",
+    "multicolor"
+  ],
+  "person.crop.circle.badge.questionmark.fill.ar": [
+    "human",
+    "multicolor"
+  ],
+  "person.crop.circle.badge.xmark": [
+    "human",
+    "multicolor"
+  ],
+  "person.crop.circle.fill": [
+    "human",
+    "multicolor"
+  ],
+  "person.crop.circle.fill.badge.checkmark": [
+    "human",
+    "multicolor"
+  ],
+  "person.crop.circle.fill.badge.minus": [
+    "human",
+    "multicolor"
+  ],
+  "person.crop.circle.fill.badge.plus": [
+    "human",
+    "multicolor"
+  ],
+  "person.crop.circle.fill.badge.xmark": [
+    "human",
+    "multicolor"
+  ],
+  "person.crop.rectangle": [
+    "human"
+  ],
+  "person.crop.rectangle.fill": [
+    "human"
+  ],
+  "person.crop.rectangle.stack": [
+    "human"
+  ],
+  "person.crop.rectangle.stack.fill": [
+    "human"
+  ],
+  "person.crop.square": [
+    "human"
+  ],
+  "person.crop.square.fill": [
+    "human"
+  ],
+  "person.crop.square.filled.and.at.rectangle": [
+    "human"
+  ],
+  "person.crop.square.filled.and.at.rectangle.fill": [
+    "human"
+  ],
+  "person.fill": [
+    "human"
+  ],
+  "person.fill.and.arrow.left.and.arrow.right": [
+    "human"
+  ],
+  "person.fill.badge.minus": [
+    "human",
+    "multicolor"
+  ],
+  "person.fill.badge.plus": [
+    "human",
+    "multicolor"
+  ],
+  "person.fill.checkmark": [
+    "human"
+  ],
+  "person.fill.checkmark.rtl": [
+    "human"
+  ],
+  "person.fill.questionmark": [
+    "human"
+  ],
+  "person.fill.questionmark.ar": [
+    "human"
+  ],
+  "person.fill.questionmark.rtl": [
+    "human"
+  ],
+  "person.fill.turn.down": [
+    "human"
+  ],
+  "person.fill.turn.left": [
+    "human"
+  ],
+  "person.fill.turn.right": [
+    "human"
+  ],
+  "person.fill.viewfinder": [
+    "human"
+  ],
+  "person.fill.xmark": [
+    "human"
+  ],
+  "person.fill.xmark.rtl": [
+    "human"
+  ],
+  "person.icloud": [
+    "connectivity",
+    "human"
+  ],
+  "person.icloud.fill": [
+    "connectivity",
+    "human"
+  ],
+  "person.text.rectangle": [
+    "human"
+  ],
+  "person.text.rectangle.fill": [
+    "human"
+  ],
+  "person.wave.2": [
+    "human"
+  ],
+  "person.wave.2.fill": [
+    "human"
+  ],
+  "personalhotspot": [
+    "connectivity",
+    "objectsandtools"
+  ],
+  "personalhotspot.circle": [
+    "connectivity",
+    "objectsandtools"
+  ],
+  "personalhotspot.circle.fill": [
+    "connectivity",
+    "objectsandtools"
+  ],
+  "perspective": [
+    "editing"
+  ],
+  "pesetasign.circle": [
+    "commerce",
+    "indices"
+  ],
+  "pesetasign.circle.fill": [
+    "commerce",
+    "indices",
+    "multicolor"
+  ],
+  "pesetasign.square": [
+    "commerce",
+    "indices"
+  ],
+  "pesetasign.square.fill": [
+    "commerce",
+    "indices",
+    "multicolor"
+  ],
+  "pesosign.circle": [
+    "commerce",
+    "indices"
+  ],
+  "pesosign.circle.fill": [
+    "commerce",
+    "indices",
+    "multicolor"
+  ],
+  "pesosign.square": [
+    "commerce",
+    "indices"
+  ],
+  "pesosign.square.fill": [
+    "commerce",
+    "indices",
+    "multicolor"
+  ],
+  "phone": [
+    "communication",
+    "multicolor"
+  ],
+  "phone.and.waveform": [
+    "communication"
+  ],
+  "phone.and.waveform.fill": [
+    "communication"
+  ],
+  "phone.arrow.down.left": [
+    "communication"
+  ],
+  "phone.arrow.right": [
+    "communication"
+  ],
+  "phone.arrow.up.right": [
+    "communication"
+  ],
+  "phone.badge.plus": [
+    "communication",
+    "multicolor"
+  ],
+  "phone.bubble.left": [
+    "communication"
+  ],
+  "phone.bubble.left.fill": [
+    "communication"
+  ],
+  "phone.circle": [
+    "communication",
+    "multicolor"
+  ],
+  "phone.circle.fill": [
+    "communication",
+    "multicolor"
+  ],
+  "phone.connection": [
+    "communication"
+  ],
+  "phone.down": [
+    "communication",
+    "multicolor"
+  ],
+  "phone.down.circle": [
+    "communication",
+    "multicolor"
+  ],
+  "phone.down.circle.fill": [
+    "communication",
+    "multicolor"
+  ],
+  "phone.down.fill": [
+    "communication",
+    "multicolor"
+  ],
+  "phone.fill": [
+    "communication",
+    "multicolor"
+  ],
+  "phone.fill.arrow.down.left": [
+    "communication"
+  ],
+  "phone.fill.arrow.right": [
+    "communication"
+  ],
+  "phone.fill.arrow.up.right": [
+    "communication"
+  ],
+  "phone.fill.badge.plus": [
+    "communication",
+    "multicolor"
+  ],
+  "phone.fill.connection": [
+    "communication"
+  ],
+  "photo.tv": [
+    "devices"
+  ],
+  "pianokeys": [
+    "objectsandtools"
+  ],
+  "pianokeys.inverse": [
+    "objectsandtools"
+  ],
+  "pills": [
+    "health"
+  ],
+  "pills.circle": [
+    "health"
+  ],
+  "pills.circle.fill": [
+    "health"
+  ],
+  "pills.fill": [
+    "health",
+    "multicolor"
+  ],
+  "pin": [
+    "multicolor",
+    "objectsandtools"
+  ],
+  "pin.circle": [
+    "multicolor",
+    "objectsandtools"
+  ],
+  "pin.circle.fill": [
+    "multicolor",
+    "objectsandtools"
+  ],
+  "pin.fill": [
+    "multicolor",
+    "objectsandtools"
+  ],
+  "pin.slash": [
+    "objectsandtools"
+  ],
+  "pin.slash.fill": [
+    "objectsandtools"
+  ],
+  "pin.square": [
+    "multicolor",
+    "objectsandtools"
+  ],
+  "pin.square.fill": [
+    "multicolor",
+    "objectsandtools"
+  ],
+  "platter.2.filled.ipad": [
+    "devices"
+  ],
+  "platter.2.filled.ipad.landscape": [
+    "devices"
+  ],
+  "platter.2.filled.iphone": [
+    "devices"
+  ],
+  "platter.2.filled.iphone.landscape": [
+    "devices"
+  ],
+  "platter.bottom.applewatch.case": [
+    "devices"
+  ],
+  "platter.filled.bottom.and.arrow.down.iphone": [
+    "devices"
+  ],
+  "platter.filled.bottom.applewatch.case": [
+    "devices"
+  ],
+  "platter.filled.bottom.iphone": [
+    "devices"
+  ],
+  "platter.filled.top.and.arrow.up.iphone": [
+    "devices"
+  ],
+  "platter.filled.top.applewatch.case": [
+    "devices"
+  ],
+  "platter.filled.top.iphone": [
+    "devices"
+  ],
+  "platter.top.applewatch.case": [
+    "devices"
+  ],
+  "play": [
+    "media"
+  ],
+  "play.circle": [
+    "media"
+  ],
+  "play.circle.fill": [
+    "media",
+    "multicolor"
+  ],
+  "play.fill": [
+    "media"
+  ],
+  "play.rectangle": [
+    "media"
+  ],
+  "play.rectangle.fill": [
+    "media"
+  ],
+  "play.slash": [
+    "media"
+  ],
+  "play.slash.fill": [
+    "media"
+  ],
+  "play.square": [
+    "media"
+  ],
+  "play.square.fill": [
+    "media"
+  ],
+  "play.tv": [
+    "devices"
+  ],
+  "play.tv.fill": [
+    "devices"
+  ],
+  "playpause": [
+    "media"
+  ],
+  "playpause.fill": [
+    "media"
+  ],
+  "plus": [
+    "gaming",
+    "math",
+    "multicolor"
+  ],
+  "plus.bubble": [
+    "communication"
+  ],
+  "plus.bubble.fill": [
+    "communication"
+  ],
+  "plus.circle": [
+    "gaming",
+    "math",
+    "multicolor"
+  ],
+  "plus.circle.fill": [
+    "gaming",
+    "math",
+    "multicolor"
+  ],
+  "plus.diamond": [
+    "multicolor"
+  ],
+  "plus.diamond.fill": [
+    "multicolor"
+  ],
+  "plus.forwardslash.minus": [
+    "math"
+  ],
+  "plus.magnifyingglass": [
+    "objectsandtools"
+  ],
+  "plus.message": [
+    "communication"
+  ],
+  "plus.message.fill": [
+    "communication"
+  ],
+  "plus.rectangle": [
+    "math",
+    "multicolor"
+  ],
+  "plus.rectangle.fill": [
+    "math",
+    "multicolor"
+  ],
+  "plus.rectangle.on.folder": [
+    "objectsandtools"
+  ],
+  "plus.rectangle.on.folder.fill": [
+    "objectsandtools"
+  ],
+  "plus.rectangle.portrait": [
+    "multicolor"
+  ],
+  "plus.rectangle.portrait.fill": [
+    "multicolor"
+  ],
+  "plus.square": [
+    "math",
+    "multicolor"
+  ],
+  "plus.square.fill": [
+    "math",
+    "multicolor"
+  ],
+  "plusminus": [
+    "math"
+  ],
+  "plusminus.circle": [
+    "math"
+  ],
+  "plusminus.circle.fill": [
+    "math",
+    "multicolor"
+  ],
+  "point.3.filled.connected.trianglepath.dotted": [
+    "multicolor"
+  ],
+  "power": [
+    "keyboard"
+  ],
+  "power.circle": [
+    "keyboard"
+  ],
+  "power.circle.fill": [
+    "keyboard",
+    "multicolor"
+  ],
+  "power.dotted": [
+    "keyboard"
+  ],
+  "powerplug": [
+    "objectsandtools"
+  ],
+  "powerplug.fill": [
+    "objectsandtools"
+  ],
+  "printer": [
+    "devices",
+    "objectsandtools"
+  ],
+  "printer.dotmatrix": [
+    "devices",
+    "objectsandtools"
+  ],
+  "printer.dotmatrix.fill": [
+    "devices",
+    "objectsandtools"
+  ],
+  "printer.dotmatrix.filled.and.paper": [
+    "devices",
+    "objectsandtools"
+  ],
+  "printer.fill": [
+    "devices",
+    "objectsandtools"
+  ],
+  "printer.filled.and.paper": [
+    "devices",
+    "objectsandtools"
+  ],
+  "projective": [
+    "keyboard"
+  ],
+  "purchased.circle.fill": [
+    "multicolor"
+  ],
+  "puzzlepiece": [
+    "objectsandtools"
+  ],
+  "puzzlepiece.extension": [
+    "objectsandtools"
+  ],
+  "puzzlepiece.extension.fill": [
+    "objectsandtools"
+  ],
+  "puzzlepiece.fill": [
+    "objectsandtools"
+  ],
+  "q.circle": [
+    "indices"
+  ],
+  "q.circle.fill": [
+    "indices",
+    "multicolor"
+  ],
+  "q.square": [
+    "indices"
+  ],
+  "q.square.fill": [
+    "indices",
+    "multicolor"
+  ],
+  "questionmark": [
+    "multicolor"
+  ],
+  "questionmark.ar": [
+    "multicolor"
+  ],
+  "questionmark.circle": [
+    "indices",
+    "multicolor"
+  ],
+  "questionmark.circle.ar": [
+    "indices",
+    "multicolor"
+  ],
+  "questionmark.circle.fill": [
+    "indices",
+    "multicolor"
+  ],
+  "questionmark.circle.fill.ar": [
+    "indices",
+    "multicolor"
+  ],
+  "questionmark.diamond": [
+    "multicolor"
+  ],
+  "questionmark.diamond.ar": [
+    "multicolor"
+  ],
+  "questionmark.diamond.fill": [
+    "multicolor"
+  ],
+  "questionmark.diamond.fill.ar": [
+    "multicolor"
+  ],
+  "questionmark.folder": [
+    "objectsandtools"
+  ],
+  "questionmark.folder.ar": [
+    "objectsandtools"
+  ],
+  "questionmark.folder.fill": [
+    "objectsandtools"
+  ],
+  "questionmark.folder.fill.ar": [
+    "objectsandtools"
+  ],
+  "questionmark.square": [
+    "indices",
+    "multicolor"
+  ],
+  "questionmark.square.ar": [
+    "indices",
+    "multicolor"
+  ],
+  "questionmark.square.fill": [
+    "indices",
+    "multicolor"
+  ],
+  "questionmark.square.fill.ar": [
+    "indices",
+    "multicolor"
+  ],
+  "questionmark.video": [
+    "communication"
+  ],
+  "questionmark.video.ar": [
+    "communication"
+  ],
+  "questionmark.video.fill": [
+    "communication"
+  ],
+  "questionmark.video.fill.ar": [
+    "communication"
+  ],
+  "quote.bubble": [
+    "communication"
+  ],
+  "quote.bubble.fill": [
+    "communication"
+  ],
+  "quote.bubble.fill.rtl": [
+    "communication"
+  ],
+  "quote.bubble.rtl": [
+    "communication"
+  ],
+  "quote.closing": [
+    "communication"
+  ],
+  "quote.opening": [
+    "communication"
+  ],
+  "r.circle": [
+    "gaming",
+    "indices"
+  ],
+  "r.circle.fill": [
+    "gaming",
+    "indices",
+    "multicolor"
+  ],
+  "r.joystick": [
+    "gaming"
+  ],
+  "r.joystick.fill": [
+    "gaming"
+  ],
+  "r.joystick.press.down": [
+    "gaming"
+  ],
+  "r.joystick.press.down.fill": [
+    "gaming"
+  ],
+  "r.joystick.tilt.down": [
+    "gaming"
+  ],
+  "r.joystick.tilt.down.fill": [
+    "gaming"
+  ],
+  "r.joystick.tilt.left": [
+    "gaming"
+  ],
+  "r.joystick.tilt.left.fill": [
+    "gaming"
+  ],
+  "r.joystick.tilt.right": [
+    "gaming"
+  ],
+  "r.joystick.tilt.right.fill": [
+    "gaming"
+  ],
+  "r.joystick.tilt.up": [
+    "gaming"
+  ],
+  "r.joystick.tilt.up.fill": [
+    "gaming"
+  ],
+  "r.rectangle.roundedbottom": [
+    "gaming"
+  ],
+  "r.rectangle.roundedbottom.fill": [
+    "gaming"
+  ],
+  "r.square": [
+    "indices"
+  ],
+  "r.square.fill": [
+    "indices",
+    "multicolor"
+  ],
+  "r1.rectangle.roundedbottom": [
+    "gaming"
+  ],
+  "r1.rectangle.roundedbottom.fill": [
+    "gaming"
+  ],
+  "r2.rectangle.roundedtop": [
+    "gaming"
+  ],
+  "r2.rectangle.roundedtop.fill": [
+    "gaming"
+  ],
+  "radio": [
+    "objectsandtools"
+  ],
+  "radio.fill": [
+    "objectsandtools"
+  ],
+  "rb.rectangle.roundedbottom": [
+    "gaming"
+  ],
+  "rb.rectangle.roundedbottom.fill": [
+    "gaming"
+  ],
+  "record.circle": [
+    "media"
+  ],
+  "record.circle.fill": [
+    "media",
+    "multicolor"
+  ],
+  "recordingtape": [
+    "communication"
+  ],
+  "rectangle": [
+    "shapes"
+  ],
+  "rectangle.3.group.bubble.left": [
+    "communication"
+  ],
+  "rectangle.3.group.bubble.left.fill": [
+    "communication"
+  ],
+  "rectangle.and.hand.point.up.left": [
+    "human"
+  ],
+  "rectangle.and.hand.point.up.left.fill": [
+    "human"
+  ],
+  "rectangle.and.hand.point.up.left.filled": [
+    "human"
+  ],
+  "rectangle.and.paperclip": [
+    "objectsandtools"
+  ],
+  "rectangle.and.pencil.and.ellipsis": [
+    "editing",
+    "objectsandtools"
+  ],
+  "rectangle.and.pencil.and.ellipsis.rtl": [
+    "editing",
+    "objectsandtools"
+  ],
+  "rectangle.badge.checkmark": [
+    "multicolor"
+  ],
+  "rectangle.badge.minus": [
+    "multicolor"
+  ],
+  "rectangle.badge.person.crop": [
+    "human"
+  ],
+  "rectangle.badge.plus": [
+    "multicolor"
+  ],
+  "rectangle.badge.xmark": [
+    "multicolor"
+  ],
+  "rectangle.center.inset.filled.badge.plus": [
+    "multicolor"
+  ],
+  "rectangle.dashed": [
+    "editing"
+  ],
+  "rectangle.dashed.and.paperclip": [
+    "objectsandtools"
+  ],
+  "rectangle.dashed.badge.record": [
+    "editing"
+  ],
+  "rectangle.fill": [
+    "shapes"
+  ],
+  "rectangle.fill.badge.checkmark": [
+    "multicolor"
+  ],
+  "rectangle.fill.badge.minus": [
+    "multicolor"
+  ],
+  "rectangle.fill.badge.person.crop": [
+    "human"
+  ],
+  "rectangle.fill.badge.plus": [
+    "multicolor"
+  ],
+  "rectangle.fill.badge.xmark": [
+    "multicolor"
+  ],
+  "rectangle.fill.on.rectangle.fill": [
+    "gaming"
+  ],
+  "rectangle.filled.and.hand.point.up.left": [
+    "human"
+  ],
+  "rectangle.inset.filled.and.person.filled": [
+    "human"
+  ],
+  "rectangle.on.rectangle": [
+    "gaming"
+  ],
+  "rectangle.on.rectangle.circle": [
+    "gaming"
+  ],
+  "rectangle.on.rectangle.circle.fill": [
+    "gaming",
+    "multicolor"
+  ],
+  "rectangle.on.rectangle.slash.circle.fill": [
+    "multicolor"
+  ],
+  "rectangle.on.rectangle.square": [
+    "gaming"
+  ],
+  "rectangle.on.rectangle.square.fill": [
+    "gaming"
+  ],
+  "rectangle.portrait": [
+    "shapes"
+  ],
+  "rectangle.portrait.fill": [
+    "shapes"
+  ],
+  "rectangle.roundedbottom": [
+    "gaming",
+    "shapes"
+  ],
+  "rectangle.roundedbottom.fill": [
+    "gaming",
+    "shapes"
+  ],
+  "rectangle.roundedtop": [
+    "gaming",
+    "shapes"
+  ],
+  "rectangle.roundedtop.fill": [
+    "gaming",
+    "shapes"
+  ],
+  "rectangle.stack.badge.minus": [
+    "multicolor"
+  ],
+  "rectangle.stack.badge.person.crop": [
+    "human"
+  ],
+  "rectangle.stack.badge.person.crop.fill": [
+    "human"
+  ],
+  "rectangle.stack.badge.plus": [
+    "multicolor"
+  ],
+  "rectangle.stack.fill.badge.minus": [
+    "multicolor"
+  ],
+  "rectangle.stack.fill.badge.plus": [
+    "multicolor"
+  ],
+  "repeat": [
+    "media"
+  ],
+  "repeat.1": [
+    "media"
+  ],
+  "repeat.1.ar": [
+    "media"
+  ],
+  "repeat.1.circle": [
+    "media"
+  ],
+  "repeat.1.circle.ar": [
+    "media"
+  ],
+  "repeat.1.circle.fill": [
+    "media",
+    "multicolor"
+  ],
+  "repeat.1.circle.fill.ar": [
+    "media",
+    "multicolor"
+  ],
+  "repeat.1.circle.fill.hi": [
+    "media",
+    "multicolor"
+  ],
+  "repeat.1.circle.hi": [
+    "media"
+  ],
+  "repeat.1.hi": [
+    "media"
+  ],
+  "repeat.circle": [
+    "media"
+  ],
+  "repeat.circle.fill": [
+    "media",
+    "multicolor"
+  ],
+  "restart.circle.fill": [
+    "multicolor"
+  ],
+  "return": [
+    "arrows"
+  ],
+  "return.left": [
+    "arrows"
+  ],
+  "return.right": [
+    "arrows"
+  ],
+  "rhombus": [
+    "shapes"
+  ],
+  "rhombus.fill": [
+    "shapes"
+  ],
+  "rosette": [
+    "objectsandtools"
+  ],
+  "rotate.3d": [
+    "editing"
+  ],
+  "rotate.left": [
+    "editing"
+  ],
+  "rotate.left.fill": [
+    "editing"
+  ],
+  "rotate.right": [
+    "editing"
+  ],
+  "rotate.right.fill": [
+    "editing"
+  ],
+  "rt.rectangle.roundedtop": [
+    "gaming"
+  ],
+  "rt.rectangle.roundedtop.fill": [
+    "gaming"
+  ],
+  "rublesign.circle": [
+    "commerce",
+    "indices"
+  ],
+  "rublesign.circle.fill": [
+    "commerce",
+    "indices",
+    "multicolor"
+  ],
+  "rublesign.square": [
+    "commerce",
+    "indices"
+  ],
+  "rublesign.square.fill": [
+    "commerce",
+    "indices",
+    "multicolor"
+  ],
+  "ruler": [
+    "objectsandtools"
+  ],
+  "ruler.fill": [
+    "objectsandtools"
+  ],
+  "rupeesign.circle": [
+    "commerce",
+    "indices"
+  ],
+  "rupeesign.circle.fill": [
+    "commerce",
+    "indices",
+    "multicolor"
+  ],
+  "rupeesign.square": [
+    "commerce",
+    "indices"
+  ],
+  "rupeesign.square.fill": [
+    "commerce",
+    "indices",
+    "multicolor"
+  ],
+  "s.circle": [
+    "indices"
+  ],
+  "s.circle.fill": [
+    "indices",
+    "multicolor"
+  ],
+  "s.square": [
+    "indices"
+  ],
+  "s.square.fill": [
+    "indices",
+    "multicolor"
+  ],
+  "scale.3d": [
+    "editing"
+  ],
+  "scalemass": [
+    "objectsandtools"
+  ],
+  "scalemass.fill": [
+    "objectsandtools"
+  ],
+  "scanner": [
+    "devices",
+    "objectsandtools"
+  ],
+  "scanner.fill": [
+    "devices",
+    "objectsandtools"
+  ],
+  "scissors": [
+    "editing",
+    "objectsandtools"
+  ],
+  "scissors.badge.ellipsis": [
+    "editing",
+    "objectsandtools"
+  ],
+  "scissors.circle": [
+    "editing",
+    "objectsandtools"
+  ],
+  "scissors.circle.fill": [
+    "editing",
+    "objectsandtools"
+  ],
+  "scooter": [
+    "transportation"
+  ],
+  "screwdriver": [
+    "objectsandtools"
+  ],
+  "screwdriver.fill": [
+    "objectsandtools"
+  ],
+  "scribble": [
+    "editing"
+  ],
+  "scribble.variable": [
+    "editing"
+  ],
+  "scroll": [
+    "objectsandtools"
+  ],
+  "scroll.fill": [
+    "objectsandtools"
+  ],
+  "sdcard": [
+    "objectsandtools"
+  ],
+  "sdcard.fill": [
+    "objectsandtools"
+  ],
+  "seal": [
+    "shapes"
+  ],
+  "seal.fill": [
+    "shapes"
+  ],
+  "selection.pin.in.out": [
+    "editing"
+  ],
+  "sensor.tag.radiowaves.forward": [
+    "objectsandtools"
+  ],
+  "sensor.tag.radiowaves.forward.fill": [
+    "objectsandtools"
+  ],
+  "server.rack": [
+    "devices"
+  ],
+  "shadow": [
+    "multicolor",
+    "textformatting"
+  ],
+  "shareplay": [
+    "human"
+  ],
+  "shareplay.slash": [
+    "human"
+  ],
+  "shekelsign.circle": [
+    "commerce",
+    "indices"
+  ],
+  "shekelsign.circle.fill": [
+    "commerce",
+    "indices",
+    "multicolor"
+  ],
+  "shekelsign.square": [
+    "commerce",
+    "indices"
+  ],
+  "shekelsign.square.fill": [
+    "commerce",
+    "indices",
+    "multicolor"
+  ],
+  "shield": [
+    "objectsandtools",
+    "shapes"
+  ],
+  "shield.fill": [
+    "objectsandtools",
+    "shapes"
+  ],
+  "shield.lefthalf.filled": [
+    "objectsandtools"
+  ],
+  "shield.lefthalf.filled.slash": [
+    "objectsandtools"
+  ],
+  "shield.righthalf.filled": [
+    "objectsandtools"
+  ],
+  "shield.slash": [
+    "objectsandtools"
+  ],
+  "shield.slash.fill": [
+    "objectsandtools"
+  ],
+  "shift": [
+    "keyboard"
+  ],
+  "shift.fill": [
+    "keyboard"
+  ],
+  "shippingbox": [
+    "objectsandtools"
+  ],
+  "shippingbox.circle": [
+    "objectsandtools"
+  ],
+  "shippingbox.circle.fill": [
+    "objectsandtools"
+  ],
+  "shippingbox.fill": [
+    "objectsandtools"
+  ],
+  "shuffle": [
+    "media"
+  ],
+  "shuffle.circle": [
+    "media"
+  ],
+  "shuffle.circle.fill": [
+    "media",
+    "multicolor"
+  ],
+  "signature": [
+    "commerce",
+    "editing",
+    "textformatting"
+  ],
+  "signature.ar": [
+    "commerce",
+    "editing",
+    "textformatting"
+  ],
+  "signature.he": [
+    "commerce",
+    "editing",
+    "textformatting"
+  ],
+  "signature.ja": [
+    "commerce",
+    "editing",
+    "textformatting"
+  ],
+  "signature.th": [
+    "commerce",
+    "editing",
+    "textformatting"
+  ],
+  "signature.zh": [
+    "commerce",
+    "editing",
+    "textformatting"
+  ],
+  "simcard": [
+    "objectsandtools"
+  ],
+  "simcard.2": [
+    "objectsandtools"
+  ],
+  "simcard.2.fill": [
+    "objectsandtools"
+  ],
+  "simcard.fill": [
+    "objectsandtools"
+  ],
+  "skew": [
+    "editing"
+  ],
+  "slash.circle.fill": [
+    "multicolor"
+  ],
+  "sleep.circle.fill": [
+    "multicolor"
+  ],
+  "slider.horizontal.3": [
+    "editing"
+  ],
+  "slider.horizontal.below.rectangle": [
+    "editing"
+  ],
+  "slider.horizontal.below.square.filled.and.square": [
+    "editing"
+  ],
+  "slider.vertical.3": [
+    "editing"
+  ],
+  "smallcircle.circle.fill": [
+    "multicolor"
+  ],
+  "smallcircle.filled.circle.fill": [
+    "multicolor"
+  ],
+  "smoke": [
+    "weather"
+  ],
+  "smoke.fill": [
+    "multicolor",
+    "weather"
+  ],
+  "snowflake": [
+    "multicolor",
+    "weather"
+  ],
+  "snowflake.circle": [
+    "weather"
+  ],
+  "snowflake.circle.fill": [
+    "weather"
+  ],
+  "sparkle": [
+    "multicolor"
+  ],
+  "sparkle.magnifyingglass": [
+    "objectsandtools"
+  ],
+  "sparkles": [
+    "multicolor",
+    "weather"
+  ],
+  "sparkles.tv": [
+    "devices"
+  ],
+  "sparkles.tv.fill": [
+    "devices"
+  ],
+  "speaker": [
+    "objectsandtools"
+  ],
+  "speaker.badge.exclamationmark": [
+    "multicolor",
+    "objectsandtools"
+  ],
+  "speaker.badge.exclamationmark.fill": [
+    "multicolor",
+    "objectsandtools"
+  ],
+  "speaker.circle": [
+    "objectsandtools"
+  ],
+  "speaker.circle.fill": [
+    "multicolor",
+    "objectsandtools"
+  ],
+  "speaker.fill": [
+    "objectsandtools"
+  ],
+  "speaker.slash": [
+    "objectsandtools"
+  ],
+  "speaker.slash.circle": [
+    "objectsandtools"
+  ],
+  "speaker.slash.circle.fill": [
+    "multicolor",
+    "objectsandtools"
+  ],
+  "speaker.slash.circle.fill.rtl": [
+    "multicolor",
+    "objectsandtools"
+  ],
+  "speaker.slash.circle.rtl": [
+    "objectsandtools"
+  ],
+  "speaker.slash.fill": [
+    "objectsandtools"
+  ],
+  "speaker.slash.fill.rtl": [
+    "objectsandtools"
+  ],
+  "speaker.slash.rtl": [
+    "objectsandtools"
+  ],
+  "speaker.wave.1": [
+    "objectsandtools"
+  ],
+  "speaker.wave.1.fill": [
+    "objectsandtools"
+  ],
+  "speaker.wave.2": [
+    "objectsandtools"
+  ],
+  "speaker.wave.2.circle": [
+    "objectsandtools"
+  ],
+  "speaker.wave.2.circle.fill": [
+    "multicolor",
+    "objectsandtools"
+  ],
+  "speaker.wave.2.fill": [
+    "objectsandtools"
+  ],
+  "speaker.wave.3": [
+    "objectsandtools"
+  ],
+  "speaker.wave.3.fill": [
+    "objectsandtools"
+  ],
+  "speaker.zzz": [
+    "objectsandtools"
+  ],
+  "speaker.zzz.fill": [
+    "objectsandtools"
+  ],
+  "speaker.zzz.fill.rtl": [
+    "objectsandtools"
+  ],
+  "speaker.zzz.rtl": [
+    "objectsandtools"
+  ],
+  "speedometer": [
+    "objectsandtools"
+  ],
+  "square": [
+    "shapes"
+  ],
+  "square.and.arrow.up.trianglebadge.exclamationmark": [
+    "multicolor"
+  ],
+  "square.and.pencil": [
+    "editing",
+    "objectsandtools"
+  ],
+  "square.circle": [
+    "gaming"
+  ],
+  "square.circle.fill": [
+    "gaming",
+    "multicolor"
+  ],
+  "square.dashed": [
+    "editing"
+  ],
+  "square.dashed.inset.filled": [
+    "editing"
+  ],
+  "square.fill": [
+    "shapes"
+  ],
+  "square.grid.3x1.folder.badge.plus": [
+    "multicolor",
+    "objectsandtools"
+  ],
+  "square.grid.3x1.folder.fill.badge.plus": [
+    "multicolor",
+    "objectsandtools"
+  ],
+  "star": [
+    "multicolor"
+  ],
+  "star.bubble": [
+    "communication"
+  ],
+  "star.bubble.fill": [
+    "communication"
+  ],
+  "star.circle": [
+    "multicolor"
+  ],
+  "star.circle.fill": [
+    "multicolor"
+  ],
+  "star.fill": [
+    "multicolor"
+  ],
+  "star.square": [
+    "multicolor"
+  ],
+  "star.square.fill": [
+    "multicolor"
+  ],
+  "staroflife": [
+    "health"
+  ],
+  "staroflife.circle": [
+    "health"
+  ],
+  "staroflife.circle.fill": [
+    "health",
+    "multicolor"
+  ],
+  "staroflife.fill": [
+    "health"
+  ],
+  "sterlingsign.circle": [
+    "commerce",
+    "indices"
+  ],
+  "sterlingsign.circle.fill": [
+    "commerce",
+    "indices",
+    "multicolor"
+  ],
+  "sterlingsign.square": [
+    "commerce",
+    "indices"
+  ],
+  "sterlingsign.square.fill": [
+    "commerce",
+    "indices",
+    "multicolor"
+  ],
+  "stethoscope": [
+    "multicolor",
+    "objectsandtools"
+  ],
+  "stethoscope.circle": [
+    "objectsandtools"
+  ],
+  "stethoscope.circle.fill": [
+    "objectsandtools"
+  ],
+  "stop": [
+    "media"
+  ],
+  "stop.circle": [
+    "media"
+  ],
+  "stop.circle.fill": [
+    "media",
+    "multicolor"
+  ],
+  "stop.fill": [
+    "media"
+  ],
+  "stopwatch": [
+    "multicolor",
+    "objectsandtools",
+    "time"
+  ],
+  "stopwatch.fill": [
+    "objectsandtools",
+    "time"
+  ],
+  "strikethrough": [
+    "multicolor",
+    "textformatting"
+  ],
+  "studentdesk": [
+    "objectsandtools"
+  ],
+  "suit.club": [
+    "multicolor"
+  ],
+  "suit.club.fill": [
+    "multicolor"
+  ],
+  "suit.diamond": [
+    "multicolor"
+  ],
+  "suit.diamond.fill": [
+    "multicolor"
+  ],
+  "suit.heart": [
+    "multicolor"
+  ],
+  "suit.heart.fill": [
+    "multicolor"
+  ],
+  "suit.spade": [
+    "multicolor"
+  ],
+  "suit.spade.fill": [
+    "multicolor"
+  ],
+  "suitcase": [
+    "objectsandtools"
+  ],
+  "suitcase.cart": [
+    "objectsandtools"
+  ],
+  "suitcase.cart.fill": [
+    "objectsandtools"
+  ],
+  "suitcase.fill": [
+    "objectsandtools"
+  ],
+  "sum": [
+    "math"
+  ],
+  "sum.ar": [
+    "math"
+  ],
+  "sun.and.horizon": [
+    "weather"
+  ],
+  "sun.and.horizon.fill": [
+    "multicolor",
+    "weather"
+  ],
+  "sun.dust": [
+    "weather"
+  ],
+  "sun.dust.fill": [
+    "multicolor",
+    "weather"
+  ],
+  "sun.haze": [
+    "weather"
+  ],
+  "sun.haze.fill": [
+    "multicolor",
+    "weather"
+  ],
+  "sun.max": [
+    "keyboard",
+    "weather"
+  ],
+  "sun.max.circle": [
+    "keyboard",
+    "weather"
+  ],
+  "sun.max.circle.fill": [
+    "keyboard",
+    "multicolor",
+    "weather"
+  ],
+  "sun.max.fill": [
+    "keyboard",
+    "multicolor",
+    "weather"
+  ],
+  "sun.min": [
+    "keyboard",
+    "weather"
+  ],
+  "sun.min.fill": [
+    "keyboard",
+    "weather"
+  ],
+  "sunrise": [
+    "weather"
+  ],
+  "sunrise.fill": [
+    "multicolor",
+    "weather"
+  ],
+  "sunset": [
+    "weather"
+  ],
+  "sunset.fill": [
+    "multicolor",
+    "weather"
+  ],
+  "t.circle": [
+    "indices"
+  ],
+  "t.circle.fill": [
+    "indices",
+    "multicolor"
+  ],
+  "t.square": [
+    "indices"
+  ],
+  "t.square.fill": [
+    "indices",
+    "multicolor"
+  ],
+  "tag": [
+    "objectsandtools"
+  ],
+  "tag.circle": [
+    "objectsandtools"
+  ],
+  "tag.circle.fill": [
+    "multicolor",
+    "objectsandtools"
+  ],
+  "tag.fill": [
+    "objectsandtools"
+  ],
+  "tag.slash": [
+    "objectsandtools"
+  ],
+  "tag.slash.fill": [
+    "objectsandtools"
+  ],
+  "tag.square": [
+    "objectsandtools"
+  ],
+  "tag.square.fill": [
+    "objectsandtools"
+  ],
+  "takeoutbag.and.cup.and.straw": [
+    "objectsandtools"
+  ],
+  "takeoutbag.and.cup.and.straw.fill": [
+    "objectsandtools"
+  ],
+  "teletype": [
+    "communication",
+    "multicolor"
+  ],
+  "teletype.answer": [
+    "communication",
+    "multicolor"
+  ],
+  "teletype.answer.circle": [
+    "communication",
+    "multicolor"
+  ],
+  "teletype.answer.circle.fill": [
+    "communication",
+    "multicolor"
+  ],
+  "teletype.circle": [
+    "communication",
+    "multicolor"
+  ],
+  "teletype.circle.fill": [
+    "communication",
+    "multicolor"
+  ],
+  "tengesign.circle": [
+    "commerce",
+    "indices"
+  ],
+  "tengesign.circle.fill": [
+    "commerce",
+    "indices",
+    "multicolor"
+  ],
+  "tengesign.square": [
+    "commerce",
+    "indices"
+  ],
+  "tengesign.square.fill": [
+    "commerce",
+    "indices",
+    "multicolor"
+  ],
+  "testtube.2": [
+    "multicolor",
+    "objectsandtools"
+  ],
+  "text.aligncenter": [
+    "textformatting"
+  ],
+  "text.alignleft": [
+    "textformatting"
+  ],
+  "text.alignright": [
+    "textformatting"
+  ],
+  "text.append": [
+    "media"
+  ],
+  "text.badge.checkmark": [
+    "multicolor"
+  ],
+  "text.badge.checkmark.rtl": [
+    "multicolor"
+  ],
+  "text.badge.minus": [
+    "multicolor"
+  ],
+  "text.badge.plus": [
+    "multicolor"
+  ],
+  "text.badge.star": [
+    "multicolor"
+  ],
+  "text.badge.xmark": [
+    "multicolor"
+  ],
+  "text.book.closed": [
+    "objectsandtools"
+  ],
+  "text.book.closed.fill": [
+    "objectsandtools"
+  ],
+  "text.bubble": [
+    "communication"
+  ],
+  "text.bubble.fill": [
+    "communication"
+  ],
+  "text.bubble.fill.rtl": [
+    "communication"
+  ],
+  "text.bubble.rtl": [
+    "communication"
+  ],
+  "text.insert": [
+    "media"
+  ],
+  "text.justify": [
+    "textformatting"
+  ],
+  "text.justify.leading": [
+    "textformatting"
+  ],
+  "text.justify.left": [
+    "textformatting"
+  ],
+  "text.justify.right": [
+    "textformatting"
+  ],
+  "text.justify.trailing": [
+    "textformatting"
+  ],
+  "text.magnifyingglass": [
+    "objectsandtools"
+  ],
+  "text.magnifyingglass.rtl": [
+    "objectsandtools"
+  ],
+  "text.redaction": [
+    "textformatting"
+  ],
+  "textformat": [
+    "textformatting"
+  ],
+  "textformat.123": [
+    "textformatting"
+  ],
+  "textformat.123.ar": [
+    "textformatting"
+  ],
+  "textformat.123.hi": [
+    "textformatting"
+  ],
+  "textformat.abc": [
+    "textformatting"
+  ],
+  "textformat.abc.dottedunderline": [
+    "multicolor",
+    "textformatting"
+  ],
+  "textformat.alt": [
+    "textformatting"
+  ],
+  "textformat.size": [
+    "textformatting"
+  ],
+  "textformat.size.ar": [
+    "textformatting"
+  ],
+  "textformat.size.he": [
+    "textformatting"
+  ],
+  "textformat.size.hi": [
+    "textformatting"
+  ],
+  "textformat.size.ja": [
+    "textformatting"
+  ],
+  "textformat.size.ko": [
+    "textformatting"
+  ],
+  "textformat.size.larger": [
+    "textformatting"
+  ],
+  "textformat.size.larger.ar": [
+    "textformatting"
+  ],
+  "textformat.size.larger.he": [
+    "textformatting"
+  ],
+  "textformat.size.larger.hi": [
+    "textformatting"
+  ],
+  "textformat.size.larger.ja": [
+    "textformatting"
+  ],
+  "textformat.size.larger.ko": [
+    "textformatting"
+  ],
+  "textformat.size.larger.th": [
+    "textformatting"
+  ],
+  "textformat.size.larger.zh": [
+    "textformatting"
+  ],
+  "textformat.size.smaller": [
+    "textformatting"
+  ],
+  "textformat.size.smaller.ar": [
+    "textformatting"
+  ],
+  "textformat.size.smaller.he": [
+    "textformatting"
+  ],
+  "textformat.size.smaller.hi": [
+    "textformatting"
+  ],
+  "textformat.size.smaller.ja": [
+    "textformatting"
+  ],
+  "textformat.size.smaller.ko": [
+    "textformatting"
+  ],
+  "textformat.size.smaller.th": [
+    "textformatting"
+  ],
+  "textformat.size.smaller.zh": [
+    "textformatting"
+  ],
+  "textformat.size.th": [
+    "textformatting"
+  ],
+  "textformat.size.zh": [
+    "textformatting"
+  ],
+  "textformat.subscript": [
+    "textformatting"
+  ],
+  "textformat.subscript.ar": [
+    "textformatting"
+  ],
+  "textformat.subscript.he": [
+    "textformatting"
+  ],
+  "textformat.subscript.hi": [
+    "textformatting"
+  ],
+  "textformat.subscript.ja": [
+    "textformatting"
+  ],
+  "textformat.subscript.ko": [
+    "textformatting"
+  ],
+  "textformat.subscript.th": [
+    "textformatting"
+  ],
+  "textformat.subscript.zh": [
+    "textformatting"
+  ],
+  "textformat.superscript": [
+    "textformatting"
+  ],
+  "textformat.superscript.ar": [
+    "textformatting"
+  ],
+  "textformat.superscript.he": [
+    "textformatting"
+  ],
+  "textformat.superscript.hi": [
+    "textformatting"
+  ],
+  "textformat.superscript.ja": [
+    "textformatting"
+  ],
+  "textformat.superscript.ko": [
+    "textformatting"
+  ],
+  "textformat.superscript.th": [
+    "textformatting"
+  ],
+  "textformat.superscript.zh": [
+    "textformatting"
+  ],
+  "theatermasks": [
+    "objectsandtools"
+  ],
+  "theatermasks.circle": [
+    "objectsandtools"
+  ],
+  "theatermasks.circle.fill": [
+    "objectsandtools"
+  ],
+  "theatermasks.fill": [
+    "objectsandtools"
+  ],
+  "thermometer": [
+    "multicolor",
+    "weather"
+  ],
+  "thermometer.snowflake": [
+    "multicolor",
+    "weather"
+  ],
+  "thermometer.sun": [
+    "weather"
+  ],
+  "thermometer.sun.fill": [
+    "multicolor",
+    "weather"
+  ],
+  "ticket": [
+    "objectsandtools"
+  ],
+  "ticket.fill": [
+    "objectsandtools"
+  ],
+  "timeline.selection": [
+    "editing"
+  ],
+  "timer": [
+    "multicolor",
+    "objectsandtools",
+    "time"
+  ],
+  "timer.square": [
+    "objectsandtools",
+    "time"
+  ],
+  "tornado": [
+    "multicolor",
+    "weather"
+  ],
+  "tortoise": [
+    "nature"
+  ],
+  "tortoise.fill": [
+    "nature"
+  ],
+  "touchid": [
+    "multicolor"
+  ],
+  "train.side.front.car": [
+    "transportation"
+  ],
+  "train.side.middle.car": [
+    "transportation"
+  ],
+  "train.side.rear.car": [
+    "transportation"
+  ],
+  "tram": [
+    "transportation"
+  ],
+  "tram.circle": [
+    "transportation"
+  ],
+  "tram.circle.fill": [
+    "multicolor",
+    "transportation"
+  ],
+  "tram.fill": [
+    "transportation"
+  ],
+  "tram.fill.tunnel": [
+    "transportation"
+  ],
+  "trapezoid.and.line.horizontal": [
+    "editing"
+  ],
+  "trapezoid.and.line.horizontal.fill": [
+    "editing"
+  ],
+  "trapezoid.and.line.vertical": [
+    "editing"
+  ],
+  "trapezoid.and.line.vertical.fill": [
+    "editing"
+  ],
+  "trash": [
+    "multicolor",
+    "objectsandtools"
+  ],
+  "trash.circle": [
+    "multicolor",
+    "objectsandtools"
+  ],
+  "trash.circle.fill": [
+    "multicolor",
+    "objectsandtools"
+  ],
+  "trash.fill": [
+    "multicolor",
+    "objectsandtools"
+  ],
+  "trash.slash": [
+    "multicolor",
+    "objectsandtools"
+  ],
+  "trash.slash.circle": [
+    "multicolor",
+    "objectsandtools"
+  ],
+  "trash.slash.circle.fill": [
+    "multicolor",
+    "objectsandtools"
+  ],
+  "trash.slash.fill": [
+    "multicolor",
+    "objectsandtools"
+  ],
+  "trash.slash.square": [
+    "multicolor",
+    "objectsandtools"
+  ],
+  "trash.slash.square.fill": [
+    "multicolor",
+    "objectsandtools"
+  ],
+  "trash.square": [
+    "multicolor",
+    "objectsandtools"
+  ],
+  "trash.square.fill": [
+    "multicolor",
+    "objectsandtools"
+  ],
+  "tray": [
+    "objectsandtools"
+  ],
+  "tray.2": [
+    "objectsandtools"
+  ],
+  "tray.2.fill": [
+    "objectsandtools"
+  ],
+  "tray.and.arrow.down": [
+    "objectsandtools"
+  ],
+  "tray.and.arrow.down.fill": [
+    "objectsandtools"
+  ],
+  "tray.and.arrow.up": [
+    "objectsandtools"
+  ],
+  "tray.and.arrow.up.fill": [
+    "objectsandtools"
+  ],
+  "tray.circle": [
+    "objectsandtools"
+  ],
+  "tray.circle.fill": [
+    "multicolor",
+    "objectsandtools"
+  ],
+  "tray.fill": [
+    "objectsandtools"
+  ],
+  "tray.full": [
+    "objectsandtools"
+  ],
+  "tray.full.fill": [
+    "objectsandtools"
+  ],
+  "triangle": [
+    "shapes"
+  ],
+  "triangle.circle": [
+    "gaming"
+  ],
+  "triangle.circle.fill": [
+    "gaming",
+    "multicolor"
+  ],
+  "triangle.fill": [
+    "shapes"
+  ],
+  "tropicalstorm": [
+    "multicolor",
+    "weather"
+  ],
+  "tshirt": [
+    "human"
+  ],
+  "tshirt.fill": [
+    "human"
+  ],
+  "tugriksign.circle": [
+    "commerce",
+    "indices"
+  ],
+  "tugriksign.circle.fill": [
+    "commerce",
+    "indices",
+    "multicolor"
+  ],
+  "tugriksign.square": [
+    "commerce",
+    "indices"
+  ],
+  "tugriksign.square.fill": [
+    "commerce",
+    "indices",
+    "multicolor"
+  ],
+  "tuningfork": [
+    "objectsandtools"
+  ],
+  "turkishlirasign.circle": [
+    "commerce",
+    "indices"
+  ],
+  "turkishlirasign.circle.fill": [
+    "commerce",
+    "indices",
+    "multicolor"
+  ],
+  "turkishlirasign.square": [
+    "commerce",
+    "indices"
+  ],
+  "turkishlirasign.square.fill": [
+    "commerce",
+    "indices",
+    "multicolor"
+  ],
+  "tv": [
+    "devices"
+  ],
+  "tv.and.hifispeaker.fill": [
+    "devices"
+  ],
+  "tv.and.mediabox": [
+    "devices"
+  ],
+  "tv.circle": [
+    "devices"
+  ],
+  "tv.circle.fill": [
+    "devices",
+    "multicolor"
+  ],
+  "tv.fill": [
+    "devices"
+  ],
+  "tv.inset.filled": [
+    "devices"
+  ],
+  "u.circle": [
+    "indices"
+  ],
+  "u.circle.fill": [
+    "indices",
+    "multicolor"
+  ],
+  "u.square": [
+    "indices"
+  ],
+  "u.square.fill": [
+    "indices",
+    "multicolor"
+  ],
+  "umbrella": [
+    "objectsandtools"
+  ],
+  "umbrella.fill": [
+    "objectsandtools"
+  ],
+  "underline": [
+    "multicolor",
+    "textformatting"
+  ],
+  "v.circle": [
+    "indices"
+  ],
+  "v.circle.fill": [
+    "indices",
+    "multicolor"
+  ],
+  "v.square": [
+    "indices"
+  ],
+  "v.square.fill": [
+    "indices",
+    "multicolor"
+  ],
+  "video": [
+    "communication",
+    "multicolor"
+  ],
+  "video.and.waveform": [
+    "communication"
+  ],
+  "video.and.waveform.fill": [
+    "communication"
+  ],
+  "video.badge.checkmark": [
+    "communication",
+    "multicolor"
+  ],
+  "video.badge.ellipsis": [
+    "communication"
+  ],
+  "video.badge.plus": [
+    "communication",
+    "multicolor"
+  ],
+  "video.bubble.left": [
+    "communication"
+  ],
+  "video.bubble.left.fill": [
+    "communication"
+  ],
+  "video.circle": [
+    "communication",
+    "multicolor"
+  ],
+  "video.circle.fill": [
+    "communication",
+    "multicolor"
+  ],
+  "video.fill": [
+    "communication",
+    "multicolor"
+  ],
+  "video.fill.badge.checkmark": [
+    "communication",
+    "multicolor"
+  ],
+  "video.fill.badge.ellipsis": [
+    "communication"
+  ],
+  "video.fill.badge.plus": [
+    "communication",
+    "multicolor"
+  ],
+  "video.slash": [
+    "communication"
+  ],
+  "video.slash.fill": [
+    "communication"
+  ],
+  "video.square": [
+    "communication",
+    "multicolor"
+  ],
+  "video.square.fill": [
+    "communication",
+    "multicolor"
+  ],
+  "viewfinder.circle.fill": [
+    "multicolor"
+  ],
+  "w.circle": [
+    "indices"
+  ],
+  "w.circle.fill": [
+    "indices",
+    "multicolor"
+  ],
+  "w.square": [
+    "indices"
+  ],
+  "w.square.fill": [
+    "indices",
+    "multicolor"
+  ],
+  "wake.circle.fill": [
+    "multicolor"
+  ],
+  "wallet.pass": [
+    "objectsandtools"
+  ],
+  "wallet.pass.fill": [
+    "objectsandtools"
+  ],
+  "wand.and.rays": [
+    "editing",
+    "objectsandtools"
+  ],
+  "wand.and.rays.inverse": [
+    "editing",
+    "objectsandtools"
+  ],
+  "wand.and.stars": [
+    "editing",
+    "objectsandtools"
+  ],
+  "wand.and.stars.inverse": [
+    "editing",
+    "objectsandtools"
+  ],
+  "watchface.applewatch.case": [
+    "devices"
+  ],
+  "wave.3.backward": [
+    "connectivity"
+  ],
+  "wave.3.backward.circle": [
+    "connectivity"
+  ],
+  "wave.3.backward.circle.fill": [
+    "connectivity",
+    "multicolor"
+  ],
+  "wave.3.forward": [
+    "connectivity"
+  ],
+  "wave.3.forward.circle": [
+    "connectivity"
+  ],
+  "wave.3.forward.circle.fill": [
+    "connectivity",
+    "multicolor"
+  ],
+  "wave.3.left": [
+    "connectivity"
+  ],
+  "wave.3.left.circle": [
+    "connectivity"
+  ],
+  "wave.3.left.circle.fill": [
+    "connectivity",
+    "multicolor"
+  ],
+  "wave.3.right": [
+    "connectivity"
+  ],
+  "wave.3.right.circle": [
+    "connectivity"
+  ],
+  "wave.3.right.circle.fill": [
+    "connectivity",
+    "multicolor"
+  ],
+  "waveform": [
+    "communication"
+  ],
+  "waveform.and.magnifyingglass": [
+    "communication"
+  ],
+  "waveform.and.mic": [
+    "communication"
+  ],
+  "waveform.badge.exclamationmark": [
+    "communication",
+    "multicolor"
+  ],
+  "waveform.badge.minus": [
+    "communication",
+    "multicolor"
+  ],
+  "waveform.badge.plus": [
+    "communication",
+    "multicolor"
+  ],
+  "waveform.circle": [
+    "communication"
+  ],
+  "waveform.circle.fill": [
+    "communication",
+    "multicolor"
+  ],
+  "waveform.path.badge.minus": [
+    "multicolor"
+  ],
+  "waveform.path.badge.plus": [
+    "multicolor"
+  ],
+  "waveform.path.ecg": [
+    "health"
+  ],
+  "waveform.path.ecg.rectangle": [
+    "health",
+    "multicolor"
+  ],
+  "waveform.path.ecg.rectangle.fill": [
+    "health"
+  ],
+  "wifi": [
+    "connectivity",
+    "multicolor"
+  ],
+  "wifi.circle": [
+    "connectivity",
+    "multicolor"
+  ],
+  "wifi.circle.fill": [
+    "connectivity",
+    "multicolor"
+  ],
+  "wifi.exclamationmark": [
+    "connectivity"
+  ],
+  "wifi.slash": [
+    "connectivity"
+  ],
+  "wifi.square": [
+    "connectivity"
+  ],
+  "wifi.square.fill": [
+    "connectivity"
+  ],
+  "wind": [
+    "multicolor",
+    "weather"
+  ],
+  "wind.snow": [
+    "multicolor",
+    "weather"
+  ],
+  "wonsign.circle": [
+    "commerce",
+    "indices"
+  ],
+  "wonsign.circle.fill": [
+    "commerce",
+    "indices",
+    "multicolor"
+  ],
+  "wonsign.square": [
+    "commerce",
+    "indices"
+  ],
+  "wonsign.square.fill": [
+    "commerce",
+    "indices",
+    "multicolor"
+  ],
+  "wrench": [
+    "objectsandtools"
+  ],
+  "wrench.and.screwdriver": [
+    "objectsandtools"
+  ],
+  "wrench.and.screwdriver.fill": [
+    "objectsandtools"
+  ],
+  "wrench.fill": [
+    "objectsandtools"
+  ],
+  "x.circle": [
+    "gaming",
+    "indices"
+  ],
+  "x.circle.fill": [
+    "gaming",
+    "indices",
+    "multicolor"
+  ],
+  "x.square": [
+    "indices"
+  ],
+  "x.square.fill": [
+    "indices",
+    "multicolor"
+  ],
+  "x.squareroot": [
+    "math"
+  ],
+  "xmark": [
+    "gaming",
+    "multicolor"
+  ],
+  "xmark.bin": [
+    "objectsandtools"
+  ],
+  "xmark.bin.circle": [
+    "objectsandtools"
+  ],
+  "xmark.bin.circle.fill": [
+    "multicolor",
+    "objectsandtools"
+  ],
+  "xmark.bin.fill": [
+    "objectsandtools"
+  ],
+  "xmark.circle": [
+    "gaming",
+    "multicolor"
+  ],
+  "xmark.circle.fill": [
+    "gaming",
+    "multicolor"
+  ],
+  "xmark.icloud": [
+    "connectivity"
+  ],
+  "xmark.icloud.fill": [
+    "connectivity"
+  ],
+  "xmark.octagon": [
+    "multicolor"
+  ],
+  "xmark.octagon.fill": [
+    "multicolor"
+  ],
+  "xmark.shield": [
+    "objectsandtools"
+  ],
+  "xmark.shield.fill": [
+    "objectsandtools"
+  ],
+  "xmark.square": [
+    "multicolor"
+  ],
+  "xmark.square.fill": [
+    "multicolor"
+  ],
+  "xserve": [
+    "devices"
+  ],
+  "y.circle": [
+    "gaming",
+    "indices"
+  ],
+  "y.circle.fill": [
+    "gaming",
+    "indices",
+    "multicolor"
+  ],
+  "y.square": [
+    "indices"
+  ],
+  "y.square.fill": [
+    "indices",
+    "multicolor"
+  ],
+  "yensign.circle": [
+    "commerce",
+    "indices"
+  ],
+  "yensign.circle.fill": [
+    "commerce",
+    "indices",
+    "multicolor"
+  ],
+  "yensign.square": [
+    "commerce",
+    "indices"
+  ],
+  "yensign.square.fill": [
+    "commerce",
+    "indices",
+    "multicolor"
+  ],
+  "z.circle": [
+    "indices"
+  ],
+  "z.circle.fill": [
+    "indices",
+    "multicolor"
+  ],
+  "z.square": [
+    "indices"
+  ],
+  "z.square.fill": [
+    "indices",
+    "multicolor"
+  ],
+  "zl.rectangle.roundedtop": [
+    "gaming"
+  ],
+  "zl.rectangle.roundedtop.fill": [
+    "gaming"
+  ],
+  "zr.rectangle.roundedtop": [
+    "gaming"
+  ],
+  "zr.rectangle.roundedtop.fill": [
+    "gaming"
+  ]
+}
