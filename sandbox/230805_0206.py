@@ -1,16 +1,12 @@
 from objc_util import ObjCClass, nsurl
-from objc_util import NSDictionary
+#from objc_util import NSDictionary
 
 import pdbg
-
 
 NSBundle = ObjCClass('NSBundle')
 #NSDictionary = ObjCClass('NSDictionary')
 
-
-
 symbol_search_plist = '/System/Library/CoreServices/CoreGlyphs.bundle/symbol_search.plist'
-
 
 #path = NSBundle.bundleWithPath_(symbol_search_plist).bundlePath()
 
@@ -22,6 +18,11 @@ symbol_search_plist = '/System/Library/CoreServices/CoreGlyphs.bundle/symbol_sea
 
 #pdbg.state(NSDictionary.new())
 
+#pdbg.state(NSBundle.mainBundle())
 
-pdbg.state(NSBundle.mainBundle())
+coreGlyphsBundle_path = '/System/Library/CoreServices/CoreGlyphs.bundle'
+
+bundle = NSBundle.bundleWithPath_(coreGlyphsBundle_path).bundlePath()
+
+pdbg.state(bundle)
 
