@@ -1,9 +1,13 @@
 from objc_util import ObjCClass, nsurl
-#from objc_util import NSDictionary
+from objc_util import NSDictionary
 
 import pdbg
 
-NSDictionary = ObjCClass('NSDictionary')
+
+NSBundle = ObjCClass('NSBundle')
+#NSDictionary = ObjCClass('NSDictionary')
+
+
 
 symbol_search_plist = '/System/Library/CoreServices/CoreGlyphs.bundle/symbol_search.plist'
 
