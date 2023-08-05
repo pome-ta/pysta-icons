@@ -1,3 +1,19 @@
+# 📝 2023/08/06
+
+
+```
+symbol_categories.plist: 4375
+symbol_search.plist: 1925
+legacy_flippable.plist: 75
+name_availability.plist: 2
+Info.plist: 22
+categories.plist: 30
+symbol_order.plist: 4824
+
+```
+
+
+
 # 📝 2023/08/05
 
 [Get list of SF Symbol names in code | Apple Developer Forums](https://developer.apple.com/forums/thread/695321)
@@ -5,6 +21,11 @@
 ```
 /System/Library/CoreServices/CoreGlyphs.bundle
 ```
+
+
+
+
+
 
 # 📝 2023/08/04
 
