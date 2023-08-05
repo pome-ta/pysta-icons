@@ -1,6 +1,7 @@
 # 📝 2023/08/06
 
 
+## iOS
 ```
 symbol_categories.plist: 4375
 symbol_search.plist: 1925
@@ -11,6 +12,32 @@ categories.plist: 30
 symbol_order.plist: 4824
 
 ```
+
+## macOS
+
+```
+Info.plist: 20
+version.plist: 5
+symbol_categories.plist: 2888
+symbol_search.plist: 1584
+legacy_flippable.plist: 75
+name_availability.plist: 2
+categories.plist: 23
+symbol_order.plist: 3524
+```
+
+## 比較
+
+
+| No. | name | iOS | macOS |
+| ---- | ---- | ---- | ---- |
+| 1 | Info.plist | 22 | 20 |
+| 2 | symbol_order.plist | 4824 | 3524 |
+| 3 | symbol_categories.plist | 4375 | 2888 |
+| 4 | symbol_search.plist | 1925 | 1584 |
+| 5 | legacy_flippable.plist | 75 | 75 |
+| 6 | categories.plist | 30 | 23 |
+| 7 | name_availability.plist | 2 | 2 |
 
 
 
