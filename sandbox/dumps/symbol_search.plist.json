@@ -1,0 +1,7849 @@
+{
+  "1.lane": [
+    "running",
+    "sports"
+  ],
+  "1.lane.ar": [
+    "running",
+    "sports"
+  ],
+  "1.lane.hi": [
+    "running",
+    "sports"
+  ],
+  "10.lane": [
+    "running",
+    "sports"
+  ],
+  "10.lane.ar": [
+    "running",
+    "sports"
+  ],
+  "10.lane.hi": [
+    "running",
+    "sports"
+  ],
+  "11.lane": [
+    "running",
+    "sports"
+  ],
+  "11.lane.ar": [
+    "running",
+    "sports"
+  ],
+  "11.lane.hi": [
+    "running",
+    "sports"
+  ],
+  "12.lane": [
+    "running",
+    "sports"
+  ],
+  "12.lane.ar": [
+    "running",
+    "sports"
+  ],
+  "12.lane.hi": [
+    "running",
+    "sports"
+  ],
+  "2.lane": [
+    "running",
+    "sports"
+  ],
+  "2.lane.ar": [
+    "running",
+    "sports"
+  ],
+  "2.lane.hi": [
+    "running",
+    "sports"
+  ],
+  "3.lane": [
+    "running",
+    "sports"
+  ],
+  "3.lane.ar": [
+    "running",
+    "sports"
+  ],
+  "3.lane.hi": [
+    "running",
+    "sports"
+  ],
+  "4.lane": [
+    "running",
+    "sports"
+  ],
+  "4.lane.ar": [
+    "running",
+    "sports"
+  ],
+  "4.lane.hi": [
+    "running",
+    "sports"
+  ],
+  "5.lane": [
+    "running",
+    "sports"
+  ],
+  "5.lane.ar": [
+    "running",
+    "sports"
+  ],
+  "5.lane.hi": [
+    "running",
+    "sports"
+  ],
+  "6.lane": [
+    "running",
+    "sports"
+  ],
+  "6.lane.ar": [
+    "running",
+    "sports"
+  ],
+  "6.lane.hi": [
+    "running",
+    "sports"
+  ],
+  "7.lane": [
+    "running",
+    "sports"
+  ],
+  "7.lane.ar": [
+    "running",
+    "sports"
+  ],
+  "7.lane.hi": [
+    "running",
+    "sports"
+  ],
+  "8.lane": [
+    "running",
+    "sports"
+  ],
+  "8.lane.ar": [
+    "running",
+    "sports"
+  ],
+  "8.lane.hi": [
+    "running",
+    "sports"
+  ],
+  "9.lane": [
+    "running",
+    "sports"
+  ],
+  "9.lane.ar": [
+    "running",
+    "sports"
+  ],
+  "9.lane.hi": [
+    "running",
+    "sports"
+  ],
+  "a.magnify": [
+    "a"
+  ],
+  "airplayaudio.badge.exclamationmark": [
+    "warning"
+  ],
+  "airplayvideo.badge.exclamationmark": [
+    "warning"
+  ],
+  "airpod.gen3.left": [
+    "audio",
+    "sound",
+    "speaker"
+  ],
+  "airpod.gen3.right": [
+    "audio",
+    "sound",
+    "speaker"
+  ],
+  "airpod.left": [
+    "audio",
+    "sound",
+    "speaker"
+  ],
+  "airpod.right": [
+    "audio",
+    "sound",
+    "speaker"
+  ],
+  "airpodpro.left": [
+    "audio",
+    "sound",
+    "speaker"
+  ],
+  "airpodpro.right": [
+    "audio",
+    "sound",
+    "speaker"
+  ],
+  "airpods": [
+    "audio",
+    "sound",
+    "speaker"
+  ],
+  "airpods.chargingcase": [
+    "audio"
+  ],
+  "airpods.chargingcase.fill": [
+    "audio"
+  ],
+  "airpods.chargingcase.wireless": [
+    "audio"
+  ],
+  "airpods.chargingcase.wireless.fill": [
+    "audio"
+  ],
+  "airpods.gen3": [
+    "audio",
+    "sound",
+    "speaker"
+  ],
+  "airpods.gen3.chargingcase.wireless": [
+    "audio"
+  ],
+  "airpods.gen3.chargingcase.wireless.fill": [
+    "audio"
+  ],
+  "airpodsmax": [
+    "audio",
+    "sound",
+    "speaker"
+  ],
+  "airpodspro": [
+    "audio",
+    "sound",
+    "speaker"
+  ],
+  "airpodspro.chargingcase.wireless": [
+    "audio"
+  ],
+  "airpodspro.chargingcase.wireless.fill": [
+    "audio"
+  ],
+  "airport.extreme": [
+    "time capsule"
+  ],
+  "airtag": [
+    "findable",
+    "location"
+  ],
+  "airtag.fill": [
+    "findable",
+    "location"
+  ],
+  "airtag.radiowaves.forward": [
+    "findable",
+    "location"
+  ],
+  "airtag.radiowaves.forward.fill": [
+    "findable",
+    "location"
+  ],
+  "airtag.radiowaves.forward.fill.rtl": [
+    "findable",
+    "location"
+  ],
+  "airtag.radiowaves.forward.rtl": [
+    "findable",
+    "location"
+  ],
+  "alarm": [
+    "alarm"
+  ],
+  "alarm.fill": [
+    "alarm"
+  ],
+  "alarm.waves.left.and.right": [
+    "alarm"
+  ],
+  "alarm.waves.left.and.right.fill": [
+    "alarm"
+  ],
+  "align.horizontal.center": [
+    "rectangle",
+    "shape"
+  ],
+  "align.horizontal.center.fill": [
+    "rectangle",
+    "shape"
+  ],
+  "align.horizontal.left": [
+    "rectangle",
+    "shape"
+  ],
+  "align.horizontal.left.fill": [
+    "rectangle",
+    "shape"
+  ],
+  "align.horizontal.right": [
+    "rectangle",
+    "shape"
+  ],
+  "align.horizontal.right.fill": [
+    "rectangle",
+    "shape"
+  ],
+  "align.vertical.bottom": [
+    "rectangle",
+    "shape"
+  ],
+  "align.vertical.bottom.fill": [
+    "rectangle",
+    "shape"
+  ],
+  "align.vertical.center": [
+    "rectangle",
+    "shape"
+  ],
+  "align.vertical.center.fill": [
+    "rectangle",
+    "shape"
+  ],
+  "align.vertical.top": [
+    "rectangle",
+    "shape"
+  ],
+  "align.vertical.top.fill": [
+    "rectangle",
+    "shape"
+  ],
+  "allergens": [
+    "COVID",
+    "exposure",
+    "medical",
+    "virus"
+  ],
+  "allergens.fill": [
+    "COVID",
+    "exposure",
+    "medical",
+    "virus"
+  ],
+  "ant": [
+    "bug",
+    "radar"
+  ],
+  "ant.circle": [
+    "bug",
+    "radar"
+  ],
+  "ant.circle.fill": [
+    "bug",
+    "radar"
+  ],
+  "ant.fill": [
+    "bug",
+    "radar"
+  ],
+  "antenna.radiowaves.left.and.right": [
+    "cellular",
+    "lte"
+  ],
+  "antenna.radiowaves.left.and.right.circle": [
+    "cellular",
+    "lte"
+  ],
+  "antenna.radiowaves.left.and.right.circle.fill": [
+    "cellular",
+    "lte"
+  ],
+  "antenna.radiowaves.left.and.right.slash": [
+    "cellular",
+    "lte",
+    "remove"
+  ],
+  "app.connected.to.app.below.fill": [
+    "activities",
+    "path"
+  ],
+  "applewatch.slash": [
+    "remove"
+  ],
+  "apps.iphone.badge.plus": [
+    "add"
+  ],
+  "aqi.high": [
+    "!",
+    "warning",
+    "weather"
+  ],
+  "aqi.low": [
+    "weather"
+  ],
+  "aqi.medium": [
+    "weather"
+  ],
+  "archivebox": [
+    "archive",
+    "mail"
+  ],
+  "archivebox.circle": [
+    "archive"
+  ],
+  "archivebox.circle.fill": [
+    "archive"
+  ],
+  "archivebox.fill": [
+    "archive",
+    "mail"
+  ],
+  "arrow.3.trianglepath": [
+    "recycle"
+  ],
+  "arrow.backward": [
+    "left"
+  ],
+  "arrow.backward.circle": [
+    "left"
+  ],
+  "arrow.backward.circle.fill": [
+    "left"
+  ],
+  "arrow.backward.square": [
+    "left"
+  ],
+  "arrow.backward.square.fill": [
+    "left"
+  ],
+  "arrow.backward.to.line": [
+    "indent",
+    "tab"
+  ],
+  "arrow.clockwise": [
+    "refresh"
+  ],
+  "arrow.clockwise.circle": [
+    "refresh"
+  ],
+  "arrow.clockwise.circle.fill": [
+    "refresh"
+  ],
+  "arrow.down": [
+    "download",
+    "downloads"
+  ],
+  "arrow.down.and.line.horizontal.and.arrow.up": [
+    "middle"
+  ],
+  "arrow.down.backward": [
+    "left"
+  ],
+  "arrow.down.backward.circle": [
+    "left"
+  ],
+  "arrow.down.backward.circle.fill": [
+    "left"
+  ],
+  "arrow.down.backward.square": [
+    "left"
+  ],
+  "arrow.down.backward.square.fill": [
+    "left"
+  ],
+  "arrow.down.circle": [
+    "download",
+    "downloads"
+  ],
+  "arrow.down.circle.fill": [
+    "download",
+    "downloads"
+  ],
+  "arrow.down.forward": [
+    "right"
+  ],
+  "arrow.down.forward.circle": [
+    "right"
+  ],
+  "arrow.down.forward.circle.fill": [
+    "right"
+  ],
+  "arrow.down.forward.square": [
+    "right"
+  ],
+  "arrow.down.forward.square.fill": [
+    "right"
+  ],
+  "arrow.down.left.video": [
+    "facetime"
+  ],
+  "arrow.down.left.video.fill": [
+    "facetime"
+  ],
+  "arrow.down.right.and.arrow.up.left": [
+    "exit",
+    "fullscreen",
+    "minimize"
+  ],
+  "arrow.down.square": [
+    "download",
+    "downloads"
+  ],
+  "arrow.down.square.fill": [
+    "download",
+    "downloads"
+  ],
+  "arrow.down.to.line": [
+    "end"
+  ],
+  "arrow.down.to.line.compact": [
+    "end"
+  ],
+  "arrow.forward": [
+    "right"
+  ],
+  "arrow.forward.circle": [
+    "right"
+  ],
+  "arrow.forward.circle.fill": [
+    "right"
+  ],
+  "arrow.forward.square": [
+    "right"
+  ],
+  "arrow.forward.square.fill": [
+    "right"
+  ],
+  "arrow.forward.to.line": [
+    "indent",
+    "tab"
+  ],
+  "arrow.left.and.line.vertical.and.arrow.right": [
+    "middle"
+  ],
+  "arrow.left.and.right.righttriangle.left.righttriangle.right": [
+    "flip horizontal"
+  ],
+  "arrow.left.and.right.righttriangle.left.righttriangle.right.fill": [
+    "flip horizontal"
+  ],
+  "arrow.left.and.right.text.vertical": [
+    "line spacing"
+  ],
+  "arrow.left.to.line": [
+    "indent",
+    "tab"
+  ],
+  "arrow.left.to.line.compact": [
+    "indent",
+    "tab"
+  ],
+  "arrow.right.and.line.vertical.and.arrow.left": [
+    "middle"
+  ],
+  "arrow.right.doc.on.clipboard": [
+    "clipboard",
+    "pasteboard"
+  ],
+  "arrow.right.to.line": [
+    "indent",
+    "tab"
+  ],
+  "arrow.right.to.line.compact": [
+    "indent",
+    "tab"
+  ],
+  "arrow.triangle.2.circlepath": [
+    "sync",
+    "syncing"
+  ],
+  "arrow.triangle.2.circlepath.circle": [
+    "sync",
+    "syncing"
+  ],
+  "arrow.triangle.2.circlepath.circle.fill": [
+    "sync",
+    "syncing"
+  ],
+  "arrow.triangle.2.circlepath.doc.on.clipboard": [
+    "clipboard",
+    "pasteboard"
+  ],
+  "arrow.triangle.turn.up.right.circle": [
+    "directions"
+  ],
+  "arrow.triangle.turn.up.right.circle.fill": [
+    "directions"
+  ],
+  "arrow.triangle.turn.up.right.diamond": [
+    "directions"
+  ],
+  "arrow.triangle.turn.up.right.diamond.fill": [
+    "directions"
+  ],
+  "arrow.turn.up.forward.iphone": [
+    "pickups"
+  ],
+  "arrow.turn.up.forward.iphone.fill": [
+    "pickups"
+  ],
+  "arrow.up": [
+    "send"
+  ],
+  "arrow.up.and.down.and.arrow.left.and.right": [
+    "cardinal",
+    "directions",
+    "move"
+  ],
+  "arrow.up.and.down.righttriangle.up.righttriangle.down": [
+    "flip vertical"
+  ],
+  "arrow.up.and.down.righttriangle.up.righttriangle.down.fill": [
+    "flip vertical"
+  ],
+  "arrow.up.and.down.text.horizontal": [
+    "line spacing"
+  ],
+  "arrow.up.and.line.horizontal.and.arrow.down": [
+    "middle"
+  ],
+  "arrow.up.and.person.rectangle.portrait": [
+    "people"
+  ],
+  "arrow.up.and.person.rectangle.turn.left": [
+    "people"
+  ],
+  "arrow.up.and.person.rectangle.turn.right": [
+    "people"
+  ],
+  "arrow.up.backward": [
+    "left"
+  ],
+  "arrow.up.backward.circle": [
+    "left"
+  ],
+  "arrow.up.backward.circle.fill": [
+    "left"
+  ],
+  "arrow.up.backward.square": [
+    "left"
+  ],
+  "arrow.up.backward.square.fill": [
+    "left"
+  ],
+  "arrow.up.bin": [
+    "mail"
+  ],
+  "arrow.up.bin.fill": [
+    "mail"
+  ],
+  "arrow.up.circle": [
+    "send"
+  ],
+  "arrow.up.circle.fill": [
+    "send"
+  ],
+  "arrow.up.doc.on.clipboard": [
+    "clipboard",
+    "pasteboard"
+  ],
+  "arrow.up.forward": [
+    "right"
+  ],
+  "arrow.up.forward.circle": [
+    "right"
+  ],
+  "arrow.up.forward.circle.fill": [
+    "right"
+  ],
+  "arrow.up.forward.square": [
+    "right"
+  ],
+  "arrow.up.forward.square.fill": [
+    "right"
+  ],
+  "arrow.up.left.and.arrow.down.right": [
+    "enter",
+    "expand",
+    "fullscreen",
+    "maximize"
+  ],
+  "arrow.up.left.and.down.right.and.arrow.up.right.and.down.left": [
+    "diagonal",
+    "directions",
+    "move"
+  ],
+  "arrow.up.right.and.arrow.down.left.rectangle": [
+    "conversations"
+  ],
+  "arrow.up.right.and.arrow.down.left.rectangle.fill": [
+    "conversations"
+  ],
+  "arrow.up.right.video": [
+    "facetime"
+  ],
+  "arrow.up.right.video.fill": [
+    "facetime"
+  ],
+  "arrow.up.square": [
+    "send"
+  ],
+  "arrow.up.square.fill": [
+    "send"
+  ],
+  "arrow.up.to.line": [
+    "home"
+  ],
+  "arrow.up.to.line.compact": [
+    "home"
+  ],
+  "arrow.uturn.backward": [
+    "left",
+    "undo"
+  ],
+  "arrow.uturn.backward.circle": [
+    "left",
+    "undo"
+  ],
+  "arrow.uturn.backward.circle.badge.ellipsis": [
+    "action",
+    "dot.3",
+    "extra",
+    "left",
+    "more",
+    "overflow",
+    "undo",
+    "…"
+  ],
+  "arrow.uturn.backward.circle.fill": [
+    "left",
+    "undo"
+  ],
+  "arrow.uturn.backward.square": [
+    "left",
+    "undo"
+  ],
+  "arrow.uturn.backward.square.fill": [
+    "left",
+    "undo"
+  ],
+  "arrow.uturn.forward": [
+    "redo",
+    "right"
+  ],
+  "arrow.uturn.forward.circle": [
+    "redo",
+    "right"
+  ],
+  "arrow.uturn.forward.circle.fill": [
+    "redo",
+    "right"
+  ],
+  "arrow.uturn.forward.square": [
+    "redo",
+    "right"
+  ],
+  "arrow.uturn.forward.square.fill": [
+    "redo",
+    "right"
+  ],
+  "arrow.uturn.left.circle.badge.ellipsis": [
+    "action",
+    "dot.3",
+    "extra",
+    "more",
+    "overflow",
+    "…"
+  ],
+  "arrowshape.bounce.right": [
+    "mail"
+  ],
+  "arrowshape.bounce.right.fill": [
+    "mail"
+  ],
+  "arrowshape.turn.up.left": [
+    "mail",
+    "reply"
+  ],
+  "arrowshape.turn.up.left.2": [
+    "mail",
+    "reply all"
+  ],
+  "arrowshape.turn.up.left.2.circle": [
+    "reply all"
+  ],
+  "arrowshape.turn.up.left.2.circle.fill": [
+    "reply all"
+  ],
+  "arrowshape.turn.up.left.2.fill": [
+    "mail",
+    "reply all"
+  ],
+  "arrowshape.turn.up.left.circle": [
+    "reply"
+  ],
+  "arrowshape.turn.up.left.circle.fill": [
+    "reply"
+  ],
+  "arrowshape.turn.up.left.fill": [
+    "mail",
+    "reply"
+  ],
+  "arrowshape.turn.up.right": [
+    "forward",
+    "mail"
+  ],
+  "arrowshape.turn.up.right.circle": [
+    "forward"
+  ],
+  "arrowshape.turn.up.right.circle.fill": [
+    "forward"
+  ],
+  "arrowshape.turn.up.right.fill": [
+    "forward",
+    "mail"
+  ],
+  "arrowshape.zigzag.right": [
+    "mail"
+  ],
+  "arrowshape.zigzag.right.fill": [
+    "mail"
+  ],
+  "arrowtriangle.backward": [
+    "left"
+  ],
+  "arrowtriangle.backward.circle": [
+    "left"
+  ],
+  "arrowtriangle.backward.circle.fill": [
+    "left"
+  ],
+  "arrowtriangle.backward.fill": [
+    "left"
+  ],
+  "arrowtriangle.backward.square": [
+    "left"
+  ],
+  "arrowtriangle.backward.square.fill": [
+    "left"
+  ],
+  "arrowtriangle.forward": [
+    "right"
+  ],
+  "arrowtriangle.forward.circle": [
+    "right"
+  ],
+  "arrowtriangle.forward.circle.fill": [
+    "right"
+  ],
+  "arrowtriangle.forward.fill": [
+    "right"
+  ],
+  "arrowtriangle.forward.square": [
+    "right"
+  ],
+  "arrowtriangle.forward.square.fill": [
+    "right"
+  ],
+  "asterisk": [
+    "*"
+  ],
+  "asterisk.circle": [
+    "*"
+  ],
+  "asterisk.circle.fill": [
+    "*"
+  ],
+  "at": [
+    "@"
+  ],
+  "at.badge.minus": [
+    "-",
+    "@",
+    "remove"
+  ],
+  "at.badge.plus": [
+    "+",
+    "@",
+    "add"
+  ],
+  "at.circle": [
+    "@"
+  ],
+  "at.circle.fill": [
+    "@"
+  ],
+  "atom": [
+    "science"
+  ],
+  "australsign": [
+    "currencies",
+    "currency"
+  ],
+  "australsign.circle": [
+    "currencies",
+    "currency"
+  ],
+  "australsign.circle.fill": [
+    "currencies",
+    "currency"
+  ],
+  "australsign.square": [
+    "currencies",
+    "currency"
+  ],
+  "australsign.square.fill": [
+    "currencies",
+    "currency"
+  ],
+  "autostartstop.trianglebadge.exclamationmark": [
+    "!",
+    "warning"
+  ],
+  "backpack": [
+    "camping"
+  ],
+  "backpack.circle": [
+    "camping"
+  ],
+  "backpack.circle.fill": [
+    "camping"
+  ],
+  "backpack.fill": [
+    "camping"
+  ],
+  "badge.plus.radiowaves.forward": [
+    "+",
+    "add",
+    "right"
+  ],
+  "badge.plus.radiowaves.right": [
+    "+",
+    "add"
+  ],
+  "bag.badge.minus": [
+    "remove"
+  ],
+  "bag.badge.plus": [
+    "add"
+  ],
+  "bag.fill.badge.minus": [
+    "remove"
+  ],
+  "bag.fill.badge.plus": [
+    "add"
+  ],
+  "bahtsign": [
+    "currencies",
+    "currency"
+  ],
+  "bahtsign.circle": [
+    "currencies",
+    "currency"
+  ],
+  "bahtsign.circle.fill": [
+    "currencies",
+    "currency"
+  ],
+  "bahtsign.square": [
+    "currencies",
+    "currency"
+  ],
+  "bahtsign.square.fill": [
+    "currencies",
+    "currency"
+  ],
+  "balloon": [
+    "party"
+  ],
+  "balloon.2": [
+    "party"
+  ],
+  "balloon.2.fill": [
+    "party"
+  ],
+  "balloon.fill": [
+    "party"
+  ],
+  "bandage": [
+    "medical"
+  ],
+  "bandage.fill": [
+    "medical"
+  ],
+  "barcode.viewfinder": [
+    "scan bar code"
+  ],
+  "baseball": [
+    "sports"
+  ],
+  "baseball.circle": [
+    "sports"
+  ],
+  "baseball.circle.fill": [
+    "sports"
+  ],
+  "baseball.diamond.bases": [
+    "sports"
+  ],
+  "baseball.fill": [
+    "sports"
+  ],
+  "basketball": [
+    "sports"
+  ],
+  "basketball.circle": [
+    "sports"
+  ],
+  "basketball.circle.fill": [
+    "sports"
+  ],
+  "basketball.fill": [
+    "sports"
+  ],
+  "beats.earphones": [
+    "audio",
+    "sound",
+    "speaker"
+  ],
+  "beats.fit.pro": [
+    "audio",
+    "sound",
+    "speaker"
+  ],
+  "beats.fit.pro.chargingcase": [
+    "audio",
+    "sound",
+    "speaker"
+  ],
+  "beats.fit.pro.chargingcase.fill": [
+    "audio",
+    "sound",
+    "speaker"
+  ],
+  "beats.fit.pro.left": [
+    "audio",
+    "sound",
+    "speaker"
+  ],
+  "beats.fit.pro.right": [
+    "audio",
+    "sound",
+    "speaker"
+  ],
+  "beats.headphones": [
+    "audio",
+    "sound",
+    "speaker"
+  ],
+  "beats.powerbeats": [
+    "audio",
+    "sound",
+    "speaker"
+  ],
+  "beats.powerbeats.left": [
+    "audio",
+    "sound",
+    "speaker"
+  ],
+  "beats.powerbeats.right": [
+    "audio",
+    "sound",
+    "speaker"
+  ],
+  "beats.powerbeats3": [
+    "audio",
+    "sound",
+    "speaker"
+  ],
+  "beats.powerbeats3.left": [
+    "audio",
+    "sound",
+    "speaker"
+  ],
+  "beats.powerbeats3.right": [
+    "audio",
+    "sound",
+    "speaker"
+  ],
+  "beats.powerbeatspro": [
+    "audio",
+    "sound",
+    "speaker"
+  ],
+  "beats.powerbeatspro.chargingcase": [
+    "audio"
+  ],
+  "beats.powerbeatspro.chargingcase.fill": [
+    "audio"
+  ],
+  "beats.powerbeatspro.left": [
+    "audio",
+    "sound",
+    "speaker"
+  ],
+  "beats.powerbeatspro.right": [
+    "audio",
+    "sound",
+    "speaker"
+  ],
+  "beats.studiobud.left": [
+    "audio",
+    "sound",
+    "speaker"
+  ],
+  "beats.studiobud.right": [
+    "audio",
+    "sound",
+    "speaker"
+  ],
+  "beats.studiobuds": [
+    "audio",
+    "sound",
+    "speaker"
+  ],
+  "beats.studiobuds.chargingcase": [
+    "audio",
+    "sound",
+    "speaker"
+  ],
+  "beats.studiobuds.chargingcase.fill": [
+    "audio",
+    "sound",
+    "speaker"
+  ],
+  "bed.double": [
+    "medical",
+    "sleep"
+  ],
+  "bed.double.circle": [
+    "medical",
+    "sleep"
+  ],
+  "bed.double.circle.fill": [
+    "medical",
+    "sleep"
+  ],
+  "bed.double.fill": [
+    "medical",
+    "sleep"
+  ],
+  "bell": [
+    "mail",
+    "notify"
+  ],
+  "bell.badge": [
+    "notifications"
+  ],
+  "bell.badge.fill": [
+    "notifications"
+  ],
+  "bell.circle": [
+    "mail",
+    "notify"
+  ],
+  "bell.circle.fill": [
+    "mail",
+    "notify"
+  ],
+  "bell.fill": [
+    "mail",
+    "notify"
+  ],
+  "bell.slash": [
+    "mail",
+    "remove"
+  ],
+  "bell.slash.circle": [
+    "remove"
+  ],
+  "bell.slash.circle.fill": [
+    "remove"
+  ],
+  "bell.slash.fill": [
+    "mail",
+    "remove"
+  ],
+  "bell.square": [
+    "notify"
+  ],
+  "bell.square.fill": [
+    "notify"
+  ],
+  "bicycle": [
+    "bike"
+  ],
+  "bicycle.circle": [
+    "bike"
+  ],
+  "bicycle.circle.fill": [
+    "bike"
+  ],
+  "birthday.cake": [
+    "baking",
+    "drink",
+    "food"
+  ],
+  "birthday.cake.fill": [
+    "baking",
+    "drink",
+    "food"
+  ],
+  "bitcoinsign": [
+    "currencies",
+    "currency"
+  ],
+  "bitcoinsign.circle": [
+    "currencies",
+    "currency"
+  ],
+  "bitcoinsign.circle.fill": [
+    "currencies",
+    "currency"
+  ],
+  "bitcoinsign.square": [
+    "currencies",
+    "currency"
+  ],
+  "bitcoinsign.square.fill": [
+    "currencies",
+    "currency"
+  ],
+  "bold": [
+    "b"
+  ],
+  "bolt": [
+    "camera",
+    "energy",
+    "power"
+  ],
+  "bolt.badge.a": [
+    "camera"
+  ],
+  "bolt.badge.a.fill": [
+    "camera"
+  ],
+  "bolt.circle": [
+    "camera",
+    "energy",
+    "power"
+  ],
+  "bolt.circle.fill": [
+    "camera",
+    "energy",
+    "power"
+  ],
+  "bolt.fill": [
+    "camera",
+    "energy",
+    "power"
+  ],
+  "bolt.heart": [
+    "medical"
+  ],
+  "bolt.heart.fill": [
+    "medical"
+  ],
+  "bolt.ring.closed": [
+    "energy",
+    "power"
+  ],
+  "bolt.slash": [
+    "camera",
+    "energy",
+    "power",
+    "remove"
+  ],
+  "bolt.slash.circle": [
+    "camera",
+    "energy",
+    "power",
+    "remove"
+  ],
+  "bolt.slash.circle.fill": [
+    "camera",
+    "energy",
+    "power",
+    "remove"
+  ],
+  "bolt.slash.fill": [
+    "camera",
+    "energy",
+    "power",
+    "remove"
+  ],
+  "bolt.square": [
+    "camera",
+    "energy",
+    "power"
+  ],
+  "bolt.square.fill": [
+    "camera",
+    "energy",
+    "power"
+  ],
+  "bolt.trianglebadge.exclamationmark": [
+    "!",
+    "warning"
+  ],
+  "bolt.trianglebadge.exclamationmark.fill": [
+    "!",
+    "warning"
+  ],
+  "book": [
+    "bookmark"
+  ],
+  "book.circle": [
+    "bookmark"
+  ],
+  "book.circle.fill": [
+    "bookmark"
+  ],
+  "book.fill": [
+    "bookmark"
+  ],
+  "bookmark": [
+    "bookmark"
+  ],
+  "bookmark.circle": [
+    "bookmark"
+  ],
+  "bookmark.circle.fill": [
+    "bookmark"
+  ],
+  "bookmark.fill": [
+    "bookmark"
+  ],
+  "bookmark.slash": [
+    "remove"
+  ],
+  "bookmark.slash.fill": [
+    "remove"
+  ],
+  "box.truck.badge.clock": [
+    "time"
+  ],
+  "box.truck.badge.clock.fill": [
+    "time"
+  ],
+  "box.truck.badge.clock.fill.rtl": [
+    "time"
+  ],
+  "box.truck.badge.clock.rtl": [
+    "time"
+  ],
+  "brazilianrealsign": [
+    "currencies",
+    "currency"
+  ],
+  "brazilianrealsign.circle": [
+    "currencies",
+    "currency"
+  ],
+  "brazilianrealsign.circle.fill": [
+    "currencies",
+    "currency"
+  ],
+  "brazilianrealsign.square": [
+    "currencies",
+    "currency"
+  ],
+  "brazilianrealsign.square.fill": [
+    "currencies",
+    "currency"
+  ],
+  "bubble.left.and.exclamationmark.bubble.right": [
+    "!",
+    "warning"
+  ],
+  "bubble.left.and.exclamationmark.bubble.right.fill": [
+    "!",
+    "warning"
+  ],
+  "bubbles.and.sparkles": [
+    "COVID",
+    "deep cleaning"
+  ],
+  "bubbles.and.sparkles.fill": [
+    "COVID",
+    "deep cleaning"
+  ],
+  "building.columns": [
+    "library"
+  ],
+  "building.columns.circle": [
+    "library"
+  ],
+  "building.columns.circle.fill": [
+    "library"
+  ],
+  "building.columns.fill": [
+    "library"
+  ],
+  "calendar": [
+    "calendar",
+    "mail"
+  ],
+  "calendar.badge.clock": [
+    "date and time"
+  ],
+  "calendar.badge.exclamationmark": [
+    "warning"
+  ],
+  "calendar.badge.minus": [
+    "remove"
+  ],
+  "calendar.badge.plus": [
+    "+",
+    "add",
+    "create",
+    "new"
+  ],
+  "calendar.circle": [
+    "calendar"
+  ],
+  "calendar.circle.fill": [
+    "calendar"
+  ],
+  "camera.badge.ellipsis": [
+    "action",
+    "dot.3",
+    "extra",
+    "more",
+    "overflow",
+    "…"
+  ],
+  "camera.fill.badge.ellipsis": [
+    "action",
+    "dot.3",
+    "extra",
+    "more",
+    "overflow",
+    "…"
+  ],
+  "camera.macro": [
+    "macro"
+  ],
+  "camera.macro.circle": [
+    "macro"
+  ],
+  "camera.macro.circle.fill": [
+    "macro"
+  ],
+  "car.rear.and.tire.marks": [
+    "traction",
+    "traction control"
+  ],
+  "car.side.and.exclamationmark": [
+    "!",
+    "warning"
+  ],
+  "car.side.and.exclamationmark.fill": [
+    "!",
+    "warning"
+  ],
+  "carbon.dioxide.cloud": [
+    "co2"
+  ],
+  "carbon.dioxide.cloud.fill": [
+    "co2"
+  ],
+  "carbon.monoxide.cloud": [
+    "co"
+  ],
+  "carbon.monoxide.cloud.fill": [
+    "co"
+  ],
+  "carrot": [
+    "drink",
+    "food"
+  ],
+  "carrot.fill": [
+    "drink",
+    "food"
+  ],
+  "cart.badge.minus": [
+    "remove"
+  ],
+  "cart.badge.plus": [
+    "add"
+  ],
+  "cart.fill.badge.minus": [
+    "remove"
+  ],
+  "cart.fill.badge.plus": [
+    "add"
+  ],
+  "cedisign": [
+    "currencies",
+    "currency"
+  ],
+  "cedisign.circle": [
+    "currencies",
+    "currency"
+  ],
+  "cedisign.circle.fill": [
+    "currencies",
+    "currency"
+  ],
+  "cedisign.square": [
+    "currencies",
+    "currency"
+  ],
+  "cedisign.square.fill": [
+    "currencies",
+    "currency"
+  ],
+  "centsign": [
+    "currencies",
+    "currency"
+  ],
+  "centsign.circle": [
+    "currencies",
+    "currency"
+  ],
+  "centsign.circle.fill": [
+    "currencies",
+    "currency"
+  ],
+  "centsign.square": [
+    "currencies",
+    "currency"
+  ],
+  "centsign.square.fill": [
+    "currencies",
+    "currency"
+  ],
+  "chandelier": [
+    "light"
+  ],
+  "chandelier.fill": [
+    "light"
+  ],
+  "character": [
+    "a"
+  ],
+  "character.book.closed": [
+    "dictionary"
+  ],
+  "character.book.closed.ar": [
+    "dictionary"
+  ],
+  "character.book.closed.fill": [
+    "dictionary"
+  ],
+  "character.book.closed.fill.ar": [
+    "dictionary"
+  ],
+  "character.book.closed.fill.he": [
+    "dictionary"
+  ],
+  "character.book.closed.fill.hi": [
+    "dictionary"
+  ],
+  "character.book.closed.fill.ja": [
+    "dictionary"
+  ],
+  "character.book.closed.fill.ko": [
+    "dictionary"
+  ],
+  "character.book.closed.fill.th": [
+    "dictionary"
+  ],
+  "character.book.closed.fill.zh": [
+    "dictionary"
+  ],
+  "character.book.closed.he": [
+    "dictionary"
+  ],
+  "character.book.closed.hi": [
+    "dictionary"
+  ],
+  "character.book.closed.ja": [
+    "dictionary"
+  ],
+  "character.book.closed.ko": [
+    "dictionary"
+  ],
+  "character.book.closed.th": [
+    "dictionary"
+  ],
+  "character.book.closed.zh": [
+    "dictionary"
+  ],
+  "character.bubble": [
+    "a"
+  ],
+  "character.bubble.fill": [
+    "a"
+  ],
+  "character.cursor.ibeam": [
+    "a"
+  ],
+  "character.textbox": [
+    "a"
+  ],
+  "checkmark.circle": [
+    "select"
+  ],
+  "checkmark.circle.fill": [
+    "select"
+  ],
+  "checkmark.circle.trianglebadge.exclamationmark": [
+    "warning"
+  ],
+  "checkmark.square": [
+    "checkbox"
+  ],
+  "checkmark.square.fill": [
+    "checkbox"
+  ],
+  "chevron.backward": [
+    "left"
+  ],
+  "chevron.backward.2": [
+    "left"
+  ],
+  "chevron.backward.circle": [
+    "left"
+  ],
+  "chevron.backward.circle.fill": [
+    "left"
+  ],
+  "chevron.backward.square": [
+    "left"
+  ],
+  "chevron.backward.square.fill": [
+    "left"
+  ],
+  "chevron.forward": [
+    "right"
+  ],
+  "chevron.forward.2": [
+    "right"
+  ],
+  "chevron.forward.circle": [
+    "right"
+  ],
+  "chevron.forward.circle.fill": [
+    "right"
+  ],
+  "chevron.forward.square": [
+    "right"
+  ],
+  "chevron.forward.square.fill": [
+    "right"
+  ],
+  "circle.inset.filled": [
+    "completed",
+    "task"
+  ],
+  "clock": [
+    "history",
+    "recent"
+  ],
+  "clock.arrow.2.circlepath": [
+    "sync",
+    "time",
+    "time machine",
+    "timemachine"
+  ],
+  "clock.arrow.circlepath": [
+    "time",
+    "time machine",
+    "timemachine"
+  ],
+  "clock.badge.exclamationmark": [
+    "!",
+    "warning"
+  ],
+  "clock.badge.exclamationmark.fill": [
+    "!",
+    "warning"
+  ],
+  "clock.fill": [
+    "history",
+    "recent"
+  ],
+  "cloud": [
+    "weather"
+  ],
+  "cloud.bolt": [
+    "weather"
+  ],
+  "cloud.bolt.circle": [
+    "weather"
+  ],
+  "cloud.bolt.circle.fill": [
+    "weather"
+  ],
+  "cloud.bolt.fill": [
+    "weather"
+  ],
+  "cloud.bolt.rain": [
+    "weather"
+  ],
+  "cloud.bolt.rain.circle": [
+    "weather"
+  ],
+  "cloud.bolt.rain.circle.fill": [
+    "weather"
+  ],
+  "cloud.bolt.rain.fill": [
+    "weather"
+  ],
+  "cloud.circle": [
+    "weather"
+  ],
+  "cloud.circle.fill": [
+    "weather"
+  ],
+  "cloud.drizzle": [
+    "weather"
+  ],
+  "cloud.drizzle.circle": [
+    "weather"
+  ],
+  "cloud.drizzle.circle.fill": [
+    "weather"
+  ],
+  "cloud.drizzle.fill": [
+    "weather"
+  ],
+  "cloud.fill": [
+    "weather"
+  ],
+  "cloud.fog": [
+    "weather"
+  ],
+  "cloud.fog.circle": [
+    "weather"
+  ],
+  "cloud.fog.circle.fill": [
+    "weather"
+  ],
+  "cloud.fog.fill": [
+    "weather"
+  ],
+  "cloud.hail": [
+    "weather"
+  ],
+  "cloud.hail.circle": [
+    "weather"
+  ],
+  "cloud.hail.circle.fill": [
+    "weather"
+  ],
+  "cloud.hail.fill": [
+    "weather"
+  ],
+  "cloud.heavyrain": [
+    "weather"
+  ],
+  "cloud.heavyrain.circle": [
+    "weather"
+  ],
+  "cloud.heavyrain.circle.fill": [
+    "weather"
+  ],
+  "cloud.heavyrain.fill": [
+    "weather"
+  ],
+  "cloud.moon": [
+    "weather"
+  ],
+  "cloud.moon.bolt": [
+    "weather"
+  ],
+  "cloud.moon.bolt.circle": [
+    "weather"
+  ],
+  "cloud.moon.bolt.circle.fill": [
+    "weather"
+  ],
+  "cloud.moon.bolt.fill": [
+    "weather"
+  ],
+  "cloud.moon.circle": [
+    "weather"
+  ],
+  "cloud.moon.circle.fill": [
+    "weather"
+  ],
+  "cloud.moon.fill": [
+    "weather"
+  ],
+  "cloud.moon.rain": [
+    "weather"
+  ],
+  "cloud.moon.rain.circle": [
+    "weather"
+  ],
+  "cloud.moon.rain.circle.fill": [
+    "weather"
+  ],
+  "cloud.moon.rain.fill": [
+    "weather"
+  ],
+  "cloud.rain": [
+    "weather"
+  ],
+  "cloud.rain.circle": [
+    "weather"
+  ],
+  "cloud.rain.circle.fill": [
+    "weather"
+  ],
+  "cloud.rain.fill": [
+    "weather"
+  ],
+  "cloud.sleet": [
+    "weather"
+  ],
+  "cloud.sleet.circle": [
+    "weather"
+  ],
+  "cloud.sleet.circle.fill": [
+    "weather"
+  ],
+  "cloud.sleet.fill": [
+    "weather"
+  ],
+  "cloud.snow": [
+    "weather"
+  ],
+  "cloud.snow.circle": [
+    "weather"
+  ],
+  "cloud.snow.circle.fill": [
+    "weather"
+  ],
+  "cloud.snow.fill": [
+    "weather"
+  ],
+  "cloud.sun": [
+    "weather"
+  ],
+  "cloud.sun.bolt": [
+    "weather"
+  ],
+  "cloud.sun.bolt.circle": [
+    "weather"
+  ],
+  "cloud.sun.bolt.circle.fill": [
+    "weather"
+  ],
+  "cloud.sun.bolt.fill": [
+    "weather"
+  ],
+  "cloud.sun.circle": [
+    "weather"
+  ],
+  "cloud.sun.circle.fill": [
+    "weather"
+  ],
+  "cloud.sun.fill": [
+    "weather"
+  ],
+  "cloud.sun.rain": [
+    "weather"
+  ],
+  "cloud.sun.rain.circle": [
+    "weather"
+  ],
+  "cloud.sun.rain.circle.fill": [
+    "weather"
+  ],
+  "cloud.sun.rain.fill": [
+    "weather"
+  ],
+  "coloncurrencysign": [
+    "currencies",
+    "currency"
+  ],
+  "coloncurrencysign.circle": [
+    "currencies",
+    "currency"
+  ],
+  "coloncurrencysign.circle.fill": [
+    "currencies",
+    "currency"
+  ],
+  "coloncurrencysign.square": [
+    "currencies",
+    "currency"
+  ],
+  "coloncurrencysign.square.fill": [
+    "currencies",
+    "currency"
+  ],
+  "cpu": [
+    "chip",
+    "cpu",
+    "gpu"
+  ],
+  "creditcard.trianglebadge.exclamationmark": [
+    "warning"
+  ],
+  "cricket.ball": [
+    "sports"
+  ],
+  "cricket.ball.circle": [
+    "sports"
+  ],
+  "cricket.ball.circle.fill": [
+    "sports"
+  ],
+  "cricket.ball.fill": [
+    "sports"
+  ],
+  "cross": [
+    "medical"
+  ],
+  "cross.case": [
+    "first aid",
+    "first aid kit",
+    "firstaid",
+    "kit",
+    "medical"
+  ],
+  "cross.case.circle": [
+    "first aid",
+    "first aid kit",
+    "firstaid",
+    "kit",
+    "medical"
+  ],
+  "cross.case.circle.fill": [
+    "first aid",
+    "first aid kit",
+    "firstaid",
+    "kit",
+    "medical"
+  ],
+  "cross.case.fill": [
+    "first aid",
+    "first aid kit",
+    "firstaid",
+    "kit",
+    "medical"
+  ],
+  "cross.circle": [
+    "medical"
+  ],
+  "cross.circle.fill": [
+    "medical"
+  ],
+  "cross.fill": [
+    "medical"
+  ],
+  "cross.vial": [
+    "medical"
+  ],
+  "cross.vial.fill": [
+    "medical"
+  ],
+  "cruzeirosign": [
+    "currencies",
+    "currency"
+  ],
+  "cruzeirosign.circle": [
+    "currencies",
+    "currency"
+  ],
+  "cruzeirosign.circle.fill": [
+    "currencies",
+    "currency"
+  ],
+  "cruzeirosign.square": [
+    "currencies",
+    "currency"
+  ],
+  "cruzeirosign.square.fill": [
+    "currencies",
+    "currency"
+  ],
+  "cup.and.saucer": [
+    "coffee",
+    "drink",
+    "food",
+    "tea"
+  ],
+  "cup.and.saucer.fill": [
+    "coffee",
+    "drink",
+    "food",
+    "tea"
+  ],
+  "cursorarrow.rays": [
+    "light"
+  ],
+  "delete.backward": [
+    "delete"
+  ],
+  "delete.backward.fill": [
+    "delete"
+  ],
+  "delete.forward": [
+    "delete"
+  ],
+  "delete.forward.fill": [
+    "delete"
+  ],
+  "delete.left": [
+    "delete"
+  ],
+  "delete.left.fill": [
+    "delete"
+  ],
+  "delete.right": [
+    "delete"
+  ],
+  "delete.right.fill": [
+    "delete"
+  ],
+  "display.trianglebadge.exclamationmark": [
+    "warning"
+  ],
+  "distribute.horizontal.center": [
+    "rectangle",
+    "shape"
+  ],
+  "distribute.horizontal.center.fill": [
+    "rectangle",
+    "shape"
+  ],
+  "distribute.horizontal.left": [
+    "rectangle",
+    "shape"
+  ],
+  "distribute.horizontal.left.fill": [
+    "rectangle",
+    "shape"
+  ],
+  "distribute.horizontal.right": [
+    "rectangle",
+    "shape"
+  ],
+  "distribute.horizontal.right.fill": [
+    "rectangle",
+    "shape"
+  ],
+  "distribute.vertical.bottom": [
+    "rectangle",
+    "shape"
+  ],
+  "distribute.vertical.bottom.fill": [
+    "rectangle",
+    "shape"
+  ],
+  "distribute.vertical.center": [
+    "rectangle",
+    "shape"
+  ],
+  "distribute.vertical.center.fill": [
+    "rectangle",
+    "shape"
+  ],
+  "distribute.vertical.top": [
+    "rectangle",
+    "shape"
+  ],
+  "distribute.vertical.top.fill": [
+    "rectangle",
+    "shape"
+  ],
+  "divide": [
+    "/",
+    "÷"
+  ],
+  "divide.circle": [
+    "/",
+    "÷"
+  ],
+  "divide.circle.fill": [
+    "/",
+    "÷"
+  ],
+  "divide.square": [
+    "/",
+    "÷"
+  ],
+  "divide.square.fill": [
+    "/",
+    "÷"
+  ],
+  "doc": [
+    "document"
+  ],
+  "doc.badge.ellipsis": [
+    "action",
+    "dot.3",
+    "extra",
+    "more",
+    "overflow",
+    "…"
+  ],
+  "doc.badge.plus": [
+    "+",
+    "add",
+    "create",
+    "new"
+  ],
+  "doc.circle": [
+    "document"
+  ],
+  "doc.circle.fill": [
+    "document"
+  ],
+  "doc.fill": [
+    "document"
+  ],
+  "doc.fill.badge.ellipsis": [
+    "action",
+    "dot.3",
+    "extra",
+    "more",
+    "overflow",
+    "…"
+  ],
+  "doc.fill.badge.plus": [
+    "+",
+    "add",
+    "create",
+    "new"
+  ],
+  "doc.on.clipboard": [
+    "clipboard",
+    "paste",
+    "pasteboard"
+  ],
+  "doc.on.clipboard.fill": [
+    "paste"
+  ],
+  "doc.on.doc": [
+    "copy"
+  ],
+  "doc.on.doc.fill": [
+    "copy"
+  ],
+  "doc.text.image": [
+    "today"
+  ],
+  "doc.text.image.fill": [
+    "today"
+  ],
+  "doc.viewfinder": [
+    "scan document"
+  ],
+  "doc.viewfinder.fill": [
+    "scan document"
+  ],
+  "dollarsign": [
+    "currencies",
+    "currency"
+  ],
+  "dollarsign.arrow.circlepath": [
+    "currencies",
+    "currency"
+  ],
+  "dollarsign.circle": [
+    "currencies",
+    "currency"
+  ],
+  "dollarsign.circle.fill": [
+    "currencies",
+    "currency"
+  ],
+  "dollarsign.square": [
+    "currencies",
+    "currency"
+  ],
+  "dollarsign.square.fill": [
+    "currencies",
+    "currency"
+  ],
+  "dongsign": [
+    "currencies",
+    "currency"
+  ],
+  "dongsign.circle": [
+    "currencies",
+    "currency"
+  ],
+  "dongsign.circle.fill": [
+    "currencies",
+    "currency"
+  ],
+  "dongsign.square": [
+    "currencies",
+    "currency"
+  ],
+  "dongsign.square.fill": [
+    "currencies",
+    "currency"
+  ],
+  "door.garage.closed.trianglebadge.exclamationmark": [
+    "!",
+    "warning"
+  ],
+  "door.garage.double.bay.closed.trianglebadge.exclamationmark": [
+    "!",
+    "warning"
+  ],
+  "door.garage.double.bay.open.trianglebadge.exclamationmark": [
+    "!",
+    "warning"
+  ],
+  "door.garage.open.trianglebadge.exclamationmark": [
+    "!",
+    "warning"
+  ],
+  "dot.arrowtriangles.up.right.down.left.circle": [
+    "zoom"
+  ],
+  "dot.radiowaves.forward": [
+    "right"
+  ],
+  "dot.squareshape.split.2x2": [
+    "grid"
+  ],
+  "drop": [
+    "blood",
+    "oil",
+    "water"
+  ],
+  "drop.circle": [
+    "blood",
+    "oil",
+    "water"
+  ],
+  "drop.circle.fill": [
+    "blood",
+    "oil",
+    "water"
+  ],
+  "drop.degreesign": [
+    "blood",
+    "oil",
+    "water"
+  ],
+  "drop.degreesign.fill": [
+    "blood",
+    "oil",
+    "water"
+  ],
+  "drop.degreesign.slash": [
+    "blood",
+    "oil",
+    "water"
+  ],
+  "drop.degreesign.slash.fill": [
+    "blood",
+    "oil",
+    "water"
+  ],
+  "drop.degreesign.slash.fill.rtl": [
+    "blood",
+    "oil",
+    "water"
+  ],
+  "drop.degreesign.slash.rtl": [
+    "blood",
+    "oil",
+    "water"
+  ],
+  "drop.fill": [
+    "blood",
+    "oil",
+    "water"
+  ],
+  "drop.triangle": [
+    "blood",
+    "oil",
+    "water"
+  ],
+  "drop.triangle.fill": [
+    "blood",
+    "oil",
+    "water"
+  ],
+  "dumbbell": [
+    "sports"
+  ],
+  "dumbbell.fill": [
+    "sports"
+  ],
+  "ear.trianglebadge.exclamationmark": [
+    "warning"
+  ],
+  "earpods": [
+    "audio",
+    "sound",
+    "speaker"
+  ],
+  "ellipsis": [
+    "action",
+    "dot.3",
+    "extra",
+    "more",
+    "overflow",
+    "…"
+  ],
+  "ellipsis.bubble": [
+    "action",
+    "dot.3",
+    "extra",
+    "more",
+    "overflow",
+    "…"
+  ],
+  "ellipsis.bubble.fill": [
+    "action",
+    "dot.3",
+    "extra",
+    "more",
+    "overflow",
+    "…"
+  ],
+  "ellipsis.circle": [
+    "action",
+    "dot.3",
+    "extra",
+    "more",
+    "overflow",
+    "…"
+  ],
+  "ellipsis.circle.fill": [
+    "action",
+    "dot.3",
+    "extra",
+    "more",
+    "overflow",
+    "…"
+  ],
+  "ellipsis.curlybraces": [
+    "action",
+    "dot.3",
+    "extra",
+    "more",
+    "overflow",
+    "…"
+  ],
+  "ellipsis.message": [
+    "action",
+    "dot.3",
+    "extra",
+    "more",
+    "overflow",
+    "…"
+  ],
+  "ellipsis.message.fill": [
+    "action",
+    "dot.3",
+    "extra",
+    "more",
+    "overflow",
+    "…"
+  ],
+  "ellipsis.rectangle": [
+    "action",
+    "dot.3",
+    "extra",
+    "more",
+    "overflow",
+    "password",
+    "…"
+  ],
+  "ellipsis.rectangle.fill": [
+    "action",
+    "dot.3",
+    "extra",
+    "more",
+    "overflow",
+    "password",
+    "…"
+  ],
+  "ellipsis.vertical.bubble": [
+    "action",
+    "dot.3",
+    "extra",
+    "more",
+    "overflow",
+    "…"
+  ],
+  "ellipsis.vertical.bubble.fill": [
+    "action",
+    "dot.3",
+    "extra",
+    "more",
+    "overflow",
+    "…"
+  ],
+  "entry.lever.keypad.trianglebadge.exclamationmark": [
+    "!",
+    "warning"
+  ],
+  "entry.lever.keypad.trianglebadge.exclamationmark.fill": [
+    "!",
+    "warning"
+  ],
+  "envelope": [
+    "mail"
+  ],
+  "envelope.badge": [
+    "mail"
+  ],
+  "envelope.badge.fill": [
+    "mail"
+  ],
+  "envelope.circle": [
+    "mail"
+  ],
+  "envelope.circle.fill": [
+    "mail"
+  ],
+  "envelope.fill": [
+    "mail"
+  ],
+  "envelope.open": [
+    "mail"
+  ],
+  "envelope.open.fill": [
+    "mail"
+  ],
+  "equal": [
+    "="
+  ],
+  "equal.circle": [
+    "="
+  ],
+  "equal.circle.fill": [
+    "="
+  ],
+  "equal.square": [
+    "="
+  ],
+  "equal.square.fill": [
+    "="
+  ],
+  "eraser.line.dashed": [
+    "erase"
+  ],
+  "eraser.line.dashed.fill": [
+    "erase"
+  ],
+  "eurosign": [
+    "currencies",
+    "currency"
+  ],
+  "eurosign.circle": [
+    "currencies",
+    "currency"
+  ],
+  "eurosign.circle.fill": [
+    "currencies",
+    "currency"
+  ],
+  "eurosign.square": [
+    "currencies",
+    "currency"
+  ],
+  "eurosign.square.fill": [
+    "currencies",
+    "currency"
+  ],
+  "exclamationmark": [
+    "!",
+    "warning"
+  ],
+  "exclamationmark.2": [
+    "!",
+    "warning"
+  ],
+  "exclamationmark.3": [
+    "!",
+    "warning"
+  ],
+  "exclamationmark.applewatch": [
+    "warning"
+  ],
+  "exclamationmark.arrow.circlepath": [
+    "time",
+    "time machine",
+    "timemachine",
+    "warning"
+  ],
+  "exclamationmark.arrow.triangle.2.circlepath": [
+    "sync",
+    "syncing",
+    "warning"
+  ],
+  "exclamationmark.brakesignal": [
+    "!",
+    "warning"
+  ],
+  "exclamationmark.bubble": [
+    "!",
+    "report",
+    "warning"
+  ],
+  "exclamationmark.bubble.circle": [
+    "!",
+    "warning"
+  ],
+  "exclamationmark.bubble.circle.fill": [
+    "!",
+    "warning"
+  ],
+  "exclamationmark.bubble.fill": [
+    "!",
+    "report",
+    "warning"
+  ],
+  "exclamationmark.circle": [
+    "warning"
+  ],
+  "exclamationmark.circle.fill": [
+    "warning"
+  ],
+  "exclamationmark.icloud": [
+    "!",
+    "warning"
+  ],
+  "exclamationmark.icloud.fill": [
+    "!",
+    "warning"
+  ],
+  "exclamationmark.lock": [
+    "!",
+    "padlock",
+    "password",
+    "security",
+    "warning"
+  ],
+  "exclamationmark.lock.fill": [
+    "!",
+    "padlock",
+    "password",
+    "security",
+    "warning"
+  ],
+  "exclamationmark.octagon": [
+    "stop",
+    "warning"
+  ],
+  "exclamationmark.octagon.fill": [
+    "stop",
+    "warning"
+  ],
+  "exclamationmark.questionmark": [
+    "!?"
+  ],
+  "exclamationmark.shield": [
+    "!",
+    "warning"
+  ],
+  "exclamationmark.shield.fill": [
+    "!",
+    "warning"
+  ],
+  "exclamationmark.square": [
+    "warning"
+  ],
+  "exclamationmark.square.fill": [
+    "warning"
+  ],
+  "exclamationmark.transmission": [
+    "!",
+    "fault",
+    "transmission",
+    "warning"
+  ],
+  "exclamationmark.triangle": [
+    "warning"
+  ],
+  "exclamationmark.triangle.fill": [
+    "warning"
+  ],
+  "externaldrive.badge.exclamationmark": [
+    "!",
+    "warning"
+  ],
+  "externaldrive.badge.minus": [
+    "remove"
+  ],
+  "externaldrive.badge.plus": [
+    "+",
+    "add",
+    "create",
+    "new"
+  ],
+  "externaldrive.fill.badge.exclamationmark": [
+    "!",
+    "warning"
+  ],
+  "externaldrive.fill.badge.minus": [
+    "remove"
+  ],
+  "externaldrive.fill.badge.plus": [
+    "+",
+    "add",
+    "create",
+    "new"
+  ],
+  "externaldrive.fill.trianglebadge.exclamationmark": [
+    "!",
+    "warning"
+  ],
+  "externaldrive.trianglebadge.exclamationmark": [
+    "!",
+    "warning"
+  ],
+  "eye": [
+    "quick look",
+    "quicklook",
+    "show"
+  ],
+  "eye.fill": [
+    "quick look",
+    "quicklook",
+    "show"
+  ],
+  "eye.slash": [
+    "hidden",
+    "hide",
+    "remove",
+    "remove red eye"
+  ],
+  "eye.slash.circle": [
+    "hidden",
+    "remove"
+  ],
+  "eye.slash.circle.fill": [
+    "hidden",
+    "remove"
+  ],
+  "eye.slash.fill": [
+    "hidden",
+    "hide",
+    "remove",
+    "remove red eye"
+  ],
+  "eye.trianglebadge.exclamationmark": [
+    "!",
+    "warning"
+  ],
+  "eye.trianglebadge.exclamationmark.fill": [
+    "!",
+    "warning"
+  ],
+  "faceid": [
+    "authentication",
+    "security"
+  ],
+  "facemask": [
+    "medical"
+  ],
+  "facemask.fill": [
+    "medical"
+  ],
+  "figure.2.and.child.holdinghands": [
+    "adult",
+    "child",
+    "family",
+    "human",
+    "kid",
+    "parent",
+    "person"
+  ],
+  "figure.2.arms.open": [
+    "human",
+    "person"
+  ],
+  "figure.american.football": [
+    "human",
+    "person",
+    "sports"
+  ],
+  "figure.and.child.holdinghands": [
+    "adult",
+    "child",
+    "family",
+    "human",
+    "kid",
+    "parent",
+    "person"
+  ],
+  "figure.archery": [
+    "human",
+    "person",
+    "sports"
+  ],
+  "figure.arms.open": [
+    "human",
+    "person"
+  ],
+  "figure.australian.football": [
+    "human",
+    "person",
+    "sports"
+  ],
+  "figure.badminton": [
+    "human",
+    "person",
+    "sports"
+  ],
+  "figure.barre": [
+    "human",
+    "person",
+    "sports"
+  ],
+  "figure.baseball": [
+    "human",
+    "person",
+    "sports"
+  ],
+  "figure.basketball": [
+    "human",
+    "person",
+    "sports"
+  ],
+  "figure.bowling": [
+    "human",
+    "person",
+    "sports"
+  ],
+  "figure.boxing": [
+    "human",
+    "person",
+    "sports"
+  ],
+  "figure.climbing": [
+    "human",
+    "person",
+    "sports"
+  ],
+  "figure.cooldown": [
+    "human",
+    "person",
+    "sports"
+  ],
+  "figure.core.training": [
+    "human",
+    "person",
+    "sports"
+  ],
+  "figure.cricket": [
+    "human",
+    "person",
+    "sports"
+  ],
+  "figure.cross.training": [
+    "human",
+    "person",
+    "sports"
+  ],
+  "figure.curling": [
+    "human",
+    "person",
+    "sports"
+  ],
+  "figure.dance": [
+    "human",
+    "person",
+    "sports"
+  ],
+  "figure.disc.sports": [
+    "human",
+    "person",
+    "sports"
+  ],
+  "figure.dress.line.vertical.figure": [
+    "human",
+    "person"
+  ],
+  "figure.elliptical": [
+    "human",
+    "person",
+    "sports"
+  ],
+  "figure.equestrian.sports": [
+    "human",
+    "person",
+    "sports"
+  ],
+  "figure.fall": [
+    "human",
+    "person"
+  ],
+  "figure.fall.circle": [
+    "human",
+    "person"
+  ],
+  "figure.fall.circle.fill": [
+    "human",
+    "person"
+  ],
+  "figure.fencing": [
+    "human",
+    "person",
+    "sports"
+  ],
+  "figure.fishing": [
+    "human",
+    "person",
+    "sports"
+  ],
+  "figure.flexibility": [
+    "human",
+    "person",
+    "sports"
+  ],
+  "figure.golf": [
+    "human",
+    "person",
+    "sports"
+  ],
+  "figure.gymnastics": [
+    "human",
+    "person",
+    "sports"
+  ],
+  "figure.hand.cycling": [
+    "human",
+    "person",
+    "sports"
+  ],
+  "figure.handball": [
+    "human",
+    "person",
+    "sports"
+  ],
+  "figure.highintensity.intervaltraining": [
+    "hiit",
+    "human",
+    "person",
+    "sports"
+  ],
+  "figure.hiking": [
+    "human",
+    "person",
+    "sports"
+  ],
+  "figure.hockey": [
+    "human",
+    "person",
+    "sports"
+  ],
+  "figure.hunting": [
+    "human",
+    "person",
+    "sports"
+  ],
+  "figure.indoor.cycle": [
+    "human",
+    "person",
+    "sports"
+  ],
+  "figure.jumprope": [
+    "human",
+    "person",
+    "sports"
+  ],
+  "figure.kickboxing": [
+    "human",
+    "person",
+    "sports"
+  ],
+  "figure.lacrosse": [
+    "human",
+    "person",
+    "sports"
+  ],
+  "figure.martial.arts": [
+    "human",
+    "person",
+    "sports"
+  ],
+  "figure.mind.and.body": [
+    "human",
+    "person",
+    "sports"
+  ],
+  "figure.mixed.cardio": [
+    "human",
+    "person",
+    "sports"
+  ],
+  "figure.open.water.swim": [
+    "human",
+    "person",
+    "sports",
+    "water"
+  ],
+  "figure.outdoor.cycle": [
+    "bicycle",
+    "human",
+    "person",
+    "sports"
+  ],
+  "figure.pickleball": [
+    "human",
+    "person",
+    "sports"
+  ],
+  "figure.pilates": [
+    "human",
+    "person",
+    "sports"
+  ],
+  "figure.play": [
+    "human",
+    "person",
+    "sports"
+  ],
+  "figure.pool.swim": [
+    "human",
+    "person",
+    "sports",
+    "water"
+  ],
+  "figure.racquetball": [
+    "human",
+    "person",
+    "sports"
+  ],
+  "figure.roll": [
+    "human",
+    "person",
+    "sports",
+    "wheelchair"
+  ],
+  "figure.roll.runningpace": [
+    "human",
+    "person",
+    "sports",
+    "wheelchair"
+  ],
+  "figure.rolling": [
+    "human",
+    "person",
+    "sports"
+  ],
+  "figure.rower": [
+    "human",
+    "person",
+    "sports"
+  ],
+  "figure.rugby": [
+    "human",
+    "person",
+    "sports"
+  ],
+  "figure.run": [
+    "human",
+    "indoor run",
+    "outdoor run",
+    "person",
+    "running",
+    "sports"
+  ],
+  "figure.run.circle": [
+    "human",
+    "indoor run",
+    "outdoor run",
+    "person",
+    "running",
+    "sports"
+  ],
+  "figure.run.circle.fill": [
+    "human",
+    "indoor run",
+    "outdoor run",
+    "person",
+    "running",
+    "sports"
+  ],
+  "figure.run.square.stack": [
+    "human",
+    "indoor run",
+    "outdoor run",
+    "person",
+    "running",
+    "sports"
+  ],
+  "figure.run.square.stack.fill": [
+    "human",
+    "indoor run",
+    "outdoor run",
+    "person",
+    "running",
+    "sports"
+  ],
+  "figure.sailing": [
+    "human",
+    "person",
+    "sports"
+  ],
+  "figure.seated.seatbelt": [
+    "human",
+    "person"
+  ],
+  "figure.seated.seatbelt.and.airbag.off": [
+    "human",
+    "person"
+  ],
+  "figure.seated.seatbelt.and.airbag.on": [
+    "human",
+    "person"
+  ],
+  "figure.seated.side.air.lower": [
+    "human",
+    "person"
+  ],
+  "figure.seated.side.air.upper": [
+    "human",
+    "person"
+  ],
+  "figure.seated.side.air.upper.and.lower": [
+    "human",
+    "person"
+  ],
+  "figure.seated.side.air.windshield": [
+    "human",
+    "person"
+  ],
+  "figure.seated.side.airbag.off": [
+    "human",
+    "person"
+  ],
+  "figure.seated.side.airbag.off.2": [
+    "human",
+    "person"
+  ],
+  "figure.seated.side.airbag.on": [
+    "human",
+    "person"
+  ],
+  "figure.seated.side.airbag.on.2": [
+    "human",
+    "person"
+  ],
+  "figure.seated.side.windshield.front.and.heat.waves": [
+    "human",
+    "person"
+  ],
+  "figure.skating": [
+    "human",
+    "person",
+    "sports"
+  ],
+  "figure.skiing.crosscountry": [
+    "human",
+    "person",
+    "sports"
+  ],
+  "figure.skiing.downhill": [
+    "human",
+    "person",
+    "sports"
+  ],
+  "figure.snowboarding": [
+    "human",
+    "person",
+    "sports"
+  ],
+  "figure.soccer": [
+    "human",
+    "person",
+    "sports"
+  ],
+  "figure.socialdance": [
+    "human",
+    "person",
+    "sports"
+  ],
+  "figure.softball": [
+    "human",
+    "person",
+    "sports"
+  ],
+  "figure.squash": [
+    "human",
+    "person",
+    "sports"
+  ],
+  "figure.stair.stepper": [
+    "human",
+    "person",
+    "sports"
+  ],
+  "figure.stairs": [
+    "human",
+    "person",
+    "sports"
+  ],
+  "figure.stand": [
+    "human",
+    "person"
+  ],
+  "figure.stand.line.dotted.figure.stand": [
+    "human",
+    "person"
+  ],
+  "figure.step.training": [
+    "human",
+    "person",
+    "sports"
+  ],
+  "figure.strengthtraining.functional": [
+    "human",
+    "person",
+    "sports"
+  ],
+  "figure.strengthtraining.traditional": [
+    "human",
+    "person",
+    "sports"
+  ],
+  "figure.surfing": [
+    "human",
+    "person",
+    "sports"
+  ],
+  "figure.table.tennis": [
+    "human",
+    "person",
+    "sports"
+  ],
+  "figure.taichi": [
+    "human",
+    "person",
+    "sports"
+  ],
+  "figure.tennis": [
+    "human",
+    "person",
+    "sports"
+  ],
+  "figure.track.and.field": [
+    "human",
+    "person",
+    "sports"
+  ],
+  "figure.volleyball": [
+    "human",
+    "person",
+    "sports"
+  ],
+  "figure.walk": [
+    "human",
+    "indoor walk",
+    "outdoor walk",
+    "person",
+    "sports",
+    "walking"
+  ],
+  "figure.walk.arrival": [
+    "human",
+    "person"
+  ],
+  "figure.walk.circle": [
+    "human",
+    "indoor walk",
+    "outdoor walk",
+    "person",
+    "sports",
+    "walking"
+  ],
+  "figure.walk.circle.fill": [
+    "human",
+    "indoor walk",
+    "outdoor walk",
+    "person",
+    "sports",
+    "walking"
+  ],
+  "figure.walk.departure": [
+    "human",
+    "person"
+  ],
+  "figure.walk.diamond": [
+    "human",
+    "person",
+    "walking"
+  ],
+  "figure.walk.diamond.fill": [
+    "human",
+    "person",
+    "walking"
+  ],
+  "figure.walk.motion": [
+    "human",
+    "person",
+    "sports",
+    "walking"
+  ],
+  "figure.water.fitness": [
+    "human",
+    "person",
+    "sports",
+    "water"
+  ],
+  "figure.waterpolo": [
+    "human",
+    "person",
+    "sports",
+    "water"
+  ],
+  "figure.wave": [
+    "human",
+    "person"
+  ],
+  "figure.wave.circle": [
+    "human",
+    "person"
+  ],
+  "figure.wave.circle.fill": [
+    "human",
+    "person"
+  ],
+  "figure.wrestling": [
+    "human",
+    "person",
+    "sports"
+  ],
+  "figure.yoga": [
+    "human",
+    "person",
+    "sports"
+  ],
+  "firewall": [
+    "arrow"
+  ],
+  "firewall.fill": [
+    "arrow"
+  ],
+  "flag": [
+    "mail"
+  ],
+  "flag.badge.ellipsis": [
+    "action",
+    "dot.3",
+    "extra",
+    "more",
+    "overflow",
+    "…"
+  ],
+  "flag.badge.ellipsis.fill": [
+    "action",
+    "dot.3",
+    "extra",
+    "more",
+    "overflow",
+    "…"
+  ],
+  "flag.checkered": [
+    "campground",
+    "camping"
+  ],
+  "flag.checkered.circle": [
+    "campground",
+    "camping"
+  ],
+  "flag.checkered.circle.fill": [
+    "campground",
+    "camping"
+  ],
+  "flag.circle": [
+    "mail"
+  ],
+  "flag.circle.fill": [
+    "mail"
+  ],
+  "flag.fill": [
+    "mail"
+  ],
+  "flag.slash": [
+    "mail",
+    "remove"
+  ],
+  "flag.slash.circle": [
+    "remove"
+  ],
+  "flag.slash.circle.fill": [
+    "remove"
+  ],
+  "flag.slash.fill": [
+    "mail",
+    "remove"
+  ],
+  "flame": [
+    "fire"
+  ],
+  "flame.circle": [
+    "fire"
+  ],
+  "flame.circle.fill": [
+    "fire"
+  ],
+  "flame.fill": [
+    "fire"
+  ],
+  "florinsign": [
+    "currencies",
+    "currency"
+  ],
+  "florinsign.circle": [
+    "currencies",
+    "currency"
+  ],
+  "florinsign.circle.fill": [
+    "currencies",
+    "currency"
+  ],
+  "florinsign.square": [
+    "currencies",
+    "currency"
+  ],
+  "florinsign.square.fill": [
+    "currencies",
+    "currency"
+  ],
+  "folder": [
+    "move"
+  ],
+  "folder.badge.minus": [
+    "-",
+    "delete",
+    "remove",
+    "subtract",
+    "−"
+  ],
+  "folder.badge.plus": [
+    "+",
+    "add",
+    "create",
+    "new"
+  ],
+  "folder.badge.questionmark": [
+    "?"
+  ],
+  "folder.circle": [
+    "move"
+  ],
+  "folder.circle.fill": [
+    "move"
+  ],
+  "folder.fill": [
+    "move"
+  ],
+  "folder.fill.badge.minus": [
+    "-",
+    "delete",
+    "remove",
+    "subtract",
+    "−"
+  ],
+  "folder.fill.badge.plus": [
+    "+",
+    "add",
+    "create",
+    "new"
+  ],
+  "folder.fill.badge.questionmark": [
+    "?"
+  ],
+  "football": [
+    "sports"
+  ],
+  "football.circle": [
+    "sports"
+  ],
+  "football.circle.fill": [
+    "sports"
+  ],
+  "football.fill": [
+    "sports"
+  ],
+  "fork.knife": [
+    "drink",
+    "food"
+  ],
+  "fork.knife.circle": [
+    "drink",
+    "food"
+  ],
+  "fork.knife.circle.fill": [
+    "drink",
+    "food"
+  ],
+  "fossil.shell": [
+    "ammonite",
+    "history"
+  ],
+  "fossil.shell.fill": [
+    "ammonite",
+    "history"
+  ],
+  "francsign": [
+    "currencies",
+    "currency"
+  ],
+  "francsign.circle": [
+    "currencies",
+    "currency"
+  ],
+  "francsign.circle.fill": [
+    "currencies",
+    "currency"
+  ],
+  "francsign.square": [
+    "currencies",
+    "currency"
+  ],
+  "francsign.square.fill": [
+    "currencies",
+    "currency"
+  ],
+  "frying.pan": [
+    "cooking"
+  ],
+  "frying.pan.fill": [
+    "cooking"
+  ],
+  "gauge.medium.badge.minus": [
+    "remove"
+  ],
+  "gauge.medium.badge.plus": [
+    "add"
+  ],
+  "gear": [
+    "general",
+    "settings"
+  ],
+  "gearshape": [
+    "general",
+    "settings"
+  ],
+  "gearshape.2": [
+    "advanced"
+  ],
+  "gearshape.2.fill": [
+    "advanced"
+  ],
+  "gearshape.fill": [
+    "general",
+    "settings"
+  ],
+  "gift": [
+    "birthday"
+  ],
+  "gift.circle": [
+    "birthday"
+  ],
+  "gift.circle.fill": [
+    "birthday"
+  ],
+  "gift.fill": [
+    "birthday"
+  ],
+  "globe": [
+    "earth"
+  ],
+  "globe.americas": [
+    "earth"
+  ],
+  "globe.americas.fill": [
+    "earth"
+  ],
+  "globe.asia.australia": [
+    "earth"
+  ],
+  "globe.asia.australia.fill": [
+    "earth"
+  ],
+  "globe.badge.chevron.backward": [
+    "earth"
+  ],
+  "globe.central.south.asia": [
+    "earth"
+  ],
+  "globe.central.south.asia.fill": [
+    "earth"
+  ],
+  "globe.desk": [
+    "geography"
+  ],
+  "globe.desk.fill": [
+    "geography"
+  ],
+  "globe.europe.africa": [
+    "earth"
+  ],
+  "globe.europe.africa.fill": [
+    "earth"
+  ],
+  "gobackward.minus": [
+    "-"
+  ],
+  "goforward.plus": [
+    "+",
+    "add"
+  ],
+  "graduationcap": [
+    "college",
+    "education",
+    "hat",
+    "school",
+    "student"
+  ],
+  "graduationcap.circle": [
+    "college",
+    "education",
+    "hat",
+    "school",
+    "student"
+  ],
+  "graduationcap.circle.fill": [
+    "college",
+    "education",
+    "hat",
+    "school",
+    "student"
+  ],
+  "graduationcap.fill": [
+    "college",
+    "education",
+    "hat",
+    "school",
+    "student"
+  ],
+  "greaterthan": [
+    ">"
+  ],
+  "greaterthan.circle": [
+    ">"
+  ],
+  "greaterthan.circle.fill": [
+    ">"
+  ],
+  "greaterthan.square": [
+    ">"
+  ],
+  "greaterthan.square.fill": [
+    ">"
+  ],
+  "guaranisign": [
+    "currencies",
+    "currency"
+  ],
+  "guaranisign.circle": [
+    "currencies",
+    "currency"
+  ],
+  "guaranisign.circle.fill": [
+    "currencies",
+    "currency"
+  ],
+  "guaranisign.square": [
+    "currencies",
+    "currency"
+  ],
+  "guaranisign.square.fill": [
+    "currencies",
+    "currency"
+  ],
+  "hand.draw": [
+    "touch"
+  ],
+  "hand.draw.fill": [
+    "touch"
+  ],
+  "hand.point.up.braille": [
+    "touch"
+  ],
+  "hand.point.up.braille.fill": [
+    "touch"
+  ],
+  "hand.point.up.left": [
+    "touch"
+  ],
+  "hand.point.up.left.fill": [
+    "touch"
+  ],
+  "hand.raised": [
+    "block",
+    "privacy"
+  ],
+  "hand.raised.app": [
+    "privacy"
+  ],
+  "hand.raised.app.fill": [
+    "privacy"
+  ],
+  "hand.raised.circle": [
+    "privacy"
+  ],
+  "hand.raised.circle.fill": [
+    "privacy"
+  ],
+  "hand.raised.fill": [
+    "block",
+    "privacy"
+  ],
+  "hand.raised.slash": [
+    "privacy",
+    "remove",
+    "unblock"
+  ],
+  "hand.raised.slash.fill": [
+    "privacy",
+    "remove",
+    "unblock"
+  ],
+  "hand.raised.square": [
+    "privacy"
+  ],
+  "hand.raised.square.fill": [
+    "privacy"
+  ],
+  "hand.tap": [
+    "touch"
+  ],
+  "hand.tap.fill": [
+    "touch"
+  ],
+  "hand.thumbsdown": [
+    "dislike"
+  ],
+  "hand.thumbsdown.fill": [
+    "dislike"
+  ],
+  "hand.thumbsup": [
+    "like"
+  ],
+  "hand.thumbsup.fill": [
+    "like"
+  ],
+  "hare": [
+    "fast",
+    "rabbit"
+  ],
+  "hare.fill": [
+    "fast",
+    "rabbit"
+  ],
+  "headphones": [
+    "audio",
+    "sound",
+    "speaker"
+  ],
+  "headphones.circle": [
+    "audio",
+    "sound",
+    "speaker"
+  ],
+  "headphones.circle.fill": [
+    "audio",
+    "sound",
+    "speaker"
+  ],
+  "heart": [
+    "love",
+    "medical"
+  ],
+  "heart.circle": [
+    "love",
+    "medical"
+  ],
+  "heart.circle.fill": [
+    "love",
+    "medical"
+  ],
+  "heart.fill": [
+    "love",
+    "medical"
+  ],
+  "heart.rectangle": [
+    "medical"
+  ],
+  "heart.rectangle.fill": [
+    "medical"
+  ],
+  "heart.slash": [
+    "remove"
+  ],
+  "heart.slash.circle": [
+    "remove"
+  ],
+  "heart.slash.circle.fill": [
+    "remove"
+  ],
+  "heart.slash.fill": [
+    "remove"
+  ],
+  "heart.square": [
+    "medical"
+  ],
+  "heart.square.fill": [
+    "medical"
+  ],
+  "heart.text.square": [
+    "medical"
+  ],
+  "heart.text.square.fill": [
+    "medical"
+  ],
+  "hifispeaker": [
+    "audio",
+    "sound",
+    "speaker"
+  ],
+  "hifispeaker.2": [
+    "audio",
+    "sound",
+    "speaker"
+  ],
+  "hifispeaker.2.fill": [
+    "audio",
+    "sound",
+    "speaker"
+  ],
+  "hifispeaker.and.homepod": [
+    "audio",
+    "sound",
+    "speaker"
+  ],
+  "hifispeaker.and.homepod.fill": [
+    "audio",
+    "sound",
+    "speaker"
+  ],
+  "hifispeaker.and.homepodmini": [
+    "audio",
+    "sound",
+    "speaker"
+  ],
+  "hifispeaker.and.homepodmini.fill": [
+    "audio",
+    "sound",
+    "speaker"
+  ],
+  "hifispeaker.fill": [
+    "audio",
+    "sound",
+    "speaker"
+  ],
+  "highlighter": [
+    "write",
+    "writing"
+  ],
+  "hockey.puck": [
+    "sports"
+  ],
+  "hockey.puck.circle": [
+    "sports"
+  ],
+  "hockey.puck.circle.fill": [
+    "sports"
+  ],
+  "hockey.puck.fill": [
+    "sports"
+  ],
+  "homepod": [
+    "audio",
+    "sound",
+    "speaker"
+  ],
+  "homepod.2": [
+    "audio",
+    "sound",
+    "speaker"
+  ],
+  "homepod.2.fill": [
+    "audio",
+    "sound",
+    "speaker"
+  ],
+  "homepod.and.homepodmini": [
+    "audio",
+    "sound",
+    "speaker"
+  ],
+  "homepod.and.homepodmini.fill": [
+    "audio",
+    "sound",
+    "speaker"
+  ],
+  "homepod.fill": [
+    "audio",
+    "sound",
+    "speaker"
+  ],
+  "homepodmini": [
+    "audio",
+    "sound",
+    "speaker"
+  ],
+  "homepodmini.2": [
+    "audio",
+    "sound",
+    "speaker"
+  ],
+  "homepodmini.2.fill": [
+    "audio",
+    "sound",
+    "speaker"
+  ],
+  "homepodmini.fill": [
+    "audio",
+    "sound",
+    "speaker"
+  ],
+  "hourglass.badge.plus": [
+    "add"
+  ],
+  "house": [
+    "home",
+    "house"
+  ],
+  "house.and.flag": [
+    "campground",
+    "camping",
+    "ranger station"
+  ],
+  "house.and.flag.circle": [
+    "campground",
+    "camping",
+    "ranger station"
+  ],
+  "house.and.flag.circle.fill": [
+    "campground",
+    "camping",
+    "ranger station"
+  ],
+  "house.and.flag.fill": [
+    "campground",
+    "camping",
+    "ranger station"
+  ],
+  "house.circle": [
+    "home",
+    "house"
+  ],
+  "house.circle.fill": [
+    "home",
+    "house"
+  ],
+  "house.fill": [
+    "home",
+    "house"
+  ],
+  "house.lodge": [
+    "campground",
+    "camping"
+  ],
+  "house.lodge.circle": [
+    "campground",
+    "camping"
+  ],
+  "house.lodge.circle.fill": [
+    "campground",
+    "camping"
+  ],
+  "house.lodge.fill": [
+    "campground",
+    "camping"
+  ],
+  "hryvniasign": [
+    "currencies",
+    "currency"
+  ],
+  "hryvniasign.circle": [
+    "currencies",
+    "currency"
+  ],
+  "hryvniasign.circle.fill": [
+    "currencies",
+    "currency"
+  ],
+  "hryvniasign.square": [
+    "currencies",
+    "currency"
+  ],
+  "hryvniasign.square.fill": [
+    "currencies",
+    "currency"
+  ],
+  "humidifier.and.droplets": [
+    "humidity",
+    "mist",
+    "water"
+  ],
+  "humidifier.and.droplets.fill": [
+    "humidity",
+    "mist",
+    "water"
+  ],
+  "humidity": [
+    "drop",
+    "weather"
+  ],
+  "humidity.fill": [
+    "drop",
+    "weather"
+  ],
+  "hurricane": [
+    "weather"
+  ],
+  "hurricane.circle": [
+    "weather"
+  ],
+  "hurricane.circle.fill": [
+    "weather"
+  ],
+  "icloud.slash": [
+    "remove"
+  ],
+  "icloud.slash.fill": [
+    "remove"
+  ],
+  "indianrupeesign": [
+    "currencies",
+    "currency"
+  ],
+  "indianrupeesign.circle": [
+    "currencies",
+    "currency"
+  ],
+  "indianrupeesign.circle.fill": [
+    "currencies",
+    "currency"
+  ],
+  "indianrupeesign.square": [
+    "currencies",
+    "currency"
+  ],
+  "indianrupeesign.square.fill": [
+    "currencies",
+    "currency"
+  ],
+  "info": [
+    "info"
+  ],
+  "info.circle": [
+    "info"
+  ],
+  "info.circle.fill": [
+    "info"
+  ],
+  "info.square": [
+    "info"
+  ],
+  "info.square.fill": [
+    "info"
+  ],
+  "ipad.and.iphone": [
+    "ipad",
+    "iphone"
+  ],
+  "ipad.and.iphone.slash": [
+    "ipad",
+    "iphone"
+  ],
+  "iphone.gen1.slash": [
+    "remove"
+  ],
+  "iphone.gen1.slash.circle": [
+    "remove"
+  ],
+  "iphone.gen1.slash.circle.fill": [
+    "remove"
+  ],
+  "iphone.gen2.slash": [
+    "remove"
+  ],
+  "iphone.gen2.slash.circle": [
+    "remove"
+  ],
+  "iphone.gen2.slash.circle.fill": [
+    "remove"
+  ],
+  "iphone.gen3.slash": [
+    "remove"
+  ],
+  "iphone.gen3.slash.circle": [
+    "remove"
+  ],
+  "iphone.gen3.slash.circle.fill": [
+    "remove"
+  ],
+  "iphone.slash": [
+    "remove"
+  ],
+  "iphone.slash.circle": [
+    "remove"
+  ],
+  "iphone.slash.circle.fill": [
+    "remove"
+  ],
+  "ivfluid.bag": [
+    "medical"
+  ],
+  "ivfluid.bag.fill": [
+    "medical"
+  ],
+  "key": [
+    "password",
+    "security"
+  ],
+  "key.fill": [
+    "password",
+    "security"
+  ],
+  "key.horizontal": [
+    "password",
+    "security"
+  ],
+  "key.horizontal.fill": [
+    "password",
+    "security"
+  ],
+  "key.radiowaves.forward": [
+    "password",
+    "security"
+  ],
+  "key.radiowaves.forward.fill": [
+    "password",
+    "security"
+  ],
+  "key.viewfinder": [
+    "password",
+    "security"
+  ],
+  "keyboard.badge.ellipsis": [
+    "action",
+    "dot.3",
+    "extra",
+    "more",
+    "overflow",
+    "…"
+  ],
+  "keyboard.badge.ellipsis.fill": [
+    "action",
+    "dot.3",
+    "extra",
+    "more",
+    "overflow",
+    "…"
+  ],
+  "kipsign": [
+    "currencies",
+    "currency"
+  ],
+  "kipsign.circle": [
+    "currencies",
+    "currency"
+  ],
+  "kipsign.circle.fill": [
+    "currencies",
+    "currency"
+  ],
+  "kipsign.square": [
+    "currencies",
+    "currency"
+  ],
+  "kipsign.square.fill": [
+    "currencies",
+    "currency"
+  ],
+  "lamp.ceiling": [
+    "light"
+  ],
+  "lamp.ceiling.fill": [
+    "light"
+  ],
+  "lamp.ceiling.inverse": [
+    "light"
+  ],
+  "lamp.desk": [
+    "light"
+  ],
+  "lamp.desk.fill": [
+    "light"
+  ],
+  "lamp.floor": [
+    "light"
+  ],
+  "lamp.floor.fill": [
+    "light"
+  ],
+  "lamp.table": [
+    "light"
+  ],
+  "lamp.table.fill": [
+    "light"
+  ],
+  "lane": [
+    "running",
+    "sports"
+  ],
+  "laptopcomputer.trianglebadge.exclamationmark": [
+    "!",
+    "warning"
+  ],
+  "larisign": [
+    "currencies",
+    "currency"
+  ],
+  "larisign.circle": [
+    "currencies",
+    "currency"
+  ],
+  "larisign.circle.fill": [
+    "currencies",
+    "currency"
+  ],
+  "larisign.square": [
+    "currencies",
+    "currency"
+  ],
+  "larisign.square.fill": [
+    "currencies",
+    "currency"
+  ],
+  "lessthan": [
+    "<"
+  ],
+  "lessthan.circle": [
+    "<"
+  ],
+  "lessthan.circle.fill": [
+    "<"
+  ],
+  "lessthan.square": [
+    "<"
+  ],
+  "lessthan.square.fill": [
+    "<"
+  ],
+  "light.beacon.max": [
+    "emergency",
+    "security alarm",
+    "siren"
+  ],
+  "light.beacon.max.fill": [
+    "emergency",
+    "security alarm",
+    "siren"
+  ],
+  "light.beacon.min": [
+    "emergency",
+    "security alarm",
+    "siren"
+  ],
+  "light.beacon.min.fill": [
+    "emergency",
+    "security alarm",
+    "siren"
+  ],
+  "lightbulb.slash": [
+    "remove"
+  ],
+  "lightbulb.slash.fill": [
+    "remove"
+  ],
+  "line.3.horizontal.decrease.circle": [
+    "filter",
+    "mail"
+  ],
+  "line.3.horizontal.decrease.circle.fill": [
+    "filter",
+    "mail"
+  ],
+  "line.horizontal.star.fill.line.horizontal": [
+    "favorite"
+  ],
+  "link.badge.plus": [
+    "add"
+  ],
+  "lirasign": [
+    "currencies",
+    "currency"
+  ],
+  "lirasign.circle": [
+    "currencies",
+    "currency"
+  ],
+  "lirasign.circle.fill": [
+    "currencies",
+    "currency"
+  ],
+  "lirasign.square": [
+    "currencies",
+    "currency"
+  ],
+  "lirasign.square.fill": [
+    "currencies",
+    "currency"
+  ],
+  "list.bullet.clipboard": [
+    "notes"
+  ],
+  "list.bullet.clipboard.fill": [
+    "notes"
+  ],
+  "list.clipboard": [
+    "notes"
+  ],
+  "list.clipboard.fill": [
+    "notes"
+  ],
+  "livephoto.slash": [
+    "disable",
+    "disabled",
+    "off",
+    "remove"
+  ],
+  "lizard": [
+    "reptile"
+  ],
+  "lizard.fill": [
+    "reptile"
+  ],
+  "location.slash": [
+    "remove"
+  ],
+  "location.slash.circle": [
+    "remove"
+  ],
+  "location.slash.circle.fill": [
+    "remove"
+  ],
+  "location.slash.fill": [
+    "remove"
+  ],
+  "lock": [
+    "lock",
+    "padlock",
+    "password",
+    "security"
+  ],
+  "lock.applewatch": [
+    "padlock",
+    "password",
+    "security"
+  ],
+  "lock.circle": [
+    "lock",
+    "padlock",
+    "password",
+    "security"
+  ],
+  "lock.circle.fill": [
+    "lock",
+    "padlock",
+    "password",
+    "security"
+  ],
+  "lock.display": [
+    "padlock",
+    "password",
+    "security"
+  ],
+  "lock.doc": [
+    "padlock",
+    "password",
+    "security"
+  ],
+  "lock.doc.fill": [
+    "padlock",
+    "password",
+    "security"
+  ],
+  "lock.fill": [
+    "lock",
+    "padlock",
+    "password",
+    "security"
+  ],
+  "lock.icloud": [
+    "padlock",
+    "password",
+    "security"
+  ],
+  "lock.icloud.fill": [
+    "padlock",
+    "password",
+    "security"
+  ],
+  "lock.ipad": [
+    "padlock",
+    "password",
+    "security"
+  ],
+  "lock.iphone": [
+    "padlock",
+    "password",
+    "security"
+  ],
+  "lock.laptopcomputer": [
+    "padlock",
+    "password",
+    "security"
+  ],
+  "lock.open": [
+    "padlock",
+    "password",
+    "security",
+    "unlock"
+  ],
+  "lock.open.applewatch": [
+    "padlock",
+    "password",
+    "security"
+  ],
+  "lock.open.display": [
+    "padlock",
+    "password",
+    "security"
+  ],
+  "lock.open.fill": [
+    "padlock",
+    "password",
+    "security",
+    "unlock"
+  ],
+  "lock.open.ipad": [
+    "padlock",
+    "password",
+    "security"
+  ],
+  "lock.open.iphone": [
+    "padlock",
+    "password",
+    "security"
+  ],
+  "lock.open.laptopcomputer": [
+    "padlock",
+    "password",
+    "security"
+  ],
+  "lock.open.rotation": [
+    "padlock",
+    "password",
+    "security"
+  ],
+  "lock.open.trianglebadge.exclamationmark": [
+    "!",
+    "padlock",
+    "password",
+    "security",
+    "unlock",
+    "warning"
+  ],
+  "lock.open.trianglebadge.exclamationmark.fill": [
+    "!",
+    "padlock",
+    "password",
+    "security",
+    "unlock",
+    "warning"
+  ],
+  "lock.rectangle": [
+    "padlock",
+    "password",
+    "security"
+  ],
+  "lock.rectangle.fill": [
+    "padlock",
+    "password",
+    "security"
+  ],
+  "lock.rectangle.on.rectangle": [
+    "padlock",
+    "password",
+    "security"
+  ],
+  "lock.rectangle.on.rectangle.fill": [
+    "padlock",
+    "password",
+    "security"
+  ],
+  "lock.rectangle.stack": [
+    "padlock",
+    "password",
+    "security"
+  ],
+  "lock.rectangle.stack.fill": [
+    "padlock",
+    "password",
+    "security"
+  ],
+  "lock.rotation": [
+    "padlock",
+    "password",
+    "security"
+  ],
+  "lock.shield": [
+    "padlock",
+    "password",
+    "security"
+  ],
+  "lock.shield.fill": [
+    "padlock",
+    "password",
+    "security"
+  ],
+  "lock.slash": [
+    "padlock",
+    "password",
+    "remove",
+    "security"
+  ],
+  "lock.slash.fill": [
+    "padlock",
+    "password",
+    "remove",
+    "security"
+  ],
+  "lock.square": [
+    "padlock",
+    "password",
+    "security"
+  ],
+  "lock.square.fill": [
+    "padlock",
+    "password",
+    "security"
+  ],
+  "lock.square.stack": [
+    "padlock",
+    "password",
+    "security"
+  ],
+  "lock.square.stack.fill": [
+    "padlock",
+    "password",
+    "security"
+  ],
+  "lock.trianglebadge.exclamationmark": [
+    "!",
+    "padlock",
+    "password",
+    "security",
+    "warning"
+  ],
+  "lock.trianglebadge.exclamationmark.fill": [
+    "!",
+    "padlock",
+    "password",
+    "security",
+    "warning"
+  ],
+  "macwindow.badge.plus": [
+    "+",
+    "add",
+    "create",
+    "new"
+  ],
+  "magnifyingglass": [
+    "search"
+  ],
+  "magnifyingglass.circle": [
+    "search"
+  ],
+  "magnifyingglass.circle.fill": [
+    "search"
+  ],
+  "mail.and.text.magnifyingglass": [
+    "headers"
+  ],
+  "mail.stack": [
+    "related"
+  ],
+  "mail.stack.fill": [
+    "related"
+  ],
+  "manatsign": [
+    "currencies",
+    "currency"
+  ],
+  "manatsign.circle": [
+    "currencies",
+    "currency"
+  ],
+  "manatsign.circle.fill": [
+    "currencies",
+    "currency"
+  ],
+  "manatsign.square": [
+    "currencies",
+    "currency"
+  ],
+  "manatsign.square.fill": [
+    "currencies",
+    "currency"
+  ],
+  "mappin.slash": [
+    "remove"
+  ],
+  "medical.thermometer": [
+    "COVID",
+    "medical",
+    "temperature"
+  ],
+  "medical.thermometer.fill": [
+    "COVID",
+    "medical",
+    "temperature"
+  ],
+  "memories.badge.minus": [
+    "remove"
+  ],
+  "memories.badge.plus": [
+    "add"
+  ],
+  "memorychip": [
+    "chip",
+    "cpu",
+    "gpu"
+  ],
+  "menubar.dock.rectangle": [
+    "desktop"
+  ],
+  "menubar.dock.rectangle.badge.record": [
+    "desktop"
+  ],
+  "mic": [
+    "dictate",
+    "dictation",
+    "microphone"
+  ],
+  "mic.badge.plus": [
+    "microphone"
+  ],
+  "mic.badge.xmark": [
+    "microphone"
+  ],
+  "mic.circle": [
+    "dictate",
+    "dictation",
+    "microphone"
+  ],
+  "mic.circle.fill": [
+    "dictate",
+    "dictation",
+    "microphone"
+  ],
+  "mic.fill": [
+    "dictate",
+    "dictation",
+    "microphone"
+  ],
+  "mic.fill.badge.plus": [
+    "microphone"
+  ],
+  "mic.fill.badge.xmark": [
+    "microphone"
+  ],
+  "mic.slash": [
+    "microphone",
+    "remove"
+  ],
+  "mic.slash.circle": [
+    "microphone",
+    "remove"
+  ],
+  "mic.slash.circle.fill": [
+    "microphone",
+    "remove"
+  ],
+  "mic.slash.fill": [
+    "microphone",
+    "remove"
+  ],
+  "mic.square": [
+    "dictate",
+    "dictation",
+    "microphone"
+  ],
+  "mic.square.fill": [
+    "dictate",
+    "dictation",
+    "microphone"
+  ],
+  "microbe": [
+    "COVID",
+    "exposure",
+    "medical",
+    "virus"
+  ],
+  "microbe.circle": [
+    "COVID",
+    "exposure",
+    "medical",
+    "virus"
+  ],
+  "microbe.circle.fill": [
+    "COVID",
+    "exposure",
+    "medical",
+    "virus"
+  ],
+  "microbe.fill": [
+    "COVID",
+    "exposure",
+    "medical",
+    "virus"
+  ],
+  "millsign": [
+    "currencies",
+    "currency"
+  ],
+  "millsign.circle": [
+    "currencies",
+    "currency"
+  ],
+  "millsign.circle.fill": [
+    "currencies",
+    "currency"
+  ],
+  "millsign.square": [
+    "currencies",
+    "currency"
+  ],
+  "millsign.square.fill": [
+    "currencies",
+    "currency"
+  ],
+  "minus": [
+    "-",
+    "decrease",
+    "delete",
+    "minus",
+    "remove",
+    "subtract",
+    "−"
+  ],
+  "minus.circle": [
+    "-",
+    "decrease",
+    "delete",
+    "minus",
+    "remove",
+    "subtract",
+    "−"
+  ],
+  "minus.circle.fill": [
+    "-",
+    "decrease",
+    "delete",
+    "minus",
+    "remove",
+    "subtract",
+    "−"
+  ],
+  "minus.diamond": [
+    "-",
+    "decrease",
+    "delete",
+    "remove",
+    "subtract",
+    "−"
+  ],
+  "minus.diamond.fill": [
+    "-",
+    "decrease",
+    "delete",
+    "remove",
+    "subtract",
+    "−"
+  ],
+  "minus.forwardslash.plus": [
+    "add",
+    "remove"
+  ],
+  "minus.magnifyingglass": [
+    "-",
+    "zoom out"
+  ],
+  "minus.rectangle": [
+    "-",
+    "decrease",
+    "delete",
+    "minus",
+    "remove",
+    "subtract",
+    "−"
+  ],
+  "minus.rectangle.fill": [
+    "-",
+    "decrease",
+    "delete",
+    "minus",
+    "remove",
+    "subtract",
+    "−"
+  ],
+  "minus.rectangle.portrait": [
+    "-",
+    "remove"
+  ],
+  "minus.rectangle.portrait.fill": [
+    "-",
+    "remove"
+  ],
+  "minus.square": [
+    "-",
+    "decrease",
+    "delete",
+    "minus",
+    "remove",
+    "subtract",
+    "−"
+  ],
+  "minus.square.fill": [
+    "-",
+    "decrease",
+    "delete",
+    "minus",
+    "remove",
+    "subtract",
+    "−"
+  ],
+  "moon": [
+    "dnd",
+    "do not disturb",
+    "weather"
+  ],
+  "moon.circle": [
+    "dnd",
+    "do not disturb",
+    "weather"
+  ],
+  "moon.circle.fill": [
+    "dnd",
+    "do not disturb",
+    "weather"
+  ],
+  "moon.fill": [
+    "dnd",
+    "do not disturb",
+    "weather"
+  ],
+  "moon.stars": [
+    "weather"
+  ],
+  "moon.stars.circle": [
+    "weather"
+  ],
+  "moon.stars.circle.fill": [
+    "weather"
+  ],
+  "moon.stars.fill": [
+    "weather"
+  ],
+  "mountain.2": [
+    "campground",
+    "camping",
+    "trail"
+  ],
+  "mountain.2.circle": [
+    "campground",
+    "camping",
+    "trail"
+  ],
+  "mountain.2.circle.fill": [
+    "campground",
+    "camping",
+    "trail"
+  ],
+  "mountain.2.fill": [
+    "campground",
+    "camping",
+    "trail"
+  ],
+  "mug": [
+    "coffee",
+    "drink",
+    "food",
+    "tea"
+  ],
+  "mug.fill": [
+    "coffee",
+    "drink",
+    "food",
+    "tea"
+  ],
+  "multiply": [
+    "*",
+    "multiply",
+    "times"
+  ],
+  "multiply.circle": [
+    "*",
+    "multiply",
+    "times"
+  ],
+  "multiply.circle.fill": [
+    "*",
+    "multiply",
+    "times"
+  ],
+  "multiply.square": [
+    "*",
+    "multiply",
+    "times"
+  ],
+  "multiply.square.fill": [
+    "*",
+    "multiply",
+    "times"
+  ],
+  "music.mic": [
+    "microphone"
+  ],
+  "music.mic.circle": [
+    "microphone"
+  ],
+  "music.mic.circle.fill": [
+    "microphone"
+  ],
+  "music.note.house": [
+    "home",
+    "house"
+  ],
+  "music.note.house.fill": [
+    "home",
+    "house"
+  ],
+  "nairasign": [
+    "currencies",
+    "currency"
+  ],
+  "nairasign.circle": [
+    "currencies",
+    "currency"
+  ],
+  "nairasign.circle.fill": [
+    "currencies",
+    "currency"
+  ],
+  "nairasign.square": [
+    "currencies",
+    "currency"
+  ],
+  "nairasign.square.fill": [
+    "currencies",
+    "currency"
+  ],
+  "note.text.badge.plus": [
+    "+",
+    "add",
+    "create",
+    "new"
+  ],
+  "number": [
+    "#",
+    "hash",
+    "octothorpe",
+    "pound"
+  ],
+  "number.circle": [
+    "#",
+    "hash",
+    "octothorpe",
+    "pound"
+  ],
+  "number.circle.fill": [
+    "#",
+    "hash",
+    "octothorpe",
+    "pound"
+  ],
+  "number.square": [
+    "#",
+    "hash",
+    "octothorpe",
+    "pound"
+  ],
+  "number.square.fill": [
+    "#",
+    "hash",
+    "octothorpe",
+    "pound"
+  ],
+  "numbersign": [
+    "numero"
+  ],
+  "oar.2.crossed": [
+    "paddling",
+    "sports"
+  ],
+  "paperclip": [
+    "attach",
+    "attachments",
+    "mail"
+  ],
+  "paperclip.badge.ellipsis": [
+    "action",
+    "dot.3",
+    "extra",
+    "more",
+    "overflow",
+    "…"
+  ],
+  "paperclip.circle": [
+    "attach",
+    "attachments"
+  ],
+  "paperclip.circle.fill": [
+    "attach",
+    "attachments"
+  ],
+  "paperplane": [
+    "send"
+  ],
+  "paperplane.circle": [
+    "send"
+  ],
+  "paperplane.circle.fill": [
+    "send"
+  ],
+  "paperplane.fill": [
+    "send"
+  ],
+  "party.popper": [
+    "party"
+  ],
+  "party.popper.fill": [
+    "party"
+  ],
+  "pawprint": [
+    "animals",
+    "pet friendly"
+  ],
+  "pawprint.circle": [
+    "animals",
+    "pet friendly"
+  ],
+  "pawprint.circle.fill": [
+    "animals",
+    "pet friendly"
+  ],
+  "pawprint.fill": [
+    "animals",
+    "pet friendly"
+  ],
+  "pencil": [
+    "edit",
+    "rename",
+    "write",
+    "writing"
+  ],
+  "pencil.and.outline": [
+    "write",
+    "writing"
+  ],
+  "pencil.circle": [
+    "write",
+    "writing"
+  ],
+  "pencil.circle.fill": [
+    "write",
+    "writing"
+  ],
+  "pencil.line": [
+    "draw",
+    "write",
+    "writing"
+  ],
+  "pencil.slash": [
+    "remove",
+    "write",
+    "writing"
+  ],
+  "pencil.tip": [
+    "write",
+    "writing"
+  ],
+  "pencil.tip.crop.circle": [
+    "markup",
+    "write",
+    "writing"
+  ],
+  "pencil.tip.crop.circle.badge.arrow.forward": [
+    "write",
+    "writing"
+  ],
+  "pencil.tip.crop.circle.badge.minus": [
+    "-",
+    "remove",
+    "write",
+    "writing"
+  ],
+  "pencil.tip.crop.circle.badge.plus": [
+    "+",
+    "add",
+    "write",
+    "writing"
+  ],
+  "percent": [
+    "%"
+  ],
+  "person": [
+    "people",
+    "user"
+  ],
+  "person.2": [
+    "people",
+    "shared"
+  ],
+  "person.2.badge.gearshape": [
+    "people"
+  ],
+  "person.2.badge.gearshape.fill": [
+    "people"
+  ],
+  "person.2.circle": [
+    "people",
+    "shared"
+  ],
+  "person.2.circle.fill": [
+    "people",
+    "shared"
+  ],
+  "person.2.crop.square.stack": [
+    "album",
+    "people"
+  ],
+  "person.2.crop.square.stack.fill": [
+    "album",
+    "people"
+  ],
+  "person.2.fill": [
+    "people",
+    "shared"
+  ],
+  "person.2.gobackward": [
+    "people",
+    "shared"
+  ],
+  "person.2.slash": [
+    "people",
+    "shared"
+  ],
+  "person.2.slash.fill": [
+    "people",
+    "shared"
+  ],
+  "person.2.wave.2": [
+    "people"
+  ],
+  "person.2.wave.2.fill": [
+    "people"
+  ],
+  "person.3": [
+    "group",
+    "people",
+    "shared"
+  ],
+  "person.3.fill": [
+    "group",
+    "people",
+    "shared"
+  ],
+  "person.3.sequence": [
+    "group",
+    "people"
+  ],
+  "person.3.sequence.fill": [
+    "group",
+    "people"
+  ],
+  "person.and.arrow.left.and.arrow.right": [
+    "people",
+    "user"
+  ],
+  "person.and.background.dotted": [
+    "cameraandphotos",
+    "people"
+  ],
+  "person.badge.clock": [
+    "people",
+    "time",
+    "user"
+  ],
+  "person.badge.clock.fill": [
+    "people",
+    "time",
+    "user"
+  ],
+  "person.badge.key": [
+    "passkey",
+    "password",
+    "people",
+    "privacyandsecurity",
+    "user"
+  ],
+  "person.badge.key.fill": [
+    "passkey",
+    "password",
+    "people",
+    "privacyandsecurity",
+    "user"
+  ],
+  "person.badge.minus": [
+    "people",
+    "remove",
+    "user"
+  ],
+  "person.badge.plus": [
+    "+",
+    "add",
+    "create",
+    "new",
+    "people",
+    "user"
+  ],
+  "person.badge.shield.checkmark": [
+    "people",
+    "user"
+  ],
+  "person.badge.shield.checkmark.fill": [
+    "people",
+    "user"
+  ],
+  "person.bust": [
+    "art",
+    "people",
+    "sculpture"
+  ],
+  "person.bust.fill": [
+    "art",
+    "people",
+    "sculpture"
+  ],
+  "person.circle": [
+    "people",
+    "user"
+  ],
+  "person.circle.fill": [
+    "people",
+    "user"
+  ],
+  "person.crop.artframe": [
+    "people"
+  ],
+  "person.crop.circle": [
+    "account",
+    "contact",
+    "people",
+    "profile",
+    "user"
+  ],
+  "person.crop.circle.badge": [
+    "account",
+    "contact",
+    "people",
+    "user"
+  ],
+  "person.crop.circle.badge.checkmark": [
+    "account",
+    "contact",
+    "people",
+    "user"
+  ],
+  "person.crop.circle.badge.clock": [
+    "account",
+    "contact",
+    "people",
+    "time",
+    "user"
+  ],
+  "person.crop.circle.badge.clock.fill": [
+    "account",
+    "contact",
+    "people",
+    "time",
+    "user"
+  ],
+  "person.crop.circle.badge.exclamationmark": [
+    "!",
+    "account",
+    "contact",
+    "error",
+    "people",
+    "user",
+    "warning"
+  ],
+  "person.crop.circle.badge.exclamationmark.fill": [
+    "!",
+    "account",
+    "contact",
+    "error",
+    "people",
+    "user",
+    "warning"
+  ],
+  "person.crop.circle.badge.fill": [
+    "account",
+    "contact",
+    "people",
+    "user"
+  ],
+  "person.crop.circle.badge.minus": [
+    "-",
+    "account",
+    "contact",
+    "people",
+    "remove",
+    "user"
+  ],
+  "person.crop.circle.badge.moon": [
+    "account",
+    "contact",
+    "dnd",
+    "people",
+    "user"
+  ],
+  "person.crop.circle.badge.moon.fill": [
+    "account",
+    "contact",
+    "dnd",
+    "people",
+    "user"
+  ],
+  "person.crop.circle.badge.plus": [
+    "+",
+    "account",
+    "add",
+    "contact",
+    "people",
+    "user"
+  ],
+  "person.crop.circle.badge.questionmark": [
+    "?",
+    "account",
+    "contact",
+    "people",
+    "user"
+  ],
+  "person.crop.circle.badge.questionmark.ar": [
+    "account",
+    "contact",
+    "people",
+    "user"
+  ],
+  "person.crop.circle.badge.questionmark.fill": [
+    "?",
+    "account",
+    "contact",
+    "people",
+    "user"
+  ],
+  "person.crop.circle.badge.questionmark.fill.ar": [
+    "account",
+    "contact",
+    "people",
+    "user"
+  ],
+  "person.crop.circle.badge.xmark": [
+    "account",
+    "contact",
+    "people",
+    "user",
+    "x"
+  ],
+  "person.crop.circle.dashed": [
+    "people"
+  ],
+  "person.crop.circle.fill": [
+    "account",
+    "contact",
+    "people",
+    "profile",
+    "user"
+  ],
+  "person.crop.circle.fill.badge.checkmark": [
+    "account",
+    "contact",
+    "people",
+    "user"
+  ],
+  "person.crop.circle.fill.badge.minus": [
+    "-",
+    "account",
+    "contact",
+    "people",
+    "remove",
+    "user"
+  ],
+  "person.crop.circle.fill.badge.plus": [
+    "+",
+    "account",
+    "add",
+    "contact",
+    "people",
+    "user"
+  ],
+  "person.crop.circle.fill.badge.xmark": [
+    "account",
+    "contact",
+    "people",
+    "user",
+    "x"
+  ],
+  "person.crop.rectangle": [
+    "people"
+  ],
+  "person.crop.rectangle.badge.plus": [
+    "people"
+  ],
+  "person.crop.rectangle.badge.plus.fill": [
+    "people"
+  ],
+  "person.crop.rectangle.fill": [
+    "people"
+  ],
+  "person.crop.square": [
+    "people"
+  ],
+  "person.crop.square.fill": [
+    "people"
+  ],
+  "person.crop.square.filled.and.at.rectangle": [
+    "people",
+    "vcard"
+  ],
+  "person.crop.square.filled.and.at.rectangle.fill": [
+    "people",
+    "vcard"
+  ],
+  "person.fill": [
+    "people",
+    "user"
+  ],
+  "person.fill.and.arrow.left.and.arrow.right": [
+    "people",
+    "user"
+  ],
+  "person.fill.badge.minus": [
+    "people",
+    "remove",
+    "user"
+  ],
+  "person.fill.badge.plus": [
+    "+",
+    "add",
+    "create",
+    "new",
+    "people",
+    "user"
+  ],
+  "person.fill.checkmark": [
+    "people",
+    "user"
+  ],
+  "person.fill.checkmark.rtl": [
+    "people",
+    "user"
+  ],
+  "person.fill.questionmark": [
+    "people",
+    "user"
+  ],
+  "person.fill.questionmark.ar": [
+    "people",
+    "user"
+  ],
+  "person.fill.questionmark.rtl": [
+    "people",
+    "user"
+  ],
+  "person.fill.turn.down": [
+    "people",
+    "user"
+  ],
+  "person.fill.turn.left": [
+    "people",
+    "user"
+  ],
+  "person.fill.turn.right": [
+    "people",
+    "user"
+  ],
+  "person.fill.viewfinder": [
+    "people"
+  ],
+  "person.fill.xmark": [
+    "people",
+    "user"
+  ],
+  "person.fill.xmark.rtl": [
+    "people",
+    "user"
+  ],
+  "person.icloud": [
+    "people"
+  ],
+  "person.icloud.fill": [
+    "people"
+  ],
+  "person.line.dotted.person": [
+    "COVID",
+    "exposure",
+    "medical",
+    "people",
+    "physical distancing",
+    "social distancing"
+  ],
+  "person.line.dotted.person.fill": [
+    "COVID",
+    "exposure",
+    "medical",
+    "people",
+    "physical distancing",
+    "social distancing"
+  ],
+  "person.text.rectangle": [
+    "people"
+  ],
+  "person.text.rectangle.fill": [
+    "people"
+  ],
+  "person.wave.2": [
+    "people"
+  ],
+  "person.wave.2.fill": [
+    "people"
+  ],
+  "pesetasign": [
+    "currencies",
+    "currency"
+  ],
+  "pesetasign.circle": [
+    "currencies",
+    "currency"
+  ],
+  "pesetasign.circle.fill": [
+    "currencies",
+    "currency"
+  ],
+  "pesetasign.square": [
+    "currencies",
+    "currency"
+  ],
+  "pesetasign.square.fill": [
+    "currencies",
+    "currency"
+  ],
+  "pesosign": [
+    "currencies",
+    "currency"
+  ],
+  "pesosign.circle": [
+    "currencies",
+    "currency"
+  ],
+  "pesosign.circle.fill": [
+    "currencies",
+    "currency"
+  ],
+  "pesosign.square": [
+    "currencies",
+    "currency"
+  ],
+  "pesosign.square.fill": [
+    "currencies",
+    "currency"
+  ],
+  "phone.badge.plus": [
+    "add"
+  ],
+  "phone.fill.badge.plus": [
+    "add"
+  ],
+  "photo": [
+    "environment",
+    "image",
+    "mountain",
+    "photograph",
+    "picture",
+    "place",
+    "sun"
+  ],
+  "photo.artframe": [
+    "environment",
+    "image",
+    "mountain",
+    "photograph",
+    "picture",
+    "place",
+    "sun"
+  ],
+  "photo.circle": [
+    "environment",
+    "image",
+    "mountain",
+    "photograph",
+    "picture",
+    "place",
+    "sun"
+  ],
+  "photo.circle.fill": [
+    "environment",
+    "image",
+    "mountain",
+    "photograph",
+    "picture",
+    "place",
+    "sun"
+  ],
+  "photo.fill": [
+    "environment",
+    "image",
+    "mountain",
+    "photograph",
+    "picture",
+    "place",
+    "sun"
+  ],
+  "photo.fill.on.rectangle.fill": [
+    "environment",
+    "image",
+    "mountain",
+    "photograph",
+    "picture",
+    "place",
+    "sun"
+  ],
+  "photo.on.rectangle": [
+    "environment",
+    "image",
+    "mountain",
+    "photograph",
+    "picture",
+    "place",
+    "sun"
+  ],
+  "photo.on.rectangle.angled": [
+    "environment",
+    "image",
+    "mountain",
+    "photograph",
+    "picture",
+    "place",
+    "sun"
+  ],
+  "photo.stack": [
+    "environment",
+    "image",
+    "mountain",
+    "photograph",
+    "picture",
+    "place",
+    "sun"
+  ],
+  "photo.stack.fill": [
+    "environment",
+    "image",
+    "mountain",
+    "photograph",
+    "picture",
+    "place",
+    "sun"
+  ],
+  "photo.tv": [
+    "environment",
+    "image",
+    "mountain",
+    "photograph",
+    "picture",
+    "place",
+    "sun"
+  ],
+  "pill": [
+    "medical"
+  ],
+  "pill.circle": [
+    "medical"
+  ],
+  "pill.circle.fill": [
+    "medical"
+  ],
+  "pill.fill": [
+    "medical"
+  ],
+  "pills": [
+    "medical"
+  ],
+  "pills.circle": [
+    "medical"
+  ],
+  "pills.circle.fill": [
+    "medical"
+  ],
+  "pills.fill": [
+    "medical"
+  ],
+  "pin": [
+    "pin"
+  ],
+  "pin.circle": [
+    "pin"
+  ],
+  "pin.circle.fill": [
+    "pin"
+  ],
+  "pin.fill": [
+    "pin"
+  ],
+  "pin.slash": [
+    "remove"
+  ],
+  "pin.slash.fill": [
+    "remove"
+  ],
+  "play.rectangle": [
+    "slideshow"
+  ],
+  "play.rectangle.fill": [
+    "slideshow"
+  ],
+  "play.slash": [
+    "remove"
+  ],
+  "play.slash.fill": [
+    "remove"
+  ],
+  "plus": [
+    "+",
+    "add",
+    "create",
+    "increase",
+    "new",
+    "plus"
+  ],
+  "plus.app": [
+    "add"
+  ],
+  "plus.app.fill": [
+    "add"
+  ],
+  "plus.bubble": [
+    "add"
+  ],
+  "plus.bubble.fill": [
+    "add"
+  ],
+  "plus.circle": [
+    "+",
+    "add",
+    "create",
+    "increase",
+    "new",
+    "plus"
+  ],
+  "plus.circle.fill": [
+    "+",
+    "add",
+    "create",
+    "increase",
+    "new",
+    "plus"
+  ],
+  "plus.diamond": [
+    "+",
+    "add",
+    "create",
+    "new"
+  ],
+  "plus.diamond.fill": [
+    "+",
+    "add",
+    "create",
+    "new"
+  ],
+  "plus.forwardslash.minus": [
+    "add",
+    "remove"
+  ],
+  "plus.magnifyingglass": [
+    "+",
+    "zoom in"
+  ],
+  "plus.message": [
+    "add"
+  ],
+  "plus.message.fill": [
+    "add"
+  ],
+  "plus.rectangle": [
+    "+",
+    "add",
+    "create",
+    "increase",
+    "new",
+    "plus"
+  ],
+  "plus.rectangle.fill": [
+    "+",
+    "add",
+    "create",
+    "increase",
+    "new",
+    "plus"
+  ],
+  "plus.rectangle.fill.on.rectangle.fill": [
+    "add"
+  ],
+  "plus.rectangle.on.folder": [
+    "add"
+  ],
+  "plus.rectangle.on.folder.fill": [
+    "add"
+  ],
+  "plus.rectangle.on.rectangle": [
+    "add"
+  ],
+  "plus.rectangle.portrait": [
+    "+",
+    "add"
+  ],
+  "plus.rectangle.portrait.fill": [
+    "+",
+    "add"
+  ],
+  "plus.square": [
+    "+",
+    "add",
+    "create",
+    "increase",
+    "new",
+    "plus"
+  ],
+  "plus.square.fill": [
+    "+",
+    "add",
+    "create",
+    "increase",
+    "new",
+    "plus"
+  ],
+  "plus.square.fill.on.square.fill": [
+    "add"
+  ],
+  "plus.square.on.square": [
+    "add"
+  ],
+  "plus.viewfinder": [
+    "add"
+  ],
+  "plusminus": [
+    "add",
+    "remove"
+  ],
+  "plusminus.circle": [
+    "add",
+    "remove"
+  ],
+  "plusminus.circle.fill": [
+    "add",
+    "remove"
+  ],
+  "point.filled.topleft.down.curvedto.point.bottomright.up": [
+    "activities",
+    "path"
+  ],
+  "point.topleft.down.curvedto.point.bottomright.up": [
+    "activities",
+    "path"
+  ],
+  "point.topleft.down.curvedto.point.bottomright.up.fill": [
+    "activities",
+    "path"
+  ],
+  "point.topleft.down.curvedto.point.filled.bottomright.up": [
+    "activities",
+    "path"
+  ],
+  "popcorn": [
+    "movie"
+  ],
+  "popcorn.circle": [
+    "movie"
+  ],
+  "popcorn.circle.fill": [
+    "movie"
+  ],
+  "popcorn.fill": [
+    "movie"
+  ],
+  "poweroutlet.type.a": [
+    "canada",
+    "japan",
+    "mexico",
+    "united states of america",
+    "usa"
+  ],
+  "poweroutlet.type.a.fill": [
+    "canada",
+    "japan",
+    "mexico",
+    "united states of america",
+    "usa"
+  ],
+  "poweroutlet.type.a.square": [
+    "canada",
+    "japan",
+    "mexico",
+    "united states of america",
+    "usa"
+  ],
+  "poweroutlet.type.a.square.fill": [
+    "canada",
+    "japan",
+    "mexico",
+    "united states of america",
+    "usa"
+  ],
+  "poweroutlet.type.b": [
+    "canada",
+    "japan",
+    "mexico",
+    "united states of america",
+    "usa"
+  ],
+  "poweroutlet.type.b.fill": [
+    "canada",
+    "japan",
+    "mexico",
+    "united states of america",
+    "usa"
+  ],
+  "poweroutlet.type.b.square": [
+    "canada",
+    "japan",
+    "mexico",
+    "united states of america",
+    "usa"
+  ],
+  "poweroutlet.type.b.square.fill": [
+    "canada",
+    "japan",
+    "mexico",
+    "united states of america",
+    "usa"
+  ],
+  "poweroutlet.type.c": [
+    "asia",
+    "europe",
+    "south america"
+  ],
+  "poweroutlet.type.c.fill": [
+    "asia",
+    "europe",
+    "south america"
+  ],
+  "poweroutlet.type.c.square": [
+    "asia",
+    "europe",
+    "south america"
+  ],
+  "poweroutlet.type.c.square.fill": [
+    "asia",
+    "europe",
+    "south america"
+  ],
+  "poweroutlet.type.d": [
+    "india"
+  ],
+  "poweroutlet.type.d.fill": [
+    "india"
+  ],
+  "poweroutlet.type.d.square": [
+    "india"
+  ],
+  "poweroutlet.type.d.square.fill": [
+    "india"
+  ],
+  "poweroutlet.type.e": [
+    "belgium",
+    "czechia",
+    "france",
+    "poland",
+    "slovakia"
+  ],
+  "poweroutlet.type.e.fill": [
+    "belgium",
+    "czechia",
+    "france",
+    "poland",
+    "slovakia"
+  ],
+  "poweroutlet.type.e.square": [
+    "belgium",
+    "czechia",
+    "france",
+    "poland",
+    "slovakia"
+  ],
+  "poweroutlet.type.e.square.fill": [
+    "belgium",
+    "czechia",
+    "france",
+    "poland",
+    "slovakia"
+  ],
+  "poweroutlet.type.f": [
+    "europe",
+    "russia"
+  ],
+  "poweroutlet.type.f.fill": [
+    "europe",
+    "russia"
+  ],
+  "poweroutlet.type.f.square": [
+    "europe",
+    "russia"
+  ],
+  "poweroutlet.type.f.square.fill": [
+    "europe",
+    "russia"
+  ],
+  "poweroutlet.type.g": [
+    "ireland",
+    "malaysia",
+    "malta",
+    "singapore",
+    "uk",
+    "united kingdom"
+  ],
+  "poweroutlet.type.g.fill": [
+    "ireland",
+    "malaysia",
+    "malta",
+    "singapore",
+    "uk",
+    "united kingdom"
+  ],
+  "poweroutlet.type.g.square": [
+    "ireland",
+    "malaysia",
+    "malta",
+    "singapore",
+    "uk",
+    "united kingdom"
+  ],
+  "poweroutlet.type.g.square.fill": [
+    "ireland",
+    "malaysia",
+    "malta",
+    "singapore",
+    "uk",
+    "united kingdom"
+  ],
+  "poweroutlet.type.h": [
+    "gaza strip",
+    "israel",
+    "west bank"
+  ],
+  "poweroutlet.type.h.fill": [
+    "gaza strip",
+    "israel",
+    "west bank"
+  ],
+  "poweroutlet.type.h.square": [
+    "gaza strip",
+    "israel",
+    "west bank"
+  ],
+  "poweroutlet.type.h.square.fill": [
+    "gaza strip",
+    "israel",
+    "west bank"
+  ],
+  "poweroutlet.type.i": [
+    "argentina",
+    "australia",
+    "china",
+    "new zealand"
+  ],
+  "poweroutlet.type.i.fill": [
+    "argentina",
+    "australia",
+    "china",
+    "new zealand"
+  ],
+  "poweroutlet.type.i.square": [
+    "argentina",
+    "australia",
+    "china",
+    "new zealand"
+  ],
+  "poweroutlet.type.i.square.fill": [
+    "argentina",
+    "australia",
+    "china",
+    "new zealand"
+  ],
+  "poweroutlet.type.j": [
+    "liechtenstein",
+    "switzerland"
+  ],
+  "poweroutlet.type.j.fill": [
+    "liechtenstein",
+    "switzerland"
+  ],
+  "poweroutlet.type.j.square": [
+    "liechtenstein",
+    "switzerland"
+  ],
+  "poweroutlet.type.j.square.fill": [
+    "liechtenstein",
+    "switzerland"
+  ],
+  "poweroutlet.type.k": [
+    "denmark",
+    "greenland"
+  ],
+  "poweroutlet.type.k.fill": [
+    "denmark",
+    "greenland"
+  ],
+  "poweroutlet.type.k.square": [
+    "denmark",
+    "greenland"
+  ],
+  "poweroutlet.type.k.square.fill": [
+    "denmark",
+    "greenland"
+  ],
+  "poweroutlet.type.l": [
+    "chile",
+    "italy"
+  ],
+  "poweroutlet.type.l.fill": [
+    "chile",
+    "italy"
+  ],
+  "poweroutlet.type.l.square": [
+    "chile",
+    "italy"
+  ],
+  "poweroutlet.type.l.square.fill": [
+    "chile",
+    "italy"
+  ],
+  "poweroutlet.type.m": [
+    "south africa"
+  ],
+  "poweroutlet.type.m.fill": [
+    "south africa"
+  ],
+  "poweroutlet.type.m.square": [
+    "south africa"
+  ],
+  "poweroutlet.type.m.square.fill": [
+    "south africa"
+  ],
+  "poweroutlet.type.n": [
+    "brazil",
+    "south africa"
+  ],
+  "poweroutlet.type.n.fill": [
+    "brazil",
+    "south africa"
+  ],
+  "poweroutlet.type.n.square": [
+    "brazil",
+    "south africa"
+  ],
+  "poweroutlet.type.n.square.fill": [
+    "brazil",
+    "south africa"
+  ],
+  "poweroutlet.type.o": [
+    "thailand"
+  ],
+  "poweroutlet.type.o.fill": [
+    "thailand"
+  ],
+  "poweroutlet.type.o.square": [
+    "thailand"
+  ],
+  "poweroutlet.type.o.square.fill": [
+    "thailand"
+  ],
+  "printer": [
+    "mail",
+    "print"
+  ],
+  "printer.fill": [
+    "mail",
+    "print"
+  ],
+  "projective": [
+    "enter"
+  ],
+  "qrcode.viewfinder": [
+    "scan qr code"
+  ],
+  "questionmark": [
+    "?"
+  ],
+  "questionmark.ar": [
+    "!?"
+  ],
+  "questionmark.circle": [
+    "help"
+  ],
+  "questionmark.circle.ar": [
+    "help"
+  ],
+  "questionmark.circle.fill": [
+    "help"
+  ],
+  "questionmark.circle.fill.ar": [
+    "help"
+  ],
+  "questionmark.folder": [
+    "?"
+  ],
+  "questionmark.folder.fill": [
+    "?"
+  ],
+  "questionmark.key.filled": [
+    "password",
+    "security"
+  ],
+  "questionmark.video": [
+    "facetime"
+  ],
+  "questionmark.video.ar": [
+    "facetime"
+  ],
+  "questionmark.video.fill": [
+    "facetime"
+  ],
+  "questionmark.video.fill.ar": [
+    "facetime"
+  ],
+  "rays": [
+    "light"
+  ],
+  "recordingtape": [
+    "voicemail"
+  ],
+  "recordingtape.circle": [
+    "voicemail"
+  ],
+  "recordingtape.circle.fill": [
+    "voicemail"
+  ],
+  "rectangle.3.group.bubble.left": [
+    "speech"
+  ],
+  "rectangle.3.group.bubble.left.fill": [
+    "speech"
+  ],
+  "rectangle.and.arrow.up.right.and.arrow.down.left.slash": [
+    "remove"
+  ],
+  "rectangle.and.hand.point.up.left": [
+    "touch",
+    "trackpad"
+  ],
+  "rectangle.and.hand.point.up.left.fill": [
+    "touch",
+    "trackpad"
+  ],
+  "rectangle.and.hand.point.up.left.filled": [
+    "touch",
+    "trackpad"
+  ],
+  "rectangle.and.paperclip": [
+    "include attachments"
+  ],
+  "rectangle.and.pencil.and.ellipsis": [
+    "action",
+    "dot.3",
+    "extra",
+    "more",
+    "overflow",
+    "write",
+    "writing",
+    "…"
+  ],
+  "rectangle.and.pencil.and.ellipsis.rtl": [
+    "action",
+    "dot.3",
+    "extra",
+    "more",
+    "overflow",
+    "write",
+    "writing",
+    "…"
+  ],
+  "rectangle.badge.minus": [
+    "-",
+    "remove"
+  ],
+  "rectangle.badge.person.crop": [
+    "people"
+  ],
+  "rectangle.badge.plus": [
+    "+",
+    "add"
+  ],
+  "rectangle.badge.xmark": [
+    "x"
+  ],
+  "rectangle.dashed.and.paperclip": [
+    "exclude attachments"
+  ],
+  "rectangle.fill.badge.minus": [
+    "-",
+    "remove"
+  ],
+  "rectangle.fill.badge.person.crop": [
+    "people"
+  ],
+  "rectangle.fill.badge.plus": [
+    "+",
+    "add"
+  ],
+  "rectangle.fill.badge.xmark": [
+    "x"
+  ],
+  "rectangle.filled.and.hand.point.up.left": [
+    "touch",
+    "trackpad"
+  ],
+  "rectangle.inset.filled.and.person.filled": [
+    "people",
+    "screen sharing"
+  ],
+  "rectangle.on.rectangle.slash": [
+    "remove"
+  ],
+  "rectangle.on.rectangle.slash.fill": [
+    "remove"
+  ],
+  "rectangle.slash": [
+    "remove"
+  ],
+  "rectangle.slash.fill": [
+    "remove"
+  ],
+  "rectangle.stack": [
+    "album"
+  ],
+  "rectangle.stack.badge.minus": [
+    "album",
+    "remove"
+  ],
+  "rectangle.stack.badge.person.crop": [
+    "album",
+    "shared"
+  ],
+  "rectangle.stack.badge.person.crop.fill": [
+    "album",
+    "shared"
+  ],
+  "rectangle.stack.badge.play": [
+    "album"
+  ],
+  "rectangle.stack.badge.play.fill": [
+    "album"
+  ],
+  "rectangle.stack.badge.plus": [
+    "add",
+    "album"
+  ],
+  "rectangle.stack.fill": [
+    "album"
+  ],
+  "rectangle.stack.fill.badge.minus": [
+    "album",
+    "remove"
+  ],
+  "rectangle.stack.fill.badge.plus": [
+    "add",
+    "album"
+  ],
+  "restart": [
+    "restart"
+  ],
+  "restart.circle": [
+    "restart"
+  ],
+  "rotate.left": [
+    "rotate left"
+  ],
+  "rotate.left.fill": [
+    "rotate left"
+  ],
+  "rotate.right": [
+    "rotate right"
+  ],
+  "rotate.right.fill": [
+    "rotate right"
+  ],
+  "rublesign": [
+    "currencies",
+    "currency"
+  ],
+  "rublesign.circle": [
+    "currencies",
+    "currency"
+  ],
+  "rublesign.circle.fill": [
+    "currencies",
+    "currency"
+  ],
+  "rublesign.square": [
+    "currencies",
+    "currency"
+  ],
+  "rublesign.square.fill": [
+    "currencies",
+    "currency"
+  ],
+  "rupeesign": [
+    "currencies",
+    "currency"
+  ],
+  "rupeesign.circle": [
+    "currencies",
+    "currency"
+  ],
+  "rupeesign.circle.fill": [
+    "currencies",
+    "currency"
+  ],
+  "rupeesign.square": [
+    "currencies",
+    "currency"
+  ],
+  "rupeesign.square.fill": [
+    "currencies",
+    "currency"
+  ],
+  "safari": [
+    "compass"
+  ],
+  "safari.fill": [
+    "compass"
+  ],
+  "scalemass": [
+    "weight"
+  ],
+  "scalemass.fill": [
+    "weight"
+  ],
+  "scissors": [
+    "cut"
+  ],
+  "scissors.badge.ellipsis": [
+    "action",
+    "dot.3",
+    "extra",
+    "more",
+    "overflow",
+    "…"
+  ],
+  "scope": [
+    "crosshair",
+    "locate",
+    "target"
+  ],
+  "sensor.tag.radiowaves.forward": [
+    "findable",
+    "location"
+  ],
+  "sensor.tag.radiowaves.forward.fill": [
+    "findable",
+    "location"
+  ],
+  "shared.with.you": [
+    "people",
+    "person"
+  ],
+  "shared.with.you.slash": [
+    "people",
+    "person",
+    "remove"
+  ],
+  "shareplay": [
+    "people",
+    "person",
+    "rainbow"
+  ],
+  "shareplay.slash": [
+    "people",
+    "person",
+    "rainbow",
+    "remove"
+  ],
+  "shekelsign": [
+    "currencies",
+    "currency"
+  ],
+  "shekelsign.circle": [
+    "currencies",
+    "currency"
+  ],
+  "shekelsign.circle.fill": [
+    "currencies",
+    "currency"
+  ],
+  "shekelsign.square": [
+    "currencies",
+    "currency"
+  ],
+  "shekelsign.square.fill": [
+    "currencies",
+    "currency"
+  ],
+  "shield.lefthalf.filled.slash": [
+    "remove"
+  ],
+  "shield.slash": [
+    "remove"
+  ],
+  "shield.slash.fill": [
+    "remove"
+  ],
+  "signpost.and.arrowtriangle.up": [
+    "campground",
+    "camping",
+    "trail",
+    "trailhead"
+  ],
+  "signpost.and.arrowtriangle.up.circle": [
+    "campground",
+    "camping",
+    "trail",
+    "trailhead"
+  ],
+  "signpost.and.arrowtriangle.up.circle.fill": [
+    "campground",
+    "camping",
+    "trail",
+    "trailhead"
+  ],
+  "signpost.and.arrowtriangle.up.fill": [
+    "campground",
+    "camping",
+    "trail",
+    "trailhead"
+  ],
+  "signpost.left": [
+    "campground",
+    "camping",
+    "trail"
+  ],
+  "signpost.left.circle": [
+    "campground",
+    "camping",
+    "trail"
+  ],
+  "signpost.left.circle.fill": [
+    "campground",
+    "camping",
+    "trail"
+  ],
+  "signpost.left.fill": [
+    "campground",
+    "camping",
+    "trail"
+  ],
+  "signpost.right": [
+    "campground",
+    "camping",
+    "trail"
+  ],
+  "signpost.right.and.left": [
+    "campground",
+    "camping",
+    "fork",
+    "trail"
+  ],
+  "signpost.right.and.left.circle": [
+    "campground",
+    "camping",
+    "fork",
+    "trail"
+  ],
+  "signpost.right.and.left.circle.fill": [
+    "campground",
+    "camping",
+    "fork",
+    "trail"
+  ],
+  "signpost.right.and.left.fill": [
+    "campground",
+    "camping",
+    "fork",
+    "trail"
+  ],
+  "signpost.right.circle": [
+    "campground",
+    "camping",
+    "trail"
+  ],
+  "signpost.right.circle.fill": [
+    "campground",
+    "camping",
+    "trail"
+  ],
+  "signpost.right.fill": [
+    "campground",
+    "camping",
+    "trail"
+  ],
+  "slash.circle": [
+    "/",
+    "÷"
+  ],
+  "slash.circle.fill": [
+    "/",
+    "÷"
+  ],
+  "sleep": [
+    "sleep"
+  ],
+  "slider.horizontal.2.gobackward": [
+    "adjust",
+    "edit"
+  ],
+  "slider.horizontal.2.square.badge.arrow.down": [
+    "adjust",
+    "edit"
+  ],
+  "slider.horizontal.2.square.on.square": [
+    "adjust",
+    "edit"
+  ],
+  "slider.horizontal.3": [
+    "adjust",
+    "edit"
+  ],
+  "slider.horizontal.below.rectangle": [
+    "adjust",
+    "edit"
+  ],
+  "slider.horizontal.below.square.and.square.filled": [
+    "adjust",
+    "edit"
+  ],
+  "slider.horizontal.below.square.filled.and.square": [
+    "adjust",
+    "edit"
+  ],
+  "slider.vertical.3": [
+    "adjust",
+    "edit"
+  ],
+  "smoke": [
+    "weather"
+  ],
+  "smoke.circle": [
+    "weather"
+  ],
+  "smoke.circle.fill": [
+    "weather"
+  ],
+  "smoke.fill": [
+    "weather"
+  ],
+  "snowflake": [
+    "weather"
+  ],
+  "snowflake.circle": [
+    "weather"
+  ],
+  "snowflake.circle.fill": [
+    "weather"
+  ],
+  "snowflake.slash": [
+    "weather"
+  ],
+  "soccerball": [
+    "football",
+    "sports"
+  ],
+  "soccerball.circle": [
+    "football",
+    "sports"
+  ],
+  "soccerball.circle.fill": [
+    "football",
+    "sports"
+  ],
+  "soccerball.circle.fill.inverse": [
+    "football",
+    "sports"
+  ],
+  "soccerball.circle.inverse": [
+    "football",
+    "sports"
+  ],
+  "soccerball.inverse": [
+    "football",
+    "sports"
+  ],
+  "sofa": [
+    "couch"
+  ],
+  "sofa.fill": [
+    "couch"
+  ],
+  "sparkles": [
+    "weather"
+  ],
+  "speaker": [
+    "volume"
+  ],
+  "speaker.badge.exclamationmark": [
+    "!",
+    "volume",
+    "warning"
+  ],
+  "speaker.badge.exclamationmark.fill": [
+    "!",
+    "volume",
+    "warning"
+  ],
+  "speaker.circle": [
+    "volume"
+  ],
+  "speaker.circle.fill": [
+    "volume"
+  ],
+  "speaker.fill": [
+    "volume"
+  ],
+  "speaker.minus": [
+    "volume"
+  ],
+  "speaker.minus.fill": [
+    "volume"
+  ],
+  "speaker.plus": [
+    "volume"
+  ],
+  "speaker.plus.fill": [
+    "volume"
+  ],
+  "speaker.slash": [
+    "mute",
+    "remove",
+    "volume"
+  ],
+  "speaker.slash.circle": [
+    "remove",
+    "volume"
+  ],
+  "speaker.slash.circle.fill": [
+    "remove",
+    "volume"
+  ],
+  "speaker.slash.circle.fill.rtl": [
+    "remove",
+    "volume"
+  ],
+  "speaker.slash.circle.rtl": [
+    "remove",
+    "volume"
+  ],
+  "speaker.slash.fill": [
+    "mute",
+    "remove",
+    "volume"
+  ],
+  "speaker.slash.fill.rtl": [
+    "mute",
+    "remove",
+    "volume"
+  ],
+  "speaker.slash.rtl": [
+    "mute",
+    "remove",
+    "volume"
+  ],
+  "speaker.square": [
+    "volume"
+  ],
+  "speaker.square.fill": [
+    "volume"
+  ],
+  "speaker.wave.1": [
+    "volume"
+  ],
+  "speaker.wave.1.fill": [
+    "volume"
+  ],
+  "speaker.wave.2": [
+    "volume"
+  ],
+  "speaker.wave.2.circle": [
+    "volume"
+  ],
+  "speaker.wave.2.circle.fill": [
+    "volume"
+  ],
+  "speaker.wave.2.fill": [
+    "volume"
+  ],
+  "speaker.wave.3": [
+    "volume"
+  ],
+  "speaker.wave.3.fill": [
+    "volume"
+  ],
+  "spigot": [
+    "faucet"
+  ],
+  "spigot.fill": [
+    "faucet"
+  ],
+  "sportscourt": [
+    "sports"
+  ],
+  "sportscourt.circle": [
+    "sports"
+  ],
+  "sportscourt.circle.fill": [
+    "sports"
+  ],
+  "sportscourt.fill": [
+    "sports"
+  ],
+  "sprinkler.and.droplets": [
+    "water"
+  ],
+  "sprinkler.and.droplets.fill": [
+    "water"
+  ],
+  "square.and.arrow.down": [
+    "download",
+    "import",
+    "save"
+  ],
+  "square.and.arrow.down.fill": [
+    "download",
+    "import",
+    "save"
+  ],
+  "square.and.arrow.down.on.square": [
+    "download",
+    "import",
+    "save"
+  ],
+  "square.and.arrow.down.on.square.fill": [
+    "download",
+    "import",
+    "save"
+  ],
+  "square.and.arrow.up": [
+    "export",
+    "share",
+    "upload"
+  ],
+  "square.and.arrow.up.circle": [
+    "export",
+    "share",
+    "upload"
+  ],
+  "square.and.arrow.up.circle.fill": [
+    "export",
+    "share",
+    "upload"
+  ],
+  "square.and.arrow.up.fill": [
+    "export",
+    "share",
+    "upload"
+  ],
+  "square.and.arrow.up.on.square": [
+    "export",
+    "upload"
+  ],
+  "square.and.arrow.up.on.square.fill": [
+    "export",
+    "upload"
+  ],
+  "square.and.arrow.up.trianglebadge.exclamationmark": [
+    "export",
+    "share",
+    "upload",
+    "warning"
+  ],
+  "square.and.at.rectangle": [
+    "vcard"
+  ],
+  "square.and.at.rectangle.fill": [
+    "vcard"
+  ],
+  "square.and.pencil": [
+    "compose",
+    "mail",
+    "write",
+    "writing"
+  ],
+  "square.and.pencil.circle": [
+    "compose",
+    "mail",
+    "write",
+    "writing"
+  ],
+  "square.and.pencil.circle.fill": [
+    "compose",
+    "mail",
+    "write",
+    "writing"
+  ],
+  "square.grid.3x1.folder.badge.plus": [
+    "+",
+    "add",
+    "create",
+    "new"
+  ],
+  "square.grid.3x1.folder.fill.badge.plus": [
+    "+",
+    "add",
+    "create",
+    "new"
+  ],
+  "square.on.square.badge.person.crop": [
+    "people"
+  ],
+  "square.on.square.badge.person.crop.fill": [
+    "people"
+  ],
+  "square.on.square.squareshape.controlhandles": [
+    "group"
+  ],
+  "square.slash": [
+    "remove"
+  ],
+  "square.slash.fill": [
+    "remove"
+  ],
+  "square.split.bottomrightquarter": [
+    "room"
+  ],
+  "square.split.bottomrightquarter.fill": [
+    "room"
+  ],
+  "square.stack": [
+    "album"
+  ],
+  "square.stack.3d.down.forward": [
+    "right"
+  ],
+  "square.stack.3d.down.forward.fill": [
+    "right"
+  ],
+  "square.stack.3d.up.badge.a": [
+    "a"
+  ],
+  "square.stack.3d.up.badge.a.fill": [
+    "a"
+  ],
+  "square.stack.3d.up.slash": [
+    "remove"
+  ],
+  "square.stack.3d.up.slash.fill": [
+    "remove"
+  ],
+  "square.stack.fill": [
+    "album"
+  ],
+  "squareshape.controlhandles.on.squareshape.controlhandles": [
+    "ungroup"
+  ],
+  "squareshape.split.2x2": [
+    "grid"
+  ],
+  "squareshape.split.2x2.dotted": [
+    "grid"
+  ],
+  "squareshape.split.3x3": [
+    "grid"
+  ],
+  "star": [
+    "favorite",
+    "mail",
+    "vip"
+  ],
+  "star.circle": [
+    "favorite"
+  ],
+  "star.circle.fill": [
+    "favorite"
+  ],
+  "star.fill": [
+    "favorite",
+    "mail",
+    "vip"
+  ],
+  "star.slash": [
+    "favorite",
+    "remove"
+  ],
+  "star.slash.fill": [
+    "favorite",
+    "remove"
+  ],
+  "star.square": [
+    "favorite"
+  ],
+  "star.square.fill": [
+    "favorite"
+  ],
+  "staroflife": [
+    "medical"
+  ],
+  "staroflife.circle": [
+    "medical"
+  ],
+  "staroflife.circle.fill": [
+    "medical"
+  ],
+  "staroflife.fill": [
+    "medical"
+  ],
+  "steeringwheel.exclamationmark": [
+    "!",
+    "warning"
+  ],
+  "sterlingsign": [
+    "currencies",
+    "currency"
+  ],
+  "sterlingsign.circle": [
+    "currencies",
+    "currency"
+  ],
+  "sterlingsign.circle.fill": [
+    "currencies",
+    "currency"
+  ],
+  "sterlingsign.square": [
+    "currencies",
+    "currency"
+  ],
+  "sterlingsign.square.fill": [
+    "currencies",
+    "currency"
+  ],
+  "sun.and.horizon": [
+    "weather"
+  ],
+  "sun.and.horizon.circle": [
+    "weather"
+  ],
+  "sun.and.horizon.circle.fill": [
+    "weather"
+  ],
+  "sun.and.horizon.fill": [
+    "weather"
+  ],
+  "sun.dust": [
+    "weather"
+  ],
+  "sun.dust.circle": [
+    "weather"
+  ],
+  "sun.dust.circle.fill": [
+    "weather"
+  ],
+  "sun.dust.fill": [
+    "weather"
+  ],
+  "sun.haze": [
+    "weather"
+  ],
+  "sun.haze.circle": [
+    "weather"
+  ],
+  "sun.haze.circle.fill": [
+    "weather"
+  ],
+  "sun.haze.fill": [
+    "weather"
+  ],
+  "sun.max": [
+    "weather"
+  ],
+  "sun.max.circle": [
+    "weather"
+  ],
+  "sun.max.circle.fill": [
+    "weather"
+  ],
+  "sun.max.fill": [
+    "weather"
+  ],
+  "sun.max.trianglebadge.exclamationmark": [
+    "!",
+    "warning",
+    "weather"
+  ],
+  "sun.max.trianglebadge.exclamationmark.fill": [
+    "!",
+    "warning",
+    "weather"
+  ],
+  "sun.min": [
+    "weather"
+  ],
+  "sun.min.fill": [
+    "weather"
+  ],
+  "sunrise": [
+    "weather"
+  ],
+  "sunrise.circle": [
+    "weather"
+  ],
+  "sunrise.circle.fill": [
+    "weather"
+  ],
+  "sunrise.fill": [
+    "weather"
+  ],
+  "sunset": [
+    "weather"
+  ],
+  "sunset.circle": [
+    "weather"
+  ],
+  "sunset.circle.fill": [
+    "weather"
+  ],
+  "sunset.fill": [
+    "weather"
+  ],
+  "suv.side.and.exclamationmark": [
+    "!",
+    "warning"
+  ],
+  "suv.side.and.exclamationmark.fill": [
+    "!",
+    "warning"
+  ],
+  "syringe": [
+    "COVID",
+    "medical",
+    "virus"
+  ],
+  "syringe.fill": [
+    "COVID",
+    "medical",
+    "virus"
+  ],
+  "tablecells.badge.ellipsis": [
+    "action",
+    "dot.3",
+    "extra",
+    "more",
+    "overflow",
+    "…"
+  ],
+  "tablecells.fill.badge.ellipsis": [
+    "action",
+    "dot.3",
+    "extra",
+    "more",
+    "overflow",
+    "…"
+  ],
+  "tag.slash": [
+    "remove"
+  ],
+  "tag.slash.fill": [
+    "remove"
+  ],
+  "takeoutbag.and.cup.and.straw": [
+    "drink",
+    "food"
+  ],
+  "takeoutbag.and.cup.and.straw.fill": [
+    "drink",
+    "food"
+  ],
+  "teddybear": [
+    "animals",
+    "pet friendly"
+  ],
+  "teddybear.fill": [
+    "animals",
+    "pet friendly"
+  ],
+  "teletype": [
+    "phone",
+    "rtt"
+  ],
+  "teletype.answer": [
+    "phone",
+    "rtt"
+  ],
+  "teletype.answer.circle": [
+    "phone",
+    "rtt"
+  ],
+  "teletype.answer.circle.fill": [
+    "phone",
+    "rtt"
+  ],
+  "teletype.circle": [
+    "phone",
+    "rtt"
+  ],
+  "teletype.circle.fill": [
+    "phone",
+    "rtt"
+  ],
+  "tengesign": [
+    "currencies",
+    "currency"
+  ],
+  "tengesign.circle": [
+    "currencies",
+    "currency"
+  ],
+  "tengesign.circle.fill": [
+    "currencies",
+    "currency"
+  ],
+  "tengesign.square": [
+    "currencies",
+    "currency"
+  ],
+  "tengesign.square.fill": [
+    "currencies",
+    "currency"
+  ],
+  "tennis.racket": [
+    "sports"
+  ],
+  "tennis.racket.circle": [
+    "sports"
+  ],
+  "tennis.racket.circle.fill": [
+    "sports"
+  ],
+  "tennisball": [
+    "sports"
+  ],
+  "tennisball.circle": [
+    "sports"
+  ],
+  "tennisball.circle.fill": [
+    "sports"
+  ],
+  "tennisball.fill": [
+    "sports"
+  ],
+  "tent": [
+    "campground",
+    "camping"
+  ],
+  "tent.2": [
+    "campground",
+    "camping"
+  ],
+  "tent.2.circle": [
+    "campground",
+    "camping"
+  ],
+  "tent.2.circle.fill": [
+    "campground",
+    "camping"
+  ],
+  "tent.2.fill": [
+    "campground",
+    "camping"
+  ],
+  "tent.circle": [
+    "campground",
+    "camping"
+  ],
+  "tent.circle.fill": [
+    "campground",
+    "camping"
+  ],
+  "tent.fill": [
+    "campground",
+    "camping"
+  ],
+  "testtube.2": [
+    "medical"
+  ],
+  "text.append": [
+    "end",
+    "later",
+    "play later"
+  ],
+  "text.badge.minus": [
+    "remove"
+  ],
+  "text.badge.plus": [
+    "add"
+  ],
+  "text.below.photo": [
+    "environment",
+    "image",
+    "mountain",
+    "photograph",
+    "picture",
+    "place",
+    "sun"
+  ],
+  "text.below.photo.fill": [
+    "environment",
+    "image",
+    "mountain",
+    "photograph",
+    "picture",
+    "place",
+    "sun"
+  ],
+  "text.below.photo.fill.rtl": [
+    "environment",
+    "image",
+    "mountain",
+    "photograph",
+    "picture",
+    "place",
+    "sun"
+  ],
+  "text.below.photo.rtl": [
+    "environment",
+    "image",
+    "mountain",
+    "photograph",
+    "picture",
+    "place",
+    "sun"
+  ],
+  "text.book.closed": [
+    "dictionary"
+  ],
+  "text.book.closed.fill": [
+    "dictionary"
+  ],
+  "text.insert": [
+    "beginning",
+    "next",
+    "play next"
+  ],
+  "text.word.spacing": [
+    "word spacing"
+  ],
+  "textformat": [
+    "aa"
+  ],
+  "textformat.alt": [
+    "aa"
+  ],
+  "textformat.size": [
+    "aa"
+  ],
+  "textformat.subscript": [
+    "a"
+  ],
+  "textformat.superscript": [
+    "a"
+  ],
+  "theatermask.and.paintbrush": [
+    "arts"
+  ],
+  "theatermask.and.paintbrush.fill": [
+    "arts"
+  ],
+  "thermometer.high": [
+    "weather"
+  ],
+  "thermometer.low": [
+    "weather"
+  ],
+  "thermometer.medium": [
+    "weather"
+  ],
+  "thermometer.medium.slash": [
+    "weather"
+  ],
+  "thermometer.snowflake": [
+    "weather"
+  ],
+  "thermometer.snowflake.circle": [
+    "weather"
+  ],
+  "thermometer.snowflake.circle.fill": [
+    "weather"
+  ],
+  "thermometer.sun": [
+    "weather"
+  ],
+  "thermometer.sun.circle": [
+    "weather"
+  ],
+  "thermometer.sun.circle.fill": [
+    "weather"
+  ],
+  "thermometer.sun.fill": [
+    "weather"
+  ],
+  "thermometer.transmission": [
+    "temperature",
+    "transmission"
+  ],
+  "timeline.selection": [
+    "trim"
+  ],
+  "timer": [
+    "timer"
+  ],
+  "timer.circle": [
+    "timer"
+  ],
+  "timer.circle.fill": [
+    "timer"
+  ],
+  "toilet": [
+    "campground",
+    "camping"
+  ],
+  "toilet.circle": [
+    "campground",
+    "camping"
+  ],
+  "toilet.circle.fill": [
+    "campground",
+    "camping"
+  ],
+  "toilet.fill": [
+    "campground",
+    "camping"
+  ],
+  "tornado": [
+    "weather"
+  ],
+  "tornado.circle": [
+    "weather"
+  ],
+  "tornado.circle.fill": [
+    "weather"
+  ],
+  "tortoise": [
+    "slow",
+    "turtle"
+  ],
+  "tortoise.fill": [
+    "slow",
+    "turtle"
+  ],
+  "touchid": [
+    "authentication",
+    "fingerprint",
+    "password",
+    "security"
+  ],
+  "trash": [
+    "mail",
+    "trash"
+  ],
+  "trash.circle": [
+    "mail",
+    "trash"
+  ],
+  "trash.circle.fill": [
+    "mail",
+    "trash"
+  ],
+  "trash.fill": [
+    "mail",
+    "trash"
+  ],
+  "trash.slash": [
+    "remove"
+  ],
+  "trash.slash.circle": [
+    "remove"
+  ],
+  "trash.slash.circle.fill": [
+    "remove"
+  ],
+  "trash.slash.fill": [
+    "remove"
+  ],
+  "trash.slash.square": [
+    "remove"
+  ],
+  "trash.slash.square.fill": [
+    "remove"
+  ],
+  "tray": [
+    "inbox",
+    "mail"
+  ],
+  "tray.2": [
+    "mail"
+  ],
+  "tray.2.fill": [
+    "mail"
+  ],
+  "tray.and.arrow.down": [
+    "mail"
+  ],
+  "tray.and.arrow.down.fill": [
+    "mail"
+  ],
+  "tray.and.arrow.up": [
+    "mail"
+  ],
+  "tray.and.arrow.up.fill": [
+    "mail"
+  ],
+  "tray.circle": [
+    "inbox",
+    "mail"
+  ],
+  "tray.circle.fill": [
+    "inbox",
+    "mail"
+  ],
+  "tray.fill": [
+    "inbox",
+    "mail"
+  ],
+  "tray.full": [
+    "mail"
+  ],
+  "tray.full.fill": [
+    "mail"
+  ],
+  "tree": [
+    "campground",
+    "camping"
+  ],
+  "tree.circle": [
+    "campground",
+    "camping"
+  ],
+  "tree.circle.fill": [
+    "campground",
+    "camping"
+  ],
+  "tree.fill": [
+    "campground",
+    "camping"
+  ],
+  "tropicalstorm": [
+    "weather"
+  ],
+  "tropicalstorm.circle": [
+    "weather"
+  ],
+  "tropicalstorm.circle.fill": [
+    "weather"
+  ],
+  "tugriksign": [
+    "currencies",
+    "currency"
+  ],
+  "tugriksign.circle": [
+    "currencies",
+    "currency"
+  ],
+  "tugriksign.circle.fill": [
+    "currencies",
+    "currency"
+  ],
+  "tugriksign.square": [
+    "currencies",
+    "currency"
+  ],
+  "tugriksign.square.fill": [
+    "currencies",
+    "currency"
+  ],
+  "turkishlirasign": [
+    "currencies",
+    "currency"
+  ],
+  "turkishlirasign.circle": [
+    "currencies",
+    "currency"
+  ],
+  "turkishlirasign.circle.fill": [
+    "currencies",
+    "currency"
+  ],
+  "turkishlirasign.square": [
+    "currencies",
+    "currency"
+  ],
+  "turkishlirasign.square.fill": [
+    "currencies",
+    "currency"
+  ],
+  "video": [
+    "facetime"
+  ],
+  "video.and.waveform": [
+    "facetime"
+  ],
+  "video.and.waveform.fill": [
+    "facetime"
+  ],
+  "video.badge.checkmark": [
+    "facetime"
+  ],
+  "video.badge.ellipsis": [
+    "action",
+    "dot.3",
+    "extra",
+    "facetime",
+    "more",
+    "overflow",
+    "…"
+  ],
+  "video.badge.plus": [
+    "add",
+    "facetime"
+  ],
+  "video.circle": [
+    "facetime"
+  ],
+  "video.circle.fill": [
+    "facetime"
+  ],
+  "video.fill": [
+    "facetime"
+  ],
+  "video.fill.badge.checkmark": [
+    "facetime"
+  ],
+  "video.fill.badge.ellipsis": [
+    "action",
+    "dot.3",
+    "extra",
+    "facetime",
+    "more",
+    "overflow",
+    "…"
+  ],
+  "video.fill.badge.plus": [
+    "add",
+    "facetime"
+  ],
+  "video.slash": [
+    "facetime",
+    "remove"
+  ],
+  "video.slash.fill": [
+    "facetime",
+    "remove"
+  ],
+  "video.square": [
+    "facetime"
+  ],
+  "video.square.fill": [
+    "facetime"
+  ],
+  "volleyball": [
+    "sports"
+  ],
+  "volleyball.circle": [
+    "sports"
+  ],
+  "volleyball.circle.fill": [
+    "sports"
+  ],
+  "volleyball.fill": [
+    "sports"
+  ],
+  "water.waves": [
+    "dive",
+    "ocean",
+    "sea",
+    "sports",
+    "surface",
+    "swim",
+    "water",
+    "wave"
+  ],
+  "water.waves.and.arrow.down": [
+    "dive",
+    "ocean",
+    "sea",
+    "sports",
+    "surface",
+    "swim",
+    "water",
+    "wave"
+  ],
+  "water.waves.and.arrow.down.trianglebadge.exclamationmark": [
+    "!",
+    "dive",
+    "ocean",
+    "sea",
+    "sports",
+    "surface",
+    "swim",
+    "warning",
+    "water",
+    "wave"
+  ],
+  "water.waves.and.arrow.up": [
+    "dive",
+    "ocean",
+    "sea",
+    "sports",
+    "surface",
+    "swim",
+    "water",
+    "wave"
+  ],
+  "water.waves.slash": [
+    "dive",
+    "ocean",
+    "sea",
+    "sports",
+    "surface",
+    "swim",
+    "water",
+    "wave"
+  ],
+  "wave.3.backward": [
+    "left"
+  ],
+  "wave.3.backward.circle": [
+    "left"
+  ],
+  "wave.3.backward.circle.fill": [
+    "left"
+  ],
+  "wave.3.forward": [
+    "right"
+  ],
+  "wave.3.forward.circle": [
+    "right"
+  ],
+  "wave.3.forward.circle.fill": [
+    "right"
+  ],
+  "waveform": [
+    "audio",
+    "record",
+    "speech"
+  ],
+  "waveform.and.mic": [
+    "microphone"
+  ],
+  "waveform.badge.exclamationmark": [
+    "warning"
+  ],
+  "waveform.circle": [
+    "audio",
+    "record",
+    "speech"
+  ],
+  "waveform.circle.fill": [
+    "audio",
+    "record",
+    "speech"
+  ],
+  "waveform.path.badge.minus": [
+    "remove"
+  ],
+  "waveform.path.badge.plus": [
+    "add"
+  ],
+  "waveform.path.ecg": [
+    "medical"
+  ],
+  "waveform.path.ecg.rectangle": [
+    "medical"
+  ],
+  "waveform.path.ecg.rectangle.fill": [
+    "medical"
+  ],
+  "wifi.exclamationmark": [
+    "warning"
+  ],
+  "wifi.slash": [
+    "remove"
+  ],
+  "wind": [
+    "weather"
+  ],
+  "wind.circle": [
+    "weather"
+  ],
+  "wind.circle.fill": [
+    "weather"
+  ],
+  "wind.snow": [
+    "weather"
+  ],
+  "wind.snow.circle": [
+    "weather"
+  ],
+  "wind.snow.circle.fill": [
+    "weather"
+  ],
+  "windshield.front.and.wiper.exclamationmark": [
+    "!",
+    "warning"
+  ],
+  "windshield.rear.and.wiper.exclamationmark": [
+    "!",
+    "warning"
+  ],
+  "wineglass": [
+    "drink",
+    "food"
+  ],
+  "wineglass.fill": [
+    "drink",
+    "food"
+  ],
+  "wonsign": [
+    "currencies",
+    "currency"
+  ],
+  "wonsign.circle": [
+    "currencies",
+    "currency"
+  ],
+  "wonsign.circle.fill": [
+    "currencies",
+    "currency"
+  ],
+  "wonsign.square": [
+    "currencies",
+    "currency"
+  ],
+  "wonsign.square.fill": [
+    "currencies",
+    "currency"
+  ],
+  "xmark": [
+    "clear",
+    "close",
+    "stop",
+    "x"
+  ],
+  "xmark.bin": [
+    "junk",
+    "mail"
+  ],
+  "xmark.bin.circle": [
+    "junk"
+  ],
+  "xmark.bin.circle.fill": [
+    "junk"
+  ],
+  "xmark.bin.fill": [
+    "junk",
+    "mail"
+  ],
+  "xmark.circle": [
+    "clear",
+    "close",
+    "stop",
+    "x"
+  ],
+  "xmark.circle.fill": [
+    "clear",
+    "close",
+    "stop",
+    "x"
+  ],
+  "xmark.diamond": [
+    "*",
+    "multiply",
+    "times"
+  ],
+  "xmark.diamond.fill": [
+    "*",
+    "multiply",
+    "times"
+  ],
+  "xmark.icloud": [
+    "x"
+  ],
+  "xmark.icloud.fill": [
+    "x"
+  ],
+  "xmark.octagon": [
+    "*",
+    "multiply",
+    "times"
+  ],
+  "xmark.octagon.fill": [
+    "*",
+    "multiply",
+    "times"
+  ],
+  "xmark.rectangle": [
+    "x"
+  ],
+  "xmark.rectangle.fill": [
+    "x"
+  ],
+  "xmark.rectangle.portrait": [
+    "x"
+  ],
+  "xmark.rectangle.portrait.fill": [
+    "x"
+  ],
+  "xmark.seal": [
+    "*",
+    "multiply",
+    "times"
+  ],
+  "xmark.seal.fill": [
+    "*",
+    "multiply",
+    "times"
+  ],
+  "xmark.square": [
+    "clear",
+    "close",
+    "stop",
+    "x"
+  ],
+  "xmark.square.fill": [
+    "clear",
+    "close",
+    "stop",
+    "x"
+  ],
+  "yensign": [
+    "currencies",
+    "currency"
+  ],
+  "yensign.circle": [
+    "currencies",
+    "currency"
+  ],
+  "yensign.circle.fill": [
+    "currencies",
+    "currency"
+  ],
+  "yensign.square": [
+    "currencies",
+    "currency"
+  ],
+  "yensign.square.fill": [
+    "currencies",
+    "currency"
+  ]
+}

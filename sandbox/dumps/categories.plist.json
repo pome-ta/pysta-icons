@@ -1,0 +1,122 @@
+[
+  {
+    "key": "all",
+    "icon": "square.grid.2x2"
+  },
+  {
+    "key": "whatsnew",
+    "icon": "sparkles"
+  },
+  {
+    "key": "multicolor",
+    "icon": "paintpalette"
+  },
+  {
+    "key": "variablecolor",
+    "icon": "slider.horizontal.below.square.and.square.filled"
+  },
+  {
+    "key": "communication",
+    "icon": "message"
+  },
+  {
+    "key": "weather",
+    "icon": "cloud.sun"
+  },
+  {
+    "key": "objectsandtools",
+    "icon": "folder"
+  },
+  {
+    "key": "devices",
+    "icon": "desktopcomputer"
+  },
+  {
+    "key": "cameraandphotos",
+    "icon": "camera"
+  },
+  {
+    "key": "gaming",
+    "icon": "gamecontroller"
+  },
+  {
+    "key": "connectivity",
+    "icon": "antenna.radiowaves.left.and.right"
+  },
+  {
+    "key": "transportation",
+    "icon": "car.fill"
+  },
+  {
+    "key": "automotive",
+    "icon": "steeringwheel"
+  },
+  {
+    "key": "accessibility",
+    "icon": "accessibility"
+  },
+  {
+    "key": "privacyandsecurity",
+    "icon": "lock"
+  },
+  {
+    "key": "human",
+    "icon": "person.crop.circle"
+  },
+  {
+    "key": "home",
+    "icon": "house"
+  },
+  {
+    "key": "fitness",
+    "icon": "figure.run"
+  },
+  {
+    "key": "nature",
+    "icon": "leaf"
+  },
+  {
+    "key": "editing",
+    "icon": "slider.horizontal.3"
+  },
+  {
+    "key": "textformatting",
+    "icon": "textformat"
+  },
+  {
+    "key": "media",
+    "icon": "playpause"
+  },
+  {
+    "key": "keyboard",
+    "icon": "command"
+  },
+  {
+    "key": "commerce",
+    "icon": "cart"
+  },
+  {
+    "key": "time",
+    "icon": "timer"
+  },
+  {
+    "key": "health",
+    "icon": "heart"
+  },
+  {
+    "key": "shapes",
+    "icon": "square.on.circle"
+  },
+  {
+    "key": "arrows",
+    "icon": "arrow.forward"
+  },
+  {
+    "key": "indices",
+    "icon": "a.circle"
+  },
+  {
+    "key": "math",
+    "icon": "x.squareroot"
+  }
+]
