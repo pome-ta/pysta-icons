@@ -22,6 +22,4 @@ for plst_name_dic in plist_list:
   dump = json.dumps(_data, ensure_ascii=False, indent=2)
   _tmp = Path(dumps_path, f'{_name}.json')
   _tmp.write_text(dump, encoding='utf-8')
-  
-  
 
