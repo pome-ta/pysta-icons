@@ -39,7 +39,7 @@ symbol_order.plist: 3524
 | 6 | categories.plist | 30 | 23 |
 | 7 | name_availability.plist | 2 | 2 |
 
-
+(`.json` リンクつける)
 
 # 📝 2023/08/05
 
