@@ -17,11 +17,11 @@ plist_list = [{
 
 plist_list_dics = [plistlib.loads(pl.read_bytes()) for pl in plist_gene]
 
-#[print(len(i)) for i in plist_list_dics]
+[print(len(i)) for i in plist_list_dics]
 
 test_dic = plist_list_dics[5]
 #print(len(test_dic))
 test_data = json.dumps(test_dic, ensure_ascii=False, indent=2)
 
-print(test_data)
+#print(test_data)
 
