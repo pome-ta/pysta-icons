@@ -2,6 +2,10 @@
 
 [Get list of SF Symbol names in code | Apple Developer Forums](https://developer.apple.com/forums/thread/695321)
 
+```
+/System/Library/CoreServices/CoreGlyphs.bundle
+```
+
 # 📝 2023/08/04
 
 
