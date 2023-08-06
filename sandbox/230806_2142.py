@@ -11,11 +11,6 @@ UIImage = ObjCClass('UIImage')
 icon_obj = UIImage.systemImageNamed_('doc.badge.gearshape.fill')
 
 
-class IconImageView(ui.ImageView):
-
-  def __init__(self, *args, **kwargs):
-    super().__init__(self, *args, **kwargs)
-
 
 class View(ui.View):
 
@@ -23,7 +18,9 @@ class View(ui.View):
     super().__init__(self, *args, **kwargs)
     #self.this = ObjCInstance(self._objc_ptr)
     #pdbg.state(self.this)
-    #self.icon_view = ui.ImageView()
+    self.icon_view = ui.ImageView()
+    self.icon_view_this = self.icon_view._objc_ptr
+    pdbg.state(self.icon_view)
 
 
 view = View()
