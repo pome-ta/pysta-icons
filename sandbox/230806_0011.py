@@ -14,7 +14,6 @@ plist_list = [{
   'name': f'{pl.name}',
   'data': plistlib.loads(pl.read_bytes())
 } for pl in plist_gene]
-
 '''
 dumps_path = Path('./dumps').resolve()
 for plst_name_dic in plist_list:
@@ -24,7 +23,9 @@ for plst_name_dic in plist_list:
   _tmp = Path(dumps_path, f'{_name}.json')
   _tmp.write_text(dump, encoding='utf-8')
 '''
+
 for plst_name_dic in plist_list:
   _name = plst_name_dic['name']
   _data = plst_name_dic['data']
   print(f'{_name}: {len(_data)}')
+
