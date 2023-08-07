@@ -1,3 +1,7 @@
+# 📝 2023/08/07
+
+[https://github.com/mikaelho/pythonista-misc/blob/master/sfsymbol%202.py](https://github.com/mikaelho/pythonista-misc/blob/master/sfsymbol%202.py)
+
 # 📝 2023/08/06
 
 

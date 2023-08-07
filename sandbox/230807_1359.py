@@ -30,7 +30,10 @@ class View(ui.View):
     #pdbg.all(ObjCInstance(self.f_image))
     self.ins = ObjCInstance(self.f_image)
     #pdbg.state(self.ins.images())
-    pdbg.state(ObjCInstance(self.ins.imageRef()))
+    #pdbg.state(ObjCInstance(self.ins.imageRef()))
+    #pdbg.state(self.ins.imageAsset())
+    pdbg.state(ObjCInstance(self.ins._isNamed()))
+
     
     
     
