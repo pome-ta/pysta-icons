@@ -25,9 +25,17 @@ class View(ui.View):
 
     self.f_img_v = ui.ImageView()
     self.f_image = ui.Image.named('iob:arrow_down_a_256')
-    self.f_img_v.image = self.f_image
+    #self.f_img_v.image = self.f_image
 
-    pdbg.all(ObjCInstance(self.f_image))
+    #pdbg.all(ObjCInstance(self.f_image))
+    self.ins = ObjCInstance(self.f_image)
+    #pdbg.state(self.ins.images())
+    pdbg.state(ObjCInstance(self.ins.imageRef()))
+    
+    
+    
+    
+    self.aaa = ui.Image.named('doc.badge.gearshape.fill')
 
     self.add_subview(self.icon_view)
     self.add_subview(self.f_img_v)
