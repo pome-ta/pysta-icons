@@ -25,7 +25,8 @@ path = NSBundle.bundleWithPath_(
   '/System/Library/CoreServices/CoreGlyphs.bundle').bundlePath()
 sf_assets = CUICatalog.alloc().initWithURL_error_(
   nsurl(str(path) + '/Assets.car'), None)
-
 assets_list = sf_assets.allImageNames()
-dialogs.list_dialog(items=get_symbols(assets_list))
+
+items = get_symbols(assets_list)
+dialogs.list_dialog(title=f'{len(items)}', items=items)
 
