@@ -7,10 +7,6 @@ import ui
 
 UIImage = ObjCClass('UIImage')
 
-json_path = Path('./dumps/symbol_order.plist.json')
-json_text = json_path.read_text()
-json_obj = json.loads(json_text)
-
 
 def __UIImage_systemName_(_symbol_name: str) -> ObjCClass:
   _img = UIImage.systemImageNamed_(_symbol_name)
@@ -32,6 +28,10 @@ def get_png_bytes(named: str) -> bytes:
 
 
 #symbols = [__UIImage_systemName_(_name) for _name in json_obj]
+
+json_path = Path('./dumps/symbol_order.plist.json')
+json_text = json_path.read_text()
+json_obj = json.loads(json_text)
 
 items = [set_items(_name) for _name in json_obj]
 dialogs.list_dialog(title=f'{len(items)}', items=items)
