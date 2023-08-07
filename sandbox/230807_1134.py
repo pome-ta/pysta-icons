@@ -2,7 +2,7 @@ import json
 from pathlib import Path
 import ctypes
 
-from objc_util import ObjCClass, ObjCInstance, c
+from objc_util import ObjCClass, ObjCInstance,nsdata_to_bytes, c
 import ui
 
 
@@ -23,9 +23,24 @@ json_text = json_path.read_text()
 json_obj = json.loads(json_text)
 
 
-def get_uiImage(named: str) -> ui.Image:
-  pass
 
+
+def UIImage_systemName_(named: str) -> ObjCClass:
+  _img = UIImage.systemImageNamed_(named)
+  return _img
+
+
+def get_image_data(named: str) -> ui.ImageContext:
+  ui_image = UIImage_systemName_(named)
+  conf = UIImageSymbolConfiguration.defaultConfiguration()
+  
+  _png_obj = UIImagePNGRepresentation(ui_image)
+  _png_instance = ObjCInstance(_png_obj)
+  png_data = nsdata_to_bytes(_png_instance)
+  return png_data
+
+
+data = get_image_data('doc.badge.gearshape.fill')
 
 class View(ui.View):
 
