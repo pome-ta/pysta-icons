@@ -1,8 +1,17 @@
 import json
 from pathlib import Path
+import ctypes
 
-from objc_util import ObjCClass, ObjCInstance
+from objc_util import ObjCClass, ObjCInstance, c
 import ui
+
+UIImage = ObjCClass('UIImage')
+UIImageSymbolConfiguration = ObjCClass('UIImageSymbolConfiguration')
+
+
+def get_UIImagePNGRepresentation():
+  _UIImagePNGRepresentation = c.UIImagePNGRepresentation
+
 
 json_path = Path('./dumps/symbol_order.plist.json')
 json_text = json_path.read_text()
@@ -21,3 +30,4 @@ class View(ui.View):
 
 
 a = ui.Image
+
