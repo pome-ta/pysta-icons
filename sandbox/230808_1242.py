@@ -2,10 +2,12 @@ from pathlib import Path
 import plistlib
 
 from objc_util import ObjCClass, ObjCInstance, uiimage_to_png
-
 import ui
 
+import pdbg
+
 UIImage = ObjCClass('UIImage')
+UIImageSymbolConfiguration = ObjCClass('UIImageSymbolConfiguration')
 
 
 class SymbolOrder:
@@ -50,5 +52,34 @@ def get_png_bytes(named: str) -> bytes:
 
 
 symbol_order = SymbolOrder()
-aaa = symbol_order.search_name('play')
+play_symbol = symbol_order.search_name('play')
+uiimage_objc = __UIImage_systemName_(play_symbol)
+
+conf = UIImageSymbolConfiguration.defaultConfiguration()
+pnt = UIImageSymbolConfiguration.configurationWithPointSize_(100.0)
+conf = UIImageSymbolConfiguration.configurationWithPointSize_(pnt)
+
+#pdbg.state(UIImageSymbolConfiguration)
+class View(ui.View):
+
+  def __init__(self, *args, **kwargs):
+    super().__init__(self, *args, **kwargs)
+    self.im_view = ui.ImageView()
+    self.im_view.bg_color = 'maroon'
+    #self.im_view.size_to_fit()
+    self.im_view.width = 200
+
+    self.res = uiimage_objc.imageByApplyingSymbolConfiguration(conf)
+
+    self.img_data = uiimage_to_png(self.res)
+    self.img_png_data = ui.Image.from_data(self.img_data)
+    self.im_view.image = self.img_png_data
+
+    self.im_view.size_to_fit()
+
+    self.add_subview(self.im_view)
+
+
+view = View()
+view.present()
 
