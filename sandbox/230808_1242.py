@@ -6,6 +6,7 @@ import ui
 
 import pdbg
 
+UIImageView = ObjCClass('UIImageView')
 UIImage = ObjCClass('UIImage')
 UIImageSymbolConfiguration = ObjCClass('UIImageSymbolConfiguration')
 
@@ -60,6 +61,24 @@ pnt = UIImageSymbolConfiguration.configurationWithPointSize_(100.0)
 #conf = UIImageSymbolConfiguration.configurationWithPointSize_(pnt)
 
 #pdbg.state(UIImageSymbolConfiguration)
+
+#pdbg.state(UIImageView.alloc().initWithSize_((120.0, 24.0)))
+
+#pdbg.state(UIImageView.new())
+
+
+def resize_icon(uiimage):
+  _size = (220.5, 324.1)
+  im_view = UIImageView.new()  #.alloc().initWithSize_(_size)
+  im_view.setSize_(_size)
+  im_view.setImage_(uiimage)
+  return im_view
+
+
+aimim = resize_icon(uiimage_objc)
+#pdbg.state(aimim)
+
+
 class View(ui.View):
 
   def __init__(self, *args, **kwargs):
@@ -71,14 +90,22 @@ class View(ui.View):
 
     #self.res = uiimage_objc.imageByApplyingSymbolConfiguration(conf)
     #self.img_data = uiimage_to_png(self.res)
-    
+    #pdbg.state(uiimage_objc.size())
+    #uiimage_objc.size = (50.0, 50.0)
+    #height
+    #width
+    uiimage_objc.size.width = 50.0
+
+    #pdbg.state(uiimage_objc)
+
     self.img_data = uiimage_to_png(uiimage_objc)
     self.img_png_data = ui.Image.from_data(self.img_data)
     self.im_view.image = self.img_png_data
 
     self.im_view.size_to_fit()
+    self.objc_instance.addSubview_(aimim)
 
-    self.add_subview(self.im_view)
+    #self.add_subview(self.im_view)
 
 
 view = View()
