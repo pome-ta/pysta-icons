@@ -57,7 +57,7 @@ uiimage_objc = __UIImage_systemName_(play_symbol)
 
 conf = UIImageSymbolConfiguration.defaultConfiguration()
 pnt = UIImageSymbolConfiguration.configurationWithPointSize_(100.0)
-conf = UIImageSymbolConfiguration.configurationWithPointSize_(pnt)
+#conf = UIImageSymbolConfiguration.configurationWithPointSize_(pnt)
 
 #pdbg.state(UIImageSymbolConfiguration)
 class View(ui.View):
@@ -69,9 +69,10 @@ class View(ui.View):
     #self.im_view.size_to_fit()
     self.im_view.width = 200
 
-    self.res = uiimage_objc.imageByApplyingSymbolConfiguration(conf)
-
-    self.img_data = uiimage_to_png(self.res)
+    #self.res = uiimage_objc.imageByApplyingSymbolConfiguration(conf)
+    #self.img_data = uiimage_to_png(self.res)
+    
+    self.img_data = uiimage_to_png(uiimage_objc)
     self.img_png_data = ui.Image.from_data(self.img_data)
     self.im_view.image = self.img_png_data
 
