@@ -23,6 +23,9 @@ class SymbolOrder:
 
   def search_names(self, names: list) -> list[str]:
     print(names)
+    
+  def get_all_items(self):
+    return self.order_list
 
 
 def __UIImage_systemName_(_symbol_name: str) -> ObjCClass:
