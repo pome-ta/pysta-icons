@@ -11,7 +11,7 @@ def get_symbols(assets_list):
     ins = UIImage.systemImageNamed_(symbol)
     if ins:
       png = uiimage_to_png(ins)
-      data = {'title': str(symbol), 'image': ui.Image.from_data(png)}
+      data = {'title': str(symbol), 'image': ui.Image.from_data(png, 2)}
     else:
       data = {'title': str(symbol)}
     symbols.append(data)

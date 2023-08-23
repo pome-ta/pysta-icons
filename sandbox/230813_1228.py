@@ -45,7 +45,7 @@ a_img = ImageP.open(BytesIO(png_bytes))
 r_w, r_h = p_size
 
 thumbnail_img = a_img.copy()
-thumbnail_img.thumbnail(p_size, resample=ImageP.LANCZOS, reducing_gap=3.0)
+thumbnail_img.thumbnail(p_size, resample=ImageP.BOX, reducing_gap=3.0)
 thumbnail_re = a_img.resize(list(map(int, p_size)))
 
 png_img = ui.Image.from_data(png_bytes, 2)
