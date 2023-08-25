@@ -27,6 +27,7 @@ class DataSource:
     icon = self.all_icons[row]
 
     img_view = ui.ImageView(frame=(24, 6.4, 32, 32))
+    #img_view.bg_color = 'maroon'
     img_view.image = icon
     img_view.content_mode = 1
     cell.content_view.add_subview(img_view)
