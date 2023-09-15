@@ -5,7 +5,7 @@ import plistlib
 from objc_util import ObjCClass, ObjCInstance, create_objc_class
 import ui
 
-import pdbg
+#import pdbg
 
 UIView = ObjCClass('UIView')
 UITableView = ObjCClass('UITableView')
@@ -26,7 +26,7 @@ def get_order_list():
 
 
 all_items = get_order_list()
-#all_items.sort()
+all_items.sort()
 
 
 class ObjcControllers(object):
@@ -212,7 +212,7 @@ class ObjcControlView(object):
     '''
     # xxx: `UISearchBarStyleMinimal=2` 以外落ちる
     self.search_bar.searchBarStyle = 2
-    self.search_bar.placeholder = 'SF Symbols name search'
+    self.search_bar.placeholder = 'SF Symbols 🧐'
     self.search_bar.size = (100.0, height)
 
     self.search_bar.setAutoresizingMask_(1 << 1)
@@ -279,4 +279,5 @@ if __name__ == '__main__':
   view = PyView()
   #view.present(style='fullscreen', orientations=['portrait'])
   view.present(style='fullscreen')
+
 
