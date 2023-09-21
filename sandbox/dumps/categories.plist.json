@@ -24,6 +24,10 @@
     "icon": "cloud.sun"
   },
   {
+    "key": "maps",
+    "icon": "map"
+  },
+  {
     "key": "objectsandtools",
     "icon": "folder"
   },
