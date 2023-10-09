@@ -2,16 +2,28 @@ import re
 from pathlib import Path
 import plistlib
 
-from objc_util import ObjCClass, ObjCInstance, create_objc_class
-import ui
+from objc_util import ObjCClass, ObjCInstance, create_objc_class, on_main_thread
+from objc_util import sel, CGRect
 
 #import pdbg
 
-UIView = ObjCClass('UIView')
+# --- navigation
+UINavigationController = ObjCClass('UINavigationController')
+UINavigationBarAppearance = ObjCClass('UINavigationBarAppearance')
+UIBarButtonItem = ObjCClass('UIBarButtonItem')
+UISearchController = ObjCClass('UISearchController')
+
+# --- table
 UITableView = ObjCClass('UITableView')
 UITableViewCell = ObjCClass('UITableViewCell')
+
+# --- viewController
+UIViewController = ObjCClass('UIViewController')
+
+# --- view
 UIImage = ObjCClass('UIImage')
-UISearchBar = ObjCClass('UISearchBar')
+NSLayoutConstraint = ObjCClass('NSLayoutConstraint')
+
 UIColor = ObjCClass('UIColor')
 
 
@@ -25,58 +37,146 @@ def get_order_list():
   return order_list
 
 
-all_items = get_order_list()
-all_items.sort()
+class ObjcUIViewController:
 
+  def __init__(self):
+    self._viewController: UIViewController
 
-class ObjcControllers(object):
+    # --- search
+    self.searchController = UISearchController.alloc()
 
-  def __init__(self, items: list = [], cell_identifier: str = 'cell'):
-    self.all_items = items
-    self.grep_items = []
-    self.cell_identifier = cell_identifier
+    self.search_extensions = self.create_search_extensions()
 
-    self.tableView: 'UITableView'
+    self.nav_title = 'SF Symbols tableList 😤'
 
-    self._table_dataSource: 'UITableViewDataSource'
-    self._table_delegate: 'UITableViewDelegate'
-    self._searchBar_delegate: 'UISearchBarDelegate'
+    # --- table
+    self.all_items: list = get_order_list()
+    self.all_items.sort()
+    self.grep_items: list = []
+    self.cell_identifier: str = 'cell'
 
-    self._init_table_dataSource()
-    self._init_table_delegate()
-    self._init_searchBar()
+    self.tableView = UITableView.new()
+    self.table_extensions = self.create_table_extensions()
 
   def reload_items(self, target_text):
+    # xxx: `ObjCInstance` で通っちゃってる?
     text = target_text if isinstance(target_text, str) else str(target_text)
 
     try:
+      # xxx: 記号の処理対応
       prog = re.compile(text, flags=re.IGNORECASE)
       self.grep_items = [item for item in self.all_items if prog.search(item)]
     except:
       pass
     self.tableView.reloadData()
 
-  def searchBar_reload_action(self, _searchBar):
-    searchBar = ObjCInstance(_searchBar)
-    text = searchBar.text()
-    self.reload_items(text)
+  def setup_viewDidLoad(self, this: UIViewController):
+    # --- searchController
+    self.searchController.initWithSearchResultsController_(None)
+    self.searchController.setSearchResultsUpdater_(self.search_extensions)
+    self.searchController.setObscuresBackgroundDuringPresentation_(False)
 
-  @property
-  def table_dataSource(self):
-    return self._table_dataSource
+    # --- navigationItem
+    navigationItem = this.navigationItem()
+    navigationItem.setTitle_(self.nav_title)
+    navigationItem.setSearchController_(self.searchController)
+    #navigationItem.setHidesSearchBarWhenScrolling_(True)
+    navigationItem.setHidesSearchBarWhenScrolling_(False)
 
-  @property
-  def table_delegate(self):
-    return self._table_delegate
+    # --- tableView
+    CGRectZero = CGRect((0.0, 0.0), (0.0, 0.0))
+    # [UITableViewStyle | Apple Developer Documentation](https://developer.apple.com/documentation/uikit/uitableviewstyle?language=objc)
+    '''
+    0 : UITableViewStylePlain
+    1 : UITableViewStyleGrouped
+    2 : UITableViewStyleInsetGrouped
+    '''
+    self.tableView.initWithFrame_style_(CGRectZero, 0)
+    self.tableView.registerClass_forCellReuseIdentifier_(
+      UITableViewCell, self.cell_identifier)
+    self.tableView.setDataSource_(self.table_extensions)
+    self.tableView.setDelegate_(self.table_extensions)
 
-  @property
-  def searchBar_delegate(self):
-    return self._searchBar_delegate
+  def _override_viewController(self):
 
-  def _init_table_dataSource(self):
+    # --- `UIViewController` Methods
+    def doneButtonTapped_(_self, _cmd, _sender):
+      this = ObjCInstance(_self)
+      this.dismissViewControllerAnimated_completion_(True, None)
+
+    def viewDidLoad(_self, _cmd):
+      #print('viewDidLoad')
+      this = ObjCInstance(_self)
+      self.setup_navigation(this)
+      self.setup_viewDidLoad(this)
+      view = this.view()
+
+      #this.setEdgesForExtendedLayout_(0)
+      #this.setExtendedLayoutIncludesOpaqueBars_(True)
+
+      # --- tableView layout
+      view.addSubview_(self.tableView)
+      self.tableView.translatesAutoresizingMaskIntoConstraints = False
+
+      NSLayoutConstraint.activateConstraints_([
+        self.tableView.centerXAnchor().constraintEqualToAnchor_(
+          view.centerXAnchor()),
+        self.tableView.centerYAnchor().constraintEqualToAnchor_(
+          view.centerYAnchor()),
+        self.tableView.widthAnchor().constraintEqualToAnchor_multiplier_(
+          view.widthAnchor(), 1.0),
+        self.tableView.heightAnchor().constraintEqualToAnchor_multiplier_(
+          view.heightAnchor(), 1.0),
+      ])
+
+    def didReceiveMemoryWarning(_self, _cmd):
+      print('Dispose of any resources that can be recreated.')
+      print('> 再作成可能なリソースは処分する。')
+
+    # --- `UIViewController` set up
+    _methods = [
+      doneButtonTapped_,
+      viewDidLoad,
+      didReceiveMemoryWarning,
+    ]
+
+    create_kwargs = {
+      'name': '_vc',
+      'superclass': UIViewController,
+      'methods': _methods,
+    }
+    _vc = create_objc_class(**create_kwargs)
+    self._viewController = _vc
+
+  def create_search_extensions(self):
+    # --- `UISearchResultsUpdating` Methods
+    def updateSearchResultsForSearchController_(_self, _cmd,
+                                                _searchController):
+      searchController = ObjCInstance(_searchController)
+      text = searchController.searchBar().text()
+      if text:
+        self.reload_items(text)
+
+    # --- `UISearchResultsUpdating` set up
+    _methods = [
+      updateSearchResultsForSearchController_,
+    ]
+    _protocols = [
+      'UISearchResultsUpdating',
+    ]
+
+    create_kwargs = {
+      'name': 'search_extensions',
+      'methods': _methods,
+      'protocols': _protocols,
+    }
+
+    search_extensions = create_objc_class(**create_kwargs)
+    return search_extensions.new()
+
+  def create_table_extensions(self):
     # --- `UITableViewDataSource` Methods
     def tableView_numberOfRowsInSection_(_self, _cmd, _tableView, _section):
-      self.tableView = ObjCInstance(_tableView)
       items = self.grep_items if self.grep_items else self.all_items
       return len(items)
 
@@ -97,7 +197,6 @@ class ObjcControllers(object):
       content.setImage_(cell_image)
 
       cell.setContentConfiguration_(content)
-      self.tableView = tableView
 
       return cell.ptr
 
@@ -105,179 +204,104 @@ class ObjcControllers(object):
       # xxx: とりあえずの`1`
       return 1
 
-    # --- `UITableViewDataSource` set up
+    # --- `UITableViewDelegate` Methods
+    def tableView_didSelectRowAtIndexPath_(_self, _cmd, _tableView,
+                                           _indexPath):
+      indexPath = ObjCInstance(_indexPath)
+      items = self.grep_items if self.grep_items else self.all_items
+      item = items[indexPath.row()]
+      print(f'{indexPath}: {item}')
+
+    # --- `UITableViewDataSource` & `UITableViewDelegate` set up
     _methods = [
       tableView_numberOfRowsInSection_,
       tableView_cellForRowAtIndexPath_,
       numberOfSectionsInTableView_,
-    ]
-    _protocols = [
-      'UITableViewDataSource',
-    ]
-
-    create_kwargs = {
-      'name': 'table_dataSource',
-      'methods': _methods,
-      'protocols': _protocols,
-    }
-
-    table_dataSource = create_objc_class(**create_kwargs)
-    self._table_dataSource = table_dataSource.new()
-
-  def _init_table_delegate(self):
-    # --- `UITableViewDelegate` Methods
-    def tableView_didSelectRowAtIndexPath_(_self, _cmd, _tableView,
-                                           _indexPath):
-
-      items = self.grep_items if self.grep_items else self.all_items
-      indexPath = ObjCInstance(_indexPath)
-
-      item = items[indexPath.row()]
-      print(item)
-
-    # --- `UITableViewDelegate` set uo
-    _methods = [
       tableView_didSelectRowAtIndexPath_,
     ]
     _protocols = [
+      'UITableViewDataSource',
       'UITableViewDelegate',
     ]
 
     create_kwargs = {
-      'name': 'table_delegate',
+      'name': 'table_extensions',
       'methods': _methods,
       'protocols': _protocols,
     }
 
-    table_delegate = create_objc_class(**create_kwargs)
-    self._table_delegate = table_delegate.new()
+    table_extensions = create_objc_class(**create_kwargs)
+    return table_extensions.new()
 
-  def _init_searchBar(self):
-    # --- `UISearchBarDelegate` Methods
-    def searchBar_textDidChange_(_self, _cmd, _searchBar, _searchText):
-      self.searchBar_reload_action(_searchBar)
+  def setup_navigation(self, this: UIViewController):
+    # todo: view 閉じる用の実装など
+    navigationController = this.navigationController()
+    navigationBar = navigationController.navigationBar()
 
-    def searchBar_shouldChangeTextInRange_replacementText_(
-        _self, _cmd, _searchBar, _range, _text):
-      self.searchBar_reload_action(_searchBar)
-      return True
+    # --- appearance
+    appearance = UINavigationBarAppearance.alloc()
+    appearance.configureWithDefaultBackground()
+    #appearance.configureWithOpaqueBackground()
+    #appearance.configureWithTransparentBackground()
 
-    def searchBarSearchButtonClicked_(_self, _cmd, _searchBar):
-      self.searchBar_reload_action(_searchBar)
-      ObjCInstance(_searchBar).resignFirstResponder()
+    # --- navigationBar
+    navigationBar.standardAppearance = appearance
+    navigationBar.scrollEdgeAppearance = appearance
+    navigationBar.compactAppearance = appearance
+    navigationBar.compactScrollEdgeAppearance = appearance
 
-    # --- `UISearchBarDelegate` set up
-    _methods = [
-      searchBar_textDidChange_,
-      searchBar_shouldChangeTextInRange_replacementText_,
-      searchBarSearchButtonClicked_,
-    ]
-    _protocols = ['UISearchBarDelegate']
+    navigationBar.prefersLargeTitles = True
+    #navigationController.setHidesBarsOnSwipe_(True)
 
-    create_kwargs = {
-      'name': 'searchBar_delegate',
-      'methods': _methods,
-      'protocols': _protocols
-    }
+    done_btn = UIBarButtonItem.alloc(
+    ).initWithBarButtonSystemItem_target_action_(0, this,
+                                                 sel('doneButtonTapped:'))
 
-    searchBar_delegate = create_objc_class(**create_kwargs)
+    navigationItem = this.navigationItem()
+    navigationItem.rightBarButtonItem = done_btn
 
-    self._searchBar_delegate = searchBar_delegate.new()
+  @on_main_thread
+  def _init(self):
+    self._override_viewController()
+    vc = self._viewController.new().autorelease()
+    nv = UINavigationController.alloc()
+    nv.initWithRootViewController_(vc).autorelease()
+    return nv
 
-
-class ObjcControlView(object):
-
-  def __init__(self):
-    self.tmp_frame = ((0.0, 0.0), (100.0, 100.0))
-    self.view = UIView.new()
-    self.search_bar = UISearchBar.new()
-    self.table_view = UITableView.new()
-
-    self.cell_identifier = 'cell'
-
-    self.controllers = ObjcControllers(all_items, self.cell_identifier)
-    self._init_UISearchBar()
-    self._init_UITableView()
-
-  def _init_UISearchBar(self):
-    height = 56.0
-    self.search_bar.setFrame_(self.tmp_frame)
-    self.search_bar.backgroundColor = UIColor.systemWhiteColor()
-
-    # [UISearchBarStyle | Apple Developer Documentation](https://developer.apple.com/documentation/uikit/uisearchbarstyle?language=objc)
-    '''
-    0 : UISearchBarStyleDefault
-    1 : UISearchBarStyleProminent
-    2 : UISearchBarStyleMinimal
-    '''
-    # xxx: `UISearchBarStyleMinimal=2` 以外落ちる
-    self.search_bar.searchBarStyle = 2
-    self.search_bar.placeholder = 'SF Symbols 🧐'
-    self.search_bar.size = (100.0, height)
-
-    self.search_bar.setAutoresizingMask_(1 << 1)
-    self.search_bar.setDelegate_(self.controllers.searchBar_delegate)
-    self.search_bar.autorelease()
-
-    self.search = ui.View()
-    self.search.flex = 'W'
-    self.search.height = height
-    self.search.objc_instance.addSubview_(self.search_bar)
-
-  def _init_UITableView(self):
-    # [UITableViewStyle | Apple Developer Documentation](https://developer.apple.com/documentation/uikit/uitableviewstyle?language=objc)
-    '''
-    0 : UITableViewStylePlain
-    1 : UITableViewStyleGrouped
-    2 : UITableViewStyleInsetGrouped
-    '''
-    self.table_view.initWithFrame_style_(self.tmp_frame, 0)
-
-    # xxx: 2度`frame` 指定している。`init` からは`frame` が反映されないため -> `setAutoresizingMask_` がいい感じにならない
-    self.table_view.setFrame_(self.tmp_frame)
-    self.table_view.registerClass_forCellReuseIdentifier_(
-      UITableViewCell, self.cell_identifier)
-    self.table_view.setDataSource_(self.controllers.table_dataSource)
-    self.table_view.setDelegate_(self.controllers.table_delegate)
-
-    self.table_view.setAutoresizingMask_((1 << 1) | (1 << 4))
-    self.table_view.autorelease()
-
-    self.table = ui.View()
-    self.table.flex = 'W'
-    self.table.objc_instance.addSubview_(self.table_view)
-
-  def viewDidLoad(self):
-    self.view.setFrame_(self.tmp_frame)
-    self.view.setAutoresizingMask_((1 << 1) | (1 << 4))
-    self.view.backgroundColor = UIColor.redColor()
-    self.view.autorelease()
-
-    self.view.addSubview_(self.search_bar)
+  @classmethod
+  def new(cls) -> ObjCInstance:
+    _cls = cls()
+    return _cls._init()
 
 
-class PyView(ui.View):
+@on_main_thread
+def present_objc(vc):
+  app = ObjCClass('UIApplication').sharedApplication()
+  window = app.keyWindow() if app.keyWindow() else app.windows().firstObject()
 
-  def __init__(self, *args, **kwargs):
-    super().__init__(*args, **kwargs)
-    self.bg_color = 'maroon'
+  root_vc = window.rootViewController()
 
-    self.objc_view = ObjcControlView()
-    self.add_subview(self.objc_view.search)
-    self.add_subview(self.objc_view.table)
-
-  def layout(self):
-    _, _, w, h = self.frame
-    s_height = self.objc_view.search.height
-    t_height = h - s_height
-
-    self.objc_view.table.height = t_height
-    self.objc_view.table.y = s_height
+  while root_vc.presentedViewController():
+    root_vc = root_vc.presentedViewController()
+  '''
+  case -2 : automatic
+  case -1 : none
+  case  0 : fullScreen
+  case  1 : pageSheet <- default ?
+  case  2 : formSheet
+  case  3 : currentContext
+  case  4 : custom
+  case  5 : overFullScreen
+  case  6 : overCurrentContext
+  case  7 : popover
+  case  8 : blurOverFullScreen
+  '''
+  vc.setModalPresentationStyle(0)
+  root_vc.presentViewController_animated_completion_(vc, True, None)
 
 
 if __name__ == '__main__':
-  view = PyView()
-  #view.present(style='fullscreen', orientations=['portrait'])
-  view.present(style='fullscreen')
+  ovc = ObjcUIViewController.new()
+  present_objc(ovc)
 
 
