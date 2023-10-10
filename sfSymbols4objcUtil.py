@@ -44,7 +44,6 @@ class ObjcUIViewController:
 
     # --- search
     self.searchController = UISearchController.alloc()
-
     self.search_extensions = self.create_search_extensions()
 
     self.nav_title = 'SF Symbols tableList 😤'
@@ -96,6 +95,8 @@ class ObjcUIViewController:
       UITableViewCell, self.cell_identifier)
     self.tableView.setDataSource_(self.table_extensions)
     self.tableView.setDelegate_(self.table_extensions)
+    # [UIScrollView.KeyboardDismissMode | Apple Developer Documentation](https://developer.apple.com/documentation/uikit/uiscrollview/keyboarddismissmode)
+    self.tableView.setKeyboardDismissMode_(1)  # onDrag
 
   def _override_viewController(self):
 
