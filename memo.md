@@ -1,3 +1,19 @@
+# 📝 2023/12/15
+
+## iOS
+```
+symbol_categories.plist: 4375
+symbol_search.plist: 1925
+legacy_flippable.plist: 75
+name_availability.plist: 2
+Info.plist: 22
+categories.plist: 30
+symbol_order.plist: 4824
+
+```
+
+
+
 # 📝 2023/08/07
 
 [https://github.com/mikaelho/pythonista-misc/blob/master/sfsymbol%202.py](https://github.com/mikaelho/pythonista-misc/blob/master/sfsymbol%202.py)
