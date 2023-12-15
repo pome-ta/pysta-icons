@@ -1,14 +1,14 @@
 # 📝 2023/12/15
 
-## iOS
+## iOS 17.2
 ```
-symbol_categories.plist: 4375
-symbol_search.plist: 1925
+symbol_categories.plist: 5648
+symbol_search.plist: 2247
 legacy_flippable.plist: 75
 name_availability.plist: 2
 Info.plist: 22
-categories.plist: 30
-symbol_order.plist: 4824
+categories.plist: 31
+symbol_order.plist: 6153
 
 ```
 
