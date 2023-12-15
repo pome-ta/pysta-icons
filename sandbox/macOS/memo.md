@@ -4,7 +4,7 @@
 
 12.6
 
-`Contents` が入る？
+(macOSは) `Contents` が入る？
 
 ```
 /System/Library/CoreServices/CoreGlyphs.bundle/Contents/Info.plist
