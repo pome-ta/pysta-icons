@@ -13,8 +13,8 @@ plist_list = [{
 } for pl in plist_gene]
 
 
-file_path = Path(__file__)
-dumps_path = Path(file_path.parent, './dumps').resolve()
+main_path = Path(__file__)
+dumps_path = Path(main_path.parent, './dumps').resolve()
 
 for plst_name_dic in plist_list:
   _name = plst_name_dic['name']
