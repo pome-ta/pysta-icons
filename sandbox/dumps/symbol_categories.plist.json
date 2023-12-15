@@ -13,6 +13,15 @@
     "indices",
     "multicolor"
   ],
+  "0.circle.fill.hi": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "0.circle.hi": [
+    "indices",
+    "whatsnew"
+  ],
   "0.square": [
     "indices"
   ],
@@ -27,145 +36,514 @@
     "indices",
     "multicolor"
   ],
+  "0.square.fill.hi": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "0.square.hi": [
+    "indices",
+    "whatsnew"
+  ],
   "00.circle": [
     "indices"
+  ],
+  "00.circle.ar": [
+    "indices",
+    "whatsnew"
   ],
   "00.circle.fill": [
     "indices",
     "multicolor"
   ],
+  "00.circle.fill.ar": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "00.circle.fill.hi": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "00.circle.hi": [
+    "indices",
+    "whatsnew"
+  ],
   "00.square": [
     "indices"
+  ],
+  "00.square.ar": [
+    "indices",
+    "whatsnew"
   ],
   "00.square.fill": [
     "indices",
     "multicolor"
   ],
+  "00.square.fill.ar": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "00.square.fill.hi": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "00.square.hi": [
+    "indices",
+    "whatsnew"
+  ],
   "01.circle": [
     "indices"
+  ],
+  "01.circle.ar": [
+    "indices",
+    "whatsnew"
   ],
   "01.circle.fill": [
     "indices",
     "multicolor"
   ],
+  "01.circle.fill.ar": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "01.circle.fill.hi": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "01.circle.hi": [
+    "indices",
+    "whatsnew"
+  ],
   "01.square": [
     "indices"
+  ],
+  "01.square.ar": [
+    "indices",
+    "whatsnew"
   ],
   "01.square.fill": [
     "indices",
     "multicolor"
   ],
+  "01.square.fill.ar": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "01.square.fill.hi": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "01.square.hi": [
+    "indices",
+    "whatsnew"
+  ],
   "02.circle": [
     "indices"
+  ],
+  "02.circle.ar": [
+    "indices",
+    "whatsnew"
   ],
   "02.circle.fill": [
     "indices",
     "multicolor"
   ],
+  "02.circle.fill.ar": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "02.circle.fill.hi": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "02.circle.hi": [
+    "indices",
+    "whatsnew"
+  ],
   "02.square": [
     "indices"
+  ],
+  "02.square.ar": [
+    "indices",
+    "whatsnew"
   ],
   "02.square.fill": [
     "indices",
     "multicolor"
   ],
+  "02.square.fill.ar": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "02.square.fill.hi": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "02.square.hi": [
+    "indices",
+    "whatsnew"
+  ],
   "03.circle": [
     "indices"
+  ],
+  "03.circle.ar": [
+    "indices",
+    "whatsnew"
   ],
   "03.circle.fill": [
     "indices",
     "multicolor"
   ],
+  "03.circle.fill.ar": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "03.circle.fill.hi": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "03.circle.hi": [
+    "indices",
+    "whatsnew"
+  ],
   "03.square": [
     "indices"
+  ],
+  "03.square.ar": [
+    "indices",
+    "whatsnew"
   ],
   "03.square.fill": [
     "indices",
     "multicolor"
   ],
+  "03.square.fill.ar": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "03.square.fill.hi": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "03.square.hi": [
+    "indices",
+    "whatsnew"
+  ],
   "04.circle": [
     "indices"
+  ],
+  "04.circle.ar": [
+    "indices",
+    "whatsnew"
   ],
   "04.circle.fill": [
     "indices",
     "multicolor"
   ],
+  "04.circle.fill.ar": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "04.circle.fill.hi": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "04.circle.hi": [
+    "indices",
+    "whatsnew"
+  ],
   "04.square": [
     "indices"
+  ],
+  "04.square.ar": [
+    "indices",
+    "whatsnew"
   ],
   "04.square.fill": [
     "indices",
     "multicolor"
   ],
+  "04.square.fill.ar": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "04.square.fill.hi": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "04.square.hi": [
+    "indices",
+    "whatsnew"
+  ],
   "05.circle": [
     "indices"
+  ],
+  "05.circle.ar": [
+    "indices",
+    "whatsnew"
   ],
   "05.circle.fill": [
     "indices",
     "multicolor"
   ],
+  "05.circle.fill.ar": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "05.circle.fill.hi": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "05.circle.hi": [
+    "indices",
+    "whatsnew"
+  ],
   "05.square": [
     "indices"
+  ],
+  "05.square.ar": [
+    "indices",
+    "whatsnew"
   ],
   "05.square.fill": [
     "indices",
     "multicolor"
   ],
+  "05.square.fill.ar": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "05.square.fill.hi": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "05.square.hi": [
+    "indices",
+    "whatsnew"
+  ],
   "06.circle": [
     "indices"
+  ],
+  "06.circle.ar": [
+    "indices",
+    "whatsnew"
   ],
   "06.circle.fill": [
     "indices",
     "multicolor"
   ],
+  "06.circle.fill.ar": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "06.circle.fill.hi": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "06.circle.hi": [
+    "indices",
+    "whatsnew"
+  ],
   "06.square": [
     "indices"
+  ],
+  "06.square.ar": [
+    "indices",
+    "whatsnew"
   ],
   "06.square.fill": [
     "indices",
     "multicolor"
   ],
+  "06.square.fill.ar": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "06.square.fill.hi": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "06.square.hi": [
+    "indices",
+    "whatsnew"
+  ],
   "07.circle": [
     "indices"
+  ],
+  "07.circle.ar": [
+    "indices",
+    "whatsnew"
   ],
   "07.circle.fill": [
     "indices",
     "multicolor"
   ],
+  "07.circle.fill.ar": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "07.circle.fill.hi": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "07.circle.hi": [
+    "indices",
+    "whatsnew"
+  ],
   "07.square": [
     "indices"
+  ],
+  "07.square.ar": [
+    "indices",
+    "whatsnew"
   ],
   "07.square.fill": [
     "indices",
     "multicolor"
   ],
+  "07.square.fill.ar": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "07.square.fill.hi": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "07.square.hi": [
+    "indices",
+    "whatsnew"
+  ],
   "08.circle": [
     "indices"
+  ],
+  "08.circle.ar": [
+    "indices",
+    "whatsnew"
   ],
   "08.circle.fill": [
     "indices",
     "multicolor"
   ],
+  "08.circle.fill.ar": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "08.circle.fill.hi": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "08.circle.hi": [
+    "indices",
+    "whatsnew"
+  ],
   "08.square": [
     "indices"
+  ],
+  "08.square.ar": [
+    "indices",
+    "whatsnew"
   ],
   "08.square.fill": [
     "indices",
     "multicolor"
   ],
+  "08.square.fill.ar": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "08.square.fill.hi": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "08.square.hi": [
+    "indices",
+    "whatsnew"
+  ],
   "09.circle": [
     "indices"
+  ],
+  "09.circle.ar": [
+    "indices",
+    "whatsnew"
   ],
   "09.circle.fill": [
     "indices",
     "multicolor"
   ],
+  "09.circle.fill.ar": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "09.circle.fill.hi": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "09.circle.hi": [
+    "indices",
+    "whatsnew"
+  ],
   "09.square": [
     "indices"
+  ],
+  "09.square.ar": [
+    "indices",
+    "whatsnew"
   ],
   "09.square.fill": [
     "indices",
     "multicolor"
+  ],
+  "09.square.fill.ar": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "09.square.fill.hi": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "09.square.hi": [
+    "indices",
+    "whatsnew"
   ],
   "1.brakesignal": [
     "automotive"
@@ -183,6 +561,15 @@
   "1.circle.fill.ar": [
     "indices",
     "multicolor"
+  ],
+  "1.circle.fill.hi": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "1.circle.hi": [
+    "indices",
+    "whatsnew"
   ],
   "1.lane": [
     "fitness"
@@ -216,12 +603,39 @@
     "indices",
     "multicolor"
   ],
+  "1.square.fill.hi": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "1.square.hi": [
+    "indices",
+    "whatsnew"
+  ],
   "10.circle": [
     "indices"
+  ],
+  "10.circle.ar": [
+    "indices",
+    "whatsnew"
   ],
   "10.circle.fill": [
     "indices",
     "multicolor"
+  ],
+  "10.circle.fill.ar": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "10.circle.fill.hi": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "10.circle.hi": [
+    "indices",
+    "whatsnew"
   ],
   "10.lane": [
     "fitness"
@@ -235,16 +649,52 @@
   "10.square": [
     "indices"
   ],
+  "10.square.ar": [
+    "indices",
+    "whatsnew"
+  ],
   "10.square.fill": [
     "indices",
     "multicolor"
   ],
+  "10.square.fill.ar": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "10.square.fill.hi": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "10.square.hi": [
+    "indices",
+    "whatsnew"
+  ],
   "11.circle": [
     "indices"
+  ],
+  "11.circle.ar": [
+    "indices",
+    "whatsnew"
   ],
   "11.circle.fill": [
     "indices",
     "multicolor"
+  ],
+  "11.circle.fill.ar": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "11.circle.fill.hi": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "11.circle.hi": [
+    "indices",
+    "whatsnew"
   ],
   "11.lane": [
     "fitness"
@@ -258,16 +708,52 @@
   "11.square": [
     "indices"
   ],
+  "11.square.ar": [
+    "indices",
+    "whatsnew"
+  ],
   "11.square.fill": [
     "indices",
     "multicolor"
   ],
+  "11.square.fill.ar": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "11.square.fill.hi": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "11.square.hi": [
+    "indices",
+    "whatsnew"
+  ],
   "12.circle": [
     "indices"
+  ],
+  "12.circle.ar": [
+    "indices",
+    "whatsnew"
   ],
   "12.circle.fill": [
     "indices",
     "multicolor"
+  ],
+  "12.circle.fill.ar": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "12.circle.fill.hi": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "12.circle.hi": [
+    "indices",
+    "whatsnew"
   ],
   "12.lane": [
     "fitness"
@@ -281,9 +767,27 @@
   "12.square": [
     "indices"
   ],
+  "12.square.ar": [
+    "indices",
+    "whatsnew"
+  ],
   "12.square.fill": [
     "indices",
     "multicolor"
+  ],
+  "12.square.fill.ar": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "12.square.fill.hi": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "12.square.hi": [
+    "indices",
+    "whatsnew"
   ],
   "123.rectangle": [
     "textformatting"
@@ -309,100 +813,352 @@
   "13.circle": [
     "indices"
   ],
+  "13.circle.ar": [
+    "indices",
+    "whatsnew"
+  ],
   "13.circle.fill": [
     "indices",
     "multicolor"
   ],
+  "13.circle.fill.ar": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "13.circle.fill.hi": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "13.circle.hi": [
+    "indices",
+    "whatsnew"
+  ],
   "13.square": [
     "indices"
+  ],
+  "13.square.ar": [
+    "indices",
+    "whatsnew"
   ],
   "13.square.fill": [
     "indices",
     "multicolor"
   ],
+  "13.square.fill.ar": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "13.square.fill.hi": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "13.square.hi": [
+    "indices",
+    "whatsnew"
+  ],
   "14.circle": [
     "indices"
+  ],
+  "14.circle.ar": [
+    "indices",
+    "whatsnew"
   ],
   "14.circle.fill": [
     "indices",
     "multicolor"
   ],
+  "14.circle.fill.ar": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "14.circle.fill.hi": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "14.circle.hi": [
+    "indices",
+    "whatsnew"
+  ],
   "14.square": [
     "indices"
+  ],
+  "14.square.ar": [
+    "indices",
+    "whatsnew"
   ],
   "14.square.fill": [
     "indices",
     "multicolor"
   ],
+  "14.square.fill.ar": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "14.square.fill.hi": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "14.square.hi": [
+    "indices",
+    "whatsnew"
+  ],
   "15.circle": [
     "indices"
+  ],
+  "15.circle.ar": [
+    "indices",
+    "whatsnew"
   ],
   "15.circle.fill": [
     "indices",
     "multicolor"
   ],
+  "15.circle.fill.ar": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "15.circle.fill.hi": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "15.circle.hi": [
+    "indices",
+    "whatsnew"
+  ],
   "15.square": [
     "indices"
+  ],
+  "15.square.ar": [
+    "indices",
+    "whatsnew"
   ],
   "15.square.fill": [
     "indices",
     "multicolor"
   ],
+  "15.square.fill.ar": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "15.square.fill.hi": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "15.square.hi": [
+    "indices",
+    "whatsnew"
+  ],
   "16.circle": [
     "indices"
+  ],
+  "16.circle.ar": [
+    "indices",
+    "whatsnew"
   ],
   "16.circle.fill": [
     "indices",
     "multicolor"
   ],
+  "16.circle.fill.ar": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "16.circle.fill.hi": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "16.circle.hi": [
+    "indices",
+    "whatsnew"
+  ],
   "16.square": [
     "indices"
+  ],
+  "16.square.ar": [
+    "indices",
+    "whatsnew"
   ],
   "16.square.fill": [
     "indices",
     "multicolor"
   ],
+  "16.square.fill.ar": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "16.square.fill.hi": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "16.square.hi": [
+    "indices",
+    "whatsnew"
+  ],
   "17.circle": [
     "indices"
+  ],
+  "17.circle.ar": [
+    "indices",
+    "whatsnew"
   ],
   "17.circle.fill": [
     "indices",
     "multicolor"
   ],
+  "17.circle.fill.ar": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "17.circle.fill.hi": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "17.circle.hi": [
+    "indices",
+    "whatsnew"
+  ],
   "17.square": [
     "indices"
+  ],
+  "17.square.ar": [
+    "indices",
+    "whatsnew"
   ],
   "17.square.fill": [
     "indices",
     "multicolor"
   ],
+  "17.square.fill.ar": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "17.square.fill.hi": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "17.square.hi": [
+    "indices",
+    "whatsnew"
+  ],
   "18.circle": [
     "indices"
+  ],
+  "18.circle.ar": [
+    "indices",
+    "whatsnew"
   ],
   "18.circle.fill": [
     "indices",
     "multicolor"
   ],
+  "18.circle.fill.ar": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "18.circle.fill.hi": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "18.circle.hi": [
+    "indices",
+    "whatsnew"
+  ],
   "18.square": [
     "indices"
+  ],
+  "18.square.ar": [
+    "indices",
+    "whatsnew"
   ],
   "18.square.fill": [
     "indices",
     "multicolor"
   ],
+  "18.square.fill.ar": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "18.square.fill.hi": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "18.square.hi": [
+    "indices",
+    "whatsnew"
+  ],
   "19.circle": [
     "indices"
+  ],
+  "19.circle.ar": [
+    "indices",
+    "whatsnew"
   ],
   "19.circle.fill": [
     "indices",
     "multicolor"
   ],
+  "19.circle.fill.ar": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "19.circle.fill.hi": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "19.circle.hi": [
+    "indices",
+    "whatsnew"
+  ],
   "19.square": [
     "indices"
+  ],
+  "19.square.ar": [
+    "indices",
+    "whatsnew"
   ],
   "19.square.fill": [
     "indices",
     "multicolor"
+  ],
+  "19.square.fill.ar": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "19.square.fill.hi": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "19.square.hi": [
+    "indices",
+    "whatsnew"
   ],
   "2.brakesignal": [
     "automotive"
@@ -420,6 +1176,15 @@
   "2.circle.fill.ar": [
     "indices",
     "multicolor"
+  ],
+  "2.circle.fill.hi": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "2.circle.hi": [
+    "indices",
+    "whatsnew"
   ],
   "2.lane": [
     "fitness"
@@ -444,145 +1209,514 @@
     "indices",
     "multicolor"
   ],
+  "2.square.fill.hi": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "2.square.hi": [
+    "indices",
+    "whatsnew"
+  ],
   "20.circle": [
     "indices"
+  ],
+  "20.circle.ar": [
+    "indices",
+    "whatsnew"
   ],
   "20.circle.fill": [
     "indices",
     "multicolor"
   ],
+  "20.circle.fill.ar": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "20.circle.fill.hi": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "20.circle.hi": [
+    "indices",
+    "whatsnew"
+  ],
   "20.square": [
     "indices"
+  ],
+  "20.square.ar": [
+    "indices",
+    "whatsnew"
   ],
   "20.square.fill": [
     "indices",
     "multicolor"
   ],
+  "20.square.fill.ar": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "20.square.fill.hi": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "20.square.hi": [
+    "indices",
+    "whatsnew"
+  ],
   "21.circle": [
     "indices"
+  ],
+  "21.circle.ar": [
+    "indices",
+    "whatsnew"
   ],
   "21.circle.fill": [
     "indices",
     "multicolor"
   ],
+  "21.circle.fill.ar": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "21.circle.fill.hi": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "21.circle.hi": [
+    "indices",
+    "whatsnew"
+  ],
   "21.square": [
     "indices"
+  ],
+  "21.square.ar": [
+    "indices",
+    "whatsnew"
   ],
   "21.square.fill": [
     "indices",
     "multicolor"
   ],
+  "21.square.fill.ar": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "21.square.fill.hi": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "21.square.hi": [
+    "indices",
+    "whatsnew"
+  ],
   "22.circle": [
     "indices"
+  ],
+  "22.circle.ar": [
+    "indices",
+    "whatsnew"
   ],
   "22.circle.fill": [
     "indices",
     "multicolor"
   ],
+  "22.circle.fill.ar": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "22.circle.fill.hi": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "22.circle.hi": [
+    "indices",
+    "whatsnew"
+  ],
   "22.square": [
     "indices"
+  ],
+  "22.square.ar": [
+    "indices",
+    "whatsnew"
   ],
   "22.square.fill": [
     "indices",
     "multicolor"
   ],
+  "22.square.fill.ar": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "22.square.fill.hi": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "22.square.hi": [
+    "indices",
+    "whatsnew"
+  ],
   "23.circle": [
     "indices"
+  ],
+  "23.circle.ar": [
+    "indices",
+    "whatsnew"
   ],
   "23.circle.fill": [
     "indices",
     "multicolor"
   ],
+  "23.circle.fill.ar": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "23.circle.fill.hi": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "23.circle.hi": [
+    "indices",
+    "whatsnew"
+  ],
   "23.square": [
     "indices"
+  ],
+  "23.square.ar": [
+    "indices",
+    "whatsnew"
   ],
   "23.square.fill": [
     "indices",
     "multicolor"
   ],
+  "23.square.fill.ar": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "23.square.fill.hi": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "23.square.hi": [
+    "indices",
+    "whatsnew"
+  ],
   "24.circle": [
     "indices"
+  ],
+  "24.circle.ar": [
+    "indices",
+    "whatsnew"
   ],
   "24.circle.fill": [
     "indices",
     "multicolor"
   ],
+  "24.circle.fill.ar": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "24.circle.fill.hi": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "24.circle.hi": [
+    "indices",
+    "whatsnew"
+  ],
   "24.square": [
     "indices"
+  ],
+  "24.square.ar": [
+    "indices",
+    "whatsnew"
   ],
   "24.square.fill": [
     "indices",
     "multicolor"
   ],
+  "24.square.fill.ar": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "24.square.fill.hi": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "24.square.hi": [
+    "indices",
+    "whatsnew"
+  ],
   "25.circle": [
     "indices"
+  ],
+  "25.circle.ar": [
+    "indices",
+    "whatsnew"
   ],
   "25.circle.fill": [
     "indices",
     "multicolor"
   ],
+  "25.circle.fill.ar": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "25.circle.fill.hi": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "25.circle.hi": [
+    "indices",
+    "whatsnew"
+  ],
   "25.square": [
     "indices"
+  ],
+  "25.square.ar": [
+    "indices",
+    "whatsnew"
   ],
   "25.square.fill": [
     "indices",
     "multicolor"
   ],
+  "25.square.fill.ar": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "25.square.fill.hi": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "25.square.hi": [
+    "indices",
+    "whatsnew"
+  ],
   "26.circle": [
     "indices"
+  ],
+  "26.circle.ar": [
+    "indices",
+    "whatsnew"
   ],
   "26.circle.fill": [
     "indices",
     "multicolor"
   ],
+  "26.circle.fill.ar": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "26.circle.fill.hi": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "26.circle.hi": [
+    "indices",
+    "whatsnew"
+  ],
   "26.square": [
     "indices"
+  ],
+  "26.square.ar": [
+    "indices",
+    "whatsnew"
   ],
   "26.square.fill": [
     "indices",
     "multicolor"
   ],
+  "26.square.fill.ar": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "26.square.fill.hi": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "26.square.hi": [
+    "indices",
+    "whatsnew"
+  ],
   "27.circle": [
     "indices"
+  ],
+  "27.circle.ar": [
+    "indices",
+    "whatsnew"
   ],
   "27.circle.fill": [
     "indices",
     "multicolor"
   ],
+  "27.circle.fill.ar": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "27.circle.fill.hi": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "27.circle.hi": [
+    "indices",
+    "whatsnew"
+  ],
   "27.square": [
     "indices"
+  ],
+  "27.square.ar": [
+    "indices",
+    "whatsnew"
   ],
   "27.square.fill": [
     "indices",
     "multicolor"
   ],
+  "27.square.fill.ar": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "27.square.fill.hi": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "27.square.hi": [
+    "indices",
+    "whatsnew"
+  ],
   "28.circle": [
     "indices"
+  ],
+  "28.circle.ar": [
+    "indices",
+    "whatsnew"
   ],
   "28.circle.fill": [
     "indices",
     "multicolor"
   ],
+  "28.circle.fill.ar": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "28.circle.fill.hi": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "28.circle.hi": [
+    "indices",
+    "whatsnew"
+  ],
   "28.square": [
     "indices"
+  ],
+  "28.square.ar": [
+    "indices",
+    "whatsnew"
   ],
   "28.square.fill": [
     "indices",
     "multicolor"
   ],
+  "28.square.fill.ar": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "28.square.fill.hi": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "28.square.hi": [
+    "indices",
+    "whatsnew"
+  ],
   "29.circle": [
     "indices"
+  ],
+  "29.circle.ar": [
+    "indices",
+    "whatsnew"
   ],
   "29.circle.fill": [
     "indices",
     "multicolor"
   ],
+  "29.circle.fill.ar": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "29.circle.fill.hi": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "29.circle.hi": [
+    "indices",
+    "whatsnew"
+  ],
   "29.square": [
     "indices"
+  ],
+  "29.square.ar": [
+    "indices",
+    "whatsnew"
   ],
   "29.square.fill": [
     "indices",
     "multicolor"
+  ],
+  "29.square.fill.ar": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "29.square.fill.hi": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "29.square.hi": [
+    "indices",
+    "whatsnew"
   ],
   "2h": [
     "automotive",
@@ -611,6 +1745,15 @@
     "indices",
     "multicolor"
   ],
+  "3.circle.fill.hi": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "3.circle.hi": [
+    "indices",
+    "whatsnew"
+  ],
   "3.lane": [
     "fitness"
   ],
@@ -634,145 +1777,514 @@
     "indices",
     "multicolor"
   ],
+  "3.square.fill.hi": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "3.square.hi": [
+    "indices",
+    "whatsnew"
+  ],
   "30.circle": [
     "indices"
+  ],
+  "30.circle.ar": [
+    "indices",
+    "whatsnew"
   ],
   "30.circle.fill": [
     "indices",
     "multicolor"
   ],
+  "30.circle.fill.ar": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "30.circle.fill.hi": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "30.circle.hi": [
+    "indices",
+    "whatsnew"
+  ],
   "30.square": [
     "indices"
+  ],
+  "30.square.ar": [
+    "indices",
+    "whatsnew"
   ],
   "30.square.fill": [
     "indices",
     "multicolor"
   ],
+  "30.square.fill.ar": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "30.square.fill.hi": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "30.square.hi": [
+    "indices",
+    "whatsnew"
+  ],
   "31.circle": [
     "indices"
+  ],
+  "31.circle.ar": [
+    "indices",
+    "whatsnew"
   ],
   "31.circle.fill": [
     "indices",
     "multicolor"
   ],
+  "31.circle.fill.ar": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "31.circle.fill.hi": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "31.circle.hi": [
+    "indices",
+    "whatsnew"
+  ],
   "31.square": [
     "indices"
+  ],
+  "31.square.ar": [
+    "indices",
+    "whatsnew"
   ],
   "31.square.fill": [
     "indices",
     "multicolor"
   ],
+  "31.square.fill.ar": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "31.square.fill.hi": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "31.square.hi": [
+    "indices",
+    "whatsnew"
+  ],
   "32.circle": [
     "indices"
+  ],
+  "32.circle.ar": [
+    "indices",
+    "whatsnew"
   ],
   "32.circle.fill": [
     "indices",
     "multicolor"
   ],
+  "32.circle.fill.ar": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "32.circle.fill.hi": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "32.circle.hi": [
+    "indices",
+    "whatsnew"
+  ],
   "32.square": [
     "indices"
+  ],
+  "32.square.ar": [
+    "indices",
+    "whatsnew"
   ],
   "32.square.fill": [
     "indices",
     "multicolor"
   ],
+  "32.square.fill.ar": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "32.square.fill.hi": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "32.square.hi": [
+    "indices",
+    "whatsnew"
+  ],
   "33.circle": [
     "indices"
+  ],
+  "33.circle.ar": [
+    "indices",
+    "whatsnew"
   ],
   "33.circle.fill": [
     "indices",
     "multicolor"
   ],
+  "33.circle.fill.ar": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "33.circle.fill.hi": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "33.circle.hi": [
+    "indices",
+    "whatsnew"
+  ],
   "33.square": [
     "indices"
+  ],
+  "33.square.ar": [
+    "indices",
+    "whatsnew"
   ],
   "33.square.fill": [
     "indices",
     "multicolor"
   ],
+  "33.square.fill.ar": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "33.square.fill.hi": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "33.square.hi": [
+    "indices",
+    "whatsnew"
+  ],
   "34.circle": [
     "indices"
+  ],
+  "34.circle.ar": [
+    "indices",
+    "whatsnew"
   ],
   "34.circle.fill": [
     "indices",
     "multicolor"
   ],
+  "34.circle.fill.ar": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "34.circle.fill.hi": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "34.circle.hi": [
+    "indices",
+    "whatsnew"
+  ],
   "34.square": [
     "indices"
+  ],
+  "34.square.ar": [
+    "indices",
+    "whatsnew"
   ],
   "34.square.fill": [
     "indices",
     "multicolor"
   ],
+  "34.square.fill.ar": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "34.square.fill.hi": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "34.square.hi": [
+    "indices",
+    "whatsnew"
+  ],
   "35.circle": [
     "indices"
+  ],
+  "35.circle.ar": [
+    "indices",
+    "whatsnew"
   ],
   "35.circle.fill": [
     "indices",
     "multicolor"
   ],
+  "35.circle.fill.ar": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "35.circle.fill.hi": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "35.circle.hi": [
+    "indices",
+    "whatsnew"
+  ],
   "35.square": [
     "indices"
+  ],
+  "35.square.ar": [
+    "indices",
+    "whatsnew"
   ],
   "35.square.fill": [
     "indices",
     "multicolor"
   ],
+  "35.square.fill.ar": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "35.square.fill.hi": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "35.square.hi": [
+    "indices",
+    "whatsnew"
+  ],
   "36.circle": [
     "indices"
+  ],
+  "36.circle.ar": [
+    "indices",
+    "whatsnew"
   ],
   "36.circle.fill": [
     "indices",
     "multicolor"
   ],
+  "36.circle.fill.ar": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "36.circle.fill.hi": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "36.circle.hi": [
+    "indices",
+    "whatsnew"
+  ],
   "36.square": [
     "indices"
+  ],
+  "36.square.ar": [
+    "indices",
+    "whatsnew"
   ],
   "36.square.fill": [
     "indices",
     "multicolor"
   ],
+  "36.square.fill.ar": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "36.square.fill.hi": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "36.square.hi": [
+    "indices",
+    "whatsnew"
+  ],
   "37.circle": [
     "indices"
+  ],
+  "37.circle.ar": [
+    "indices",
+    "whatsnew"
   ],
   "37.circle.fill": [
     "indices",
     "multicolor"
   ],
+  "37.circle.fill.ar": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "37.circle.fill.hi": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "37.circle.hi": [
+    "indices",
+    "whatsnew"
+  ],
   "37.square": [
     "indices"
+  ],
+  "37.square.ar": [
+    "indices",
+    "whatsnew"
   ],
   "37.square.fill": [
     "indices",
     "multicolor"
   ],
+  "37.square.fill.ar": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "37.square.fill.hi": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "37.square.hi": [
+    "indices",
+    "whatsnew"
+  ],
   "38.circle": [
     "indices"
+  ],
+  "38.circle.ar": [
+    "indices",
+    "whatsnew"
   ],
   "38.circle.fill": [
     "indices",
     "multicolor"
   ],
+  "38.circle.fill.ar": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "38.circle.fill.hi": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "38.circle.hi": [
+    "indices",
+    "whatsnew"
+  ],
   "38.square": [
     "indices"
+  ],
+  "38.square.ar": [
+    "indices",
+    "whatsnew"
   ],
   "38.square.fill": [
     "indices",
     "multicolor"
   ],
+  "38.square.fill.ar": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "38.square.fill.hi": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "38.square.hi": [
+    "indices",
+    "whatsnew"
+  ],
   "39.circle": [
     "indices"
+  ],
+  "39.circle.ar": [
+    "indices",
+    "whatsnew"
   ],
   "39.circle.fill": [
     "indices",
     "multicolor"
   ],
+  "39.circle.fill.ar": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "39.circle.fill.hi": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "39.circle.hi": [
+    "indices",
+    "whatsnew"
+  ],
   "39.square": [
     "indices"
+  ],
+  "39.square.ar": [
+    "indices",
+    "whatsnew"
   ],
   "39.square.fill": [
     "indices",
     "multicolor"
+  ],
+  "39.square.fill.ar": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "39.square.fill.hi": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "39.square.hi": [
+    "indices",
+    "whatsnew"
   ],
   "4.alt.circle": [
     "indices"
@@ -802,6 +2314,15 @@
     "indices",
     "multicolor"
   ],
+  "4.circle.fill.hi": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "4.circle.hi": [
+    "indices",
+    "whatsnew"
+  ],
   "4.lane": [
     "fitness"
   ],
@@ -825,145 +2346,514 @@
     "indices",
     "multicolor"
   ],
+  "4.square.fill.hi": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "4.square.hi": [
+    "indices",
+    "whatsnew"
+  ],
   "40.circle": [
     "indices"
+  ],
+  "40.circle.ar": [
+    "indices",
+    "whatsnew"
   ],
   "40.circle.fill": [
     "indices",
     "multicolor"
   ],
+  "40.circle.fill.ar": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "40.circle.fill.hi": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "40.circle.hi": [
+    "indices",
+    "whatsnew"
+  ],
   "40.square": [
     "indices"
+  ],
+  "40.square.ar": [
+    "indices",
+    "whatsnew"
   ],
   "40.square.fill": [
     "indices",
     "multicolor"
   ],
+  "40.square.fill.ar": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "40.square.fill.hi": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "40.square.hi": [
+    "indices",
+    "whatsnew"
+  ],
   "41.circle": [
     "indices"
+  ],
+  "41.circle.ar": [
+    "indices",
+    "whatsnew"
   ],
   "41.circle.fill": [
     "indices",
     "multicolor"
   ],
+  "41.circle.fill.ar": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "41.circle.fill.hi": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "41.circle.hi": [
+    "indices",
+    "whatsnew"
+  ],
   "41.square": [
     "indices"
+  ],
+  "41.square.ar": [
+    "indices",
+    "whatsnew"
   ],
   "41.square.fill": [
     "indices",
     "multicolor"
   ],
+  "41.square.fill.ar": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "41.square.fill.hi": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "41.square.hi": [
+    "indices",
+    "whatsnew"
+  ],
   "42.circle": [
     "indices"
+  ],
+  "42.circle.ar": [
+    "indices",
+    "whatsnew"
   ],
   "42.circle.fill": [
     "indices",
     "multicolor"
   ],
+  "42.circle.fill.ar": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "42.circle.fill.hi": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "42.circle.hi": [
+    "indices",
+    "whatsnew"
+  ],
   "42.square": [
     "indices"
+  ],
+  "42.square.ar": [
+    "indices",
+    "whatsnew"
   ],
   "42.square.fill": [
     "indices",
     "multicolor"
   ],
+  "42.square.fill.ar": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "42.square.fill.hi": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "42.square.hi": [
+    "indices",
+    "whatsnew"
+  ],
   "43.circle": [
     "indices"
+  ],
+  "43.circle.ar": [
+    "indices",
+    "whatsnew"
   ],
   "43.circle.fill": [
     "indices",
     "multicolor"
   ],
+  "43.circle.fill.ar": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "43.circle.fill.hi": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "43.circle.hi": [
+    "indices",
+    "whatsnew"
+  ],
   "43.square": [
     "indices"
+  ],
+  "43.square.ar": [
+    "indices",
+    "whatsnew"
   ],
   "43.square.fill": [
     "indices",
     "multicolor"
   ],
+  "43.square.fill.ar": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "43.square.fill.hi": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "43.square.hi": [
+    "indices",
+    "whatsnew"
+  ],
   "44.circle": [
     "indices"
+  ],
+  "44.circle.ar": [
+    "indices",
+    "whatsnew"
   ],
   "44.circle.fill": [
     "indices",
     "multicolor"
   ],
+  "44.circle.fill.ar": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "44.circle.fill.hi": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "44.circle.hi": [
+    "indices",
+    "whatsnew"
+  ],
   "44.square": [
     "indices"
+  ],
+  "44.square.ar": [
+    "indices",
+    "whatsnew"
   ],
   "44.square.fill": [
     "indices",
     "multicolor"
   ],
+  "44.square.fill.ar": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "44.square.fill.hi": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "44.square.hi": [
+    "indices",
+    "whatsnew"
+  ],
   "45.circle": [
     "indices"
+  ],
+  "45.circle.ar": [
+    "indices",
+    "whatsnew"
   ],
   "45.circle.fill": [
     "indices",
     "multicolor"
   ],
+  "45.circle.fill.ar": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "45.circle.fill.hi": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "45.circle.hi": [
+    "indices",
+    "whatsnew"
+  ],
   "45.square": [
     "indices"
+  ],
+  "45.square.ar": [
+    "indices",
+    "whatsnew"
   ],
   "45.square.fill": [
     "indices",
     "multicolor"
   ],
+  "45.square.fill.ar": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "45.square.fill.hi": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "45.square.hi": [
+    "indices",
+    "whatsnew"
+  ],
   "46.circle": [
     "indices"
+  ],
+  "46.circle.ar": [
+    "indices",
+    "whatsnew"
   ],
   "46.circle.fill": [
     "indices",
     "multicolor"
   ],
+  "46.circle.fill.ar": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "46.circle.fill.hi": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "46.circle.hi": [
+    "indices",
+    "whatsnew"
+  ],
   "46.square": [
     "indices"
+  ],
+  "46.square.ar": [
+    "indices",
+    "whatsnew"
   ],
   "46.square.fill": [
     "indices",
     "multicolor"
   ],
+  "46.square.fill.ar": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "46.square.fill.hi": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "46.square.hi": [
+    "indices",
+    "whatsnew"
+  ],
   "47.circle": [
     "indices"
+  ],
+  "47.circle.ar": [
+    "indices",
+    "whatsnew"
   ],
   "47.circle.fill": [
     "indices",
     "multicolor"
   ],
+  "47.circle.fill.ar": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "47.circle.fill.hi": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "47.circle.hi": [
+    "indices",
+    "whatsnew"
+  ],
   "47.square": [
     "indices"
+  ],
+  "47.square.ar": [
+    "indices",
+    "whatsnew"
   ],
   "47.square.fill": [
     "indices",
     "multicolor"
   ],
+  "47.square.fill.ar": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "47.square.fill.hi": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "47.square.hi": [
+    "indices",
+    "whatsnew"
+  ],
   "48.circle": [
     "indices"
+  ],
+  "48.circle.ar": [
+    "indices",
+    "whatsnew"
   ],
   "48.circle.fill": [
     "indices",
     "multicolor"
   ],
+  "48.circle.fill.ar": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "48.circle.fill.hi": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "48.circle.hi": [
+    "indices",
+    "whatsnew"
+  ],
   "48.square": [
     "indices"
+  ],
+  "48.square.ar": [
+    "indices",
+    "whatsnew"
   ],
   "48.square.fill": [
     "indices",
     "multicolor"
   ],
+  "48.square.fill.ar": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "48.square.fill.hi": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "48.square.hi": [
+    "indices",
+    "whatsnew"
+  ],
   "49.circle": [
     "indices"
+  ],
+  "49.circle.ar": [
+    "indices",
+    "whatsnew"
   ],
   "49.circle.fill": [
     "indices",
     "multicolor"
   ],
+  "49.circle.fill.ar": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "49.circle.fill.hi": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "49.circle.hi": [
+    "indices",
+    "whatsnew"
+  ],
   "49.square": [
     "indices"
+  ],
+  "49.square.ar": [
+    "indices",
+    "whatsnew"
   ],
   "49.square.fill": [
     "indices",
     "multicolor"
+  ],
+  "49.square.fill.ar": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "49.square.fill.hi": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "49.square.hi": [
+    "indices",
+    "whatsnew"
   ],
   "4a": [
     "automotive",
@@ -1024,6 +2914,15 @@
     "indices",
     "multicolor"
   ],
+  "5.circle.fill.hi": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "5.circle.hi": [
+    "indices",
+    "whatsnew"
+  ],
   "5.lane": [
     "fitness"
   ],
@@ -1047,19 +2946,64 @@
     "indices",
     "multicolor"
   ],
+  "5.square.fill.hi": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "5.square.hi": [
+    "indices",
+    "whatsnew"
+  ],
   "50.circle": [
     "indices"
+  ],
+  "50.circle.ar": [
+    "indices",
+    "whatsnew"
   ],
   "50.circle.fill": [
     "indices",
     "multicolor"
   ],
+  "50.circle.fill.ar": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "50.circle.fill.hi": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "50.circle.hi": [
+    "indices",
+    "whatsnew"
+  ],
   "50.square": [
     "indices"
+  ],
+  "50.square.ar": [
+    "indices",
+    "whatsnew"
   ],
   "50.square.fill": [
     "indices",
     "multicolor"
+  ],
+  "50.square.fill.ar": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "50.square.fill.hi": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "50.square.hi": [
+    "indices",
+    "whatsnew"
   ],
   "6.alt.circle": [
     "indices"
@@ -1089,6 +3033,15 @@
     "indices",
     "multicolor"
   ],
+  "6.circle.fill.hi": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "6.circle.hi": [
+    "indices",
+    "whatsnew"
+  ],
   "6.lane": [
     "fitness"
   ],
@@ -1112,6 +3065,15 @@
     "indices",
     "multicolor"
   ],
+  "6.square.fill.hi": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "6.square.hi": [
+    "indices",
+    "whatsnew"
+  ],
   "7.circle": [
     "indices"
   ],
@@ -1125,6 +3087,15 @@
   "7.circle.fill.ar": [
     "indices",
     "multicolor"
+  ],
+  "7.circle.fill.hi": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "7.circle.hi": [
+    "indices",
+    "whatsnew"
   ],
   "7.lane": [
     "fitness"
@@ -1149,6 +3120,15 @@
     "indices",
     "multicolor"
   ],
+  "7.square.fill.hi": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "7.square.hi": [
+    "indices",
+    "whatsnew"
+  ],
   "8.circle": [
     "indices"
   ],
@@ -1162,6 +3142,15 @@
   "8.circle.fill.ar": [
     "indices",
     "multicolor"
+  ],
+  "8.circle.fill.hi": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "8.circle.hi": [
+    "indices",
+    "whatsnew"
   ],
   "8.lane": [
     "fitness"
@@ -1185,6 +3174,15 @@
   "8.square.fill.ar": [
     "indices",
     "multicolor"
+  ],
+  "8.square.fill.hi": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "8.square.hi": [
+    "indices",
+    "whatsnew"
   ],
   "9.alt.circle": [
     "indices"
@@ -1214,6 +3212,15 @@
     "indices",
     "multicolor"
   ],
+  "9.circle.fill.hi": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "9.circle.hi": [
+    "indices",
+    "whatsnew"
+  ],
   "9.lane": [
     "fitness"
   ],
@@ -1236,6 +3243,15 @@
   "9.square.fill.ar": [
     "indices",
     "multicolor"
+  ],
+  "9.square.fill.hi": [
+    "indices",
+    "multicolor",
+    "whatsnew"
+  ],
+  "9.square.hi": [
+    "indices",
+    "whatsnew"
   ],
   "a.circle": [
     "gaming",
@@ -6207,8 +8223,16 @@
   "chevron.backward.to.line": [
     "keyboard"
   ],
+  "chevron.compact.backward": [
+    "arrows",
+    "whatsnew"
+  ],
   "chevron.compact.down": [
     "arrows"
+  ],
+  "chevron.compact.forward": [
+    "arrows",
+    "whatsnew"
   ],
   "chevron.compact.left": [
     "arrows"
@@ -14212,6 +16236,7 @@
   ],
   "pencil.tip.crop.circle.fill": [
     "editing",
+    "multicolor",
     "objectsandtools",
     "whatsnew"
   ],
@@ -14260,7 +16285,8 @@
     "human"
   ],
   "person.2.crop.square.stack.fill": [
-    "human"
+    "human",
+    "multicolor"
   ],
   "person.2.fill": [
     "human"
@@ -14484,19 +16510,38 @@
     "multicolor"
   ],
   "person.crop.rectangle.fill": [
-    "human"
+    "human",
+    "multicolor"
   ],
   "person.crop.rectangle.stack": [
     "human"
   ],
   "person.crop.rectangle.stack.fill": [
-    "human"
+    "human",
+    "multicolor"
   ],
   "person.crop.square": [
     "human"
   ],
+  "person.crop.square.badge.camera": [
+    "human",
+    "whatsnew"
+  ],
+  "person.crop.square.badge.camera.fill": [
+    "human",
+    "whatsnew"
+  ],
+  "person.crop.square.badge.video": [
+    "human",
+    "whatsnew"
+  ],
+  "person.crop.square.badge.video.fill": [
+    "human",
+    "whatsnew"
+  ],
   "person.crop.square.fill": [
-    "human"
+    "human",
+    "multicolor"
   ],
   "person.crop.square.filled.and.at.rectangle": [
     "human"
@@ -17089,6 +19134,14 @@
   ],
   "square.3.layers.3d.top.filled": [
     "cameraandphotos"
+  ],
+  "square.and.arrow.up.badge.clock": [
+    "multicolor",
+    "whatsnew"
+  ],
+  "square.and.arrow.up.badge.clock.fill": [
+    "multicolor",
+    "whatsnew"
   ],
   "square.and.arrow.up.circle.fill": [
     "multicolor"

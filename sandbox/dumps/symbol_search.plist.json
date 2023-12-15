@@ -6165,6 +6165,18 @@
   "person.crop.square": [
     "people"
   ],
+  "person.crop.square.badge.camera": [
+    "people"
+  ],
+  "person.crop.square.badge.camera.fill": [
+    "people"
+  ],
+  "person.crop.square.badge.video": [
+    "people"
+  ],
+  "person.crop.square.badge.video.fill": [
+    "people"
+  ],
   "person.crop.square.fill": [
     "people"
   ],
@@ -7862,6 +7874,18 @@
     "save"
   ],
   "square.and.arrow.up": [
+    "export",
+    "share",
+    "sharrow",
+    "upload"
+  ],
+  "square.and.arrow.up.badge.clock": [
+    "export",
+    "share",
+    "sharrow",
+    "upload"
+  ],
+  "square.and.arrow.up.badge.clock.fill": [
     "export",
     "share",
     "sharrow",
