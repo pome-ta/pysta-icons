@@ -1,5 +1,9 @@
 # 📝 2023/12/21
 
+[「Discover icons | SF Symbols」をApp Storeで](https://apps.apple.com/jp/app/discover-icons-sf-symbols/id1612099568)
+
+こんなのあって草
+
 ## macOS のapp に近づける
 
 1. `categories.plist` で一覧出す
