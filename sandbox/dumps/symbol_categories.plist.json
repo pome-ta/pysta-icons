@@ -3559,8 +3559,30 @@
   "app.fill": [
     "shapes"
   ],
+  "apple.meditate": [
+    "health",
+    "nature",
+    "whatsnew"
+  ],
+  "apple.meditate.square.stack": [
+    "health",
+    "nature",
+    "whatsnew"
+  ],
+  "apple.meditate.square.stack.fill": [
+    "health",
+    "nature",
+    "whatsnew"
+  ],
   "apple.terminal": [
     "multicolor"
+  ],
+  "apple.terminal.circle": [
+    "whatsnew"
+  ],
+  "apple.terminal.circle.fill": [
+    "multicolor",
+    "whatsnew"
   ],
   "apple.terminal.fill": [
     "multicolor"
@@ -3861,6 +3883,13 @@
   ],
   "arrow.down.app": [
     "arrows"
+  ],
+  "arrow.down.app.dashed": [
+    "whatsnew"
+  ],
+  "arrow.down.app.dashed.trianglebadge.exclamationmark": [
+    "multicolor",
+    "whatsnew"
   ],
   "arrow.down.app.fill": [
     "arrows",
@@ -5392,6 +5421,14 @@
   ],
   "atom": [
     "nature"
+  ],
+  "audio.jack.mono": [
+    "devices",
+    "whatsnew"
+  ],
+  "audio.jack.stereo": [
+    "devices",
+    "whatsnew"
   ],
   "australiandollarsign": [
     "commerce",
@@ -13309,6 +13346,11 @@
   "ipad.and.iphone.slash": [
     "devices"
   ],
+  "ipad.badge.exclamationmark": [
+    "devices",
+    "multicolor",
+    "whatsnew"
+  ],
   "ipad.badge.play": [
     "devices",
     "multicolor"
@@ -13324,12 +13366,22 @@
   "ipad.gen1": [
     "devices"
   ],
+  "ipad.gen1.badge.exclamationmark": [
+    "devices",
+    "multicolor",
+    "whatsnew"
+  ],
   "ipad.gen1.badge.play": [
     "devices",
     "multicolor"
   ],
   "ipad.gen1.landscape": [
     "devices"
+  ],
+  "ipad.gen1.landscape.badge.exclamationmark": [
+    "devices",
+    "multicolor",
+    "whatsnew"
   ],
   "ipad.gen1.landscape.badge.play": [
     "devices",
@@ -13338,6 +13390,11 @@
   "ipad.gen2": [
     "devices"
   ],
+  "ipad.gen2.badge.exclamationmark": [
+    "devices",
+    "multicolor",
+    "whatsnew"
+  ],
   "ipad.gen2.badge.play": [
     "devices",
     "multicolor"
@@ -13345,12 +13402,22 @@
   "ipad.gen2.landscape": [
     "devices"
   ],
+  "ipad.gen2.landscape.badge.exclamationmark": [
+    "devices",
+    "multicolor",
+    "whatsnew"
+  ],
   "ipad.gen2.landscape.badge.play": [
     "devices",
     "multicolor"
   ],
   "ipad.landscape": [
     "devices"
+  ],
+  "ipad.landscape.badge.exclamationmark": [
+    "devices",
+    "multicolor",
+    "whatsnew"
   ],
   "ipad.landscape.badge.play": [
     "devices",
@@ -13374,6 +13441,11 @@
     "devices",
     "whatsnew"
   ],
+  "iphone.badge.exclamationmark": [
+    "devices",
+    "multicolor",
+    "whatsnew"
+  ],
   "iphone.badge.play": [
     "devices",
     "multicolor"
@@ -13391,6 +13463,11 @@
   ],
   "iphone.gen1": [
     "devices"
+  ],
+  "iphone.gen1.badge.exclamationmark": [
+    "devices",
+    "multicolor",
+    "whatsnew"
   ],
   "iphone.gen1.badge.play": [
     "devices",
@@ -13432,6 +13509,11 @@
   "iphone.gen2": [
     "devices"
   ],
+  "iphone.gen2.badge.exclamationmark": [
+    "devices",
+    "multicolor",
+    "whatsnew"
+  ],
   "iphone.gen2.badge.play": [
     "devices",
     "multicolor"
@@ -13471,6 +13553,11 @@
   ],
   "iphone.gen3": [
     "devices"
+  ],
+  "iphone.gen3.badge.exclamationmark": [
+    "devices",
+    "multicolor",
+    "whatsnew"
   ],
   "iphone.gen3.badge.play": [
     "devices",
@@ -15083,6 +15170,14 @@
   "medal.fill": [
     "fitness",
     "objectsandtools"
+  ],
+  "medal.star": [
+    "objectsandtools",
+    "whatsnew"
+  ],
+  "medal.star.fill": [
+    "objectsandtools",
+    "whatsnew"
   ],
   "mediastick": [
     "devices"
@@ -17099,6 +17194,9 @@
     "gaming",
     "math",
     "multicolor"
+  ],
+  "plus.circle.dashed": [
+    "whatsnew"
   ],
   "plus.circle.fill": [
     "gaming",
@@ -20594,6 +20692,10 @@
   ],
   "tram.fill.tunnel": [
     "transportation"
+  ],
+  "translate": [
+    "communication",
+    "whatsnew"
   ],
   "transmission": [
     "automotive"

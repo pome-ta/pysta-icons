@@ -398,6 +398,15 @@
     "activities",
     "path"
   ],
+  "apple.meditate": [
+    "medical"
+  ],
+  "apple.meditate.square.stack": [
+    "medical"
+  ],
+  "apple.meditate.square.stack.fill": [
+    "medical"
+  ],
   "applewatch.slash": [
     "remove"
   ],
