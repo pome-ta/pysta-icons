@@ -1,3 +1,18 @@
+# 📝 2024/07/30
+
+## iOS 17.5
+
+```
+symbol_categories.plist: 5671
+symbol_search.plist: 2250
+legacy_flippable.plist: 75
+name_availability.plist: 2
+Info.plist: 22
+categories.plist: 31
+symbol_order.plist: 6176
+```
+
+
 # 📝 2023/12/21
 
 [「Discover icons | SF Symbols」をApp Storeで](https://apps.apple.com/jp/app/discover-icons-sf-symbols/id1612099568)
