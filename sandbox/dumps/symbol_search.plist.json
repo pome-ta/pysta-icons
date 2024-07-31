@@ -1153,6 +1153,16 @@
     "sound",
     "speaker"
   ],
+  "beats.pill": [
+    "audio",
+    "sound",
+    "speaker"
+  ],
+  "beats.pill.fill": [
+    "audio",
+    "sound",
+    "speaker"
+  ],
   "beats.powerbeats": [
     "audio",
     "sound",
@@ -1200,6 +1210,31 @@
     "speaker"
   ],
   "beats.powerbeatspro.right": [
+    "audio",
+    "sound",
+    "speaker"
+  ],
+  "beats.solobuds": [
+    "audio",
+    "sound",
+    "speaker"
+  ],
+  "beats.solobuds.chargingcase": [
+    "audio",
+    "sound",
+    "speaker"
+  ],
+  "beats.solobuds.chargingcase.fill": [
+    "audio",
+    "sound",
+    "speaker"
+  ],
+  "beats.solobuds.left": [
+    "audio",
+    "sound",
+    "speaker"
+  ],
+  "beats.solobuds.right": [
     "audio",
     "sound",
     "speaker"

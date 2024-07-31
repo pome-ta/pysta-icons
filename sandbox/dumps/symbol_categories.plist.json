@@ -5880,6 +5880,14 @@
     "devices",
     "objectsandtools"
   ],
+  "beats.pill": [
+    "devices",
+    "whatsnew"
+  ],
+  "beats.pill.fill": [
+    "devices",
+    "whatsnew"
+  ],
   "beats.powerbeats": [
     "devices"
   ],
@@ -5912,6 +5920,26 @@
   ],
   "beats.powerbeatspro.right": [
     "devices"
+  ],
+  "beats.solobuds": [
+    "devices",
+    "whatsnew"
+  ],
+  "beats.solobuds.chargingcase": [
+    "devices",
+    "whatsnew"
+  ],
+  "beats.solobuds.chargingcase.fill": [
+    "devices",
+    "whatsnew"
+  ],
+  "beats.solobuds.left": [
+    "devices",
+    "whatsnew"
+  ],
+  "beats.solobuds.right": [
+    "devices",
+    "whatsnew"
   ],
   "beats.studiobud.left": [
     "devices"

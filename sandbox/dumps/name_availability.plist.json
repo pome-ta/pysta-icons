@@ -1589,6 +1589,8 @@
     "beats.fitpro.left": "2023",
     "beats.fitpro.right": "2023",
     "beats.headphones": "2021",
+    "beats.pill": "2023.4",
+    "beats.pill.fill": "2023.4",
     "beats.powerbeats": "2021",
     "beats.powerbeats.left": "2022.2",
     "beats.powerbeats.right": "2022.2",
@@ -1600,6 +1602,11 @@
     "beats.powerbeatspro.chargingcase.fill": "2021",
     "beats.powerbeatspro.left": "2021",
     "beats.powerbeatspro.right": "2021",
+    "beats.solobuds": "2023.4",
+    "beats.solobuds.chargingcase": "2023.4",
+    "beats.solobuds.chargingcase.fill": "2023.4",
+    "beats.solobuds.left": "2023.4",
+    "beats.solobuds.right": "2023.4",
     "beats.studiobud.left": "2021",
     "beats.studiobud.right": "2021",
     "beats.studiobuds": "2021",
@@ -6690,6 +6697,13 @@
       "tvOS": "17.4",
       "visionOS": "1.1",
       "watchOS": "10.4"
+    },
+    "2023.4": {
+      "iOS": "17.6",
+      "macOS": "14.6",
+      "tvOS": "17.6",
+      "visionOS": "1.3",
+      "watchOS": "10.6"
     }
   }
 }
