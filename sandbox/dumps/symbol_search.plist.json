@@ -166,10 +166,10 @@
     "human",
     "person"
   ],
-  "airplayaudio.badge.exclamationmark": [
+  "airplay.audio.badge.exclamationmark": [
     "warning"
   ],
-  "airplayvideo.badge.exclamationmark": [
+  "airplay.video.badge.exclamationmark": [
     "warning"
   ],
   "airpod.gen3.left": [
@@ -188,16 +188,6 @@
     "speaker"
   ],
   "airpod.right": [
-    "audio",
-    "sound",
-    "speaker"
-  ],
-  "airpodpro.left": [
-    "audio",
-    "sound",
-    "speaker"
-  ],
-  "airpodpro.right": [
     "audio",
     "sound",
     "speaker"
@@ -230,27 +220,37 @@
   "airpods.gen3.chargingcase.wireless.fill": [
     "audio"
   ],
-  "airpodsmax": [
+  "airpods.max": [
     "audio",
     "sound",
     "speaker"
   ],
-  "airpodspro": [
+  "airpods.pro": [
     "audio",
     "sound",
     "speaker"
   ],
-  "airpodspro.chargingcase.wireless": [
+  "airpods.pro.chargingcase.wireless": [
     "audio"
   ],
-  "airpodspro.chargingcase.wireless.fill": [
+  "airpods.pro.chargingcase.wireless.fill": [
     "audio"
   ],
-  "airpodspro.chargingcase.wireless.radiowaves.left.and.right": [
+  "airpods.pro.chargingcase.wireless.radiowaves.left.and.right": [
     "audio"
   ],
-  "airpodspro.chargingcase.wireless.radiowaves.left.and.right.fill": [
+  "airpods.pro.chargingcase.wireless.radiowaves.left.and.right.fill": [
     "audio"
+  ],
+  "airpods.pro.left": [
+    "audio",
+    "sound",
+    "speaker"
+  ],
+  "airpods.pro.right": [
+    "audio",
+    "sound",
+    "speaker"
   ],
   "airport.extreme": [
     "time capsule"
@@ -351,6 +351,30 @@
     "medical",
     "virus"
   ],
+  "american.football": [
+    "sports"
+  ],
+  "american.football.circle": [
+    "sports"
+  ],
+  "american.football.circle.fill": [
+    "sports"
+  ],
+  "american.football.fill": [
+    "sports"
+  ],
+  "american.football.professional": [
+    "sports"
+  ],
+  "american.football.professional.circle": [
+    "sports"
+  ],
+  "american.football.professional.circle.fill": [
+    "sports"
+  ],
+  "american.football.professional.fill": [
+    "sports"
+  ],
   "ant": [
     "animals",
     "bug",
@@ -388,6 +412,16 @@
     "lte",
     "remove"
   ],
+  "antenna.radiowaves.left.and.right.slash.circle": [
+    "cellular",
+    "lte",
+    "remove"
+  ],
+  "antenna.radiowaves.left.and.right.slash.circle.fill": [
+    "cellular",
+    "lte",
+    "remove"
+  ],
   "app.badge": [
     "notification"
   ],
@@ -398,14 +432,11 @@
     "activities",
     "path"
   ],
-  "apple.meditate": [
-    "medical"
+  "apple.image.playground": [
+    "sparkles"
   ],
-  "apple.meditate.square.stack": [
-    "medical"
-  ],
-  "apple.meditate.square.stack.fill": [
-    "medical"
+  "apple.image.playground.fill": [
+    "sparkles"
   ],
   "applewatch.slash": [
     "remove"
@@ -436,7 +467,7 @@
     "horizontal",
     "tilt"
   ],
-  "arcade.stick.and.arrow.left.and.arrow.right": [
+  "arcade.stick.and.arrow.left.and.arrow.right.outward": [
     "horizontal",
     "tilt"
   ],
@@ -475,6 +506,9 @@
   "arrow.backward.circle": [
     "left"
   ],
+  "arrow.backward.circle.dotted": [
+    "left"
+  ],
   "arrow.backward.circle.fill": [
     "left"
   ],
@@ -503,6 +537,21 @@
   "arrow.clockwise.square.fill": [
     "refresh"
   ],
+  "arrow.counterclockwise": [
+    "revert"
+  ],
+  "arrow.counterclockwise.circle": [
+    "revert"
+  ],
+  "arrow.counterclockwise.circle.fill": [
+    "revert"
+  ],
+  "arrow.counterclockwise.square": [
+    "revert"
+  ],
+  "arrow.counterclockwise.square.fill": [
+    "revert"
+  ],
   "arrow.down": [
     "download",
     "downloads"
@@ -514,6 +563,9 @@
     "left"
   ],
   "arrow.down.backward.circle": [
+    "left"
+  ],
+  "arrow.down.backward.circle.dotted": [
     "left"
   ],
   "arrow.down.backward.circle.fill": [
@@ -541,6 +593,9 @@
     "right"
   ],
   "arrow.down.forward.circle": [
+    "right"
+  ],
+  "arrow.down.forward.circle.dotted": [
     "right"
   ],
   "arrow.down.forward.circle.fill": [
@@ -583,6 +638,9 @@
   "arrow.forward.circle": [
     "right"
   ],
+  "arrow.forward.circle.dotted": [
+    "right"
+  ],
   "arrow.forward.circle.fill": [
     "right"
   ],
@@ -599,12 +657,6 @@
   "arrow.left.and.line.vertical.and.arrow.right": [
     "middle"
   ],
-  "arrow.left.and.right.righttriangle.left.righttriangle.right": [
-    "flip horizontal"
-  ],
-  "arrow.left.and.right.righttriangle.left.righttriangle.right.fill": [
-    "flip horizontal"
-  ],
   "arrow.left.and.right.text.vertical": [
     "line spacing"
   ],
@@ -619,7 +671,7 @@
   "arrow.right.and.line.vertical.and.arrow.left": [
     "middle"
   ],
-  "arrow.right.doc.on.clipboard": [
+  "arrow.right.page.on.clipboard": [
     "clipboard",
     "pasteboard"
   ],
@@ -631,33 +683,51 @@
     "indent",
     "tab"
   ],
-  "arrow.triangle.2.circlepath": [
+  "arrow.trianglehead.2.clockwise.rotate.90": [
     "sync",
     "syncing"
   ],
-  "arrow.triangle.2.circlepath.circle": [
+  "arrow.trianglehead.2.clockwise.rotate.90.circle": [
     "sync",
     "syncing"
   ],
-  "arrow.triangle.2.circlepath.circle.fill": [
+  "arrow.trianglehead.2.clockwise.rotate.90.circle.fill": [
     "sync",
     "syncing"
   ],
-  "arrow.triangle.2.circlepath.doc.on.clipboard": [
+  "arrow.trianglehead.2.clockwise.rotate.90.page.on.clipboard": [
     "clipboard",
     "pasteboard"
   ],
-  "arrow.triangle.turn.up.right.circle": [
+  "arrow.trianglehead.clockwise.rotate.90": [
+    "time",
+    "time machine",
+    "timemachine",
+    "warning"
+  ],
+  "arrow.trianglehead.left.and.right.righttriangle.left.righttriangle.right": [
+    "flip horizontal"
+  ],
+  "arrow.trianglehead.left.and.right.righttriangle.left.righttriangle.right.fill": [
+    "flip horizontal"
+  ],
+  "arrow.trianglehead.turn.up.right.circle": [
     "directions"
   ],
-  "arrow.triangle.turn.up.right.circle.fill": [
+  "arrow.trianglehead.turn.up.right.circle.fill": [
     "directions"
   ],
-  "arrow.triangle.turn.up.right.diamond": [
+  "arrow.trianglehead.turn.up.right.diamond": [
     "directions"
   ],
-  "arrow.triangle.turn.up.right.diamond.fill": [
+  "arrow.trianglehead.turn.up.right.diamond.fill": [
     "directions"
+  ],
+  "arrow.trianglehead.up.and.down.righttriangle.up.righttriangle.down": [
+    "flip vertical"
+  ],
+  "arrow.trianglehead.up.and.down.righttriangle.up.righttriangle.down.fill": [
+    "flip vertical"
   ],
   "arrow.turn.up.forward.iphone": [
     "pickups"
@@ -665,19 +735,10 @@
   "arrow.turn.up.forward.iphone.fill": [
     "pickups"
   ],
-  "arrow.up": [
-    "send"
-  ],
   "arrow.up.and.down.and.arrow.left.and.right": [
     "cardinal",
     "directions",
     "move"
-  ],
-  "arrow.up.and.down.righttriangle.up.righttriangle.down": [
-    "flip vertical"
-  ],
-  "arrow.up.and.down.righttriangle.up.righttriangle.down.fill": [
-    "flip vertical"
   ],
   "arrow.up.and.down.text.horizontal": [
     "line spacing"
@@ -700,6 +761,9 @@
   "arrow.up.backward.circle": [
     "left"
   ],
+  "arrow.up.backward.circle.dotted": [
+    "left"
+  ],
   "arrow.up.backward.circle.fill": [
     "left"
   ],
@@ -715,20 +779,13 @@
   "arrow.up.bin.fill": [
     "mail"
   ],
-  "arrow.up.circle": [
-    "send"
-  ],
-  "arrow.up.circle.fill": [
-    "send"
-  ],
-  "arrow.up.doc.on.clipboard": [
-    "clipboard",
-    "pasteboard"
-  ],
   "arrow.up.forward": [
     "right"
   ],
   "arrow.up.forward.circle": [
+    "right"
+  ],
+  "arrow.up.forward.circle.dotted": [
     "right"
   ],
   "arrow.up.forward.circle.fill": [
@@ -754,6 +811,10 @@
   "arrow.up.left.and.down.right.magnifyingglass": [
     "search"
   ],
+  "arrow.up.page.on.clipboard": [
+    "clipboard",
+    "pasteboard"
+  ],
   "arrow.up.right.and.arrow.down.left.rectangle": [
     "conversations"
   ],
@@ -765,12 +826,6 @@
   ],
   "arrow.up.right.video.fill": [
     "facetime"
-  ],
-  "arrow.up.square": [
-    "send"
-  ],
-  "arrow.up.square.fill": [
-    "send"
   ],
   "arrow.up.to.line": [
     "home"
@@ -957,11 +1012,31 @@
   "atom": [
     "science"
   ],
+  "australian.football": [
+    "sports"
+  ],
+  "australian.football.circle": [
+    "sports"
+  ],
+  "australian.football.circle.fill": [
+    "sports"
+  ],
+  "australian.football.fill": [
+    "sports"
+  ],
   "australiandollarsign": [
     "currencies",
     "currency"
   ],
-  "australiandollarsign.arrow.circlepath": [
+  "australiandollarsign.arrow.trianglehead.counterclockwise.rotate.90": [
+    "currencies",
+    "currency"
+  ],
+  "australiandollarsign.bank.building": [
+    "currencies",
+    "currency"
+  ],
+  "australiandollarsign.bank.building.fill": [
     "currencies",
     "currency"
   ],
@@ -985,7 +1060,15 @@
     "currencies",
     "currency"
   ],
-  "australsign.arrow.circlepath": [
+  "australsign.arrow.trianglehead.counterclockwise.rotate.90": [
+    "currencies",
+    "currency"
+  ],
+  "australsign.bank.building": [
+    "currencies",
+    "currency"
+  ],
+  "australsign.bank.building.fill": [
     "currencies",
     "currency"
   ],
@@ -1046,7 +1129,15 @@
     "currencies",
     "currency"
   ],
-  "bahtsign.arrow.circlepath": [
+  "bahtsign.arrow.trianglehead.counterclockwise.rotate.90": [
+    "currencies",
+    "currency"
+  ],
+  "bahtsign.bank.building": [
+    "currencies",
+    "currency"
+  ],
+  "bahtsign.bank.building.fill": [
     "currencies",
     "currency"
   ],
@@ -1101,6 +1192,9 @@
     "sports"
   ],
   "baseball.diamond.bases": [
+    "sports"
+  ],
+  "baseball.diamond.bases.outs.indicator": [
     "sports"
   ],
   "baseball.fill": [
@@ -1173,6 +1267,27 @@
     "sound",
     "speaker"
   ],
+  "beats.powerbeats.pro": [
+    "audio",
+    "sound",
+    "speaker"
+  ],
+  "beats.powerbeats.pro.chargingcase": [
+    "audio"
+  ],
+  "beats.powerbeats.pro.chargingcase.fill": [
+    "audio"
+  ],
+  "beats.powerbeats.pro.left": [
+    "audio",
+    "sound",
+    "speaker"
+  ],
+  "beats.powerbeats.pro.right": [
+    "audio",
+    "sound",
+    "speaker"
+  ],
   "beats.powerbeats.right": [
     "audio",
     "sound",
@@ -1189,27 +1304,6 @@
     "speaker"
   ],
   "beats.powerbeats3.right": [
-    "audio",
-    "sound",
-    "speaker"
-  ],
-  "beats.powerbeatspro": [
-    "audio",
-    "sound",
-    "speaker"
-  ],
-  "beats.powerbeatspro.chargingcase": [
-    "audio"
-  ],
-  "beats.powerbeatspro.chargingcase.fill": [
-    "audio"
-  ],
-  "beats.powerbeatspro.left": [
-    "audio",
-    "sound",
-    "speaker"
-  ],
-  "beats.powerbeatspro.right": [
     "audio",
     "sound",
     "speaker"
@@ -1239,16 +1333,6 @@
     "sound",
     "speaker"
   ],
-  "beats.studiobud.left": [
-    "audio",
-    "sound",
-    "speaker"
-  ],
-  "beats.studiobud.right": [
-    "audio",
-    "sound",
-    "speaker"
-  ],
   "beats.studiobuds": [
     "audio",
     "sound",
@@ -1264,27 +1348,37 @@
     "sound",
     "speaker"
   ],
-  "beats.studiobudsplus": [
+  "beats.studiobuds.left": [
     "audio",
     "sound",
     "speaker"
   ],
-  "beats.studiobudsplus.chargingcase": [
+  "beats.studiobuds.plus": [
     "audio",
     "sound",
     "speaker"
   ],
-  "beats.studiobudsplus.chargingcase.fill": [
+  "beats.studiobuds.plus.chargingcase": [
     "audio",
     "sound",
     "speaker"
   ],
-  "beats.studiobudsplus.left": [
+  "beats.studiobuds.plus.chargingcase.fill": [
     "audio",
     "sound",
     "speaker"
   ],
-  "beats.studiobudsplus.right": [
+  "beats.studiobuds.plus.left": [
+    "audio",
+    "sound",
+    "speaker"
+  ],
+  "beats.studiobuds.plus.right": [
+    "audio",
+    "sound",
+    "speaker"
+  ],
+  "beats.studiobuds.right": [
     "audio",
     "sound",
     "speaker"
@@ -1370,19 +1464,25 @@
   ],
   "birthday.cake": [
     "baking",
-    "drink",
     "food"
   ],
   "birthday.cake.fill": [
     "baking",
-    "drink",
     "food"
   ],
   "bitcoinsign": [
     "currencies",
     "currency"
   ],
-  "bitcoinsign.arrow.circlepath": [
+  "bitcoinsign.arrow.trianglehead.counterclockwise.rotate.90": [
+    "currencies",
+    "currency"
+  ],
+  "bitcoinsign.bank.building": [
+    "currencies",
+    "currency"
+  ],
+  "bitcoinsign.bank.building.fill": [
     "currencies",
     "currency"
   ],
@@ -1523,7 +1623,15 @@
     "currencies",
     "currency"
   ],
-  "brazilianrealsign.arrow.circlepath": [
+  "brazilianrealsign.arrow.trianglehead.counterclockwise.rotate.90": [
+    "currencies",
+    "currency"
+  ],
+  "brazilianrealsign.bank.building": [
+    "currencies",
+    "currency"
+  ],
+  "brazilianrealsign.bank.building.fill": [
     "currencies",
     "currency"
   ],
@@ -1542,6 +1650,14 @@
   "brazilianrealsign.square.fill": [
     "currencies",
     "currency"
+  ],
+  "bubble.and.pencil": [
+    "write",
+    "writing"
+  ],
+  "bubble.and.pencil.rtl": [
+    "write",
+    "writing"
   ],
   "bubble.left.and.exclamationmark.bubble.right": [
     "!",
@@ -1580,6 +1696,10 @@
   "calendar": [
     "calendar",
     "date"
+  ],
+  "calendar.and.person": [
+    "date",
+    "date of birth"
   ],
   "calendar.badge.checkmark": [
     "date"
@@ -1642,6 +1762,15 @@
   "camera.macro.circle.fill": [
     "macro"
   ],
+  "camera.macro.slash": [
+    "macro"
+  ],
+  "camera.macro.slash.circle": [
+    "macro"
+  ],
+  "camera.macro.slash.circle.fill": [
+    "macro"
+  ],
   "car.rear.and.tire.marks": [
     "traction",
     "traction control"
@@ -1654,6 +1783,12 @@
     "!",
     "warning"
   ],
+  "car.side.hill.descent.control": [
+    "DSR"
+  ],
+  "car.side.hill.descent.control.fill": [
+    "DSR"
+  ],
   "car.side.lock": [
     "padlock"
   ],
@@ -1661,10 +1796,12 @@
     "padlock"
   ],
   "car.side.lock.open": [
-    "padlock"
+    "padlock",
+    "unlock"
   ],
   "car.side.lock.open.fill": [
-    "padlock"
+    "padlock",
+    "unlock"
   ],
   "car.side.rear.and.exclamationmark.and.car.side.front": [
     "!",
@@ -1699,11 +1836,9 @@
     "co"
   ],
   "carrot": [
-    "drink",
     "food"
   ],
   "carrot.fill": [
-    "drink",
     "food"
   ],
   "cart.badge.minus": [
@@ -1734,7 +1869,15 @@
     "currencies",
     "currency"
   ],
-  "cedisign.arrow.circlepath": [
+  "cedisign.arrow.trianglehead.counterclockwise.rotate.90": [
+    "currencies",
+    "currency"
+  ],
+  "cedisign.bank.building": [
+    "currencies",
+    "currency"
+  ],
+  "cedisign.bank.building.fill": [
     "currencies",
     "currency"
   ],
@@ -1758,7 +1901,15 @@
     "currencies",
     "currency"
   ],
-  "centsign.arrow.circlepath": [
+  "centsign.arrow.trianglehead.counterclockwise.rotate.90": [
+    "currencies",
+    "currency"
+  ],
+  "centsign.bank.building": [
+    "currencies",
+    "currency"
+  ],
+  "centsign.bank.building.fill": [
     "currencies",
     "currency"
   ],
@@ -1841,14 +1992,32 @@
   "character.bubble.fill": [
     "a"
   ],
+  "character.circle": [
+    "a"
+  ],
+  "character.circle.fill": [
+    "a"
+  ],
   "character.cursor.ibeam": [
     "a"
   ],
   "character.magnify": [
     "a"
   ],
+  "character.square": [
+    "a"
+  ],
+  "character.square.fill": [
+    "a"
+  ],
   "character.textbox": [
     "a"
+  ],
+  "chart.line.text.clipboard": [
+    "notes"
+  ],
+  "chart.line.text.clipboard.fill": [
+    "notes"
   ],
   "checkmark.circle": [
     "select"
@@ -1869,6 +2038,9 @@
     "left"
   ],
   "chevron.backward.2": [
+    "left"
+  ],
+  "chevron.backward.chevron.backward.dotted": [
     "left"
   ],
   "chevron.backward.circle": [
@@ -1895,6 +2067,9 @@
   "chevron.forward.circle.fill": [
     "right"
   ],
+  "chevron.forward.dotted.chevron.forward": [
+    "right"
+  ],
   "chevron.forward.square": [
     "right"
   ],
@@ -1905,7 +2080,15 @@
     "currencies",
     "currency"
   ],
-  "chineseyuanrenminbisign.arrow.circlepath": [
+  "chineseyuanrenminbisign.arrow.trianglehead.counterclockwise.rotate.90": [
+    "currencies",
+    "currency"
+  ],
+  "chineseyuanrenminbisign.bank.building": [
+    "currencies",
+    "currency"
+  ],
+  "chineseyuanrenminbisign.bank.building.fill": [
     "currencies",
     "currency"
   ],
@@ -1925,7 +2108,7 @@
     "currencies",
     "currency"
   ],
-  "circle.bottomrighthalf.checkered": [
+  "circle.bottomrighthalf.pattern.checkered": [
     "edit",
     "noise reduction"
   ],
@@ -1939,10 +2122,6 @@
   "circle.dotted.circle.fill": [
     "edit",
     "vignette"
-  ],
-  "circle.inset.filled": [
-    "completed",
-    "task"
   ],
   "circle.lefthalf.filled.righthalf.striped.horizontal": [
     "edit",
@@ -1964,13 +2143,13 @@
     "history",
     "recent"
   ],
-  "clock.arrow.2.circlepath": [
+  "clock.arrow.trianglehead.2.counterclockwise.rotate.90": [
     "sync",
     "time",
     "time machine",
     "timemachine"
   ],
-  "clock.arrow.circlepath": [
+  "clock.arrow.trianglehead.counterclockwise.rotate.90": [
     "time",
     "time machine",
     "timemachine"
@@ -2119,10 +2298,10 @@
   "cloud.rain.fill": [
     "weather"
   ],
-  "cloud.rainbow.half": [
+  "cloud.rainbow.crop": [
     "weather"
   ],
-  "cloud.rainbow.half.fill": [
+  "cloud.rainbow.crop.fill": [
     "weather"
   ],
   "cloud.sleet": [
@@ -2189,7 +2368,15 @@
     "currencies",
     "currency"
   ],
-  "coloncurrencysign.arrow.circlepath": [
+  "coloncurrencysign.arrow.trianglehead.counterclockwise.rotate.90": [
+    "currencies",
+    "currency"
+  ],
+  "coloncurrencysign.bank.building": [
+    "currencies",
+    "currency"
+  ],
+  "coloncurrencysign.bank.building.fill": [
     "currencies",
     "currency"
   ],
@@ -2208,6 +2395,26 @@
   "coloncurrencysign.square.fill": [
     "currencies",
     "currency"
+  ],
+  "convertible.side.hill.descent.control": [
+    "DSR"
+  ],
+  "convertible.side.hill.descent.control.fill": [
+    "DSR"
+  ],
+  "convertible.side.lock": [
+    "padlock"
+  ],
+  "convertible.side.lock.fill": [
+    "padlock"
+  ],
+  "convertible.side.lock.open": [
+    "padlock",
+    "unlock"
+  ],
+  "convertible.side.lock.open.fill": [
+    "padlock",
+    "unlock"
   ],
   "cpu": [
     "chip",
@@ -2287,7 +2494,15 @@
     "currencies",
     "currency"
   ],
-  "cruzeirosign.arrow.circlepath": [
+  "cruzeirosign.arrow.trianglehead.counterclockwise.rotate.90": [
+    "currencies",
+    "currency"
+  ],
+  "cruzeirosign.bank.building": [
+    "currencies",
+    "currency"
+  ],
+  "cruzeirosign.bank.building.fill": [
     "currencies",
     "currency"
   ],
@@ -2307,16 +2522,26 @@
     "currencies",
     "currency"
   ],
+  "cup.and.heat.waves": [
+    "coffee",
+    "drink",
+    "steam",
+    "tea"
+  ],
+  "cup.and.heat.waves.fill": [
+    "coffee",
+    "drink",
+    "steam",
+    "tea"
+  ],
   "cup.and.saucer": [
     "coffee",
     "drink",
-    "food",
     "tea"
   ],
   "cup.and.saucer.fill": [
     "coffee",
     "drink",
-    "food",
     "tea"
   ],
   "cursorarrow.rays": [
@@ -2326,7 +2551,15 @@
     "currencies",
     "currency"
   ],
-  "danishkronesign.arrow.circlepath": [
+  "danishkronesign.arrow.trianglehead.counterclockwise.rotate.90": [
+    "currencies",
+    "currency"
+  ],
+  "danishkronesign.bank.building": [
+    "currencies",
+    "currency"
+  ],
+  "danishkronesign.bank.building.fill": [
     "currencies",
     "currency"
   ],
@@ -2345,6 +2578,12 @@
   "danishkronesign.square.fill": [
     "currencies",
     "currency"
+  ],
+  "degreesign.celsius": [
+    "weather"
+  ],
+  "degreesign.fahrenheit": [
+    "weather"
   ],
   "delete.backward": [
     "delete"
@@ -2373,11 +2612,19 @@
   "display.trianglebadge.exclamationmark": [
     "warning"
   ],
+  "distribute.horizontal": [
+    "rectangle",
+    "shape"
+  ],
   "distribute.horizontal.center": [
     "rectangle",
     "shape"
   ],
   "distribute.horizontal.center.fill": [
+    "rectangle",
+    "shape"
+  ],
+  "distribute.horizontal.fill": [
     "rectangle",
     "shape"
   ],
@@ -2397,6 +2644,10 @@
     "rectangle",
     "shape"
   ],
+  "distribute.vertical": [
+    "rectangle",
+    "shape"
+  ],
   "distribute.vertical.bottom": [
     "rectangle",
     "shape"
@@ -2410,6 +2661,10 @@
     "shape"
   ],
   "distribute.vertical.center.fill": [
+    "rectangle",
+    "shape"
+  ],
+  "distribute.vertical.fill": [
     "rectangle",
     "shape"
   ],
@@ -2441,10 +2696,10 @@
     "/",
     "÷"
   ],
-  "doc": [
+  "document": [
     "document"
   ],
-  "doc.badge.ellipsis": [
+  "document.badge.ellipsis": [
     "action",
     "dot.3",
     "extra",
@@ -2452,22 +2707,7 @@
     "overflow",
     "…"
   ],
-  "doc.badge.plus": [
-    "+",
-    "add",
-    "create",
-    "new"
-  ],
-  "doc.circle": [
-    "document"
-  ],
-  "doc.circle.fill": [
-    "document"
-  ],
-  "doc.fill": [
-    "document"
-  ],
-  "doc.fill.badge.ellipsis": [
+  "document.badge.ellipsis.fill": [
     "action",
     "dot.3",
     "extra",
@@ -2475,39 +2715,45 @@
     "overflow",
     "…"
   ],
-  "doc.fill.badge.plus": [
+  "document.badge.plus": [
     "+",
     "add",
     "create",
     "new"
   ],
-  "doc.on.clipboard": [
+  "document.badge.plus.fill": [
+    "+",
+    "add",
+    "create",
+    "new"
+  ],
+  "document.circle": [
+    "document"
+  ],
+  "document.circle.fill": [
+    "document"
+  ],
+  "document.fill": [
+    "document"
+  ],
+  "document.on.clipboard": [
     "clipboard",
     "paste",
     "pasteboard"
   ],
-  "doc.on.clipboard.fill": [
+  "document.on.clipboard.fill": [
     "paste"
   ],
-  "doc.on.doc": [
+  "document.on.document": [
     "copy"
   ],
-  "doc.on.doc.fill": [
+  "document.on.document.fill": [
     "copy"
   ],
-  "doc.text.image": [
-    "today"
-  ],
-  "doc.text.image.fill": [
-    "today"
-  ],
-  "doc.text.magnifyingglass": [
-    "search"
-  ],
-  "doc.viewfinder": [
+  "document.viewfinder": [
     "scan document"
   ],
-  "doc.viewfinder.fill": [
+  "document.viewfinder.fill": [
     "scan document"
   ],
   "dog": [
@@ -2526,7 +2772,15 @@
     "currencies",
     "currency"
   ],
-  "dollarsign.arrow.circlepath": [
+  "dollarsign.arrow.trianglehead.counterclockwise.rotate.90": [
+    "currencies",
+    "currency"
+  ],
+  "dollarsign.bank.building": [
+    "currencies",
+    "currency"
+  ],
+  "dollarsign.bank.building.fill": [
     "currencies",
     "currency"
   ],
@@ -2550,7 +2804,15 @@
     "currencies",
     "currency"
   ],
-  "dongsign.arrow.circlepath": [
+  "dongsign.arrow.trianglehead.counterclockwise.rotate.90": [
+    "currencies",
+    "currency"
+  ],
+  "dongsign.bank.building": [
+    "currencies",
+    "currency"
+  ],
+  "dongsign.bank.building.fill": [
     "currencies",
     "currency"
   ],
@@ -2591,6 +2853,16 @@
   ],
   "dot.radiowaves.forward": [
     "right"
+  ],
+  "dot.scope": [
+    "circle",
+    "crosshair",
+    "inspect",
+    "locate",
+    "measure",
+    "point",
+    "select",
+    "target"
   ],
   "dot.squareshape.split.2x2": [
     "grid"
@@ -2658,6 +2930,12 @@
     "blood",
     "oil",
     "water"
+  ],
+  "duffle.bag": [
+    "sports"
+  ],
+  "duffle.bag.fill": [
+    "sports"
   ],
   "dumbbell": [
     "sports"
@@ -2788,33 +3066,98 @@
     "warning"
   ],
   "envelope": [
+    "address",
+    "letter",
     "mail"
   ],
-  "envelope.arrow.triangle.branch": [
+  "envelope.and.arrow.trianglehead.branch": [
+    "address",
+    "letter",
     "mail"
   ],
-  "envelope.arrow.triangle.branch.fill": [
+  "envelope.and.arrow.trianglehead.branch.fill": [
+    "address",
+    "letter",
     "mail"
   ],
   "envelope.badge": [
+    "address",
+    "letter",
     "mail"
   ],
   "envelope.badge.fill": [
+    "address",
+    "letter",
+    "mail"
+  ],
+  "envelope.badge.person.crop": [
+    "address",
+    "letter",
+    "mail"
+  ],
+  "envelope.badge.person.crop.fill": [
+    "address",
+    "letter",
+    "mail"
+  ],
+  "envelope.badge.shield.half.filled": [
+    "address",
+    "letter",
+    "mail"
+  ],
+  "envelope.badge.shield.half.filled.fill": [
+    "address",
+    "letter",
     "mail"
   ],
   "envelope.circle": [
+    "address",
+    "letter",
     "mail"
   ],
   "envelope.circle.fill": [
+    "address",
+    "letter",
     "mail"
   ],
   "envelope.fill": [
+    "address",
+    "letter",
+    "mail"
+  ],
+  "envelope.front": [
+    "address",
+    "letter",
+    "mail"
+  ],
+  "envelope.front.fill": [
+    "address",
+    "letter",
+    "mail"
+  ],
+  "envelope.front.fill.rtl": [
+    "address",
+    "letter",
+    "mail"
+  ],
+  "envelope.front.rtl": [
+    "address",
+    "letter",
     "mail"
   ],
   "envelope.open": [
+    "address",
+    "letter",
+    "mail"
+  ],
+  "envelope.open.badge.clock": [
+    "address",
+    "letter",
     "mail"
   ],
   "envelope.open.fill": [
+    "address",
+    "letter",
     "mail"
   ],
   "equal": [
@@ -2842,7 +3185,15 @@
     "currencies",
     "currency"
   ],
-  "eurosign.arrow.circlepath": [
+  "eurosign.arrow.trianglehead.counterclockwise.rotate.90": [
+    "currencies",
+    "currency"
+  ],
+  "eurosign.bank.building": [
+    "currencies",
+    "currency"
+  ],
+  "eurosign.bank.building.fill": [
     "currencies",
     "currency"
   ],
@@ -2866,7 +3217,15 @@
     "currencies",
     "currency"
   ],
-  "eurozonesign.arrow.circlepath": [
+  "eurozonesign.arrow.trianglehead.counterclockwise.rotate.90": [
+    "currencies",
+    "currency"
+  ],
+  "eurozonesign.bank.building": [
+    "currencies",
+    "currency"
+  ],
+  "eurozonesign.bank.building.fill": [
     "currencies",
     "currency"
   ],
@@ -2907,15 +3266,15 @@
   "exclamationmark.applewatch": [
     "warning"
   ],
-  "exclamationmark.arrow.circlepath": [
+  "exclamationmark.arrow.trianglehead.2.clockwise.rotate.90": [
+    "sync",
+    "syncing",
+    "warning"
+  ],
+  "exclamationmark.arrow.trianglehead.counterclockwise.rotate.90": [
     "time",
     "time machine",
     "timemachine",
-    "warning"
-  ],
-  "exclamationmark.arrow.triangle.2.circlepath": [
-    "sync",
-    "syncing",
     "warning"
   ],
   "exclamationmark.brakesignal": [
@@ -3093,11 +3452,25 @@
   ],
   "eye.trianglebadge.exclamationmark": [
     "!",
+    "sensitive",
     "warning"
   ],
   "eye.trianglebadge.exclamationmark.fill": [
     "!",
+    "sensitive",
     "warning"
+  ],
+  "face.dashed": [
+    "smile"
+  ],
+  "face.dashed.fill": [
+    "smile"
+  ],
+  "face.smiling": [
+    "smile"
+  ],
+  "face.smiling.inverse": [
+    "smile"
   ],
   "faceid": [
     "authentication",
@@ -3138,7 +3511,25 @@
     "human",
     "person"
   ],
+  "figure.2.left.holdinghands": [
+    "human",
+    "person"
+  ],
+  "figure.2.right.holdinghands": [
+    "human",
+    "person"
+  ],
   "figure.american.football": [
+    "human",
+    "person",
+    "sports"
+  ],
+  "figure.american.football.circle": [
+    "human",
+    "person",
+    "sports"
+  ],
+  "figure.american.football.circle.fill": [
     "human",
     "person",
     "sports"
@@ -3157,6 +3548,16 @@
     "person",
     "sports"
   ],
+  "figure.archery.circle": [
+    "human",
+    "person",
+    "sports"
+  ],
+  "figure.archery.circle.fill": [
+    "human",
+    "person",
+    "sports"
+  ],
   "figure.arms.open": [
     "human",
     "person"
@@ -3166,7 +3567,27 @@
     "person",
     "sports"
   ],
+  "figure.australian.football.circle": [
+    "human",
+    "person",
+    "sports"
+  ],
+  "figure.australian.football.circle.fill": [
+    "human",
+    "person",
+    "sports"
+  ],
   "figure.badminton": [
+    "human",
+    "person",
+    "sports"
+  ],
+  "figure.badminton.circle": [
+    "human",
+    "person",
+    "sports"
+  ],
+  "figure.badminton.circle.fill": [
     "human",
     "person",
     "sports"
@@ -3176,7 +3597,27 @@
     "person",
     "sports"
   ],
+  "figure.barre.circle": [
+    "human",
+    "person",
+    "sports"
+  ],
+  "figure.barre.circle.fill": [
+    "human",
+    "person",
+    "sports"
+  ],
   "figure.baseball": [
+    "human",
+    "person",
+    "sports"
+  ],
+  "figure.baseball.circle": [
+    "human",
+    "person",
+    "sports"
+  ],
+  "figure.baseball.circle.fill": [
     "human",
     "person",
     "sports"
@@ -3186,12 +3627,42 @@
     "person",
     "sports"
   ],
+  "figure.basketball.circle": [
+    "human",
+    "person",
+    "sports"
+  ],
+  "figure.basketball.circle.fill": [
+    "human",
+    "person",
+    "sports"
+  ],
   "figure.bowling": [
     "human",
     "person",
     "sports"
   ],
+  "figure.bowling.circle": [
+    "human",
+    "person",
+    "sports"
+  ],
+  "figure.bowling.circle.fill": [
+    "human",
+    "person",
+    "sports"
+  ],
   "figure.boxing": [
+    "human",
+    "person",
+    "sports"
+  ],
+  "figure.boxing.circle": [
+    "human",
+    "person",
+    "sports"
+  ],
+  "figure.boxing.circle.fill": [
     "human",
     "person",
     "sports"
@@ -3229,7 +3700,27 @@
     "person",
     "sports"
   ],
+  "figure.climbing.circle": [
+    "human",
+    "person",
+    "sports"
+  ],
+  "figure.climbing.circle.fill": [
+    "human",
+    "person",
+    "sports"
+  ],
   "figure.cooldown": [
+    "human",
+    "person",
+    "sports"
+  ],
+  "figure.cooldown.circle": [
+    "human",
+    "person",
+    "sports"
+  ],
+  "figure.cooldown.circle.fill": [
     "human",
     "person",
     "sports"
@@ -3239,7 +3730,27 @@
     "person",
     "sports"
   ],
+  "figure.core.training.circle": [
+    "human",
+    "person",
+    "sports"
+  ],
+  "figure.core.training.circle.fill": [
+    "human",
+    "person",
+    "sports"
+  ],
   "figure.cricket": [
+    "human",
+    "person",
+    "sports"
+  ],
+  "figure.cricket.circle": [
+    "human",
+    "person",
+    "sports"
+  ],
+  "figure.cricket.circle.fill": [
     "human",
     "person",
     "sports"
@@ -3249,7 +3760,27 @@
     "person",
     "sports"
   ],
+  "figure.cross.training.circle": [
+    "human",
+    "person",
+    "sports"
+  ],
+  "figure.cross.training.circle.fill": [
+    "human",
+    "person",
+    "sports"
+  ],
   "figure.curling": [
+    "human",
+    "person",
+    "sports"
+  ],
+  "figure.curling.circle": [
+    "human",
+    "person",
+    "sports"
+  ],
+  "figure.curling.circle.fill": [
     "human",
     "person",
     "sports"
@@ -3259,21 +3790,57 @@
     "person",
     "sports"
   ],
+  "figure.dance.circle": [
+    "human",
+    "person",
+    "sports"
+  ],
+  "figure.dance.circle.fill": [
+    "human",
+    "person",
+    "sports"
+  ],
   "figure.disc.sports": [
     "human",
     "person",
     "sports"
   ],
-  "figure.dress.line.vertical.figure": [
+  "figure.disc.sports.circle": [
     "human",
-    "person"
+    "person",
+    "sports"
+  ],
+  "figure.disc.sports.circle.fill": [
+    "human",
+    "person",
+    "sports"
   ],
   "figure.elliptical": [
     "human",
     "person",
     "sports"
   ],
+  "figure.elliptical.circle": [
+    "human",
+    "person",
+    "sports"
+  ],
+  "figure.elliptical.circle.fill": [
+    "human",
+    "person",
+    "sports"
+  ],
   "figure.equestrian.sports": [
+    "human",
+    "person",
+    "sports"
+  ],
+  "figure.equestrian.sports.circle": [
+    "human",
+    "person",
+    "sports"
+  ],
+  "figure.equestrian.sports.circle.fill": [
     "human",
     "person",
     "sports"
@@ -3295,7 +3862,42 @@
     "person",
     "sports"
   ],
+  "figure.fencing.circle": [
+    "human",
+    "person",
+    "sports"
+  ],
+  "figure.fencing.circle.fill": [
+    "human",
+    "person",
+    "sports"
+  ],
+  "figure.field.hockey": [
+    "human",
+    "person",
+    "sports"
+  ],
+  "figure.field.hockey.circle": [
+    "human",
+    "person",
+    "sports"
+  ],
+  "figure.field.hockey.circle.fill": [
+    "human",
+    "person",
+    "sports"
+  ],
   "figure.fishing": [
+    "human",
+    "person",
+    "sports"
+  ],
+  "figure.fishing.circle": [
+    "human",
+    "person",
+    "sports"
+  ],
+  "figure.fishing.circle.fill": [
     "human",
     "person",
     "sports"
@@ -3305,7 +3907,27 @@
     "person",
     "sports"
   ],
+  "figure.flexibility.circle": [
+    "human",
+    "person",
+    "sports"
+  ],
+  "figure.flexibility.circle.fill": [
+    "human",
+    "person",
+    "sports"
+  ],
   "figure.golf": [
+    "human",
+    "person",
+    "sports"
+  ],
+  "figure.golf.circle": [
+    "human",
+    "person",
+    "sports"
+  ],
+  "figure.golf.circle.fill": [
     "human",
     "person",
     "sports"
@@ -3315,12 +3937,42 @@
     "person",
     "sports"
   ],
+  "figure.gymnastics.circle": [
+    "human",
+    "person",
+    "sports"
+  ],
+  "figure.gymnastics.circle.fill": [
+    "human",
+    "person",
+    "sports"
+  ],
   "figure.hand.cycling": [
     "human",
     "person",
     "sports"
   ],
+  "figure.hand.cycling.circle": [
+    "human",
+    "person",
+    "sports"
+  ],
+  "figure.hand.cycling.circle.fill": [
+    "human",
+    "person",
+    "sports"
+  ],
   "figure.handball": [
+    "human",
+    "person",
+    "sports"
+  ],
+  "figure.handball.circle": [
+    "human",
+    "person",
+    "sports"
+  ],
+  "figure.handball.circle.fill": [
     "human",
     "person",
     "sports"
@@ -3331,7 +3983,29 @@
     "person",
     "sports"
   ],
+  "figure.highintensity.intervaltraining.circle": [
+    "hiit",
+    "human",
+    "person",
+    "sports"
+  ],
+  "figure.highintensity.intervaltraining.circle.fill": [
+    "hiit",
+    "human",
+    "person",
+    "sports"
+  ],
   "figure.hiking": [
+    "human",
+    "person",
+    "sports"
+  ],
+  "figure.hiking.circle": [
+    "human",
+    "person",
+    "sports"
+  ],
+  "figure.hiking.circle.fill": [
     "human",
     "person",
     "sports"
@@ -3341,7 +4015,57 @@
     "person",
     "sports"
   ],
+  "figure.hockey.circle": [
+    "human",
+    "person",
+    "sports"
+  ],
+  "figure.hockey.circle.fill": [
+    "human",
+    "person",
+    "sports"
+  ],
   "figure.hunting": [
+    "human",
+    "person",
+    "sports"
+  ],
+  "figure.hunting.circle": [
+    "human",
+    "person",
+    "sports"
+  ],
+  "figure.hunting.circle.fill": [
+    "human",
+    "person",
+    "sports"
+  ],
+  "figure.ice.hockey": [
+    "human",
+    "person",
+    "sports"
+  ],
+  "figure.ice.hockey.circle": [
+    "human",
+    "person",
+    "sports"
+  ],
+  "figure.ice.hockey.circle.fill": [
+    "human",
+    "person",
+    "sports"
+  ],
+  "figure.ice.skating": [
+    "human",
+    "person",
+    "sports"
+  ],
+  "figure.ice.skating.circle": [
+    "human",
+    "person",
+    "sports"
+  ],
+  "figure.ice.skating.circle.fill": [
     "human",
     "person",
     "sports"
@@ -3351,7 +4075,57 @@
     "person",
     "sports"
   ],
+  "figure.indoor.cycle.circle": [
+    "human",
+    "person",
+    "sports"
+  ],
+  "figure.indoor.cycle.circle.fill": [
+    "human",
+    "person",
+    "sports"
+  ],
+  "figure.indoor.rowing": [
+    "human",
+    "person",
+    "sports"
+  ],
+  "figure.indoor.rowing.circle": [
+    "human",
+    "person",
+    "sports"
+  ],
+  "figure.indoor.rowing.circle.fill": [
+    "human",
+    "person",
+    "sports"
+  ],
+  "figure.indoor.soccer": [
+    "human",
+    "person",
+    "sports"
+  ],
+  "figure.indoor.soccer.circle": [
+    "human",
+    "person",
+    "sports"
+  ],
+  "figure.indoor.soccer.circle.fill": [
+    "human",
+    "person",
+    "sports"
+  ],
   "figure.jumprope": [
+    "human",
+    "person",
+    "sports"
+  ],
+  "figure.jumprope.circle": [
+    "human",
+    "person",
+    "sports"
+  ],
+  "figure.jumprope.circle.fill": [
     "human",
     "person",
     "sports"
@@ -3361,7 +4135,27 @@
     "person",
     "sports"
   ],
+  "figure.kickboxing.circle": [
+    "human",
+    "person",
+    "sports"
+  ],
+  "figure.kickboxing.circle.fill": [
+    "human",
+    "person",
+    "sports"
+  ],
   "figure.lacrosse": [
+    "human",
+    "person",
+    "sports"
+  ],
+  "figure.lacrosse.circle": [
+    "human",
+    "person",
+    "sports"
+  ],
+  "figure.lacrosse.circle.fill": [
     "human",
     "person",
     "sports"
@@ -3371,7 +4165,27 @@
     "person",
     "sports"
   ],
+  "figure.martial.arts.circle": [
+    "human",
+    "person",
+    "sports"
+  ],
+  "figure.martial.arts.circle.fill": [
+    "human",
+    "person",
+    "sports"
+  ],
   "figure.mind.and.body": [
+    "human",
+    "person",
+    "sports"
+  ],
+  "figure.mind.and.body.circle": [
+    "human",
+    "person",
+    "sports"
+  ],
+  "figure.mind.and.body.circle.fill": [
     "human",
     "person",
     "sports"
@@ -3381,7 +4195,29 @@
     "person",
     "sports"
   ],
+  "figure.mixed.cardio.circle": [
+    "human",
+    "person",
+    "sports"
+  ],
+  "figure.mixed.cardio.circle.fill": [
+    "human",
+    "person",
+    "sports"
+  ],
   "figure.open.water.swim": [
+    "human",
+    "person",
+    "sports",
+    "water"
+  ],
+  "figure.open.water.swim.circle": [
+    "human",
+    "person",
+    "sports",
+    "water"
+  ],
+  "figure.open.water.swim.circle.fill": [
     "human",
     "person",
     "sports",
@@ -3393,7 +4229,59 @@
     "person",
     "sports"
   ],
+  "figure.outdoor.cycle.circle": [
+    "bicycle",
+    "human",
+    "person",
+    "sports"
+  ],
+  "figure.outdoor.cycle.circle.fill": [
+    "bicycle",
+    "human",
+    "person",
+    "sports"
+  ],
+  "figure.outdoor.rowing": [
+    "human",
+    "person",
+    "sports"
+  ],
+  "figure.outdoor.rowing.circle": [
+    "human",
+    "person",
+    "sports"
+  ],
+  "figure.outdoor.rowing.circle.fill": [
+    "human",
+    "person",
+    "sports"
+  ],
+  "figure.outdoor.soccer": [
+    "human",
+    "person",
+    "sports"
+  ],
+  "figure.outdoor.soccer.circle": [
+    "human",
+    "person",
+    "sports"
+  ],
+  "figure.outdoor.soccer.circle.fill": [
+    "human",
+    "person",
+    "sports"
+  ],
   "figure.pickleball": [
+    "human",
+    "person",
+    "sports"
+  ],
+  "figure.pickleball.circle": [
+    "human",
+    "person",
+    "sports"
+  ],
+  "figure.pickleball.circle.fill": [
     "human",
     "person",
     "sports"
@@ -3403,7 +4291,27 @@
     "person",
     "sports"
   ],
+  "figure.pilates.circle": [
+    "human",
+    "person",
+    "sports"
+  ],
+  "figure.pilates.circle.fill": [
+    "human",
+    "person",
+    "sports"
+  ],
   "figure.play": [
+    "human",
+    "person",
+    "sports"
+  ],
+  "figure.play.circle": [
+    "human",
+    "person",
+    "sports"
+  ],
+  "figure.play.circle.fill": [
     "human",
     "person",
     "sports"
@@ -3414,12 +4322,46 @@
     "sports",
     "water"
   ],
+  "figure.pool.swim.circle": [
+    "human",
+    "person",
+    "sports",
+    "water"
+  ],
+  "figure.pool.swim.circle.fill": [
+    "human",
+    "person",
+    "sports",
+    "water"
+  ],
   "figure.racquetball": [
     "human",
     "person",
     "sports"
   ],
+  "figure.racquetball.circle": [
+    "human",
+    "person",
+    "sports"
+  ],
+  "figure.racquetball.circle.fill": [
+    "human",
+    "person",
+    "sports"
+  ],
   "figure.roll": [
+    "human",
+    "person",
+    "sports",
+    "wheelchair"
+  ],
+  "figure.roll.circle": [
+    "human",
+    "person",
+    "sports",
+    "wheelchair"
+  ],
+  "figure.roll.circle.fill": [
     "human",
     "person",
     "sports",
@@ -3431,12 +4373,29 @@
     "sports",
     "wheelchair"
   ],
+  "figure.roll.runningpace.circle": [
+    "human",
+    "person",
+    "sports",
+    "wheelchair"
+  ],
+  "figure.roll.runningpace.circle.fill": [
+    "human",
+    "person",
+    "sports",
+    "wheelchair"
+  ],
   "figure.rolling": [
     "human",
     "person",
     "sports"
   ],
-  "figure.rower": [
+  "figure.rolling.circle": [
+    "human",
+    "person",
+    "sports"
+  ],
+  "figure.rolling.circle.fill": [
     "human",
     "person",
     "sports"
@@ -3446,9 +4405,18 @@
     "person",
     "sports"
   ],
+  "figure.rugby.circle": [
+    "human",
+    "person",
+    "sports"
+  ],
+  "figure.rugby.circle.fill": [
+    "human",
+    "person",
+    "sports"
+  ],
   "figure.run": [
     "human",
-    "indoor run",
     "outdoor run",
     "person",
     "running",
@@ -3456,7 +4424,6 @@
   ],
   "figure.run.circle": [
     "human",
-    "indoor run",
     "outdoor run",
     "person",
     "running",
@@ -3464,7 +4431,6 @@
   ],
   "figure.run.circle.fill": [
     "human",
-    "indoor run",
     "outdoor run",
     "person",
     "running",
@@ -3472,7 +4438,6 @@
   ],
   "figure.run.square.stack": [
     "human",
-    "indoor run",
     "outdoor run",
     "person",
     "running",
@@ -3480,13 +4445,43 @@
   ],
   "figure.run.square.stack.fill": [
     "human",
-    "indoor run",
     "outdoor run",
     "person",
     "running",
     "sports"
   ],
+  "figure.run.treadmill": [
+    "human",
+    "indoor run",
+    "person",
+    "running",
+    "sports"
+  ],
+  "figure.run.treadmill.circle": [
+    "human",
+    "indoor run",
+    "person",
+    "running",
+    "sports"
+  ],
+  "figure.run.treadmill.circle.fill": [
+    "human",
+    "indoor run",
+    "person",
+    "running",
+    "sports"
+  ],
   "figure.sailing": [
+    "human",
+    "person",
+    "sports"
+  ],
+  "figure.sailing.circle": [
+    "human",
+    "person",
+    "sports"
+  ],
+  "figure.sailing.circle.fill": [
     "human",
     "person",
     "sports"
@@ -3503,95 +4498,313 @@
     "human",
     "person"
   ],
-  "figure.seated.side": [
+  "figure.seated.seatbelt.left.drive.seats.1": [
     "human",
     "person"
   ],
-  "figure.seated.side.air.distribution.lower": [
+  "figure.seated.seatbelt.left.drive.seats.1.1": [
     "human",
     "person"
   ],
-  "figure.seated.side.air.distribution.middle": [
+  "figure.seated.seatbelt.left.drive.seats.1.1.fill": [
     "human",
     "person"
   ],
-  "figure.seated.side.air.distribution.middle.and.lower": [
+  "figure.seated.seatbelt.left.drive.seats.1.2": [
     "human",
     "person"
   ],
-  "figure.seated.side.air.distribution.middle.and.lower.angled": [
+  "figure.seated.seatbelt.left.drive.seats.1.2.fill": [
     "human",
     "person"
   ],
-  "figure.seated.side.air.distribution.upper": [
+  "figure.seated.seatbelt.left.drive.seats.1.fill": [
     "human",
     "person"
   ],
-  "figure.seated.side.air.distribution.upper.angled.and.lower.angled": [
+  "figure.seated.seatbelt.left.drive.seats.2": [
     "human",
     "person"
   ],
-  "figure.seated.side.air.distribution.upper.angled.and.middle": [
+  "figure.seated.seatbelt.left.drive.seats.2.2": [
     "human",
     "person"
   ],
-  "figure.seated.side.air.distribution.upper.angled.and.middle.and.lower.angled": [
+  "figure.seated.seatbelt.left.drive.seats.2.2.2": [
     "human",
     "person"
   ],
-  "figure.seated.side.airbag.off": [
+  "figure.seated.seatbelt.left.drive.seats.2.2.2.fill": [
     "human",
     "person"
   ],
-  "figure.seated.side.airbag.off.2": [
+  "figure.seated.seatbelt.left.drive.seats.2.2.3": [
     "human",
     "person"
   ],
-  "figure.seated.side.airbag.on": [
+  "figure.seated.seatbelt.left.drive.seats.2.2.3.fill": [
     "human",
     "person"
   ],
-  "figure.seated.side.airbag.on.2": [
+  "figure.seated.seatbelt.left.drive.seats.2.2.fill": [
     "human",
     "person"
   ],
-  "figure.seated.side.automatic": [
+  "figure.seated.seatbelt.left.drive.seats.2.3": [
     "human",
     "person"
   ],
-  "figure.seated.side.windshield.front.and.heat.waves": [
+  "figure.seated.seatbelt.left.drive.seats.2.3.2": [
     "human",
     "person"
   ],
-  "figure.seated.side.windshield.front.and.heat.waves.air.distribution.lower": [
+  "figure.seated.seatbelt.left.drive.seats.2.3.2.fill": [
     "human",
     "person"
   ],
-  "figure.seated.side.windshield.front.and.heat.waves.air.distribution.middle": [
+  "figure.seated.seatbelt.left.drive.seats.2.3.3": [
     "human",
     "person"
   ],
-  "figure.seated.side.windshield.front.and.heat.waves.air.distribution.middle.and.lower": [
+  "figure.seated.seatbelt.left.drive.seats.2.3.3.fill": [
     "human",
     "person"
   ],
-  "figure.seated.side.windshield.front.and.heat.waves.air.distribution.upper": [
+  "figure.seated.seatbelt.left.drive.seats.2.3.fill": [
     "human",
     "person"
   ],
-  "figure.seated.side.windshield.front.and.heat.waves.air.distribution.upper.and.lower": [
+  "figure.seated.seatbelt.left.drive.seats.2.fill": [
     "human",
     "person"
   ],
-  "figure.seated.side.windshield.front.and.heat.waves.air.distribution.upper.and.middle": [
+  "figure.seated.seatbelt.left.drive.seats.3": [
     "human",
     "person"
   ],
-  "figure.seated.side.windshield.front.and.heat.waves.air.distribution.upper.and.middle.and.lower": [
+  "figure.seated.seatbelt.left.drive.seats.3.3": [
     "human",
     "person"
   ],
-  "figure.skating": [
+  "figure.seated.seatbelt.left.drive.seats.3.3.3": [
+    "human",
+    "person"
+  ],
+  "figure.seated.seatbelt.left.drive.seats.3.3.3.fill": [
+    "human",
+    "person"
+  ],
+  "figure.seated.seatbelt.left.drive.seats.3.3.fill": [
+    "human",
+    "person"
+  ],
+  "figure.seated.seatbelt.left.drive.seats.3.fill": [
+    "human",
+    "person"
+  ],
+  "figure.seated.side.left": [
+    "human",
+    "person"
+  ],
+  "figure.seated.side.left.air.distribution.lower": [
+    "human",
+    "person"
+  ],
+  "figure.seated.side.left.air.distribution.middle": [
+    "human",
+    "person"
+  ],
+  "figure.seated.side.left.air.distribution.middle.and.lower": [
+    "human",
+    "person"
+  ],
+  "figure.seated.side.left.air.distribution.middle.and.lower.angled": [
+    "human",
+    "person"
+  ],
+  "figure.seated.side.left.air.distribution.upper": [
+    "human",
+    "person"
+  ],
+  "figure.seated.side.left.air.distribution.upper.angled.and.lower.angled": [
+    "human",
+    "person"
+  ],
+  "figure.seated.side.left.air.distribution.upper.angled.and.middle": [
+    "human",
+    "person"
+  ],
+  "figure.seated.side.left.air.distribution.upper.angled.and.middle.and.lower.angled": [
+    "human",
+    "person"
+  ],
+  "figure.seated.side.left.airbag.off": [
+    "human",
+    "person"
+  ],
+  "figure.seated.side.left.airbag.off.2": [
+    "human",
+    "person"
+  ],
+  "figure.seated.side.left.airbag.on": [
+    "human",
+    "person"
+  ],
+  "figure.seated.side.left.airbag.on.2": [
+    "human",
+    "person"
+  ],
+  "figure.seated.side.left.automatic": [
+    "human",
+    "person"
+  ],
+  "figure.seated.side.left.fan": [
+    "human",
+    "person"
+  ],
+  "figure.seated.side.left.steeringwheel": [
+    "human",
+    "person"
+  ],
+  "figure.seated.side.left.windshield.front.and.heat.waves": [
+    "human",
+    "person"
+  ],
+  "figure.seated.side.left.windshield.front.and.heat.waves.air.distribution.lower": [
+    "human",
+    "person"
+  ],
+  "figure.seated.side.left.windshield.front.and.heat.waves.air.distribution.middle": [
+    "human",
+    "person"
+  ],
+  "figure.seated.side.left.windshield.front.and.heat.waves.air.distribution.middle.and.lower": [
+    "human",
+    "person"
+  ],
+  "figure.seated.side.left.windshield.front.and.heat.waves.air.distribution.upper": [
+    "human",
+    "person"
+  ],
+  "figure.seated.side.left.windshield.front.and.heat.waves.air.distribution.upper.and.lower": [
+    "human",
+    "person"
+  ],
+  "figure.seated.side.left.windshield.front.and.heat.waves.air.distribution.upper.and.middle": [
+    "human",
+    "person"
+  ],
+  "figure.seated.side.left.windshield.front.and.heat.waves.air.distribution.upper.and.middle.and.lower": [
+    "human",
+    "person"
+  ],
+  "figure.seated.side.right": [
+    "human",
+    "person"
+  ],
+  "figure.seated.side.right.air.distribution.lower": [
+    "human",
+    "person"
+  ],
+  "figure.seated.side.right.air.distribution.middle": [
+    "human",
+    "person"
+  ],
+  "figure.seated.side.right.air.distribution.middle.and.lower": [
+    "human",
+    "person"
+  ],
+  "figure.seated.side.right.air.distribution.middle.and.lower.angled": [
+    "human",
+    "person"
+  ],
+  "figure.seated.side.right.air.distribution.upper": [
+    "human",
+    "person"
+  ],
+  "figure.seated.side.right.air.distribution.upper.angled.and.lower.angled": [
+    "human",
+    "person"
+  ],
+  "figure.seated.side.right.air.distribution.upper.angled.and.middle": [
+    "human",
+    "person"
+  ],
+  "figure.seated.side.right.air.distribution.upper.angled.and.middle.and.lower.angled": [
+    "human",
+    "person"
+  ],
+  "figure.seated.side.right.airbag.off": [
+    "human",
+    "person"
+  ],
+  "figure.seated.side.right.airbag.off.2": [
+    "human",
+    "person"
+  ],
+  "figure.seated.side.right.airbag.on": [
+    "human",
+    "person"
+  ],
+  "figure.seated.side.right.airbag.on.2": [
+    "human",
+    "person"
+  ],
+  "figure.seated.side.right.automatic": [
+    "human",
+    "person"
+  ],
+  "figure.seated.side.right.fan": [
+    "human",
+    "person"
+  ],
+  "figure.seated.side.right.steeringwheel": [
+    "human",
+    "person"
+  ],
+  "figure.seated.side.right.windshield.front.and.heat.waves": [
+    "human",
+    "person"
+  ],
+  "figure.seated.side.right.windshield.front.and.heat.waves.air.distribution.lower": [
+    "human",
+    "person"
+  ],
+  "figure.seated.side.right.windshield.front.and.heat.waves.air.distribution.middle": [
+    "human",
+    "person"
+  ],
+  "figure.seated.side.right.windshield.front.and.heat.waves.air.distribution.middle.and.lower": [
+    "human",
+    "person"
+  ],
+  "figure.seated.side.right.windshield.front.and.heat.waves.air.distribution.upper": [
+    "human",
+    "person"
+  ],
+  "figure.seated.side.right.windshield.front.and.heat.waves.air.distribution.upper.and.lower": [
+    "human",
+    "person"
+  ],
+  "figure.seated.side.right.windshield.front.and.heat.waves.air.distribution.upper.and.middle": [
+    "human",
+    "person"
+  ],
+  "figure.seated.side.right.windshield.front.and.heat.waves.air.distribution.upper.and.middle.and.lower": [
+    "human",
+    "person"
+  ],
+  "figure.skateboarding": [
+    "human",
+    "person",
+    "sports"
+  ],
+  "figure.skateboarding.circle": [
+    "human",
+    "person",
+    "sports"
+  ],
+  "figure.skateboarding.circle.fill": [
     "human",
     "person",
     "sports"
@@ -3601,7 +4814,27 @@
     "person",
     "sports"
   ],
+  "figure.skiing.crosscountry.circle": [
+    "human",
+    "person",
+    "sports"
+  ],
+  "figure.skiing.crosscountry.circle.fill": [
+    "human",
+    "person",
+    "sports"
+  ],
   "figure.skiing.downhill": [
+    "human",
+    "person",
+    "sports"
+  ],
+  "figure.skiing.downhill.circle": [
+    "human",
+    "person",
+    "sports"
+  ],
+  "figure.skiing.downhill.circle.fill": [
     "human",
     "person",
     "sports"
@@ -3611,7 +4844,12 @@
     "person",
     "sports"
   ],
-  "figure.soccer": [
+  "figure.snowboarding.circle": [
+    "human",
+    "person",
+    "sports"
+  ],
+  "figure.snowboarding.circle.fill": [
     "human",
     "person",
     "sports"
@@ -3621,7 +4859,27 @@
     "person",
     "sports"
   ],
+  "figure.socialdance.circle": [
+    "human",
+    "person",
+    "sports"
+  ],
+  "figure.socialdance.circle.fill": [
+    "human",
+    "person",
+    "sports"
+  ],
   "figure.softball": [
+    "human",
+    "person",
+    "sports"
+  ],
+  "figure.softball.circle": [
+    "human",
+    "person",
+    "sports"
+  ],
+  "figure.softball.circle.fill": [
     "human",
     "person",
     "sports"
@@ -3631,7 +4889,27 @@
     "person",
     "sports"
   ],
+  "figure.squash.circle": [
+    "human",
+    "person",
+    "sports"
+  ],
+  "figure.squash.circle.fill": [
+    "human",
+    "person",
+    "sports"
+  ],
   "figure.stair.stepper": [
+    "human",
+    "person",
+    "sports"
+  ],
+  "figure.stair.stepper.circle": [
+    "human",
+    "person",
+    "sports"
+  ],
+  "figure.stair.stepper.circle.fill": [
     "human",
     "person",
     "sports"
@@ -3641,7 +4919,25 @@
     "person",
     "sports"
   ],
+  "figure.stairs.circle": [
+    "human",
+    "person",
+    "sports"
+  ],
+  "figure.stairs.circle.fill": [
+    "human",
+    "person",
+    "sports"
+  ],
   "figure.stand": [
+    "human",
+    "person"
+  ],
+  "figure.stand.dress": [
+    "human",
+    "person"
+  ],
+  "figure.stand.dress.line.vertical.figure": [
     "human",
     "person"
   ],
@@ -3654,7 +4950,27 @@
     "person",
     "sports"
   ],
+  "figure.step.training.circle": [
+    "human",
+    "person",
+    "sports"
+  ],
+  "figure.step.training.circle.fill": [
+    "human",
+    "person",
+    "sports"
+  ],
   "figure.strengthtraining.functional": [
+    "human",
+    "person",
+    "sports"
+  ],
+  "figure.strengthtraining.functional.circle": [
+    "human",
+    "person",
+    "sports"
+  ],
+  "figure.strengthtraining.functional.circle.fill": [
     "human",
     "person",
     "sports"
@@ -3664,7 +4980,27 @@
     "person",
     "sports"
   ],
+  "figure.strengthtraining.traditional.circle": [
+    "human",
+    "person",
+    "sports"
+  ],
+  "figure.strengthtraining.traditional.circle.fill": [
+    "human",
+    "person",
+    "sports"
+  ],
   "figure.surfing": [
+    "human",
+    "person",
+    "sports"
+  ],
+  "figure.surfing.circle": [
+    "human",
+    "person",
+    "sports"
+  ],
+  "figure.surfing.circle.fill": [
     "human",
     "person",
     "sports"
@@ -3674,7 +5010,27 @@
     "person",
     "sports"
   ],
+  "figure.table.tennis.circle": [
+    "human",
+    "person",
+    "sports"
+  ],
+  "figure.table.tennis.circle.fill": [
+    "human",
+    "person",
+    "sports"
+  ],
   "figure.taichi": [
+    "human",
+    "person",
+    "sports"
+  ],
+  "figure.taichi.circle": [
+    "human",
+    "person",
+    "sports"
+  ],
+  "figure.taichi.circle.fill": [
     "human",
     "person",
     "sports"
@@ -3684,12 +5040,42 @@
     "person",
     "sports"
   ],
+  "figure.tennis.circle": [
+    "human",
+    "person",
+    "sports"
+  ],
+  "figure.tennis.circle.fill": [
+    "human",
+    "person",
+    "sports"
+  ],
   "figure.track.and.field": [
     "human",
     "person",
     "sports"
   ],
+  "figure.track.and.field.circle": [
+    "human",
+    "person",
+    "sports"
+  ],
+  "figure.track.and.field.circle.fill": [
+    "human",
+    "person",
+    "sports"
+  ],
   "figure.volleyball": [
+    "human",
+    "person",
+    "sports"
+  ],
+  "figure.volleyball.circle": [
+    "human",
+    "person",
+    "sports"
+  ],
+  "figure.volleyball.circle.fill": [
     "human",
     "person",
     "sports"
@@ -3748,13 +5134,65 @@
     "sports",
     "walking"
   ],
+  "figure.walk.treadmill": [
+    "human",
+    "indoor walk",
+    "person",
+    "sports"
+  ],
+  "figure.walk.treadmill.circle": [
+    "human",
+    "indoor walk",
+    "person",
+    "sports"
+  ],
+  "figure.walk.treadmill.circle.fill": [
+    "human",
+    "indoor walk",
+    "person",
+    "sports"
+  ],
+  "figure.walk.triangle": [
+    "human",
+    "person",
+    "walking"
+  ],
+  "figure.walk.triangle.fill": [
+    "human",
+    "person",
+    "walking"
+  ],
   "figure.water.fitness": [
     "human",
     "person",
     "sports",
     "water"
   ],
+  "figure.water.fitness.circle": [
+    "human",
+    "person",
+    "sports",
+    "water"
+  ],
+  "figure.water.fitness.circle.fill": [
+    "human",
+    "person",
+    "sports",
+    "water"
+  ],
   "figure.waterpolo": [
+    "human",
+    "person",
+    "sports",
+    "water"
+  ],
+  "figure.waterpolo.circle": [
+    "human",
+    "person",
+    "sports",
+    "water"
+  ],
+  "figure.waterpolo.circle.fill": [
     "human",
     "person",
     "sports",
@@ -3777,7 +5215,27 @@
     "person",
     "sports"
   ],
+  "figure.wrestling.circle": [
+    "human",
+    "person",
+    "sports"
+  ],
+  "figure.wrestling.circle.fill": [
+    "human",
+    "person",
+    "sports"
+  ],
   "figure.yoga": [
+    "human",
+    "person",
+    "sports"
+  ],
+  "figure.yoga.circle": [
+    "human",
+    "person",
+    "sports"
+  ],
+  "figure.yoga.circle.fill": [
     "human",
     "person",
     "sports"
@@ -3822,18 +5280,6 @@
     "overflow",
     "…"
   ],
-  "flag.checkered": [
-    "campground",
-    "camping"
-  ],
-  "flag.checkered.circle": [
-    "campground",
-    "camping"
-  ],
-  "flag.checkered.circle.fill": [
-    "campground",
-    "camping"
-  ],
   "flag.circle": [
     "mail"
   ],
@@ -3842,6 +5288,18 @@
   ],
   "flag.fill": [
     "mail"
+  ],
+  "flag.pattern.checkered": [
+    "campground",
+    "camping"
+  ],
+  "flag.pattern.checkered.circle": [
+    "campground",
+    "camping"
+  ],
+  "flag.pattern.checkered.circle.fill": [
+    "campground",
+    "camping"
   ],
   "flag.slash": [
     "mail",
@@ -3879,7 +5337,15 @@
     "currencies",
     "currency"
   ],
-  "florinsign.arrow.circlepath": [
+  "florinsign.arrow.trianglehead.counterclockwise.rotate.90": [
+    "currencies",
+    "currency"
+  ],
+  "florinsign.bank.building": [
+    "currencies",
+    "currency"
+  ],
+  "florinsign.bank.building.fill": [
     "currencies",
     "currency"
   ],
@@ -3943,18 +5409,6 @@
   "folder.fill.badge.questionmark": [
     "?"
   ],
-  "football": [
-    "sports"
-  ],
-  "football.circle": [
-    "sports"
-  ],
-  "football.circle.fill": [
-    "sports"
-  ],
-  "football.fill": [
-    "sports"
-  ],
   "fork.knife": [
     "drink",
     "food"
@@ -3979,7 +5433,15 @@
     "currencies",
     "currency"
   ],
-  "francsign.arrow.circlepath": [
+  "francsign.arrow.trianglehead.counterclockwise.rotate.90": [
+    "currencies",
+    "currency"
+  ],
+  "francsign.bank.building": [
+    "currencies",
+    "currency"
+  ],
+  "francsign.bank.building.fill": [
     "currencies",
     "currency"
   ],
@@ -4009,11 +5471,11 @@
     "control",
     "cruise"
   ],
-  "gauge.open.with.lines.needle.33percent.and.arrowtriangle": [
+  "gauge.open.with.lines.needle.33percent.and.arrow.trianglehead.from.0percent.to.50percent": [
     "control",
     "cruise"
   ],
-  "gauge.open.with.lines.needle.33percent.and.arrowtriangle.from.0percent.to.50percent": [
+  "gauge.open.with.lines.needle.33percent.and.arrowtriangle": [
     "control",
     "cruise"
   ],
@@ -4109,7 +5571,8 @@
     "birthday"
   ],
   "globe": [
-    "earth"
+    "earth",
+    "language"
   ],
   "globe.americas": [
     "earth"
@@ -4124,7 +5587,8 @@
     "earth"
   ],
   "globe.badge.chevron.backward": [
-    "earth"
+    "earth",
+    "language"
   ],
   "globe.central.south.asia": [
     "earth"
@@ -4143,13 +5607,6 @@
   ],
   "globe.europe.africa.fill": [
     "earth"
-  ],
-  "gobackward.minus": [
-    "-"
-  ],
-  "goforward.plus": [
-    "+",
-    "add"
   ],
   "graduationcap": [
     "college",
@@ -4194,11 +5651,39 @@
   "greaterthan.square.fill": [
     ">"
   ],
+  "greaterthanorequalto": [
+    ">",
+    "≥"
+  ],
+  "greaterthanorequalto.circle": [
+    ">",
+    "≥"
+  ],
+  "greaterthanorequalto.circle.fill": [
+    ">",
+    "≥"
+  ],
+  "greaterthanorequalto.square": [
+    ">",
+    "≥"
+  ],
+  "greaterthanorequalto.square.fill": [
+    ">",
+    "≥"
+  ],
   "guaranisign": [
     "currencies",
     "currency"
   ],
-  "guaranisign.arrow.circlepath": [
+  "guaranisign.arrow.trianglehead.counterclockwise.rotate.90": [
+    "currencies",
+    "currency"
+  ],
+  "guaranisign.bank.building": [
+    "currencies",
+    "currency"
+  ],
+  "guaranisign.bank.building.fill": [
     "currencies",
     "currency"
   ],
@@ -4218,19 +5703,25 @@
     "currencies",
     "currency"
   ],
-  "gym.bag": [
-    "sports"
-  ],
-  "gym.bag.fill": [
-    "sports"
-  ],
   "hand.draw": [
+    "touch"
+  ],
+  "hand.draw.badge.ellipsis": [
+    "touch"
+  ],
+  "hand.draw.badge.ellipsis.fill": [
     "touch"
   ],
   "hand.draw.fill": [
     "touch"
   ],
   "hand.point.up.braille": [
+    "touch"
+  ],
+  "hand.point.up.braille.badge.ellipsis": [
+    "touch"
+  ],
+  "hand.point.up.braille.badge.ellipsis.fill": [
     "touch"
   ],
   "hand.point.up.braille.fill": [
@@ -4278,6 +5769,12 @@
   "hand.raised.square.fill": [
     "privacy"
   ],
+  "hand.rays": [
+    "touch"
+  ],
+  "hand.rays.fill": [
+    "touch"
+  ],
   "hand.tap": [
     "touch"
   ],
@@ -4319,6 +5816,12 @@
     "fast",
     "rabbit"
   ],
+  "hat.cap": [
+    "baseball"
+  ],
+  "hat.cap.fill": [
+    "baseball"
+  ],
   "headphones": [
     "audio",
     "sound",
@@ -4333,6 +5836,30 @@
     "audio",
     "sound",
     "speaker"
+  ],
+  "headset": [
+    "concierge",
+    "road assistance"
+  ],
+  "headset.circle": [
+    "concierge",
+    "road assistance"
+  ],
+  "headset.circle.fill": [
+    "concierge",
+    "road assistance"
+  ],
+  "hearingdevice.and.signal.meter": [
+    "ear"
+  ],
+  "hearingdevice.and.signal.meter.fill": [
+    "ear"
+  ],
+  "hearingdevice.ear": [
+    "ear"
+  ],
+  "hearingdevice.ear.fill": [
+    "ear"
   ],
   "heart": [
     "love",
@@ -4374,11 +5901,23 @@
   "heart.square.fill": [
     "medical"
   ],
+  "heart.text.clipboard": [
+    "notes"
+  ],
+  "heart.text.clipboard.fill": [
+    "notes"
+  ],
   "heart.text.square": [
     "medical"
   ],
   "heart.text.square.fill": [
     "medical"
+  ],
+  "helmet": [
+    "bike"
+  ],
+  "helmet.fill": [
+    "bike"
   ],
   "hifispeaker": [
     "audio",
@@ -4386,6 +5925,26 @@
     "speaker"
   ],
   "hifispeaker.2": [
+    "audio",
+    "sound",
+    "speaker"
+  ],
+  "hifispeaker.2.badge.minus": [
+    "audio",
+    "sound",
+    "speaker"
+  ],
+  "hifispeaker.2.badge.minus.fill": [
+    "audio",
+    "sound",
+    "speaker"
+  ],
+  "hifispeaker.2.badge.plus": [
+    "audio",
+    "sound",
+    "speaker"
+  ],
+  "hifispeaker.2.badge.plus.fill": [
     "audio",
     "sound",
     "speaker"
@@ -4400,17 +5959,87 @@
     "sound",
     "speaker"
   ],
+  "hifispeaker.and.homepod.badge.minus": [
+    "audio",
+    "sound",
+    "speaker"
+  ],
+  "hifispeaker.and.homepod.badge.minus.fill": [
+    "audio",
+    "sound",
+    "speaker"
+  ],
+  "hifispeaker.and.homepod.badge.plus": [
+    "audio",
+    "sound",
+    "speaker"
+  ],
+  "hifispeaker.and.homepod.badge.plus.fill": [
+    "audio",
+    "sound",
+    "speaker"
+  ],
   "hifispeaker.and.homepod.fill": [
     "audio",
     "sound",
     "speaker"
   ],
-  "hifispeaker.and.homepodmini": [
+  "hifispeaker.and.homepod.mini": [
     "audio",
     "sound",
     "speaker"
   ],
-  "hifispeaker.and.homepodmini.fill": [
+  "hifispeaker.and.homepod.mini.badge.minus": [
+    "audio",
+    "sound",
+    "speaker"
+  ],
+  "hifispeaker.and.homepod.mini.badge.minus.fill": [
+    "audio",
+    "sound",
+    "speaker"
+  ],
+  "hifispeaker.and.homepod.mini.badge.plus": [
+    "audio",
+    "sound",
+    "speaker"
+  ],
+  "hifispeaker.and.homepod.mini.badge.plus.fill": [
+    "audio",
+    "sound",
+    "speaker"
+  ],
+  "hifispeaker.and.homepod.mini.fill": [
+    "audio",
+    "sound",
+    "speaker"
+  ],
+  "hifispeaker.arrow.forward": [
+    "audio",
+    "sound",
+    "speaker"
+  ],
+  "hifispeaker.arrow.forward.fill": [
+    "audio",
+    "sound",
+    "speaker"
+  ],
+  "hifispeaker.badge.minus": [
+    "audio",
+    "sound",
+    "speaker"
+  ],
+  "hifispeaker.badge.minus.fill": [
+    "audio",
+    "sound",
+    "speaker"
+  ],
+  "hifispeaker.badge.plus": [
+    "audio",
+    "sound",
+    "speaker"
+  ],
+  "hifispeaker.badge.plus.fill": [
     "audio",
     "sound",
     "speaker"
@@ -4446,17 +6075,87 @@
     "sound",
     "speaker"
   ],
+  "homepod.2.badge.minus": [
+    "audio",
+    "sound",
+    "speaker"
+  ],
+  "homepod.2.badge.minus.fill": [
+    "audio",
+    "sound",
+    "speaker"
+  ],
+  "homepod.2.badge.plus": [
+    "audio",
+    "sound",
+    "speaker"
+  ],
+  "homepod.2.badge.plus.fill": [
+    "audio",
+    "sound",
+    "speaker"
+  ],
   "homepod.2.fill": [
     "audio",
     "sound",
     "speaker"
   ],
-  "homepod.and.homepodmini": [
+  "homepod.and.homepod.mini": [
     "audio",
     "sound",
     "speaker"
   ],
-  "homepod.and.homepodmini.fill": [
+  "homepod.and.homepod.mini.badge.minus": [
+    "audio",
+    "sound",
+    "speaker"
+  ],
+  "homepod.and.homepod.mini.badge.minus.fill": [
+    "audio",
+    "sound",
+    "speaker"
+  ],
+  "homepod.and.homepod.mini.badge.plus": [
+    "audio",
+    "sound",
+    "speaker"
+  ],
+  "homepod.and.homepod.mini.badge.plus.fill": [
+    "audio",
+    "sound",
+    "speaker"
+  ],
+  "homepod.and.homepod.mini.fill": [
+    "audio",
+    "sound",
+    "speaker"
+  ],
+  "homepod.arrow.forward": [
+    "audio",
+    "sound",
+    "speaker"
+  ],
+  "homepod.arrow.forward.fill": [
+    "audio",
+    "sound",
+    "speaker"
+  ],
+  "homepod.badge.minus": [
+    "audio",
+    "sound",
+    "speaker"
+  ],
+  "homepod.badge.minus.fill": [
+    "audio",
+    "sound",
+    "speaker"
+  ],
+  "homepod.badge.plus": [
+    "audio",
+    "sound",
+    "speaker"
+  ],
+  "homepod.badge.plus.fill": [
     "audio",
     "sound",
     "speaker"
@@ -4466,22 +6165,72 @@
     "sound",
     "speaker"
   ],
-  "homepodmini": [
+  "homepod.mini": [
     "audio",
     "sound",
     "speaker"
   ],
-  "homepodmini.2": [
+  "homepod.mini.2": [
     "audio",
     "sound",
     "speaker"
   ],
-  "homepodmini.2.fill": [
+  "homepod.mini.2.badge.minus": [
     "audio",
     "sound",
     "speaker"
   ],
-  "homepodmini.fill": [
+  "homepod.mini.2.badge.minus.fill": [
+    "audio",
+    "sound",
+    "speaker"
+  ],
+  "homepod.mini.2.badge.plus": [
+    "audio",
+    "sound",
+    "speaker"
+  ],
+  "homepod.mini.2.badge.plus.fill": [
+    "audio",
+    "sound",
+    "speaker"
+  ],
+  "homepod.mini.2.fill": [
+    "audio",
+    "sound",
+    "speaker"
+  ],
+  "homepod.mini.arrow.forward": [
+    "audio",
+    "sound",
+    "speaker"
+  ],
+  "homepod.mini.arrow.forward.fill": [
+    "audio",
+    "sound",
+    "speaker"
+  ],
+  "homepod.mini.badge.minus": [
+    "audio",
+    "sound",
+    "speaker"
+  ],
+  "homepod.mini.badge.minus.fill": [
+    "audio",
+    "sound",
+    "speaker"
+  ],
+  "homepod.mini.badge.plus": [
+    "audio",
+    "sound",
+    "speaker"
+  ],
+  "homepod.mini.badge.plus.fill": [
+    "audio",
+    "sound",
+    "speaker"
+  ],
+  "homepod.mini.fill": [
     "audio",
     "sound",
     "speaker"
@@ -4513,6 +6262,22 @@
     "camping",
     "ranger station"
   ],
+  "house.badge.exclamationmark": [
+    "home",
+    "house"
+  ],
+  "house.badge.exclamationmark.fill": [
+    "home",
+    "house"
+  ],
+  "house.badge.wifi": [
+    "home",
+    "house"
+  ],
+  "house.badge.wifi.fill": [
+    "home",
+    "house"
+  ],
   "house.circle": [
     "home",
     "house"
@@ -4541,11 +6306,27 @@
     "campground",
     "camping"
   ],
+  "house.slash": [
+    "home",
+    "house"
+  ],
+  "house.slash.fill": [
+    "home",
+    "house"
+  ],
   "hryvniasign": [
     "currencies",
     "currency"
   ],
-  "hryvniasign.arrow.circlepath": [
+  "hryvniasign.arrow.trianglehead.counterclockwise.rotate.90": [
+    "currencies",
+    "currency"
+  ],
+  "hryvniasign.bank.building": [
+    "currencies",
+    "currency"
+  ],
+  "hryvniasign.bank.building.fill": [
     "currencies",
     "currency"
   ],
@@ -4602,7 +6383,15 @@
     "currencies",
     "currency"
   ],
-  "indianrupeesign.arrow.circlepath": [
+  "indianrupeesign.arrow.trianglehead.counterclockwise.rotate.90": [
+    "currencies",
+    "currency"
+  ],
+  "indianrupeesign.bank.building": [
+    "currencies",
+    "currency"
+  ],
+  "indianrupeesign.bank.building.fill": [
     "currencies",
     "currency"
   ],
@@ -4637,11 +6426,19 @@
   "info.square.fill": [
     "info"
   ],
-  "ipad.and.iphone": [
+  "inset.filled.circle": [
+    "completed",
+    "task"
+  ],
+  "inset.filled.rectangle.and.person.filled": [
+    "people",
+    "screen sharing"
+  ],
+  "ipad.landscape.and.iphone": [
     "ipad",
     "iphone"
   ],
-  "ipad.and.iphone.slash": [
+  "ipad.landscape.and.iphone.slash": [
     "ipad",
     "iphone"
   ],
@@ -4681,7 +6478,7 @@
   "iphone.slash.circle.fill": [
     "remove"
   ],
-  "ipodtouch.slash": [
+  "ipod.touch.slash": [
     "remove"
   ],
   "ivfluid.bag": [
@@ -4692,6 +6489,12 @@
   ],
   "key": [
     "password",
+    "security"
+  ],
+  "key.2.on.ring": [
+    "security"
+  ],
+  "key.2.on.ring.fill": [
     "security"
   ],
   "key.fill": [
@@ -4748,7 +6551,15 @@
     "currencies",
     "currency"
   ],
-  "kipsign.arrow.circlepath": [
+  "kipsign.arrow.trianglehead.counterclockwise.rotate.90": [
+    "currencies",
+    "currency"
+  ],
+  "kipsign.bank.building": [
+    "currencies",
+    "currency"
+  ],
+  "kipsign.bank.building.fill": [
     "currencies",
     "currency"
   ],
@@ -4781,6 +6592,22 @@
     "bug"
   ],
   "ladybug.fill": [
+    "animals",
+    "bug"
+  ],
+  "ladybug.slash": [
+    "animals",
+    "bug"
+  ],
+  "ladybug.slash.circle": [
+    "animals",
+    "bug"
+  ],
+  "ladybug.slash.circle.fill": [
+    "animals",
+    "bug"
+  ],
+  "ladybug.slash.fill": [
     "animals",
     "bug"
   ],
@@ -4823,7 +6650,15 @@
     "currencies",
     "currency"
   ],
-  "larisign.arrow.circlepath": [
+  "larisign.arrow.trianglehead.counterclockwise.rotate.90": [
+    "currencies",
+    "currency"
+  ],
+  "larisign.bank.building": [
+    "currencies",
+    "currency"
+  ],
+  "larisign.bank.building.fill": [
     "currencies",
     "currency"
   ],
@@ -4861,6 +6696,26 @@
   "lessthan.square.fill": [
     "<"
   ],
+  "lessthanorequalto": [
+    "<",
+    "≤"
+  ],
+  "lessthanorequalto.circle": [
+    "<",
+    "≤"
+  ],
+  "lessthanorequalto.circle.fill": [
+    "<",
+    "≤"
+  ],
+  "lessthanorequalto.square": [
+    "<",
+    "≤"
+  ],
+  "lessthanorequalto.square.fill": [
+    "<",
+    "≤"
+  ],
   "light.beacon.max": [
     "emergency",
     "security alarm",
@@ -4891,6 +6746,9 @@
     "edit",
     "vibrance"
   ],
+  "line.3.horizontal.decrease": [
+    "filter"
+  ],
   "line.3.horizontal.decrease.circle": [
     "filter",
     "mail"
@@ -4909,7 +6767,15 @@
     "currencies",
     "currency"
   ],
-  "lirasign.arrow.circlepath": [
+  "lirasign.arrow.trianglehead.counterclockwise.rotate.90": [
+    "currencies",
+    "currency"
+  ],
+  "lirasign.bank.building": [
+    "currencies",
+    "currency"
+  ],
+  "lirasign.bank.building.fill": [
     "currencies",
     "currency"
   ],
@@ -5021,12 +6887,12 @@
     "password",
     "security"
   ],
-  "lock.doc": [
+  "lock.document": [
     "padlock",
     "password",
     "security"
   ],
-  "lock.doc.fill": [
+  "lock.document.fill": [
     "padlock",
     "password",
     "security"
@@ -5135,6 +7001,10 @@
     "password",
     "security"
   ],
+  "lock.rectangle.on.rectangle.dashed": [
+    "digital rights management",
+    "drm"
+  ],
   "lock.rectangle.on.rectangle.fill": [
     "padlock",
     "password",
@@ -5226,6 +7096,11 @@
   "magnifyingglass.circle.fill": [
     "search"
   ],
+  "mail": [
+    "address",
+    "letter",
+    "mail"
+  ],
   "mail.and.text.magnifyingglass": [
     "headers",
     "search"
@@ -5234,17 +7109,68 @@
     "headers",
     "search"
   ],
+  "mail.fill": [
+    "address",
+    "letter",
+    "mail"
+  ],
   "mail.stack": [
+    "address",
+    "letter",
+    "mail",
     "related"
   ],
   "mail.stack.fill": [
+    "address",
+    "letter",
+    "mail",
     "related"
+  ],
+  "malaysianringgitsign": [
+    "currencies",
+    "currency"
+  ],
+  "malaysianringgitsign.arrow.trianglehead.counterclockwise.rotate.90": [
+    "currencies",
+    "currency"
+  ],
+  "malaysianringgitsign.bank.building": [
+    "currencies",
+    "currency"
+  ],
+  "malaysianringgitsign.bank.building.fill": [
+    "currencies",
+    "currency"
+  ],
+  "malaysianringgitsign.circle": [
+    "currencies",
+    "currency"
+  ],
+  "malaysianringgitsign.circle.fill": [
+    "currencies",
+    "currency"
+  ],
+  "malaysianringgitsign.square": [
+    "currencies",
+    "currency"
+  ],
+  "malaysianringgitsign.square.fill": [
+    "currencies",
+    "currency"
   ],
   "manatsign": [
     "currencies",
     "currency"
   ],
-  "manatsign.arrow.circlepath": [
+  "manatsign.arrow.trianglehead.counterclockwise.rotate.90": [
+    "currencies",
+    "currency"
+  ],
+  "manatsign.bank.building": [
+    "currencies",
+    "currency"
+  ],
+  "manatsign.bank.building.fill": [
     "currencies",
     "currency"
   ],
@@ -5302,64 +7228,6 @@
   "menubar.dock.rectangle.badge.record": [
     "desktop"
   ],
-  "mic": [
-    "dictate",
-    "dictation",
-    "microphone"
-  ],
-  "mic.badge.plus": [
-    "microphone"
-  ],
-  "mic.badge.xmark": [
-    "microphone"
-  ],
-  "mic.circle": [
-    "dictate",
-    "dictation",
-    "microphone"
-  ],
-  "mic.circle.fill": [
-    "dictate",
-    "dictation",
-    "microphone"
-  ],
-  "mic.fill": [
-    "dictate",
-    "dictation",
-    "microphone"
-  ],
-  "mic.fill.badge.plus": [
-    "microphone"
-  ],
-  "mic.fill.badge.xmark": [
-    "microphone"
-  ],
-  "mic.slash": [
-    "microphone",
-    "remove"
-  ],
-  "mic.slash.circle": [
-    "microphone",
-    "remove"
-  ],
-  "mic.slash.circle.fill": [
-    "microphone",
-    "remove"
-  ],
-  "mic.slash.fill": [
-    "microphone",
-    "remove"
-  ],
-  "mic.square": [
-    "dictate",
-    "dictation",
-    "microphone"
-  ],
-  "mic.square.fill": [
-    "dictate",
-    "dictation",
-    "microphone"
-  ],
   "microbe": [
     "COVID",
     "exposure",
@@ -5384,11 +7252,55 @@
     "medical",
     "virus"
   ],
+  "microphone": [
+    "dictate",
+    "dictation"
+  ],
+  "microphone.circle": [
+    "dictate",
+    "dictation"
+  ],
+  "microphone.circle.fill": [
+    "dictate",
+    "dictation"
+  ],
+  "microphone.fill": [
+    "dictate",
+    "dictation"
+  ],
+  "microphone.slash": [
+    "remove"
+  ],
+  "microphone.slash.circle": [
+    "remove"
+  ],
+  "microphone.slash.circle.fill": [
+    "remove"
+  ],
+  "microphone.slash.fill": [
+    "remove"
+  ],
+  "microphone.square": [
+    "dictate",
+    "dictation"
+  ],
+  "microphone.square.fill": [
+    "dictate",
+    "dictation"
+  ],
   "millsign": [
     "currencies",
     "currency"
   ],
-  "millsign.arrow.circlepath": [
+  "millsign.arrow.trianglehead.counterclockwise.rotate.90": [
+    "currencies",
+    "currency"
+  ],
+  "millsign.bank.building": [
+    "currencies",
+    "currency"
+  ],
+  "millsign.bank.building.fill": [
     "currencies",
     "currency"
   ],
@@ -5416,6 +7328,9 @@
     "remove",
     "subtract",
     "−"
+  ],
+  "minus.arrow.trianglehead.counterclockwise": [
+    "-"
   ],
   "minus.circle": [
     "-",
@@ -5559,13 +7474,11 @@
   "mug": [
     "coffee",
     "drink",
-    "food",
     "tea"
   ],
   "mug.fill": [
     "coffee",
     "drink",
-    "food",
     "tea"
   ],
   "multiply": [
@@ -5593,13 +7506,13 @@
     "multiply",
     "times"
   ],
-  "music.mic": [
+  "music.microphone": [
     "microphone"
   ],
-  "music.mic.circle": [
+  "music.microphone.circle": [
     "microphone"
   ],
-  "music.mic.circle.fill": [
+  "music.microphone.circle.fill": [
     "microphone"
   ],
   "music.note.house": [
@@ -5614,7 +7527,15 @@
     "currencies",
     "currency"
   ],
-  "nairasign.arrow.circlepath": [
+  "nairasign.arrow.trianglehead.counterclockwise.rotate.90": [
+    "currencies",
+    "currency"
+  ],
+  "nairasign.bank.building": [
+    "currencies",
+    "currency"
+  ],
+  "nairasign.bank.building.fill": [
     "currencies",
     "currency"
   ],
@@ -5638,7 +7559,15 @@
     "currencies",
     "currency"
   ],
-  "norwegiankronesign.arrow.circlepath": [
+  "norwegiankronesign.arrow.trianglehead.counterclockwise.rotate.90": [
+    "currencies",
+    "currency"
+  ],
+  "norwegiankronesign.bank.building": [
+    "currencies",
+    "currency"
+  ],
+  "norwegiankronesign.bank.building.fill": [
     "currencies",
     "currency"
   ],
@@ -5663,6 +7592,21 @@
     "add",
     "create",
     "new"
+  ],
+  "notequal": [
+    "≠"
+  ],
+  "notequal.circle": [
+    "≠"
+  ],
+  "notequal.circle.fill": [
+    "≠"
+  ],
+  "notequal.square": [
+    "≠"
+  ],
+  "notequal.square.fill": [
+    "≠"
   ],
   "number": [
     "#",
@@ -5698,6 +7642,14 @@
     "numero"
   ],
   "oar.2.crossed": [
+    "paddling",
+    "sports"
+  ],
+  "oar.2.crossed.circle": [
+    "paddling",
+    "sports"
+  ],
+  "oar.2.crossed.circle.fill": [
     "paddling",
     "sports"
   ],
@@ -5849,11 +7801,18 @@
   "percent": [
     "%"
   ],
+  "percent.ar": [
+    "%"
+  ],
   "person": [
     "people",
     "user"
   ],
   "person.2": [
+    "people",
+    "shared"
+  ],
+  "person.2.arrow.trianglehead.counterclockwise": [
     "people",
     "shared"
   ],
@@ -5877,6 +7836,18 @@
     "privacyandsecurity",
     "user"
   ],
+  "person.2.badge.minus": [
+    "people"
+  ],
+  "person.2.badge.minus.fill": [
+    "people"
+  ],
+  "person.2.badge.plus": [
+    "people"
+  ],
+  "person.2.badge.plus.fill": [
+    "people"
+  ],
   "person.2.circle": [
     "people",
     "shared"
@@ -5894,10 +7865,6 @@
     "people"
   ],
   "person.2.fill": [
-    "people",
-    "shared"
-  ],
-  "person.2.gobackward": [
     "people",
     "shared"
   ],
@@ -5933,7 +7900,7 @@
     "group",
     "people"
   ],
-  "person.and.arrow.left.and.arrow.right": [
+  "person.and.arrow.left.and.arrow.right.outward": [
     "people",
     "user"
   ],
@@ -5990,6 +7957,14 @@
     "people",
     "user"
   ],
+  "person.badge.shield.exclamationmark": [
+    "people",
+    "user"
+  ],
+  "person.badge.shield.exclamationmark.fill": [
+    "people",
+    "user"
+  ],
   "person.bubble": [
     "human",
     "person"
@@ -6027,6 +8002,12 @@
     "user"
   ],
   "person.crop.artframe": [
+    "people"
+  ],
+  "person.crop.badge.magnifyingglass": [
+    "people"
+  ],
+  "person.crop.badge.magnifyingglass.fill": [
     "people"
   ],
   "person.crop.circle": [
@@ -6232,11 +8213,17 @@
     "people",
     "vcard"
   ],
+  "person.crop.square.on.square.angled": [
+    "people"
+  ],
+  "person.crop.square.on.square.angled.fill": [
+    "people"
+  ],
   "person.fill": [
     "people",
     "user"
   ],
-  "person.fill.and.arrow.left.and.arrow.right": [
+  "person.fill.and.arrow.left.and.arrow.right.outward": [
     "people",
     "user"
   ],
@@ -6342,11 +8329,47 @@
   "person.wave.2.fill": [
     "people"
   ],
+  "peruviansolessign": [
+    "currencies",
+    "currency"
+  ],
+  "peruviansolessign.bank.building": [
+    "currencies",
+    "currency"
+  ],
+  "peruviansolessign.bank.building.fill": [
+    "currencies",
+    "currency"
+  ],
+  "peruviansolessign.circle": [
+    "currencies",
+    "currency"
+  ],
+  "peruviansolessign.circle.fill": [
+    "currencies",
+    "currency"
+  ],
+  "peruviansolessign.square": [
+    "currencies",
+    "currency"
+  ],
+  "peruviansolessign.square.fill": [
+    "currencies",
+    "currency"
+  ],
   "pesetasign": [
     "currencies",
     "currency"
   ],
-  "pesetasign.arrow.circlepath": [
+  "pesetasign.arrow.trianglehead.counterclockwise.rotate.90": [
+    "currencies",
+    "currency"
+  ],
+  "pesetasign.bank.building": [
+    "currencies",
+    "currency"
+  ],
+  "pesetasign.bank.building.fill": [
     "currencies",
     "currency"
   ],
@@ -6370,7 +8393,15 @@
     "currencies",
     "currency"
   ],
-  "pesosign.arrow.circlepath": [
+  "pesosign.arrow.trianglehead.counterclockwise.rotate.90": [
+    "currencies",
+    "currency"
+  ],
+  "pesosign.bank.building": [
+    "currencies",
+    "currency"
+  ],
+  "pesosign.bank.building.fill": [
     "currencies",
     "currency"
   ],
@@ -6468,6 +8499,24 @@
     "place",
     "sun"
   ],
+  "photo.badge.exclamationmark": [
+    "environment",
+    "image",
+    "mountain",
+    "photograph",
+    "picture",
+    "place",
+    "sun"
+  ],
+  "photo.badge.exclamationmark.fill": [
+    "environment",
+    "image",
+    "mountain",
+    "photograph",
+    "picture",
+    "place",
+    "sun"
+  ],
   "photo.badge.plus": [
     "add",
     "environment",
@@ -6534,6 +8583,15 @@
     "sun"
   ],
   "photo.on.rectangle.angled": [
+    "environment",
+    "image",
+    "mountain",
+    "photograph",
+    "picture",
+    "place",
+    "sun"
+  ],
+  "photo.on.rectangle.angled.fill": [
     "environment",
     "image",
     "mountain",
@@ -6643,6 +8701,10 @@
     "add"
   ],
   "plus.app.fill": [
+    "add"
+  ],
+  "plus.arrow.trianglehead.clockwise": [
+    "+",
     "add"
   ],
   "plus.bubble": [
@@ -6772,14 +8834,28 @@
     "path",
     "trail"
   ],
-  "point.bottomleft.forward.to.arrowtriangle.uturn.scurvepath": [
+  "point.bottomleft.forward.to.arrow.triangle.scurvepath": [
     "activities",
     "out and back",
     "path",
     "switchback",
     "trail"
   ],
-  "point.bottomleft.forward.to.arrowtriangle.uturn.scurvepath.fill": [
+  "point.bottomleft.forward.to.arrow.triangle.scurvepath.fill": [
+    "activities",
+    "out and back",
+    "path",
+    "switchback",
+    "trail"
+  ],
+  "point.bottomleft.forward.to.arrow.triangle.uturn.scurvepath": [
+    "activities",
+    "out and back",
+    "path",
+    "switchback",
+    "trail"
+  ],
+  "point.bottomleft.forward.to.arrow.triangle.uturn.scurvepath.fill": [
     "activities",
     "out and back",
     "path",
@@ -6833,11 +8909,47 @@
     "path",
     "trail"
   ],
+  "point.topright.arrow.triangle.backward.to.point.bottomleft.filled.scurvepath": [
+    "activities",
+    "out and back",
+    "path",
+    "switchback",
+    "trail"
+  ],
+  "point.topright.arrow.triangle.backward.to.point.bottomleft.scurvepath": [
+    "activities",
+    "out and back",
+    "path",
+    "switchback",
+    "trail"
+  ],
+  "point.topright.arrow.triangle.backward.to.point.bottomleft.scurvepath.fill": [
+    "activities",
+    "out and back",
+    "path",
+    "switchback",
+    "trail"
+  ],
+  "point.topright.filled.arrow.triangle.backward.to.point.bottomleft.scurvepath": [
+    "activities",
+    "out and back",
+    "path",
+    "switchback",
+    "trail"
+  ],
   "polishzlotysign": [
     "currencies",
     "currency"
   ],
-  "polishzlotysign.arrow.circlepath": [
+  "polishzlotysign.arrow.trianglehead.counterclockwise.rotate.90": [
+    "currencies",
+    "currency"
+  ],
+  "polishzlotysign.bank.building": [
+    "currencies",
+    "currency"
+  ],
+  "polishzlotysign.bank.building.fill": [
     "currencies",
     "currency"
   ],
@@ -7173,6 +9285,9 @@
     "mail",
     "print"
   ],
+  "printer.inverse": [
+    "mail"
+  ],
   "projective": [
     "enter"
   ],
@@ -7318,9 +9433,9 @@
     "touch",
     "trackpad"
   ],
-  "rectangle.inset.filled.and.person.filled": [
-    "people",
-    "screen sharing"
+  "rectangle.on.rectangle.dashed": [
+    "digital rights management",
+    "drm"
   ],
   "rectangle.on.rectangle.slash": [
     "remove"
@@ -7370,6 +9485,66 @@
     "add",
     "album"
   ],
+  "repeat": [
+    "arrow",
+    "arrow.trianglehead",
+    "trianglehead"
+  ],
+  "repeat.1": [
+    "arrow",
+    "arrow.trianglehead",
+    "trianglehead"
+  ],
+  "repeat.1.ar": [
+    "arrow",
+    "arrow.trianglehead",
+    "trianglehead"
+  ],
+  "repeat.1.circle": [
+    "arrow",
+    "arrow.trianglehead",
+    "trianglehead"
+  ],
+  "repeat.1.circle.ar": [
+    "arrow",
+    "arrow.trianglehead",
+    "trianglehead"
+  ],
+  "repeat.1.circle.fill": [
+    "arrow",
+    "arrow.trianglehead",
+    "trianglehead"
+  ],
+  "repeat.1.circle.fill.ar": [
+    "arrow",
+    "arrow.trianglehead",
+    "trianglehead"
+  ],
+  "repeat.1.circle.fill.hi": [
+    "arrow",
+    "arrow.trianglehead",
+    "trianglehead"
+  ],
+  "repeat.1.circle.hi": [
+    "arrow",
+    "arrow.trianglehead",
+    "trianglehead"
+  ],
+  "repeat.1.hi": [
+    "arrow",
+    "arrow.trianglehead",
+    "trianglehead"
+  ],
+  "repeat.circle": [
+    "arrow",
+    "arrow.trianglehead",
+    "trianglehead"
+  ],
+  "repeat.circle.fill": [
+    "arrow",
+    "arrow.trianglehead",
+    "trianglehead"
+  ],
   "restart": [
     "restart"
   ],
@@ -7404,7 +9579,15 @@
     "currencies",
     "currency"
   ],
-  "rublesign.arrow.circlepath": [
+  "rublesign.arrow.trianglehead.counterclockwise.rotate.90": [
+    "currencies",
+    "currency"
+  ],
+  "rublesign.bank.building": [
+    "currencies",
+    "currency"
+  ],
+  "rublesign.bank.building.fill": [
     "currencies",
     "currency"
   ],
@@ -7424,11 +9607,31 @@
     "currencies",
     "currency"
   ],
+  "rugbyball": [
+    "sports"
+  ],
+  "rugbyball.circle": [
+    "sports"
+  ],
+  "rugbyball.circle.fill": [
+    "sports"
+  ],
+  "rugbyball.fill": [
+    "sports"
+  ],
   "rupeesign": [
     "currencies",
     "currency"
   ],
-  "rupeesign.arrow.circlepath": [
+  "rupeesign.arrow.trianglehead.counterclockwise.rotate.90": [
+    "currencies",
+    "currency"
+  ],
+  "rupeesign.bank.building": [
+    "currencies",
+    "currency"
+  ],
+  "rupeesign.bank.building.fill": [
     "currencies",
     "currency"
   ],
@@ -7489,19 +9692,19 @@
     "findable",
     "location"
   ],
-  "shared.with.you": [
+  "sharedwithyou": [
     "people",
     "person"
   ],
-  "shared.with.you.circle": [
+  "sharedwithyou.circle": [
     "people",
     "person"
   ],
-  "shared.with.you.circle.fill": [
+  "sharedwithyou.circle.fill": [
     "people",
     "person"
   ],
-  "shared.with.you.slash": [
+  "sharedwithyou.slash": [
     "people",
     "person",
     "remove"
@@ -7521,7 +9724,15 @@
     "currencies",
     "currency"
   ],
-  "shekelsign.arrow.circlepath": [
+  "shekelsign.arrow.trianglehead.counterclockwise.rotate.90": [
+    "currencies",
+    "currency"
+  ],
+  "shekelsign.bank.building": [
+    "currencies",
+    "currency"
+  ],
+  "shekelsign.bank.building.fill": [
     "currencies",
     "currency"
   ],
@@ -7549,6 +9760,21 @@
   ],
   "shield.slash.fill": [
     "remove"
+  ],
+  "shuffle": [
+    "arrow",
+    "arrow.trianglehead",
+    "trianglehead"
+  ],
+  "shuffle.circle": [
+    "arrow",
+    "arrow.trianglehead",
+    "trianglehead"
+  ],
+  "shuffle.circle.fill": [
+    "arrow",
+    "arrow.trianglehead",
+    "trianglehead"
   ],
   "signpost.and.arrowtriangle.up": [
     "campground",
@@ -7638,6 +9864,38 @@
     "camping",
     "trail"
   ],
+  "singaporedollarsign": [
+    "currencies",
+    "currency"
+  ],
+  "singaporedollarsign.arrow.trianglehead.counterclockwise.rotate.90": [
+    "currencies",
+    "currency"
+  ],
+  "singaporedollarsign.bank.building": [
+    "currencies",
+    "currency"
+  ],
+  "singaporedollarsign.bank.building.fill": [
+    "currencies",
+    "currency"
+  ],
+  "singaporedollarsign.circle": [
+    "currencies",
+    "currency"
+  ],
+  "singaporedollarsign.circle.fill": [
+    "currencies",
+    "currency"
+  ],
+  "singaporedollarsign.square": [
+    "currencies",
+    "currency"
+  ],
+  "singaporedollarsign.square.fill": [
+    "currencies",
+    "currency"
+  ],
   "skateboard": [
     "sports"
   ],
@@ -7661,7 +9919,7 @@
   "sleep": [
     "sleep"
   ],
-  "slider.horizontal.2.gobackward": [
+  "slider.horizontal.2.arrow.trianglehead.counterclockwise": [
     "adjust",
     "edit"
   ],
@@ -7852,6 +10110,9 @@
   "speaker.wave.1": [
     "volume"
   ],
+  "speaker.wave.1.arrowtriangles.up.right.down.left": [
+    "volume"
+  ],
   "speaker.wave.1.fill": [
     "volume"
   ],
@@ -7898,6 +10159,16 @@
     "water"
   ],
   "square.and.arrow.down": [
+    "download",
+    "import",
+    "save"
+  ],
+  "square.and.arrow.down.badge.clock": [
+    "download",
+    "import",
+    "save"
+  ],
+  "square.and.arrow.down.badge.clock.fill": [
     "download",
     "import",
     "save"
@@ -7964,6 +10235,13 @@
     "upload"
   ],
   "square.and.arrow.up.trianglebadge.exclamationmark": [
+    "export",
+    "share",
+    "sharrow",
+    "upload",
+    "warning"
+  ],
+  "square.and.arrow.up.trianglebadge.exclamationmark.fill": [
     "export",
     "share",
     "sharrow",
@@ -8126,7 +10404,15 @@
     "currencies",
     "currency"
   ],
-  "sterlingsign.arrow.circlepath": [
+  "sterlingsign.arrow.trianglehead.counterclockwise.rotate.90": [
+    "currencies",
+    "currency"
+  ],
+  "sterlingsign.bank.building": [
+    "currencies",
+    "currency"
+  ],
+  "sterlingsign.bank.building.fill": [
     "currencies",
     "currency"
   ],
@@ -8145,6 +10431,24 @@
   "sterlingsign.square.fill": [
     "currencies",
     "currency"
+  ],
+  "suitcase": [
+    "luggage"
+  ],
+  "suitcase.cart": [
+    "luggage"
+  ],
+  "suitcase.cart.fill": [
+    "luggage"
+  ],
+  "suitcase.fill": [
+    "luggage"
+  ],
+  "suitcase.rolling": [
+    "luggage"
+  ],
+  "suitcase.rolling.fill": [
+    "luggage"
   ],
   "sun.dust": [
     "weather"
@@ -8181,6 +10485,9 @@
   ],
   "sun.horizon.fill": [
     "weather"
+  ],
+  "sun.lefthalf.filled": [
+    "sun"
   ],
   "sun.max": [
     "weather"
@@ -8221,6 +10528,9 @@
   ],
   "sun.rain.fill": [
     "weather"
+  ],
+  "sun.righthalf.filled": [
+    "sun"
   ],
   "sun.snow": [
     "weather"
@@ -8272,11 +10582,39 @@
     "!",
     "warning"
   ],
+  "suv.side.hill.descent.control": [
+    "DSR"
+  ],
+  "suv.side.hill.descent.control.fill": [
+    "DSR"
+  ],
+  "suv.side.lock": [
+    "padlock"
+  ],
+  "suv.side.lock.fill": [
+    "padlock"
+  ],
+  "suv.side.lock.open": [
+    "padlock",
+    "unlock"
+  ],
+  "suv.side.lock.open.fill": [
+    "padlock",
+    "unlock"
+  ],
   "swedishkronasign": [
     "currencies",
     "currency"
   ],
-  "swedishkronasign.arrow.circlepath": [
+  "swedishkronasign.arrow.trianglehead.counterclockwise.rotate.90": [
+    "currencies",
+    "currency"
+  ],
+  "swedishkronasign.bank.building": [
+    "currencies",
+    "currency"
+  ],
+  "swedishkronasign.bank.building.fill": [
     "currencies",
     "currency"
   ],
@@ -8303,6 +10641,9 @@
   "swirl.circle.righthalf.filled.inverse": [
     "brilliance",
     "edit"
+  ],
+  "switch.2": [
+    "control center"
   ],
   "syringe": [
     "COVID",
@@ -8337,12 +10678,10 @@
     "remove"
   ],
   "takeoutbag.and.cup.and.straw": [
-    "drink",
-    "food"
+    "drink"
   ],
   "takeoutbag.and.cup.and.straw.fill": [
-    "drink",
-    "food"
+    "drink"
   ],
   "target": [
     "dot"
@@ -8383,7 +10722,15 @@
     "currencies",
     "currency"
   ],
-  "tengesign.arrow.circlepath": [
+  "tengesign.arrow.trianglehead.counterclockwise.rotate.90": [
+    "currencies",
+    "currency"
+  ],
+  "tengesign.bank.building": [
+    "currencies",
+    "currency"
+  ],
+  "tengesign.bank.building.fill": [
     "currencies",
     "currency"
   ],
@@ -8523,6 +10870,15 @@
   "text.magnifyingglass.rtl": [
     "search"
   ],
+  "text.page.badge.magnifyingglass": [
+    "search"
+  ],
+  "text.rectangle.page": [
+    "today"
+  ],
+  "text.rectangle.page.fill": [
+    "today"
+  ],
   "text.word.spacing": [
     "word spacing"
   ],
@@ -8583,6 +10939,9 @@
   "thermometer.transmission": [
     "temperature",
     "transmission"
+  ],
+  "thermometer.variable": [
+    "weather"
   ],
   "thermometer.variable.and.figure": [
     "feels like",
@@ -8658,6 +11017,18 @@
     "fingerprint",
     "password",
     "security"
+  ],
+  "tow.hitch": [
+    "towing system"
+  ],
+  "tow.hitch.exclamationmark": [
+    "towing system"
+  ],
+  "tow.hitch.exclamationmark.fill": [
+    "towing system"
+  ],
+  "tow.hitch.fill": [
+    "towing system"
   ],
   "trash": [
     "mail",
@@ -8770,11 +11141,39 @@
   "truck.box.badge.clock.rtl": [
     "time"
   ],
+  "truck.pickup.side.lock": [
+    "padlock"
+  ],
+  "truck.pickup.side.lock.fill": [
+    "padlock"
+  ],
+  "truck.pickup.side.lock.open": [
+    "padlock",
+    "unlock"
+  ],
+  "truck.pickup.side.lock.open.fill": [
+    "padlock",
+    "unlock"
+  ],
+  "truck.side.hill.descent.control": [
+    "DSR"
+  ],
+  "truck.side.hill.descent.control.fill": [
+    "DSR"
+  ],
   "tugriksign": [
     "currencies",
     "currency"
   ],
-  "tugriksign.arrow.circlepath": [
+  "tugriksign.arrow.trianglehead.counterclockwise.rotate.90": [
+    "currencies",
+    "currency"
+  ],
+  "tugriksign.bank.building": [
+    "currencies",
+    "currency"
+  ],
+  "tugriksign.bank.building.fill": [
     "currencies",
     "currency"
   ],
@@ -8798,7 +11197,15 @@
     "currencies",
     "currency"
   ],
-  "turkishlirasign.arrow.circlepath": [
+  "turkishlirasign.arrow.trianglehead.counterclockwise.rotate.90": [
+    "currencies",
+    "currency"
+  ],
+  "turkishlirasign.bank.building": [
+    "currencies",
+    "currency"
+  ],
+  "turkishlirasign.bank.building.fill": [
     "currencies",
     "currency"
   ],
@@ -8817,6 +11224,18 @@
   "turkishlirasign.square.fill": [
     "currencies",
     "currency"
+  ],
+  "umbrella.percent": [
+    "%"
+  ],
+  "umbrella.percent.ar": [
+    "%"
+  ],
+  "umbrella.percent.fill": [
+    "%"
+  ],
+  "umbrella.percent.fill.ar": [
+    "%"
   ],
   "video": [
     "facetime"
@@ -8922,7 +11341,7 @@
     "water",
     "wave"
   ],
-  "water.waves.and.arrow.down": [
+  "water.waves.and.arrow.trianglehead.down": [
     "dive",
     "ocean",
     "sea",
@@ -8932,7 +11351,7 @@
     "water",
     "wave"
   ],
-  "water.waves.and.arrow.down.trianglebadge.exclamationmark": [
+  "water.waves.and.arrow.trianglehead.down.trianglebadge.exclamationmark": [
     "!",
     "dive",
     "ocean",
@@ -8944,7 +11363,7 @@
     "water",
     "wave"
   ],
-  "water.waves.and.arrow.up": [
+  "water.waves.and.arrow.trianglehead.up": [
     "dive",
     "ocean",
     "sea",
@@ -8965,12 +11384,10 @@
     "wave"
   ],
   "waterbottle": [
-    "drink",
-    "food"
+    "drink"
   ],
   "waterbottle.fill": [
-    "drink",
-    "food"
+    "drink"
   ],
   "wave.3.backward": [
     "left"
@@ -9006,7 +11423,7 @@
   "waveform.badge.magnifyingglass": [
     "search"
   ],
-  "waveform.badge.mic": [
+  "waveform.badge.microphone": [
     "microphone"
   ],
   "waveform.circle": [
@@ -9033,6 +11450,34 @@
   ],
   "waveform.path.ecg.rectangle.fill": [
     "medical"
+  ],
+  "widget.extralarge": [
+    "4x8",
+    "8x4"
+  ],
+  "widget.extralarge.badge.plus": [
+    "4x8",
+    "8x4"
+  ],
+  "widget.large": [
+    "4x4"
+  ],
+  "widget.large.badge.plus": [
+    "4x4"
+  ],
+  "widget.medium": [
+    "2x4",
+    "4x2"
+  ],
+  "widget.medium.badge.plus": [
+    "2x4",
+    "4x2"
+  ],
+  "widget.small": [
+    "2x2"
+  ],
+  "widget.small.badge.plus": [
+    "2x2"
   ],
   "wifi.exclamationmark": [
     "warning"
@@ -9073,18 +11518,24 @@
     "warning"
   ],
   "wineglass": [
-    "drink",
-    "food"
+    "drink"
   ],
   "wineglass.fill": [
-    "drink",
-    "food"
+    "drink"
   ],
   "wonsign": [
     "currencies",
     "currency"
   ],
-  "wonsign.arrow.circlepath": [
+  "wonsign.arrow.trianglehead.counterclockwise.rotate.90": [
+    "currencies",
+    "currency"
+  ],
+  "wonsign.bank.building": [
+    "currencies",
+    "currency"
+  ],
+  "wonsign.bank.building.fill": [
     "currencies",
     "currency"
   ],
@@ -9200,7 +11651,15 @@
     "currencies",
     "currency"
   ],
-  "yensign.arrow.circlepath": [
+  "yensign.arrow.trianglehead.counterclockwise.rotate.90": [
+    "currencies",
+    "currency"
+  ],
+  "yensign.bank.building": [
+    "currencies",
+    "currency"
+  ],
+  "yensign.bank.building.fill": [
     "currencies",
     "currency"
   ],
