@@ -1,3 +1,19 @@
+# 📝 2024/12/16
+
+## iOS18.2
+
+```
+symbol_categories.plist: 6934
+symbol_search.plist: 2848
+legacy_flippable.plist: 75
+name_availability.plist: 2
+Info.plist: 22
+categories.plist: 31
+symbol_order.plist: 7454
+```
+
+
+
 # 📝 2024/09/30
 
 ## iOS18.0
