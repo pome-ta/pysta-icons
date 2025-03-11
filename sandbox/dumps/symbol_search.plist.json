@@ -220,6 +220,21 @@
   "airpods.gen3.chargingcase.wireless.fill": [
     "audio"
   ],
+  "airpods.gen4": [
+    "audio"
+  ],
+  "airpods.gen4.chargingcase.wireless": [
+    "audio"
+  ],
+  "airpods.gen4.chargingcase.wireless.fill": [
+    "audio"
+  ],
+  "airpods.gen4.left": [
+    "audio"
+  ],
+  "airpods.gen4.right": [
+    "audio"
+  ],
   "airpods.max": [
     "audio",
     "sound",
@@ -1537,6 +1552,14 @@
   "bolt.heart.fill": [
     "medical"
   ],
+  "bolt.house": [
+    "home",
+    "house"
+  ],
+  "bolt.house.fill": [
+    "home",
+    "house"
+  ],
   "bolt.ring.closed": [
     "energy",
     "power"
@@ -2609,6 +2632,20 @@
   "delete.right.fill": [
     "delete"
   ],
+  "desktopcomputer": [
+    "imac",
+    "mac"
+  ],
+  "desktopcomputer.and.arrow.down": [
+    "imac"
+  ],
+  "desktopcomputer.and.macbook": [
+    "imac",
+    "mac"
+  ],
+  "desktopcomputer.trianglebadge.exclamationmark": [
+    "imac"
+  ],
   "display.trianglebadge.exclamationmark": [
     "warning"
   ],
@@ -3160,6 +3197,16 @@
     "letter",
     "mail"
   ],
+  "envelope.stack": [
+    "address",
+    "letter",
+    "mail"
+  ],
+  "envelope.stack.fill": [
+    "address",
+    "letter",
+    "mail"
+  ],
   "equal": [
     "="
   ],
@@ -3467,9 +3514,11 @@
     "smile"
   ],
   "face.smiling": [
+    "friendly",
     "smile"
   ],
   "face.smiling.inverse": [
+    "friendly",
     "smile"
   ],
   "faceid": [
@@ -4626,6 +4675,10 @@
     "human",
     "person"
   ],
+  "figure.seated.side.left.air.distribution.upper.and.middle.and.lower": [
+    "human",
+    "person"
+  ],
   "figure.seated.side.left.air.distribution.upper.angled.and.lower.angled": [
     "human",
     "person"
@@ -4719,6 +4772,10 @@
     "person"
   ],
   "figure.seated.side.right.air.distribution.upper": [
+    "human",
+    "person"
+  ],
+  "figure.seated.side.right.air.distribution.upper.and.middle.and.lower": [
     "human",
     "person"
   ],
@@ -6434,6 +6491,14 @@
     "people",
     "screen sharing"
   ],
+  "inset.filled.rectangle.and.person.filled.circle": [
+    "people",
+    "screen sharing"
+  ],
+  "inset.filled.rectangle.and.person.filled.circle.fill": [
+    "people",
+    "screen sharing"
+  ],
   "ipad.landscape.and.iphone": [
     "ipad",
     "iphone"
@@ -6882,6 +6947,9 @@
     "password",
     "security"
   ],
+  "lock.desktopcomputer": [
+    "imac"
+  ],
   "lock.display": [
     "padlock",
     "password",
@@ -6938,6 +7006,9 @@
     "padlock",
     "password",
     "security"
+  ],
+  "lock.open.desktopcomputer": [
+    "imac"
   ],
   "lock.open.display": [
     "padlock",
@@ -8517,6 +8588,24 @@
     "place",
     "sun"
   ],
+  "photo.badge.magnifyingglass": [
+    "environment",
+    "image",
+    "mountain",
+    "photograph",
+    "picture",
+    "place",
+    "sun"
+  ],
+  "photo.badge.magnifyingglass.fill": [
+    "environment",
+    "image",
+    "mountain",
+    "photograph",
+    "picture",
+    "place",
+    "sun"
+  ],
   "photo.badge.plus": [
     "add",
     "environment",
@@ -8668,6 +8757,9 @@
   ],
   "pin.slash.fill": [
     "remove"
+  ],
+  "play.desktopcomputer": [
+    "imac"
   ],
   "play.house": [
     "home",
@@ -10163,12 +10255,32 @@
     "import",
     "save"
   ],
+  "square.and.arrow.down.badge.checkmark": [
+    "download",
+    "import",
+    "save"
+  ],
+  "square.and.arrow.down.badge.checkmark.fill": [
+    "download",
+    "import",
+    "save"
+  ],
   "square.and.arrow.down.badge.clock": [
     "download",
     "import",
     "save"
   ],
   "square.and.arrow.down.badge.clock.fill": [
+    "download",
+    "import",
+    "save"
+  ],
+  "square.and.arrow.down.badge.xmark": [
+    "download",
+    "import",
+    "save"
+  ],
+  "square.and.arrow.down.badge.xmark.fill": [
     "download",
     "import",
     "save"
@@ -11450,6 +11562,18 @@
   ],
   "waveform.path.ecg.rectangle.fill": [
     "medical"
+  ],
+  "waveform.path.ecg.text.clipboard": [
+    "notes"
+  ],
+  "waveform.path.ecg.text.clipboard.fill": [
+    "notes"
+  ],
+  "waveform.path.ecg.text.clipboard.fill.rtl": [
+    "notes"
+  ],
+  "waveform.path.ecg.text.clipboard.rtl": [
+    "notes"
   ],
   "widget.extralarge": [
     "4x8",

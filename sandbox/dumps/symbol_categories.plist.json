@@ -3149,6 +3149,26 @@
   "airpods.gen3.chargingcase.wireless.fill": [
     "devices"
   ],
+  "airpods.gen4": [
+    "devices",
+    "whatsnew"
+  ],
+  "airpods.gen4.chargingcase.wireless": [
+    "devices",
+    "whatsnew"
+  ],
+  "airpods.gen4.chargingcase.wireless.fill": [
+    "devices",
+    "whatsnew"
+  ],
+  "airpods.gen4.left": [
+    "devices",
+    "whatsnew"
+  ],
+  "airpods.gen4.right": [
+    "devices",
+    "whatsnew"
+  ],
   "airpods.max": [
     "devices",
     "objectsandtools"
@@ -3449,6 +3469,10 @@
   ],
   "apple.terminal.on.rectangle.fill": [
     "multicolor"
+  ],
+  "apple.writing.tools": [
+    "multicolor",
+    "whatsnew"
   ],
   "applepencil": [
     "devices"
@@ -6373,6 +6397,13 @@
   "bolt.horizontal.icloud.fill": [
     "connectivity"
   ],
+  "bolt.house": [
+    "whatsnew"
+  ],
+  "bolt.house.fill": [
+    "multicolor",
+    "whatsnew"
+  ],
   "bolt.shield": [
     "nature",
     "objectsandtools"
@@ -6849,6 +6880,10 @@
   ],
   "cable.connector.slash": [
     "devices"
+  ],
+  "cable.connector.video": [
+    "devices",
+    "whatsnew"
   ],
   "cablecar": [
     "transportation"
@@ -7640,6 +7675,26 @@
   "car.top.lane.dashed.departure.right.fill": [
     "automotive"
   ],
+  "car.top.radiowaves.2.front.left.front.front.right": [
+    "automotive",
+    "variablecolor",
+    "whatsnew"
+  ],
+  "car.top.radiowaves.2.front.left.front.front.right.fill": [
+    "automotive",
+    "variablecolor",
+    "whatsnew"
+  ],
+  "car.top.radiowaves.2.rear.left.rear.rear.right": [
+    "automotive",
+    "variablecolor",
+    "whatsnew"
+  ],
+  "car.top.radiowaves.2.rear.left.rear.rear.right.fill": [
+    "automotive",
+    "variablecolor",
+    "whatsnew"
+  ],
   "car.top.radiowaves.front": [
     "automotive",
     "variablecolor"
@@ -8292,12 +8347,26 @@
     "textformatting",
     "whatsnew"
   ],
+  "character.circle.bn": [
+    "textformatting",
+    "whatsnew"
+  ],
   "character.circle.fill": [
     "multicolor",
     "textformatting",
     "whatsnew"
   ],
   "character.circle.fill.ar": [
+    "multicolor",
+    "textformatting",
+    "whatsnew"
+  ],
+  "character.circle.fill.bn": [
+    "multicolor",
+    "textformatting",
+    "whatsnew"
+  ],
+  "character.circle.fill.gu": [
     "multicolor",
     "textformatting",
     "whatsnew"
@@ -8317,7 +8386,57 @@
     "textformatting",
     "whatsnew"
   ],
+  "character.circle.fill.kn": [
+    "multicolor",
+    "textformatting",
+    "whatsnew"
+  ],
   "character.circle.fill.ko": [
+    "multicolor",
+    "textformatting",
+    "whatsnew"
+  ],
+  "character.circle.fill.ml": [
+    "multicolor",
+    "textformatting",
+    "whatsnew"
+  ],
+  "character.circle.fill.mni": [
+    "multicolor",
+    "textformatting",
+    "whatsnew"
+  ],
+  "character.circle.fill.mr": [
+    "multicolor",
+    "textformatting",
+    "whatsnew"
+  ],
+  "character.circle.fill.or": [
+    "multicolor",
+    "textformatting",
+    "whatsnew"
+  ],
+  "character.circle.fill.pa": [
+    "multicolor",
+    "textformatting",
+    "whatsnew"
+  ],
+  "character.circle.fill.sat": [
+    "multicolor",
+    "textformatting",
+    "whatsnew"
+  ],
+  "character.circle.fill.si": [
+    "multicolor",
+    "textformatting",
+    "whatsnew"
+  ],
+  "character.circle.fill.ta": [
+    "multicolor",
+    "textformatting",
+    "whatsnew"
+  ],
+  "character.circle.fill.te": [
     "multicolor",
     "textformatting",
     "whatsnew"
@@ -8329,6 +8448,10 @@
   ],
   "character.circle.fill.zh": [
     "multicolor",
+    "textformatting",
+    "whatsnew"
+  ],
+  "character.circle.gu": [
     "textformatting",
     "whatsnew"
   ],
@@ -8344,7 +8467,47 @@
     "textformatting",
     "whatsnew"
   ],
+  "character.circle.kn": [
+    "textformatting",
+    "whatsnew"
+  ],
   "character.circle.ko": [
+    "textformatting",
+    "whatsnew"
+  ],
+  "character.circle.ml": [
+    "textformatting",
+    "whatsnew"
+  ],
+  "character.circle.mni": [
+    "textformatting",
+    "whatsnew"
+  ],
+  "character.circle.mr": [
+    "textformatting",
+    "whatsnew"
+  ],
+  "character.circle.or": [
+    "textformatting",
+    "whatsnew"
+  ],
+  "character.circle.pa": [
+    "textformatting",
+    "whatsnew"
+  ],
+  "character.circle.sat": [
+    "textformatting",
+    "whatsnew"
+  ],
+  "character.circle.si": [
+    "textformatting",
+    "whatsnew"
+  ],
+  "character.circle.ta": [
+    "textformatting",
+    "whatsnew"
+  ],
+  "character.circle.te": [
     "textformatting",
     "whatsnew"
   ],
@@ -8445,6 +8608,7 @@
     "whatsnew"
   ],
   "character.mr": [
+    "textformatting",
     "whatsnew"
   ],
   "character.or": [
@@ -8474,12 +8638,26 @@
     "textformatting",
     "whatsnew"
   ],
+  "character.square.bn": [
+    "textformatting",
+    "whatsnew"
+  ],
   "character.square.fill": [
     "multicolor",
     "textformatting",
     "whatsnew"
   ],
   "character.square.fill.ar": [
+    "multicolor",
+    "textformatting",
+    "whatsnew"
+  ],
+  "character.square.fill.bn": [
+    "multicolor",
+    "textformatting",
+    "whatsnew"
+  ],
+  "character.square.fill.gu": [
     "multicolor",
     "textformatting",
     "whatsnew"
@@ -8499,7 +8677,57 @@
     "textformatting",
     "whatsnew"
   ],
+  "character.square.fill.kn": [
+    "multicolor",
+    "textformatting",
+    "whatsnew"
+  ],
   "character.square.fill.ko": [
+    "multicolor",
+    "textformatting",
+    "whatsnew"
+  ],
+  "character.square.fill.ml": [
+    "multicolor",
+    "textformatting",
+    "whatsnew"
+  ],
+  "character.square.fill.mni": [
+    "multicolor",
+    "textformatting",
+    "whatsnew"
+  ],
+  "character.square.fill.mr": [
+    "multicolor",
+    "textformatting",
+    "whatsnew"
+  ],
+  "character.square.fill.or": [
+    "multicolor",
+    "textformatting",
+    "whatsnew"
+  ],
+  "character.square.fill.pa": [
+    "multicolor",
+    "textformatting",
+    "whatsnew"
+  ],
+  "character.square.fill.sat": [
+    "multicolor",
+    "textformatting",
+    "whatsnew"
+  ],
+  "character.square.fill.si": [
+    "multicolor",
+    "textformatting",
+    "whatsnew"
+  ],
+  "character.square.fill.ta": [
+    "multicolor",
+    "textformatting",
+    "whatsnew"
+  ],
+  "character.square.fill.te": [
     "multicolor",
     "textformatting",
     "whatsnew"
@@ -8511,6 +8739,10 @@
   ],
   "character.square.fill.zh": [
     "multicolor",
+    "textformatting",
+    "whatsnew"
+  ],
+  "character.square.gu": [
     "textformatting",
     "whatsnew"
   ],
@@ -8526,7 +8758,47 @@
     "textformatting",
     "whatsnew"
   ],
+  "character.square.kn": [
+    "textformatting",
+    "whatsnew"
+  ],
   "character.square.ko": [
+    "textformatting",
+    "whatsnew"
+  ],
+  "character.square.ml": [
+    "textformatting",
+    "whatsnew"
+  ],
+  "character.square.mni": [
+    "textformatting",
+    "whatsnew"
+  ],
+  "character.square.mr": [
+    "textformatting",
+    "whatsnew"
+  ],
+  "character.square.or": [
+    "textformatting",
+    "whatsnew"
+  ],
+  "character.square.pa": [
+    "textformatting",
+    "whatsnew"
+  ],
+  "character.square.sat": [
+    "textformatting",
+    "whatsnew"
+  ],
+  "character.square.si": [
+    "textformatting",
+    "whatsnew"
+  ],
+  "character.square.ta": [
+    "textformatting",
+    "whatsnew"
+  ],
+  "character.square.te": [
     "textformatting",
     "whatsnew"
   ],
@@ -10837,6 +11109,16 @@
   "dot.arrowtriangles.up.right.down.left.circle": [
     "accessibility"
   ],
+  "dot.car.top.radiowaves.2.rear.left.rear.rear.right": [
+    "automotive",
+    "variablecolor",
+    "whatsnew"
+  ],
+  "dot.car.top.radiowaves.2.rear.left.rear.rear.right.fill": [
+    "automotive",
+    "variablecolor",
+    "whatsnew"
+  ],
   "dot.circle.and.cursorarrow": [
     "accessibility"
   ],
@@ -11041,12 +11323,6 @@
   "earpods": [
     "devices"
   ],
-  "ecg.text.page": [
-    "multicolor"
-  ],
-  "ecg.text.page.rtl": [
-    "multicolor"
-  ],
   "eject": [
     "keyboard"
   ],
@@ -11217,6 +11493,14 @@
   ],
   "envelope.open.fill": [
     "communication"
+  ],
+  "envelope.stack": [
+    "communication",
+    "whatsnew"
+  ],
+  "envelope.stack.fill": [
+    "communication",
+    "whatsnew"
   ],
   "equal": [
     "math"
@@ -11575,6 +11859,15 @@
   "exclamationmark.magnifyingglass": [
     "objectsandtools"
   ],
+  "exclamationmark.message": [
+    "communication",
+    "whatsnew"
+  ],
+  "exclamationmark.message.fill": [
+    "communication",
+    "multicolor",
+    "whatsnew"
+  ],
   "exclamationmark.octagon": [
     "multicolor"
   ],
@@ -11614,6 +11907,18 @@
     "automotive",
     "multicolor",
     "privacyandsecurity"
+  ],
+  "exclamationmark.triangle.text.page": [
+    "whatsnew"
+  ],
+  "exclamationmark.triangle.text.page.fill": [
+    "whatsnew"
+  ],
+  "exclamationmark.triangle.text.page.fill.rtl": [
+    "whatsnew"
+  ],
+  "exclamationmark.triangle.text.page.rtl": [
+    "whatsnew"
   ],
   "exclamationmark.warninglight": [
     "automotive",
@@ -13118,6 +13423,11 @@
     "automotive",
     "human"
   ],
+  "figure.seated.side.left.air.distribution.upper.and.middle.and.lower": [
+    "automotive",
+    "human",
+    "whatsnew"
+  ],
   "figure.seated.side.left.air.distribution.upper.angled.and.lower.angled": [
     "automotive",
     "human"
@@ -13222,6 +13532,11 @@
     "whatsnew"
   ],
   "figure.seated.side.right.air.distribution.upper": [
+    "automotive",
+    "human",
+    "whatsnew"
+  ],
+  "figure.seated.side.right.air.distribution.upper.and.middle.and.lower": [
     "automotive",
     "human",
     "whatsnew"
@@ -14898,6 +15213,14 @@
   "hand.thumbsdown.fill": [
     "human"
   ],
+  "hand.thumbsdown.slash": [
+    "human",
+    "whatsnew"
+  ],
+  "hand.thumbsdown.slash.fill": [
+    "human",
+    "whatsnew"
+  ],
   "hand.thumbsup": [
     "human"
   ],
@@ -14910,6 +15233,14 @@
   ],
   "hand.thumbsup.fill": [
     "human"
+  ],
+  "hand.thumbsup.slash": [
+    "human",
+    "whatsnew"
+  ],
+  "hand.thumbsup.slash.fill": [
+    "human",
+    "whatsnew"
   ],
   "hand.wave": [
     "human"
@@ -15031,6 +15362,12 @@
     "devices",
     "multicolor",
     "objectsandtools"
+  ],
+  "headphones.dots": [
+    "devices",
+    "objectsandtools",
+    "variablecolor",
+    "whatsnew"
   ],
   "headphones.slash": [
     "devices",
@@ -15902,6 +16239,13 @@
     "automotive",
     "multicolor"
   ],
+  "info.triangle": [
+    "whatsnew"
+  ],
+  "info.triangle.fill": [
+    "multicolor",
+    "whatsnew"
+  ],
   "info.windshield": [
     "automotive"
   ],
@@ -15939,6 +16283,15 @@
   ],
   "inset.filled.rectangle.and.person.filled": [
     "human"
+  ],
+  "inset.filled.rectangle.and.person.filled.circle": [
+    "human",
+    "whatsnew"
+  ],
+  "inset.filled.rectangle.and.person.filled.circle.fill": [
+    "human",
+    "multicolor",
+    "whatsnew"
   ],
   "inset.filled.righthalf.lefthalf.rectangle": [
     "whatsnew"
@@ -16989,6 +17342,9 @@
   ],
   "laurel.leading": [
     "nature"
+  ],
+  "laurel.leading.laurel.trailing": [
+    "whatsnew"
   ],
   "laurel.trailing": [
     "nature"
@@ -18209,11 +18565,19 @@
   "megaphone.fill": [
     "objectsandtools"
   ],
+  "memories.badge.checkmark": [
+    "multicolor",
+    "whatsnew"
+  ],
   "memories.badge.minus": [
     "multicolor"
   ],
   "memories.badge.plus": [
     "multicolor"
+  ],
+  "memories.badge.xmark": [
+    "multicolor",
+    "whatsnew"
   ],
   "memorychip": [
     "objectsandtools"
@@ -20291,6 +20655,14 @@
     "multicolor",
     "whatsnew"
   ],
+  "photo.badge.magnifyingglass": [
+    "cameraandphotos",
+    "whatsnew"
+  ],
+  "photo.badge.magnifyingglass.fill": [
+    "cameraandphotos",
+    "whatsnew"
+  ],
   "photo.badge.plus": [
     "cameraandphotos",
     "multicolor"
@@ -21156,6 +21528,24 @@
     "objectsandtools",
     "privacyandsecurity"
   ],
+  "questionmark.message": [
+    "communication",
+    "whatsnew"
+  ],
+  "questionmark.message.ar": [
+    "communication",
+    "whatsnew"
+  ],
+  "questionmark.message.fill": [
+    "communication",
+    "multicolor",
+    "whatsnew"
+  ],
+  "questionmark.message.fill.ar": [
+    "communication",
+    "multicolor",
+    "whatsnew"
+  ],
   "questionmark.square": [
     "indices",
     "multicolor"
@@ -21356,6 +21746,14 @@
     "gaming",
     "multicolor"
   ],
+  "receipt": [
+    "objectsandtools",
+    "whatsnew"
+  ],
+  "receipt.fill": [
+    "objectsandtools",
+    "whatsnew"
+  ],
   "record.circle": [
     "media"
   ],
@@ -21470,6 +21868,12 @@
   ],
   "rectangle.filled.and.hand.point.up.left": [
     "human"
+  ],
+  "rectangle.grid.3x1": [
+    "whatsnew"
+  ],
+  "rectangle.grid.3x1.fill": [
+    "whatsnew"
   ],
   "rectangle.grid.3x3": [
     "whatsnew"
@@ -22806,11 +23210,27 @@
   "square.3.layers.3d.top.filled": [
     "cameraandphotos"
   ],
+  "square.and.arrow.down.badge.checkmark": [
+    "multicolor",
+    "whatsnew"
+  ],
+  "square.and.arrow.down.badge.checkmark.fill": [
+    "multicolor",
+    "whatsnew"
+  ],
   "square.and.arrow.down.badge.clock": [
     "multicolor",
     "whatsnew"
   ],
   "square.and.arrow.down.badge.clock.fill": [
+    "multicolor",
+    "whatsnew"
+  ],
+  "square.and.arrow.down.badge.xmark": [
+    "multicolor",
+    "whatsnew"
+  ],
+  "square.and.arrow.down.badge.xmark.fill": [
     "multicolor",
     "whatsnew"
   ],
@@ -25610,6 +26030,16 @@
   "wallet.pass.fill": [
     "objectsandtools"
   ],
+  "wand.and.outline": [
+    "editing",
+    "objectsandtools",
+    "whatsnew"
+  ],
+  "wand.and.outline.inverse": [
+    "editing",
+    "objectsandtools",
+    "whatsnew"
+  ],
   "wand.and.rays": [
     "editing",
     "objectsandtools",
@@ -25825,6 +26255,12 @@
     "human",
     "variablecolor"
   ],
+  "waveform.badge.checkmark": [
+    "communication",
+    "multicolor",
+    "variablecolor",
+    "whatsnew"
+  ],
   "waveform.badge.exclamationmark": [
     "communication",
     "multicolor",
@@ -25849,6 +26285,12 @@
     "multicolor",
     "variablecolor"
   ],
+  "waveform.badge.xmark": [
+    "communication",
+    "multicolor",
+    "variablecolor",
+    "whatsnew"
+  ],
   "waveform.circle": [
     "communication",
     "variablecolor"
@@ -25867,12 +26309,47 @@
   "waveform.path.ecg": [
     "health"
   ],
+  "waveform.path.ecg.magnifyingglass": [
+    "whatsnew"
+  ],
   "waveform.path.ecg.rectangle": [
     "health",
     "multicolor"
   ],
   "waveform.path.ecg.rectangle.fill": [
     "health"
+  ],
+  "waveform.path.ecg.text": [
+    "whatsnew"
+  ],
+  "waveform.path.ecg.text.clipboard": [
+    "health",
+    "objectsandtools",
+    "whatsnew"
+  ],
+  "waveform.path.ecg.text.clipboard.fill": [
+    "health",
+    "objectsandtools",
+    "whatsnew"
+  ],
+  "waveform.path.ecg.text.clipboard.fill.rtl": [
+    "health",
+    "objectsandtools",
+    "whatsnew"
+  ],
+  "waveform.path.ecg.text.clipboard.rtl": [
+    "health",
+    "objectsandtools",
+    "whatsnew"
+  ],
+  "waveform.path.ecg.text.page": [
+    "multicolor"
+  ],
+  "waveform.path.ecg.text.page.rtl": [
+    "multicolor"
+  ],
+  "waveform.path.ecg.text.rtl": [
+    "whatsnew"
   ],
   "waveform.slash": [
     "communication"
