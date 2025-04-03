@@ -1,11 +1,11 @@
 {
   "CFBundleName": "CoreGlyphs",
-  "DTXcode": "1600",
-  "DTSDKName": "iphoneos18.3.internal",
-  "DTSDKBuild": "22D59",
+  "DTXcode": "1630",
+  "DTSDKName": "iphoneos18.4.internal",
+  "DTSDKBuild": "22E226",
   "CFBundleDevelopmentRegion": "en",
-  "CFBundleVersion": "167.2.0.2",
-  "BuildMachineOSBuild": "22A380021",
+  "CFBundleVersion": "167.4.0.3",
+  "BuildMachineOSBuild": "23A344011",
   "DTPlatformName": "iphoneos",
   "CFBundlePackageType": "BNDL",
   "CFBundleShortVersionString": "1.0",
@@ -18,14 +18,14 @@
   "UIRequiredDeviceCapabilities": [
     "arm64"
   ],
-  "MinimumOSVersion": "18.3",
+  "MinimumOSVersion": "18.4",
   "CFBundleIdentifier": "com.apple.CoreGlyphs",
   "UIDeviceFamily": [
     1,
     2
   ],
-  "DTPlatformVersion": "18.3",
-  "DTXcodeBuild": "16A6170g",
+  "DTPlatformVersion": "18.4",
+  "DTXcodeBuild": "16E6052g",
   "CFBundleLocalizations": [
     "ar",
     "bg",

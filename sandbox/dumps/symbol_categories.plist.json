@@ -3683,6 +3683,11 @@
     "arrows",
     "multicolor"
   ],
+  "arrow.backward.to.line.compact": [
+    "arrows",
+    "keyboard",
+    "whatsnew"
+  ],
   "arrow.backward.to.line.square": [
     "arrows"
   ],
@@ -4091,6 +4096,11 @@
   "arrow.forward.to.line.circle.fill": [
     "arrows",
     "multicolor"
+  ],
+  "arrow.forward.to.line.compact": [
+    "arrows",
+    "keyboard",
+    "whatsnew"
   ],
   "arrow.forward.to.line.square": [
     "arrows"
@@ -7347,6 +7357,14 @@
     "automotive",
     "multicolor"
   ],
+  "car.side.arrow.left.and.right": [
+    "automotive",
+    "whatsnew"
+  ],
+  "car.side.arrow.left.and.right.fill": [
+    "automotive",
+    "whatsnew"
+  ],
   "car.side.arrowtriangle.down": [
     "automotive"
   ],
@@ -7395,6 +7413,14 @@
   "car.side.hill.down": [
     "automotive"
   ],
+  "car.side.hill.down.and.gauge.open.with.lines.needle.25percent.and.arrowtriangle": [
+    "automotive",
+    "whatsnew"
+  ],
+  "car.side.hill.down.and.gauge.open.with.lines.needle.25percent.and.arrowtriangle.fill": [
+    "automotive",
+    "whatsnew"
+  ],
   "car.side.hill.down.fill": [
     "automotive"
   ],
@@ -7418,6 +7444,14 @@
   ],
   "car.side.rear.and.collision.and.car.side.front": [
     "automotive"
+  ],
+  "car.side.rear.and.collision.and.car.side.front.and.arrow.forward": [
+    "automotive",
+    "whatsnew"
+  ],
+  "car.side.rear.and.collision.and.car.side.front.and.steeringwheel": [
+    "automotive",
+    "whatsnew"
   ],
   "car.side.rear.and.collision.and.car.side.front.slash": [
     "automotive"
@@ -7669,11 +7703,27 @@
   "car.top.lane.dashed.departure.left.fill": [
     "automotive"
   ],
+  "car.top.lane.dashed.departure.left.slash": [
+    "automotive",
+    "whatsnew"
+  ],
+  "car.top.lane.dashed.departure.left.slash.fill": [
+    "automotive",
+    "whatsnew"
+  ],
   "car.top.lane.dashed.departure.right": [
     "automotive"
   ],
   "car.top.lane.dashed.departure.right.fill": [
     "automotive"
+  ],
+  "car.top.lane.dashed.departure.right.slash": [
+    "automotive",
+    "whatsnew"
+  ],
+  "car.top.lane.dashed.departure.right.slash.fill": [
+    "automotive",
+    "whatsnew"
   ],
   "car.top.radiowaves.2.front.left.front.front.right": [
     "automotive",
@@ -8525,6 +8575,12 @@
   "character.cursor.ibeam.ar": [
     "textformatting"
   ],
+  "character.cursor.ibeam.bn": [
+    "whatsnew"
+  ],
+  "character.cursor.ibeam.gu": [
+    "whatsnew"
+  ],
   "character.cursor.ibeam.he": [
     "textformatting"
   ],
@@ -8534,8 +8590,38 @@
   "character.cursor.ibeam.ja": [
     "textformatting"
   ],
+  "character.cursor.ibeam.kn": [
+    "whatsnew"
+  ],
   "character.cursor.ibeam.ko": [
     "textformatting"
+  ],
+  "character.cursor.ibeam.ml": [
+    "whatsnew"
+  ],
+  "character.cursor.ibeam.mni": [
+    "whatsnew"
+  ],
+  "character.cursor.ibeam.mr": [
+    "whatsnew"
+  ],
+  "character.cursor.ibeam.or": [
+    "whatsnew"
+  ],
+  "character.cursor.ibeam.pa": [
+    "whatsnew"
+  ],
+  "character.cursor.ibeam.sat": [
+    "whatsnew"
+  ],
+  "character.cursor.ibeam.si": [
+    "whatsnew"
+  ],
+  "character.cursor.ibeam.ta": [
+    "whatsnew"
+  ],
+  "character.cursor.ibeam.te": [
+    "whatsnew"
   ],
   "character.cursor.ibeam.th": [
     "textformatting"
@@ -8575,6 +8661,16 @@
     "accessibility",
     "textformatting"
   ],
+  "character.magnify.bn": [
+    "accessibility",
+    "textformatting",
+    "whatsnew"
+  ],
+  "character.magnify.gu": [
+    "accessibility",
+    "textformatting",
+    "whatsnew"
+  ],
   "character.magnify.he": [
     "accessibility",
     "textformatting"
@@ -8587,9 +8683,59 @@
     "accessibility",
     "textformatting"
   ],
+  "character.magnify.kn": [
+    "accessibility",
+    "textformatting",
+    "whatsnew"
+  ],
   "character.magnify.ko": [
     "accessibility",
     "textformatting"
+  ],
+  "character.magnify.ml": [
+    "accessibility",
+    "textformatting",
+    "whatsnew"
+  ],
+  "character.magnify.mni": [
+    "accessibility",
+    "textformatting",
+    "whatsnew"
+  ],
+  "character.magnify.mr": [
+    "accessibility",
+    "textformatting",
+    "whatsnew"
+  ],
+  "character.magnify.or": [
+    "accessibility",
+    "textformatting",
+    "whatsnew"
+  ],
+  "character.magnify.pa": [
+    "accessibility",
+    "textformatting",
+    "whatsnew"
+  ],
+  "character.magnify.sat": [
+    "accessibility",
+    "textformatting",
+    "whatsnew"
+  ],
+  "character.magnify.si": [
+    "accessibility",
+    "textformatting",
+    "whatsnew"
+  ],
+  "character.magnify.ta": [
+    "accessibility",
+    "textformatting",
+    "whatsnew"
+  ],
+  "character.magnify.te": [
+    "accessibility",
+    "textformatting",
+    "whatsnew"
   ],
   "character.magnify.th": [
     "accessibility",
@@ -8827,6 +8973,95 @@
   "character.textbox.ar": [
     "textformatting"
   ],
+  "character.textbox.badge.sparkles": [
+    "textformatting",
+    "whatsnew"
+  ],
+  "character.textbox.badge.sparkles.ar": [
+    "textformatting",
+    "whatsnew"
+  ],
+  "character.textbox.badge.sparkles.bn": [
+    "textformatting",
+    "whatsnew"
+  ],
+  "character.textbox.badge.sparkles.gu": [
+    "textformatting",
+    "whatsnew"
+  ],
+  "character.textbox.badge.sparkles.he": [
+    "textformatting",
+    "whatsnew"
+  ],
+  "character.textbox.badge.sparkles.hi": [
+    "textformatting",
+    "whatsnew"
+  ],
+  "character.textbox.badge.sparkles.ja": [
+    "textformatting",
+    "whatsnew"
+  ],
+  "character.textbox.badge.sparkles.kn": [
+    "textformatting",
+    "whatsnew"
+  ],
+  "character.textbox.badge.sparkles.ko": [
+    "textformatting",
+    "whatsnew"
+  ],
+  "character.textbox.badge.sparkles.ml": [
+    "multicolor",
+    "textformatting",
+    "whatsnew"
+  ],
+  "character.textbox.badge.sparkles.mni": [
+    "textformatting",
+    "whatsnew"
+  ],
+  "character.textbox.badge.sparkles.mr": [
+    "textformatting",
+    "whatsnew"
+  ],
+  "character.textbox.badge.sparkles.or": [
+    "textformatting",
+    "whatsnew"
+  ],
+  "character.textbox.badge.sparkles.pa": [
+    "textformatting",
+    "whatsnew"
+  ],
+  "character.textbox.badge.sparkles.sat": [
+    "textformatting",
+    "whatsnew"
+  ],
+  "character.textbox.badge.sparkles.si": [
+    "textformatting",
+    "whatsnew"
+  ],
+  "character.textbox.badge.sparkles.ta": [
+    "textformatting",
+    "whatsnew"
+  ],
+  "character.textbox.badge.sparkles.te": [
+    "textformatting",
+    "whatsnew"
+  ],
+  "character.textbox.badge.sparkles.th": [
+    "textformatting",
+    "whatsnew"
+  ],
+  "character.textbox.badge.sparkles.zh": [
+    "textformatting",
+    "whatsnew"
+  ],
+  "character.textbox.bn": [
+    "textformatting",
+    "whatsnew"
+  ],
+  "character.textbox.gu": [
+    "textformatting",
+    "whatsnew"
+  ],
   "character.textbox.he": [
     "textformatting"
   ],
@@ -8836,8 +9071,48 @@
   "character.textbox.ja": [
     "textformatting"
   ],
+  "character.textbox.kn": [
+    "textformatting",
+    "whatsnew"
+  ],
   "character.textbox.ko": [
     "textformatting"
+  ],
+  "character.textbox.ml": [
+    "textformatting",
+    "whatsnew"
+  ],
+  "character.textbox.mni": [
+    "textformatting",
+    "whatsnew"
+  ],
+  "character.textbox.mr": [
+    "textformatting",
+    "whatsnew"
+  ],
+  "character.textbox.or": [
+    "textformatting",
+    "whatsnew"
+  ],
+  "character.textbox.pa": [
+    "textformatting",
+    "whatsnew"
+  ],
+  "character.textbox.sat": [
+    "textformatting",
+    "whatsnew"
+  ],
+  "character.textbox.si": [
+    "textformatting",
+    "whatsnew"
+  ],
+  "character.textbox.ta": [
+    "textformatting",
+    "whatsnew"
+  ],
+  "character.textbox.te": [
+    "textformatting",
+    "whatsnew"
   ],
   "character.textbox.th": [
     "textformatting"
@@ -10110,6 +10385,14 @@
     "automotive",
     "whatsnew"
   ],
+  "convertible.side.arrow.left.and.right": [
+    "automotive",
+    "whatsnew"
+  ],
+  "convertible.side.arrow.left.and.right.fill": [
+    "automotive",
+    "whatsnew"
+  ],
   "convertible.side.arrow.trianglehead.backward": [
     "automotive",
     "whatsnew"
@@ -10187,6 +10470,14 @@
     "whatsnew"
   ],
   "convertible.side.hill.down": [
+    "automotive",
+    "whatsnew"
+  ],
+  "convertible.side.hill.down.and.gauge.open.with.lines.needle.25percent.and.arrowtriangle": [
+    "automotive",
+    "whatsnew"
+  ],
+  "convertible.side.hill.down.and.gauge.open.with.lines.needle.25percent.and.arrowtriangle.fill": [
     "automotive",
     "whatsnew"
   ],
@@ -11336,6 +11627,37 @@
   "eject.fill": [
     "keyboard"
   ],
+  "electronic.toll.collection": [
+    "automotive",
+    "whatsnew"
+  ],
+  "electronic.toll.collection.rectangle": [
+    "automotive",
+    "whatsnew"
+  ],
+  "electronic.toll.collection.rectangle.fill": [
+    "automotive",
+    "multicolor",
+    "whatsnew"
+  ],
+  "electronic.toll.collection.rectangle.slash": [
+    "automotive",
+    "whatsnew"
+  ],
+  "electronic.toll.collection.rectangle.slash.fill": [
+    "automotive",
+    "whatsnew"
+  ],
+  "electronic.toll.collection.rectangle.trianglebadge.exclamationmark": [
+    "automotive",
+    "multicolor",
+    "whatsnew"
+  ],
+  "electronic.toll.collection.rectangle.trianglebadge.exclamationmark.fill": [
+    "automotive",
+    "multicolor",
+    "whatsnew"
+  ],
   "ellipsis": [
     "variablecolor"
   ],
@@ -11402,6 +11724,10 @@
   "engine.combustion.fill": [
     "automotive"
   ],
+  "engine.emission.and.drop.2.water.wave.below": [
+    "automotive",
+    "whatsnew"
+  ],
   "engine.emission.and.exclamationmark": [
     "automotive",
     "whatsnew"
@@ -11430,6 +11756,12 @@
   ],
   "envelope": [
     "communication"
+  ],
+  "envelope.and.arrow.3.down": [
+    "whatsnew"
+  ],
+  "envelope.and.arrow.3.down.fill": [
+    "whatsnew"
   ],
   "envelope.and.arrow.trianglehead.branch": [
     "communication"
@@ -14215,6 +14547,11 @@
     "multicolor",
     "objectsandtools"
   ],
+  "flag.pattern.checkered.lc": [
+    "automotive",
+    "objectsandtools",
+    "whatsnew"
+  ],
   "flag.slash": [
     "multicolor",
     "objectsandtools"
@@ -14569,6 +14906,10 @@
     "home",
     "objectsandtools"
   ],
+  "fuel.filter.water": [
+    "automotive",
+    "whatsnew"
+  ],
   "fuelpump": [
     "automotive",
     "maps",
@@ -14642,6 +14983,10 @@
   ],
   "function": [
     "math"
+  ],
+  "function.ar": [
+    "math",
+    "whatsnew"
   ],
   "g.circle": [
     "indices"
@@ -16076,6 +16421,28 @@
     "nature",
     "weather"
   ],
+  "hydrogen": [
+    "automotive",
+    "whatsnew"
+  ],
+  "hydrogen.circle": [
+    "automotive",
+    "whatsnew"
+  ],
+  "hydrogen.circle.fill": [
+    "automotive",
+    "multicolor",
+    "whatsnew"
+  ],
+  "hydrogen.square": [
+    "automotive",
+    "whatsnew"
+  ],
+  "hydrogen.square.fill": [
+    "automotive",
+    "multicolor",
+    "whatsnew"
+  ],
   "i.circle": [
     "indices"
   ],
@@ -16230,6 +16597,18 @@
   ],
   "info.circle.fill": [
     "multicolor"
+  ],
+  "info.circle.text.page": [
+    "whatsnew"
+  ],
+  "info.circle.text.page.fill": [
+    "whatsnew"
+  ],
+  "info.circle.text.page.fill.rtl": [
+    "whatsnew"
+  ],
+  "info.circle.text.page.rtl": [
+    "whatsnew"
   ],
   "info.square": [
     "automotive",
@@ -16872,6 +17251,14 @@
     "variablecolor",
     "whatsnew"
   ],
+  "key.car.side": [
+    "automotive",
+    "whatsnew"
+  ],
+  "key.car.side.fill": [
+    "automotive",
+    "whatsnew"
+  ],
   "key.card": [
     "automotive",
     "objectsandtools",
@@ -16881,6 +17268,14 @@
     "automotive",
     "multicolor",
     "objectsandtools",
+    "whatsnew"
+  ],
+  "key.convertible.side": [
+    "automotive",
+    "whatsnew"
+  ],
+  "key.convertible.side.fill": [
+    "automotive",
     "whatsnew"
   ],
   "key.fill": [
@@ -16937,6 +17332,22 @@
     "automotive",
     "objectsandtools",
     "privacyandsecurity"
+  ],
+  "key.suv.side": [
+    "automotive",
+    "whatsnew"
+  ],
+  "key.suv.side.fill": [
+    "automotive",
+    "whatsnew"
+  ],
+  "key.truck.pickup.side": [
+    "automotive",
+    "whatsnew"
+  ],
+  "key.truck.pickup.side.fill": [
+    "automotive",
+    "whatsnew"
   ],
   "key.viewfinder": [
     "objectsandtools",
@@ -18164,6 +18575,12 @@
     "objectsandtools",
     "privacyandsecurity"
   ],
+  "long.text.page.and.pencil": [
+    "whatsnew"
+  ],
+  "long.text.page.and.pencil.fill": [
+    "whatsnew"
+  ],
   "loupe": [
     "editing"
   ],
@@ -18271,6 +18688,22 @@
   ],
   "macmini.fill": [
     "devices"
+  ],
+  "macmini.gen2": [
+    "devices",
+    "whatsnew"
+  ],
+  "macmini.gen2.fill": [
+    "devices",
+    "whatsnew"
+  ],
+  "macmini.gen3": [
+    "devices",
+    "whatsnew"
+  ],
+  "macmini.gen3.fill": [
+    "devices",
+    "whatsnew"
   ],
   "macpro.gen1": [
     "devices"
@@ -18577,6 +19010,9 @@
   ],
   "memories.badge.xmark": [
     "multicolor",
+    "whatsnew"
+  ],
+  "memories.slash": [
     "whatsnew"
   ],
   "memorychip": [
@@ -18887,6 +19323,39 @@
     "automotive",
     "multicolor",
     "objectsandtools"
+  ],
+  "minus.plus.batteryblock.stack.arrowtriangle.left": [
+    "automotive",
+    "objectsandtools",
+    "whatsnew"
+  ],
+  "minus.plus.batteryblock.stack.arrowtriangle.left.fill": [
+    "automotive",
+    "multicolor",
+    "objectsandtools",
+    "whatsnew"
+  ],
+  "minus.plus.batteryblock.stack.arrowtriangle.right": [
+    "automotive",
+    "objectsandtools",
+    "whatsnew"
+  ],
+  "minus.plus.batteryblock.stack.arrowtriangle.right.and.arrowtriangle.left": [
+    "automotive",
+    "objectsandtools",
+    "whatsnew"
+  ],
+  "minus.plus.batteryblock.stack.arrowtriangle.right.and.arrowtriangle.left.fill": [
+    "automotive",
+    "multicolor",
+    "objectsandtools",
+    "whatsnew"
+  ],
+  "minus.plus.batteryblock.stack.arrowtriangle.right.fill": [
+    "automotive",
+    "multicolor",
+    "objectsandtools",
+    "whatsnew"
   ],
   "minus.plus.batteryblock.stack.exclamationmark": [
     "automotive",
@@ -19365,6 +19834,11 @@
   "nosign.app.fill": [
     "multicolor",
     "privacyandsecurity"
+  ],
+  "nosign.badge.clock": [
+    "multicolor",
+    "privacyandsecurity",
+    "whatsnew"
   ],
   "note": [
     "objectsandtools"
@@ -20050,6 +20524,14 @@
     "human",
     "objectsandtools"
   ],
+  "person.checkmark.and.xmark": [
+    "human",
+    "whatsnew"
+  ],
+  "person.checkmark.and.xmark.rtl": [
+    "human",
+    "whatsnew"
+  ],
   "person.circle": [
     "human"
   ],
@@ -20236,6 +20718,14 @@
   ],
   "person.fill.checkmark": [
     "human"
+  ],
+  "person.fill.checkmark.and.xmark": [
+    "human",
+    "whatsnew"
+  ],
+  "person.fill.checkmark.and.xmark.rtl": [
+    "human",
+    "whatsnew"
   ],
   "person.fill.checkmark.rtl": [
     "human"
@@ -20671,6 +21161,16 @@
     "cameraandphotos",
     "multicolor"
   ],
+  "photo.badge.shield.exclamationmark": [
+    "cameraandphotos",
+    "multicolor",
+    "whatsnew"
+  ],
+  "photo.badge.shield.exclamationmark.fill": [
+    "cameraandphotos",
+    "multicolor",
+    "whatsnew"
+  ],
   "photo.circle": [
     "cameraandphotos"
   ],
@@ -20700,8 +21200,40 @@
   "photo.stack.fill": [
     "cameraandphotos"
   ],
+  "photo.trianglebadge.exclamationmark": [
+    "cameraandphotos",
+    "multicolor",
+    "whatsnew"
+  ],
+  "photo.trianglebadge.exclamationmark.fill": [
+    "cameraandphotos",
+    "multicolor",
+    "whatsnew"
+  ],
   "photo.tv": [
     "devices"
+  ],
+  "pi": [
+    "math",
+    "whatsnew"
+  ],
+  "pi.circle": [
+    "math",
+    "whatsnew"
+  ],
+  "pi.circle.fill": [
+    "math",
+    "multicolor",
+    "whatsnew"
+  ],
+  "pi.square": [
+    "math",
+    "whatsnew"
+  ],
+  "pi.square.fill": [
+    "math",
+    "multicolor",
+    "whatsnew"
   ],
   "pianokeys": [
     "objectsandtools"
@@ -20945,6 +21477,12 @@
   ],
   "plus.message.fill": [
     "communication"
+  ],
+  "plus.minus.capsule": [
+    "whatsnew"
+  ],
+  "plus.minus.capsule.fill": [
+    "whatsnew"
   ],
   "plus.rectangle": [
     "math",
@@ -22000,6 +22538,11 @@
   "repeat.1.hi": [
     "media"
   ],
+  "repeat.badge.xmark.circle.fill": [
+    "media",
+    "multicolor",
+    "whatsnew"
+  ],
   "repeat.circle": [
     "media"
   ],
@@ -22059,6 +22602,10 @@
   "road.lane.arrowtriangle.2.inward": [
     "automotive"
   ],
+  "road.lane.arrowtriangle.2.outward": [
+    "automotive",
+    "whatsnew"
+  ],
   "road.lanes": [
     "automotive"
   ],
@@ -22069,6 +22616,26 @@
     "automotive"
   ],
   "robotic.vacuum": [
+    "home",
+    "objectsandtools",
+    "whatsnew"
+  ],
+  "robotic.vacuum.and.arrowtriangle.up": [
+    "home",
+    "objectsandtools",
+    "whatsnew"
+  ],
+  "robotic.vacuum.and.arrowtriangle.up.fill": [
+    "home",
+    "objectsandtools",
+    "whatsnew"
+  ],
+  "robotic.vacuum.and.ellipsis": [
+    "home",
+    "objectsandtools",
+    "whatsnew"
+  ],
+  "robotic.vacuum.and.ellipsis.fill": [
     "home",
     "objectsandtools",
     "whatsnew"
@@ -23120,6 +23687,10 @@
     "home",
     "objectsandtools"
   ],
+  "spoon.serving": [
+    "objectsandtools",
+    "whatsnew"
+  ],
   "sportscourt": [
     "fitness"
   ],
@@ -23231,6 +23802,14 @@
     "whatsnew"
   ],
   "square.and.arrow.down.badge.xmark.fill": [
+    "multicolor",
+    "whatsnew"
+  ],
+  "square.and.arrow.up.badge.checkmark": [
+    "multicolor",
+    "whatsnew"
+  ],
+  "square.and.arrow.up.badge.checkmark.fill": [
     "multicolor",
     "whatsnew"
   ],
@@ -23382,6 +23961,9 @@
     "math",
     "whatsnew"
   ],
+  "squareshape.split.2x2.dotted.outside": [
+    "whatsnew"
+  ],
   "stairs": [
     "home"
   ],
@@ -23402,6 +23984,14 @@
   ],
   "star.fill": [
     "multicolor"
+  ],
+  "star.hexagon": [
+    "shapes",
+    "whatsnew"
+  ],
+  "star.hexagon.fill": [
+    "shapes",
+    "whatsnew"
   ],
   "star.slash": [
     "multicolor"
@@ -23871,6 +24461,14 @@
     "automotive",
     "multicolor"
   ],
+  "suv.side.arrow.left.and.right": [
+    "automotive",
+    "whatsnew"
+  ],
+  "suv.side.arrow.left.and.right.fill": [
+    "automotive",
+    "whatsnew"
+  ],
   "suv.side.arrowtriangle.down": [
     "automotive"
   ],
@@ -23918,6 +24516,14 @@
   ],
   "suv.side.hill.down": [
     "automotive"
+  ],
+  "suv.side.hill.down.and.gauge.open.with.lines.needle.25percent.and.arrowtriangle": [
+    "automotive",
+    "whatsnew"
+  ],
+  "suv.side.hill.down.and.gauge.open.with.lines.needle.25percent.and.arrowtriangle.fill": [
+    "automotive",
+    "whatsnew"
   ],
   "suv.side.hill.down.fill": [
     "automotive"
@@ -24444,7 +25050,15 @@
     "textformatting",
     "whatsnew"
   ],
+  "textformat.alt.bn": [
+    "textformatting",
+    "whatsnew"
+  ],
   "textformat.alt.el": [
+    "textformatting",
+    "whatsnew"
+  ],
+  "textformat.alt.gu": [
     "textformatting",
     "whatsnew"
   ],
@@ -24460,7 +25074,47 @@
     "textformatting",
     "whatsnew"
   ],
+  "textformat.alt.kn": [
+    "textformatting",
+    "whatsnew"
+  ],
   "textformat.alt.ko": [
+    "textformatting",
+    "whatsnew"
+  ],
+  "textformat.alt.ml": [
+    "textformatting",
+    "whatsnew"
+  ],
+  "textformat.alt.mni": [
+    "textformatting",
+    "whatsnew"
+  ],
+  "textformat.alt.mr": [
+    "textformatting",
+    "whatsnew"
+  ],
+  "textformat.alt.or": [
+    "textformatting",
+    "whatsnew"
+  ],
+  "textformat.alt.pa": [
+    "textformatting",
+    "whatsnew"
+  ],
+  "textformat.alt.sat": [
+    "textformatting",
+    "whatsnew"
+  ],
+  "textformat.alt.si": [
+    "textformatting",
+    "whatsnew"
+  ],
+  "textformat.alt.ta": [
+    "textformatting",
+    "whatsnew"
+  ],
+  "textformat.alt.te": [
     "textformatting",
     "whatsnew"
   ],
@@ -24473,6 +25127,10 @@
     "whatsnew"
   ],
   "textformat.ar": [
+    "textformatting",
+    "whatsnew"
+  ],
+  "textformat.bn": [
     "textformatting",
     "whatsnew"
   ],
@@ -24491,7 +25149,15 @@
     "textformatting",
     "whatsnew"
   ],
+  "textformat.characters.arrow.left.and.right.bn": [
+    "textformatting",
+    "whatsnew"
+  ],
   "textformat.characters.arrow.left.and.right.el": [
+    "textformatting",
+    "whatsnew"
+  ],
+  "textformat.characters.arrow.left.and.right.gu": [
     "textformatting",
     "whatsnew"
   ],
@@ -24507,11 +25173,51 @@
     "textformatting",
     "whatsnew"
   ],
+  "textformat.characters.arrow.left.and.right.kn": [
+    "textformatting",
+    "whatsnew"
+  ],
   "textformat.characters.arrow.left.and.right.ko": [
     "textformatting",
     "whatsnew"
   ],
+  "textformat.characters.arrow.left.and.right.ml": [
+    "textformatting",
+    "whatsnew"
+  ],
+  "textformat.characters.arrow.left.and.right.mni": [
+    "textformatting",
+    "whatsnew"
+  ],
+  "textformat.characters.arrow.left.and.right.mr": [
+    "textformatting",
+    "whatsnew"
+  ],
+  "textformat.characters.arrow.left.and.right.or": [
+    "textformatting",
+    "whatsnew"
+  ],
+  "textformat.characters.arrow.left.and.right.pa": [
+    "textformatting",
+    "whatsnew"
+  ],
   "textformat.characters.arrow.left.and.right.ru": [
+    "textformatting",
+    "whatsnew"
+  ],
+  "textformat.characters.arrow.left.and.right.sat": [
+    "textformatting",
+    "whatsnew"
+  ],
+  "textformat.characters.arrow.left.and.right.si": [
+    "textformatting",
+    "whatsnew"
+  ],
+  "textformat.characters.arrow.left.and.right.ta": [
+    "textformatting",
+    "whatsnew"
+  ],
+  "textformat.characters.arrow.left.and.right.te": [
     "textformatting",
     "whatsnew"
   ],
@@ -24520,6 +25226,10 @@
     "whatsnew"
   ],
   "textformat.characters.arrow.left.and.right.zh": [
+    "textformatting",
+    "whatsnew"
+  ],
+  "textformat.characters.bn": [
     "textformatting",
     "whatsnew"
   ],
@@ -24532,7 +25242,17 @@
     "textformatting",
     "whatsnew"
   ],
+  "textformat.characters.dottedunderline.bn": [
+    "multicolor",
+    "textformatting",
+    "whatsnew"
+  ],
   "textformat.characters.dottedunderline.el": [
+    "multicolor",
+    "textformatting",
+    "whatsnew"
+  ],
+  "textformat.characters.dottedunderline.gu": [
     "multicolor",
     "textformatting",
     "whatsnew"
@@ -24552,12 +25272,62 @@
     "textformatting",
     "whatsnew"
   ],
+  "textformat.characters.dottedunderline.kn": [
+    "multicolor",
+    "textformatting",
+    "whatsnew"
+  ],
   "textformat.characters.dottedunderline.ko": [
     "multicolor",
     "textformatting",
     "whatsnew"
   ],
+  "textformat.characters.dottedunderline.ml": [
+    "multicolor",
+    "textformatting",
+    "whatsnew"
+  ],
+  "textformat.characters.dottedunderline.mni": [
+    "multicolor",
+    "textformatting",
+    "whatsnew"
+  ],
+  "textformat.characters.dottedunderline.mr": [
+    "multicolor",
+    "textformatting",
+    "whatsnew"
+  ],
+  "textformat.characters.dottedunderline.or": [
+    "multicolor",
+    "textformatting",
+    "whatsnew"
+  ],
+  "textformat.characters.dottedunderline.pa": [
+    "multicolor",
+    "textformatting",
+    "whatsnew"
+  ],
   "textformat.characters.dottedunderline.ru": [
+    "multicolor",
+    "textformatting",
+    "whatsnew"
+  ],
+  "textformat.characters.dottedunderline.sat": [
+    "multicolor",
+    "textformatting",
+    "whatsnew"
+  ],
+  "textformat.characters.dottedunderline.si": [
+    "multicolor",
+    "textformatting",
+    "whatsnew"
+  ],
+  "textformat.characters.dottedunderline.ta": [
+    "multicolor",
+    "textformatting",
+    "whatsnew"
+  ],
+  "textformat.characters.dottedunderline.te": [
     "multicolor",
     "textformatting",
     "whatsnew"
@@ -24576,6 +25346,10 @@
     "textformatting",
     "whatsnew"
   ],
+  "textformat.characters.gu": [
+    "textformatting",
+    "whatsnew"
+  ],
   "textformat.characters.he": [
     "textformatting",
     "whatsnew"
@@ -24588,11 +25362,51 @@
     "textformatting",
     "whatsnew"
   ],
+  "textformat.characters.kn": [
+    "textformatting",
+    "whatsnew"
+  ],
   "textformat.characters.ko": [
     "textformatting",
     "whatsnew"
   ],
+  "textformat.characters.ml": [
+    "textformatting",
+    "whatsnew"
+  ],
+  "textformat.characters.mni": [
+    "textformatting",
+    "whatsnew"
+  ],
+  "textformat.characters.mr": [
+    "textformatting",
+    "whatsnew"
+  ],
+  "textformat.characters.or": [
+    "textformatting",
+    "whatsnew"
+  ],
+  "textformat.characters.pa": [
+    "textformatting",
+    "whatsnew"
+  ],
   "textformat.characters.ru": [
+    "textformatting",
+    "whatsnew"
+  ],
+  "textformat.characters.sat": [
+    "textformatting",
+    "whatsnew"
+  ],
+  "textformat.characters.si": [
+    "textformatting",
+    "whatsnew"
+  ],
+  "textformat.characters.ta": [
+    "textformatting",
+    "whatsnew"
+  ],
+  "textformat.characters.te": [
     "textformatting",
     "whatsnew"
   ],
@@ -24608,6 +25422,10 @@
     "textformatting",
     "whatsnew"
   ],
+  "textformat.gu": [
+    "textformatting",
+    "whatsnew"
+  ],
   "textformat.he": [
     "textformatting",
     "whatsnew"
@@ -24620,7 +25438,23 @@
     "textformatting",
     "whatsnew"
   ],
+  "textformat.kn": [
+    "textformatting",
+    "whatsnew"
+  ],
   "textformat.ko": [
+    "textformatting",
+    "whatsnew"
+  ],
+  "textformat.ml": [
+    "textformatting",
+    "whatsnew"
+  ],
+  "textformat.mni": [
+    "textformatting",
+    "whatsnew"
+  ],
+  "textformat.mr": [
     "textformatting",
     "whatsnew"
   ],
@@ -24672,6 +25506,22 @@
     "whatsnew"
   ],
   "textformat.numbers.te": [
+    "textformatting",
+    "whatsnew"
+  ],
+  "textformat.or": [
+    "textformatting",
+    "whatsnew"
+  ],
+  "textformat.pa": [
+    "textformatting",
+    "whatsnew"
+  ],
+  "textformat.sat": [
+    "textformatting",
+    "whatsnew"
+  ],
+  "textformat.si": [
     "textformatting",
     "whatsnew"
   ],
@@ -24957,6 +25807,14 @@
   "textformat.subscript.ar": [
     "textformatting"
   ],
+  "textformat.subscript.bn": [
+    "textformatting",
+    "whatsnew"
+  ],
+  "textformat.subscript.gu": [
+    "textformatting",
+    "whatsnew"
+  ],
   "textformat.subscript.he": [
     "textformatting"
   ],
@@ -24966,8 +25824,48 @@
   "textformat.subscript.ja": [
     "textformatting"
   ],
+  "textformat.subscript.kn": [
+    "textformatting",
+    "whatsnew"
+  ],
   "textformat.subscript.ko": [
     "textformatting"
+  ],
+  "textformat.subscript.ml": [
+    "textformatting",
+    "whatsnew"
+  ],
+  "textformat.subscript.mni": [
+    "textformatting",
+    "whatsnew"
+  ],
+  "textformat.subscript.mr": [
+    "textformatting",
+    "whatsnew"
+  ],
+  "textformat.subscript.or": [
+    "textformatting",
+    "whatsnew"
+  ],
+  "textformat.subscript.pa": [
+    "textformatting",
+    "whatsnew"
+  ],
+  "textformat.subscript.sat": [
+    "textformatting",
+    "whatsnew"
+  ],
+  "textformat.subscript.si": [
+    "textformatting",
+    "whatsnew"
+  ],
+  "textformat.subscript.ta": [
+    "textformatting",
+    "whatsnew"
+  ],
+  "textformat.subscript.te": [
+    "textformatting",
+    "whatsnew"
   ],
   "textformat.subscript.th": [
     "textformatting"
@@ -24981,6 +25879,14 @@
   "textformat.superscript.ar": [
     "textformatting"
   ],
+  "textformat.superscript.bn": [
+    "textformatting",
+    "whatsnew"
+  ],
+  "textformat.superscript.gu": [
+    "textformatting",
+    "whatsnew"
+  ],
   "textformat.superscript.he": [
     "textformatting"
   ],
@@ -24990,14 +25896,62 @@
   "textformat.superscript.ja": [
     "textformatting"
   ],
+  "textformat.superscript.kn": [
+    "textformatting",
+    "whatsnew"
+  ],
   "textformat.superscript.ko": [
     "textformatting"
+  ],
+  "textformat.superscript.ml": [
+    "textformatting",
+    "whatsnew"
+  ],
+  "textformat.superscript.mni": [
+    "textformatting",
+    "whatsnew"
+  ],
+  "textformat.superscript.mr": [
+    "textformatting",
+    "whatsnew"
+  ],
+  "textformat.superscript.or": [
+    "textformatting",
+    "whatsnew"
+  ],
+  "textformat.superscript.pa": [
+    "textformatting",
+    "whatsnew"
+  ],
+  "textformat.superscript.sat": [
+    "textformatting",
+    "whatsnew"
+  ],
+  "textformat.superscript.si": [
+    "textformatting",
+    "whatsnew"
+  ],
+  "textformat.superscript.ta": [
+    "textformatting",
+    "whatsnew"
+  ],
+  "textformat.superscript.te": [
+    "textformatting",
+    "whatsnew"
   ],
   "textformat.superscript.th": [
     "textformatting"
   ],
   "textformat.superscript.zh": [
     "textformatting"
+  ],
+  "textformat.ta": [
+    "textformatting",
+    "whatsnew"
+  ],
+  "textformat.te": [
+    "textformatting",
+    "whatsnew"
   ],
   "textformat.th": [
     "textformatting",
@@ -25485,6 +26439,14 @@
     "automotive",
     "multicolor"
   ],
+  "truck.pickup.side.arrow.left.and.right": [
+    "automotive",
+    "whatsnew"
+  ],
+  "truck.pickup.side.arrow.left.and.right.fill": [
+    "automotive",
+    "whatsnew"
+  ],
   "truck.pickup.side.arrowtriangle.down": [
     "automotive"
   ],
@@ -25524,6 +26486,14 @@
   ],
   "truck.pickup.side.hill.down": [
     "automotive"
+  ],
+  "truck.pickup.side.hill.down.and.gauge.open.with.lines.needle.25percent.and.arrowtriangle": [
+    "automotive",
+    "whatsnew"
+  ],
+  "truck.pickup.side.hill.down.and.gauge.open.with.lines.needle.25percent.and.arrowtriangle.fill": [
+    "automotive",
+    "whatsnew"
   ],
   "truck.pickup.side.hill.down.fill": [
     "automotive"

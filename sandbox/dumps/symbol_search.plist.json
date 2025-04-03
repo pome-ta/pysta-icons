@@ -537,6 +537,10 @@
     "indent",
     "tab"
   ],
+  "arrow.backward.to.line.compact": [
+    "indent",
+    "tab"
+  ],
   "arrow.clockwise": [
     "refresh"
   ],
@@ -666,6 +670,10 @@
     "right"
   ],
   "arrow.forward.to.line": [
+    "indent",
+    "tab"
+  ],
+  "arrow.forward.to.line.compact": [
     "indent",
     "tab"
   ],
@@ -7152,6 +7160,30 @@
     "security",
     "warning"
   ],
+  "macmini": [
+    "mac mini"
+  ],
+  "macmini.fill": [
+    "mac mini"
+  ],
+  "macmini.gen2": [
+    "mac mini"
+  ],
+  "macmini.gen2.fill": [
+    "mac mini"
+  ],
+  "macmini.gen3": [
+    "mac mini"
+  ],
+  "macmini.gen3.fill": [
+    "mac mini"
+  ],
+  "macstudio": [
+    "mac studio"
+  ],
+  "macstudio.fill": [
+    "mac studio"
+  ],
   "macwindow.badge.plus": [
     "+",
     "add",
@@ -7285,6 +7317,10 @@
   ],
   "memories.badge.plus": [
     "add",
+    "arrow",
+    "play"
+  ],
+  "memories.slash": [
     "arrow",
     "play"
   ],
@@ -7657,6 +7693,15 @@
   "norwegiankronesign.square.fill": [
     "currencies",
     "currency"
+  ],
+  "nosign": [
+    "restricted"
+  ],
+  "nosign.app": [
+    "restricted"
+  ],
+  "nosign.app.fill": [
+    "restricted"
   ],
   "note.text.badge.plus": [
     "+",
@@ -8064,6 +8109,14 @@
     "people",
     "sculpture"
   ],
+  "person.checkmark.and.xmark": [
+    "people",
+    "user"
+  ],
+  "person.checkmark.and.xmark.rtl": [
+    "people",
+    "user"
+  ],
   "person.circle": [
     "people",
     "user"
@@ -8312,6 +8365,14 @@
     "user"
   ],
   "person.fill.checkmark": [
+    "people",
+    "user"
+  ],
+  "person.fill.checkmark.and.xmark": [
+    "people",
+    "user"
+  ],
+  "person.fill.checkmark.and.xmark.rtl": [
     "people",
     "user"
   ],
@@ -8626,6 +8687,24 @@
     "place",
     "sun"
   ],
+  "photo.badge.shield.exclamationmark": [
+    "environment",
+    "image",
+    "mountain",
+    "photograph",
+    "picture",
+    "place",
+    "sun"
+  ],
+  "photo.badge.shield.exclamationmark.fill": [
+    "environment",
+    "image",
+    "mountain",
+    "photograph",
+    "picture",
+    "place",
+    "sun"
+  ],
   "photo.circle": [
     "environment",
     "image",
@@ -8699,6 +8778,24 @@
     "sun"
   ],
   "photo.stack.fill": [
+    "environment",
+    "image",
+    "mountain",
+    "photograph",
+    "picture",
+    "place",
+    "sun"
+  ],
+  "photo.trianglebadge.exclamationmark": [
+    "environment",
+    "image",
+    "mountain",
+    "photograph",
+    "picture",
+    "place",
+    "sun"
+  ],
+  "photo.trianglebadge.exclamationmark.fill": [
     "environment",
     "image",
     "mountain",
@@ -10232,6 +10329,10 @@
   "spigot.fill": [
     "faucet"
   ],
+  "spoon.serving": [
+    "drink",
+    "food"
+  ],
   "sportscourt": [
     "sports"
   ],
@@ -10301,6 +10402,18 @@
     "save"
   ],
   "square.and.arrow.up": [
+    "export",
+    "share",
+    "sharrow",
+    "upload"
+  ],
+  "square.and.arrow.up.badge.checkmark": [
+    "export",
+    "share",
+    "sharrow",
+    "upload"
+  ],
+  "square.and.arrow.up.badge.checkmark.fill": [
     "export",
     "share",
     "sharrow",
@@ -10456,7 +10569,7 @@
   "squareshape.split.2x2": [
     "grid"
   ],
-  "squareshape.split.2x2.dotted": [
+  "squareshape.split.2x2.dotted.inside": [
     "grid"
   ],
   "squareshape.split.3x3": [
