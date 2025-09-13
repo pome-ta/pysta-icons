@@ -1295,6 +1295,27 @@
     "sound",
     "speaker"
   ],
+  "beats.powerbeats.pro.2": [
+    "audio",
+    "sound",
+    "speaker"
+  ],
+  "beats.powerbeats.pro.2.chargingcase": [
+    "audio"
+  ],
+  "beats.powerbeats.pro.2.chargingcase.fill": [
+    "audio"
+  ],
+  "beats.powerbeats.pro.2.left": [
+    "audio",
+    "sound",
+    "speaker"
+  ],
+  "beats.powerbeats.pro.2.right": [
+    "audio",
+    "sound",
+    "speaker"
+  ],
   "beats.powerbeats.pro.chargingcase": [
     "audio"
   ],

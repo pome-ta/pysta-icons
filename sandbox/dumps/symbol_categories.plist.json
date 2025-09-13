@@ -3432,6 +3432,10 @@
     "multicolor",
     "whatsnew"
   ],
+  "apple.intelligence.badge.xmark": [
+    "multicolor",
+    "whatsnew"
+  ],
   "apple.meditate": [
     "health",
     "nature"
@@ -5972,6 +5976,26 @@
   ],
   "beats.powerbeats.pro": [
     "devices"
+  ],
+  "beats.powerbeats.pro.2": [
+    "devices",
+    "whatsnew"
+  ],
+  "beats.powerbeats.pro.2.chargingcase": [
+    "devices",
+    "whatsnew"
+  ],
+  "beats.powerbeats.pro.2.chargingcase.fill": [
+    "devices",
+    "whatsnew"
+  ],
+  "beats.powerbeats.pro.2.left": [
+    "devices",
+    "whatsnew"
+  ],
+  "beats.powerbeats.pro.2.right": [
+    "devices",
+    "whatsnew"
   ],
   "beats.powerbeats.pro.chargingcase": [
     "devices"
@@ -17257,6 +17281,7 @@
   ],
   "key.car.side.fill": [
     "automotive",
+    "multicolor",
     "whatsnew"
   ],
   "key.card": [
@@ -17276,6 +17301,7 @@
   ],
   "key.convertible.side.fill": [
     "automotive",
+    "multicolor",
     "whatsnew"
   ],
   "key.fill": [
@@ -17339,6 +17365,7 @@
   ],
   "key.suv.side.fill": [
     "automotive",
+    "multicolor",
     "whatsnew"
   ],
   "key.truck.pickup.side": [
@@ -17347,6 +17374,7 @@
   ],
   "key.truck.pickup.side.fill": [
     "automotive",
+    "multicolor",
     "whatsnew"
   ],
   "key.viewfinder": [
@@ -21482,6 +21510,7 @@
     "whatsnew"
   ],
   "plus.minus.capsule.fill": [
+    "multicolor",
     "whatsnew"
   ],
   "plus.rectangle": [
@@ -22633,11 +22662,13 @@
   "robotic.vacuum.and.ellipsis": [
     "home",
     "objectsandtools",
+    "variablecolor",
     "whatsnew"
   ],
   "robotic.vacuum.and.ellipsis.fill": [
     "home",
     "objectsandtools",
+    "variablecolor",
     "whatsnew"
   ],
   "robotic.vacuum.fill": [
@@ -23990,6 +24021,7 @@
     "whatsnew"
   ],
   "star.hexagon.fill": [
+    "multicolor",
     "shapes",
     "whatsnew"
   ],

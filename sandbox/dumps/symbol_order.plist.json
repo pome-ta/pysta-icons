@@ -3644,6 +3644,11 @@
   "beats.powerbeats.pro.left",
   "beats.powerbeats.pro.chargingcase",
   "beats.powerbeats.pro.chargingcase.fill",
+  "beats.powerbeats.pro.2",
+  "beats.powerbeats.pro.2.right",
+  "beats.powerbeats.pro.2.left",
+  "beats.powerbeats.pro.2.chargingcase",
+  "beats.powerbeats.pro.2.chargingcase.fill",
   "beats.powerbeats",
   "beats.powerbeats.right",
   "beats.powerbeats.left",
@@ -7687,5 +7692,6 @@
   "50.circle.fill.hi",
   "50.square.hi",
   "50.square.fill.hi",
+  "apple.intelligence.badge.xmark",
   "apple.logo"
 ]

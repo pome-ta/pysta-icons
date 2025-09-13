@@ -1024,6 +1024,7 @@
     "apple.image.playground": "2024",
     "apple.image.playground.fill": "2024",
     "apple.intelligence": "2024",
+    "apple.intelligence.badge.xmark": "2024.4",
     "apple.logo": "2022",
     "apple.meditate": "2023.3",
     "apple.meditate.circle": "2024",
@@ -1806,6 +1807,11 @@
     "beats.powerbeats": "2021",
     "beats.powerbeats.left": "2022.2",
     "beats.powerbeats.pro": "2024",
+    "beats.powerbeats.pro.2": "2024.4",
+    "beats.powerbeats.pro.2.chargingcase": "2024.4",
+    "beats.powerbeats.pro.2.chargingcase.fill": "2024.4",
+    "beats.powerbeats.pro.2.left": "2024.4",
+    "beats.powerbeats.pro.2.right": "2024.4",
     "beats.powerbeats.pro.chargingcase": "2024",
     "beats.powerbeats.pro.chargingcase.fill": "2024",
     "beats.powerbeats.pro.left": "2024",
@@ -8681,6 +8687,13 @@
       "tvOS": "18.4",
       "visionOS": "2.4",
       "watchOS": "11.4"
+    },
+    "2024.4": {
+      "iOS": "18.5",
+      "macOS": "15.5",
+      "tvOS": "18.5",
+      "visionOS": "2.5",
+      "watchOS": "11.5"
     }
   }
 }
