@@ -1,4 +1,13 @@
 {
+  "1.calendar": [
+    "date"
+  ],
+  "1.calendar.ar": [
+    "date"
+  ],
+  "1.calendar.hi": [
+    "date"
+  ],
   "1.lane": [
     "running",
     "sports"
@@ -20,6 +29,15 @@
   "1.magnifyingglass.hi": [
     "search"
   ],
+  "10.calendar": [
+    "date"
+  ],
+  "10.calendar.ar": [
+    "date"
+  ],
+  "10.calendar.hi": [
+    "date"
+  ],
   "10.lane": [
     "running",
     "sports"
@@ -31,6 +49,15 @@
   "10.lane.hi": [
     "running",
     "sports"
+  ],
+  "11.calendar": [
+    "date"
+  ],
+  "11.calendar.ar": [
+    "date"
+  ],
+  "11.calendar.hi": [
+    "date"
   ],
   "11.lane": [
     "running",
@@ -44,6 +71,15 @@
     "running",
     "sports"
   ],
+  "12.calendar": [
+    "date"
+  ],
+  "12.calendar.ar": [
+    "date"
+  ],
+  "12.calendar.hi": [
+    "date"
+  ],
   "12.lane": [
     "running",
     "sports"
@@ -55,6 +91,78 @@
   "12.lane.hi": [
     "running",
     "sports"
+  ],
+  "13.calendar": [
+    "date"
+  ],
+  "13.calendar.ar": [
+    "date"
+  ],
+  "13.calendar.hi": [
+    "date"
+  ],
+  "14.calendar": [
+    "date"
+  ],
+  "14.calendar.ar": [
+    "date"
+  ],
+  "14.calendar.hi": [
+    "date"
+  ],
+  "15.calendar": [
+    "date"
+  ],
+  "15.calendar.ar": [
+    "date"
+  ],
+  "15.calendar.hi": [
+    "date"
+  ],
+  "16.calendar": [
+    "date"
+  ],
+  "16.calendar.ar": [
+    "date"
+  ],
+  "16.calendar.hi": [
+    "date"
+  ],
+  "17.calendar": [
+    "date"
+  ],
+  "17.calendar.ar": [
+    "date"
+  ],
+  "17.calendar.hi": [
+    "date"
+  ],
+  "18.calendar": [
+    "date"
+  ],
+  "18.calendar.ar": [
+    "date"
+  ],
+  "18.calendar.hi": [
+    "date"
+  ],
+  "19.calendar": [
+    "date"
+  ],
+  "19.calendar.ar": [
+    "date"
+  ],
+  "19.calendar.hi": [
+    "date"
+  ],
+  "2.calendar": [
+    "date"
+  ],
+  "2.calendar.ar": [
+    "date"
+  ],
+  "2.calendar.hi": [
+    "date"
   ],
   "2.lane": [
     "running",
@@ -68,6 +176,105 @@
     "running",
     "sports"
   ],
+  "20.calendar": [
+    "date"
+  ],
+  "20.calendar.ar": [
+    "date"
+  ],
+  "20.calendar.hi": [
+    "date"
+  ],
+  "21.calendar": [
+    "date"
+  ],
+  "21.calendar.ar": [
+    "date"
+  ],
+  "21.calendar.hi": [
+    "date"
+  ],
+  "22.calendar": [
+    "date"
+  ],
+  "22.calendar.ar": [
+    "date"
+  ],
+  "22.calendar.hi": [
+    "date"
+  ],
+  "23.calendar": [
+    "date"
+  ],
+  "23.calendar.ar": [
+    "date"
+  ],
+  "23.calendar.hi": [
+    "date"
+  ],
+  "24.calendar": [
+    "date"
+  ],
+  "24.calendar.ar": [
+    "date"
+  ],
+  "24.calendar.hi": [
+    "date"
+  ],
+  "25.calendar": [
+    "date"
+  ],
+  "25.calendar.ar": [
+    "date"
+  ],
+  "25.calendar.hi": [
+    "date"
+  ],
+  "26.calendar": [
+    "date"
+  ],
+  "26.calendar.ar": [
+    "date"
+  ],
+  "26.calendar.hi": [
+    "date"
+  ],
+  "27.calendar": [
+    "date"
+  ],
+  "27.calendar.ar": [
+    "date"
+  ],
+  "27.calendar.hi": [
+    "date"
+  ],
+  "28.calendar": [
+    "date"
+  ],
+  "28.calendar.ar": [
+    "date"
+  ],
+  "28.calendar.hi": [
+    "date"
+  ],
+  "29.calendar": [
+    "date"
+  ],
+  "29.calendar.ar": [
+    "date"
+  ],
+  "29.calendar.hi": [
+    "date"
+  ],
+  "3.calendar": [
+    "date"
+  ],
+  "3.calendar.ar": [
+    "date"
+  ],
+  "3.calendar.hi": [
+    "date"
+  ],
   "3.lane": [
     "running",
     "sports"
@@ -79,6 +286,33 @@
   "3.lane.hi": [
     "running",
     "sports"
+  ],
+  "30.calendar": [
+    "date"
+  ],
+  "30.calendar.ar": [
+    "date"
+  ],
+  "30.calendar.hi": [
+    "date"
+  ],
+  "31.calendar": [
+    "date"
+  ],
+  "31.calendar.ar": [
+    "date"
+  ],
+  "31.calendar.hi": [
+    "date"
+  ],
+  "4.calendar": [
+    "date"
+  ],
+  "4.calendar.ar": [
+    "date"
+  ],
+  "4.calendar.hi": [
+    "date"
   ],
   "4.lane": [
     "running",
@@ -92,6 +326,15 @@
     "running",
     "sports"
   ],
+  "5.calendar": [
+    "date"
+  ],
+  "5.calendar.ar": [
+    "date"
+  ],
+  "5.calendar.hi": [
+    "date"
+  ],
   "5.lane": [
     "running",
     "sports"
@@ -103,6 +346,15 @@
   "5.lane.hi": [
     "running",
     "sports"
+  ],
+  "6.calendar": [
+    "date"
+  ],
+  "6.calendar.ar": [
+    "date"
+  ],
+  "6.calendar.hi": [
+    "date"
   ],
   "6.lane": [
     "running",
@@ -116,6 +368,15 @@
     "running",
     "sports"
   ],
+  "7.calendar": [
+    "date"
+  ],
+  "7.calendar.ar": [
+    "date"
+  ],
+  "7.calendar.hi": [
+    "date"
+  ],
   "7.lane": [
     "running",
     "sports"
@@ -128,6 +389,15 @@
     "running",
     "sports"
   ],
+  "8.calendar": [
+    "date"
+  ],
+  "8.calendar.ar": [
+    "date"
+  ],
+  "8.calendar.hi": [
+    "date"
+  ],
   "8.lane": [
     "running",
     "sports"
@@ -139,6 +409,15 @@
   "8.lane.hi": [
     "running",
     "sports"
+  ],
+  "9.calendar": [
+    "date"
+  ],
+  "9.calendar.ar": [
+    "date"
+  ],
+  "9.calendar.hi": [
+    "date"
   ],
   "9.lane": [
     "running",
@@ -445,7 +724,8 @@
   ],
   "app.connected.to.app.below.fill": [
     "activities",
-    "path"
+    "path",
+    "trail"
   ],
   "apple.image.playground": [
     "sparkles"
@@ -597,6 +877,22 @@
     "left"
   ],
   "arrow.down.circle": [
+    "download",
+    "downloads"
+  ],
+  "arrow.down.circle.badge.pause": [
+    "download",
+    "downloads"
+  ],
+  "arrow.down.circle.badge.pause.fill": [
+    "download",
+    "downloads"
+  ],
+  "arrow.down.circle.badge.xmark": [
+    "download",
+    "downloads"
+  ],
+  "arrow.down.circle.badge.xmark.fill": [
     "download",
     "downloads"
   ],
@@ -1431,6 +1727,14 @@
     "medical",
     "sleep"
   ],
+  "bed.double.badge.checkmark": [
+    "medical",
+    "sleep"
+  ],
+  "bed.double.badge.checkmark.fill": [
+    "medical",
+    "sleep"
+  ],
   "bed.double.circle": [
     "medical",
     "sleep"
@@ -1753,6 +2057,10 @@
     "date",
     "date of birth"
   ],
+  "calendar.badge": [
+    "calendar",
+    "date"
+  ],
   "calendar.badge.checkmark": [
     "date"
   ],
@@ -1769,6 +2077,9 @@
   "calendar.badge.exclamationmark": [
     "date",
     "warning"
+  ],
+  "calendar.badge.lock": [
+    "date"
   ],
   "calendar.badge.minus": [
     "date",
@@ -1787,6 +2098,42 @@
   ],
   "calendar.circle.fill": [
     "calendar",
+    "date"
+  ],
+  "calendar.day.timeline.leading": [
+    "date"
+  ],
+  "calendar.day.timeline.leading.circle": [
+    "date"
+  ],
+  "calendar.day.timeline.leading.circle.fill": [
+    "date"
+  ],
+  "calendar.day.timeline.left": [
+    "date"
+  ],
+  "calendar.day.timeline.left.circle": [
+    "date"
+  ],
+  "calendar.day.timeline.left.circle.fill": [
+    "date"
+  ],
+  "calendar.day.timeline.right": [
+    "date"
+  ],
+  "calendar.day.timeline.right.circle": [
+    "date"
+  ],
+  "calendar.day.timeline.right.circle.fill": [
+    "date"
+  ],
+  "calendar.day.timeline.trailing": [
+    "date"
+  ],
+  "calendar.day.timeline.trailing.circle": [
+    "date"
+  ],
+  "calendar.day.timeline.trailing.circle.fill": [
     "date"
   ],
   "camera.badge.ellipsis": [
@@ -1996,10 +2343,19 @@
   "character.book.closed.ar": [
     "dictionary"
   ],
+  "character.book.closed.bn": [
+    "dictionary"
+  ],
   "character.book.closed.fill": [
     "dictionary"
   ],
   "character.book.closed.fill.ar": [
+    "dictionary"
+  ],
+  "character.book.closed.fill.bn": [
+    "dictionary"
+  ],
+  "character.book.closed.fill.gu": [
     "dictionary"
   ],
   "character.book.closed.fill.he": [
@@ -2011,13 +2367,46 @@
   "character.book.closed.fill.ja": [
     "dictionary"
   ],
+  "character.book.closed.fill.kn": [
+    "dictionary"
+  ],
   "character.book.closed.fill.ko": [
+    "dictionary"
+  ],
+  "character.book.closed.fill.ml": [
+    "dictionary"
+  ],
+  "character.book.closed.fill.mni": [
+    "dictionary"
+  ],
+  "character.book.closed.fill.mr": [
+    "dictionary"
+  ],
+  "character.book.closed.fill.or": [
+    "dictionary"
+  ],
+  "character.book.closed.fill.pa": [
+    "dictionary"
+  ],
+  "character.book.closed.fill.sat": [
+    "dictionary"
+  ],
+  "character.book.closed.fill.si": [
+    "dictionary"
+  ],
+  "character.book.closed.fill.ta": [
+    "dictionary"
+  ],
+  "character.book.closed.fill.te": [
     "dictionary"
   ],
   "character.book.closed.fill.th": [
     "dictionary"
   ],
   "character.book.closed.fill.zh": [
+    "dictionary"
+  ],
+  "character.book.closed.gu": [
     "dictionary"
   ],
   "character.book.closed.he": [
@@ -2029,7 +2418,37 @@
   "character.book.closed.ja": [
     "dictionary"
   ],
+  "character.book.closed.kn": [
+    "dictionary"
+  ],
   "character.book.closed.ko": [
+    "dictionary"
+  ],
+  "character.book.closed.ml": [
+    "dictionary"
+  ],
+  "character.book.closed.mni": [
+    "dictionary"
+  ],
+  "character.book.closed.mr": [
+    "dictionary"
+  ],
+  "character.book.closed.or": [
+    "dictionary"
+  ],
+  "character.book.closed.pa": [
+    "dictionary"
+  ],
+  "character.book.closed.sat": [
+    "dictionary"
+  ],
+  "character.book.closed.si": [
+    "dictionary"
+  ],
+  "character.book.closed.ta": [
+    "dictionary"
+  ],
+  "character.book.closed.te": [
     "dictionary"
   ],
   "character.book.closed.th": [
@@ -2174,6 +2593,9 @@
   "circle.dotted.circle.fill": [
     "edit",
     "vignette"
+  ],
+  "circle.grid.2x2.topleft.checkmark.filled": [
+    "select"
   ],
   "circle.lefthalf.filled.righthalf.striped.horizontal": [
     "edit",
@@ -2448,6 +2870,9 @@
     "currencies",
     "currency"
   ],
+  "contextualmenu.and.pointer.arrow": [
+    "cursor"
+  ],
   "convertible.side.hill.descent.control": [
     "DSR"
   ],
@@ -2495,6 +2920,9 @@
   ],
   "cricket.ball.fill": [
     "sports"
+  ],
+  "crop.rotate": [
+    "arrow"
   ],
   "cross": [
     "medical"
@@ -2596,9 +3024,6 @@
     "drink",
     "tea"
   ],
-  "cursorarrow.rays": [
-    "light"
-  ],
   "danishkronesign": [
     "currencies",
     "currency"
@@ -2671,6 +3096,12 @@
   "desktopcomputer.and.macbook": [
     "imac",
     "mac"
+  ],
+  "desktopcomputer.badge.checkmark": [
+    "imac"
+  ],
+  "desktopcomputer.badge.shield.checkmark": [
+    "imac"
   ],
   "desktopcomputer.trianglebadge.exclamationmark": [
     "imac"
@@ -2816,6 +3247,14 @@
   "document.on.document.fill": [
     "copy"
   ],
+  "document.on.trash": [
+    "copy",
+    "delete"
+  ],
+  "document.on.trash.fill": [
+    "copy",
+    "delete"
+  ],
   "document.viewfinder": [
     "scan document"
   ],
@@ -2917,6 +3356,9 @@
   "dot.arrowtriangles.up.right.down.left.circle": [
     "zoom"
   ],
+  "dot.circle.and.pointer.arrow": [
+    "cursor"
+  ],
   "dot.radiowaves.forward": [
     "right"
   ],
@@ -2932,6 +3374,9 @@
   ],
   "dot.squareshape.split.2x2": [
     "grid"
+  ],
+  "dots.and.line.vertical.and.pointer.arrow.rectangle": [
+    "cursor"
   ],
   "drop": [
     "blood",
@@ -3012,6 +3457,76 @@
   "ear.trianglebadge.exclamationmark": [
     "warning"
   ],
+  "earbud.left": [
+    "audio",
+    "sound",
+    "speaker"
+  ],
+  "earbud.right": [
+    "audio",
+    "sound",
+    "speaker"
+  ],
+  "earbuds": [
+    "audio",
+    "sound",
+    "speaker"
+  ],
+  "earbuds.bone.conduction": [
+    "audio",
+    "sound",
+    "speaker"
+  ],
+  "earbuds.bone.conduction.left": [
+    "audio",
+    "sound",
+    "speaker"
+  ],
+  "earbuds.bone.conduction.right": [
+    "audio",
+    "sound",
+    "speaker"
+  ],
+  "earbuds.case": [
+    "audio",
+    "sound",
+    "speaker"
+  ],
+  "earbuds.case.fill": [
+    "audio",
+    "sound",
+    "speaker"
+  ],
+  "earbuds.in.ear": [
+    "audio",
+    "sound",
+    "speaker"
+  ],
+  "earbuds.in.ear.left": [
+    "audio",
+    "sound",
+    "speaker"
+  ],
+  "earbuds.in.ear.right": [
+    "audio",
+    "sound",
+    "speaker"
+  ],
+  "earbuds.stemless": [
+    "audio",
+    "sound",
+    "speaker"
+  ],
+  "earbuds.stemless.left": [
+    "audio",
+    "sound",
+    "speaker"
+  ],
+  "earbuds.stemless.right": [
+    "audio",
+    "sound",
+    "speaker"
+  ],
   "earpods": [
     "audio",
     "sound",
@@ -3041,6 +3556,9 @@
     "overflow",
     "…"
   ],
+  "ellipsis.calendar": [
+    "date"
+  ],
   "ellipsis.circle": [
     "action",
     "dot.3",
@@ -3048,6 +3566,12 @@
     "more",
     "overflow",
     "…"
+  ],
+  "ellipsis.circle.badge": [
+    "more"
+  ],
+  "ellipsis.circle.badge.fill": [
+    "more"
   ],
   "ellipsis.circle.fill": [
     "action",
@@ -3146,6 +3670,16 @@
     "letter",
     "mail"
   ],
+  "envelope.and.hand.raised": [
+    "address",
+    "letter",
+    "mail"
+  ],
+  "envelope.and.hand.raised.fill": [
+    "address",
+    "letter",
+    "mail"
+  ],
   "envelope.badge": [
     "address",
     "letter",
@@ -3156,12 +3690,32 @@
     "letter",
     "mail"
   ],
+  "envelope.badge.minus": [
+    "address",
+    "letter",
+    "mail"
+  ],
+  "envelope.badge.minus.fill": [
+    "address",
+    "letter",
+    "mail"
+  ],
   "envelope.badge.person.crop": [
     "address",
     "letter",
     "mail"
   ],
   "envelope.badge.person.crop.fill": [
+    "address",
+    "letter",
+    "mail"
+  ],
+  "envelope.badge.plus": [
+    "address",
+    "letter",
+    "mail"
+  ],
+  "envelope.badge.plus.fill": [
     "address",
     "letter",
     "mail"
@@ -3221,6 +3775,11 @@
     "letter",
     "mail"
   ],
+  "envelope.open.badge.clock.fill": [
+    "address",
+    "letter",
+    "mail"
+  ],
   "envelope.open.fill": [
     "address",
     "letter",
@@ -3256,6 +3815,9 @@
   ],
   "eraser.line.dashed.fill": [
     "erase"
+  ],
+  "escape": [
+    "arrow"
   ],
   "eurosign": [
     "currencies",
@@ -4684,39 +5246,63 @@
     "human",
     "person"
   ],
+  "figure.seated.side.left.air.distribution.indirect": [
+    "arrow",
+    "human",
+    "person"
+  ],
   "figure.seated.side.left.air.distribution.lower": [
+    "arrow",
+    "human",
+    "person"
+  ],
+  "figure.seated.side.left.air.distribution.lower.angled.and.upper.angled": [
+    "arrow",
     "human",
     "person"
   ],
   "figure.seated.side.left.air.distribution.middle": [
+    "arrow",
     "human",
     "person"
   ],
   "figure.seated.side.left.air.distribution.middle.and.lower": [
+    "arrow",
     "human",
     "person"
   ],
   "figure.seated.side.left.air.distribution.middle.and.lower.angled": [
+    "arrow",
     "human",
     "person"
   ],
   "figure.seated.side.left.air.distribution.upper": [
+    "arrow",
     "human",
     "person"
   ],
   "figure.seated.side.left.air.distribution.upper.and.middle.and.lower": [
+    "arrow",
+    "human",
+    "person"
+  ],
+  "figure.seated.side.left.air.distribution.upper.angled.and.dottedline.and.lower.angled": [
+    "arrow",
     "human",
     "person"
   ],
   "figure.seated.side.left.air.distribution.upper.angled.and.lower.angled": [
+    "arrow",
     "human",
     "person"
   ],
   "figure.seated.side.left.air.distribution.upper.angled.and.middle": [
+    "arrow",
     "human",
     "person"
   ],
   "figure.seated.side.left.air.distribution.upper.angled.and.middle.and.lower.angled": [
+    "arrow",
     "human",
     "person"
   ],
@@ -4753,30 +5339,37 @@
     "person"
   ],
   "figure.seated.side.left.windshield.front.and.heat.waves.air.distribution.lower": [
+    "arrow",
     "human",
     "person"
   ],
   "figure.seated.side.left.windshield.front.and.heat.waves.air.distribution.middle": [
+    "arrow",
     "human",
     "person"
   ],
   "figure.seated.side.left.windshield.front.and.heat.waves.air.distribution.middle.and.lower": [
+    "arrow",
     "human",
     "person"
   ],
   "figure.seated.side.left.windshield.front.and.heat.waves.air.distribution.upper": [
+    "arrow",
     "human",
     "person"
   ],
   "figure.seated.side.left.windshield.front.and.heat.waves.air.distribution.upper.and.lower": [
+    "arrow",
     "human",
     "person"
   ],
   "figure.seated.side.left.windshield.front.and.heat.waves.air.distribution.upper.and.middle": [
+    "arrow",
     "human",
     "person"
   ],
   "figure.seated.side.left.windshield.front.and.heat.waves.air.distribution.upper.and.middle.and.lower": [
+    "arrow",
     "human",
     "person"
   ],
@@ -4784,39 +5377,63 @@
     "human",
     "person"
   ],
+  "figure.seated.side.right.air.distribution.indirect": [
+    "arrow",
+    "human",
+    "person"
+  ],
   "figure.seated.side.right.air.distribution.lower": [
+    "arrow",
+    "human",
+    "person"
+  ],
+  "figure.seated.side.right.air.distribution.lower.angled.and.upper.angled": [
+    "arrow",
     "human",
     "person"
   ],
   "figure.seated.side.right.air.distribution.middle": [
+    "arrow",
     "human",
     "person"
   ],
   "figure.seated.side.right.air.distribution.middle.and.lower": [
+    "arrow",
     "human",
     "person"
   ],
   "figure.seated.side.right.air.distribution.middle.and.lower.angled": [
+    "arrow",
     "human",
     "person"
   ],
   "figure.seated.side.right.air.distribution.upper": [
+    "arrow",
     "human",
     "person"
   ],
   "figure.seated.side.right.air.distribution.upper.and.middle.and.lower": [
+    "arrow",
+    "human",
+    "person"
+  ],
+  "figure.seated.side.right.air.distribution.upper.angled.and.dottedline.and.lower.angled": [
+    "arrow",
     "human",
     "person"
   ],
   "figure.seated.side.right.air.distribution.upper.angled.and.lower.angled": [
+    "arrow",
     "human",
     "person"
   ],
   "figure.seated.side.right.air.distribution.upper.angled.and.middle": [
+    "arrow",
     "human",
     "person"
   ],
   "figure.seated.side.right.air.distribution.upper.angled.and.middle.and.lower.angled": [
+    "arrow",
     "human",
     "person"
   ],
@@ -4840,6 +5457,10 @@
     "human",
     "person"
   ],
+  "figure.seated.side.right.child.lap": [
+    "human",
+    "person"
+  ],
   "figure.seated.side.right.fan": [
     "human",
     "person"
@@ -4853,30 +5474,37 @@
     "person"
   ],
   "figure.seated.side.right.windshield.front.and.heat.waves.air.distribution.lower": [
+    "arrow",
     "human",
     "person"
   ],
   "figure.seated.side.right.windshield.front.and.heat.waves.air.distribution.middle": [
+    "arrow",
     "human",
     "person"
   ],
   "figure.seated.side.right.windshield.front.and.heat.waves.air.distribution.middle.and.lower": [
+    "arrow",
     "human",
     "person"
   ],
   "figure.seated.side.right.windshield.front.and.heat.waves.air.distribution.upper": [
+    "arrow",
     "human",
     "person"
   ],
   "figure.seated.side.right.windshield.front.and.heat.waves.air.distribution.upper.and.lower": [
+    "arrow",
     "human",
     "person"
   ],
   "figure.seated.side.right.windshield.front.and.heat.waves.air.distribution.upper.and.middle": [
+    "arrow",
     "human",
     "person"
   ],
   "figure.seated.side.right.windshield.front.and.heat.waves.air.distribution.upper.and.middle.and.lower": [
+    "arrow",
     "human",
     "person"
   ],
@@ -5220,6 +5848,24 @@
     "sports",
     "walking"
   ],
+  "figure.walk.suitcase.rolling": [
+    "gate",
+    "human",
+    "person",
+    "walking"
+  ],
+  "figure.walk.suitcase.rolling.circle": [
+    "gate",
+    "human",
+    "person",
+    "walking"
+  ],
+  "figure.walk.suitcase.rolling.circle.fill": [
+    "gate",
+    "human",
+    "person",
+    "walking"
+  ],
   "figure.walk.treadmill": [
     "human",
     "indoor walk",
@@ -5325,6 +5971,12 @@
     "human",
     "person",
     "sports"
+  ],
+  "filemenu.and.pointer.arrow": [
+    "cursor"
+  ],
+  "filemenu.and.pointer.arrow.rtl": [
+    "cursor"
   ],
   "firewall": [
     "arrow"
@@ -5923,6 +6575,21 @@
     "sound",
     "speaker"
   ],
+  "headphones.dots": [
+    "audio",
+    "sound",
+    "speaker"
+  ],
+  "headphones.over.ear": [
+    "audio",
+    "sound",
+    "speaker"
+  ],
+  "headphones.slash": [
+    "audio",
+    "sound",
+    "speaker"
+  ],
   "headset": [
     "concierge",
     "road assistance"
@@ -6139,6 +6806,10 @@
     "write",
     "writing"
   ],
+  "highlighter.badge.ellipsis": [
+    "write",
+    "writing"
+  ],
   "hockey.puck": [
     "sports"
   ],
@@ -6226,6 +6897,26 @@
     "sound",
     "speaker"
   ],
+  "homepod.badge.checkmark": [
+    "audio",
+    "sound",
+    "speaker"
+  ],
+  "homepod.badge.checkmark.fill": [
+    "audio",
+    "sound",
+    "speaker"
+  ],
+  "homepod.badge.checkmark.fill.rtl": [
+    "audio",
+    "sound",
+    "speaker"
+  ],
+  "homepod.badge.checkmark.rtl": [
+    "audio",
+    "sound",
+    "speaker"
+  ],
   "homepod.badge.minus": [
     "audio",
     "sound",
@@ -6292,6 +6983,26 @@
     "speaker"
   ],
   "homepod.mini.arrow.forward.fill": [
+    "audio",
+    "sound",
+    "speaker"
+  ],
+  "homepod.mini.badge.checkmark": [
+    "audio",
+    "sound",
+    "speaker"
+  ],
+  "homepod.mini.badge.checkmark.fill": [
+    "audio",
+    "sound",
+    "speaker"
+  ],
+  "homepod.mini.badge.checkmark.fill.rtl": [
+    "audio",
+    "sound",
+    "speaker"
+  ],
+  "homepod.mini.badge.checkmark.rtl": [
     "audio",
     "sound",
     "speaker"
@@ -6528,6 +7239,13 @@
     "people",
     "screen sharing"
   ],
+  "inset.filled.rectangle.and.pointer.arrow": [
+    "cursor"
+  ],
+  "ipad.landscape.and.applewatch": [
+    "applewatch",
+    "ipad"
+  ],
   "ipad.landscape.and.iphone": [
     "ipad",
     "iphone"
@@ -6535,6 +7253,10 @@
   "ipad.landscape.and.iphone.slash": [
     "ipad",
     "iphone"
+  ],
+  "ipad.landscape.and.ipod": [
+    "applewatch",
+    "ipad"
   ],
   "iphone.gen1.slash": [
     "remove"
@@ -6589,6 +7311,14 @@
     "security"
   ],
   "key.2.on.ring.fill": [
+    "security"
+  ],
+  "key.circle": [
+    "password",
+    "security"
+  ],
+  "key.circle.fill": [
+    "password",
     "security"
   ],
   "key.fill": [
@@ -6949,12 +7679,32 @@
     "password",
     "security"
   ],
+  "lock.badge.checkmark": [
+    "padlock",
+    "password",
+    "security"
+  ],
+  "lock.badge.checkmark.fill": [
+    "padlock",
+    "password",
+    "security"
+  ],
   "lock.badge.clock": [
     "padlock",
     "password",
     "security"
   ],
   "lock.badge.clock.fill": [
+    "padlock",
+    "password",
+    "security"
+  ],
+  "lock.badge.xmark": [
+    "padlock",
+    "password",
+    "security"
+  ],
+  "lock.badge.xmark.fill": [
     "padlock",
     "password",
     "security"
@@ -6999,6 +7749,14 @@
     "padlock",
     "password",
     "security"
+  ],
+  "lock.heart": [
+    "medical",
+    "privacy"
+  ],
+  "lock.heart.fill": [
+    "medical",
+    "privacy"
   ],
   "lock.icloud": [
     "padlock",
@@ -7152,6 +7910,11 @@
     "password",
     "security"
   ],
+  "lock.square.dashed": [
+    "padlock",
+    "password",
+    "security"
+  ],
   "lock.square.fill": [
     "padlock",
     "password",
@@ -7184,6 +7947,12 @@
   "macmini": [
     "mac mini"
   ],
+  "macmini.badge.checkmark": [
+    "mac mini"
+  ],
+  "macmini.badge.checkmark.fill": [
+    "mac mini"
+  ],
   "macmini.fill": [
     "mac mini"
   ],
@@ -7202,8 +7971,20 @@
   "macstudio": [
     "mac studio"
   ],
+  "macstudio.badge.checkmark": [
+    "mac studio"
+  ],
+  "macstudio.badge.checkmark.fill": [
+    "mac studio"
+  ],
   "macstudio.fill": [
     "mac studio"
+  ],
+  "macwindow.and.pointer.arrow": [
+    "cursor"
+  ],
+  "macwindow.and.pointer.arrow.rtl": [
+    "cursor"
   ],
   "macwindow.badge.plus": [
     "+",
@@ -7579,6 +8360,38 @@
   "moon.stars.fill": [
     "weather"
   ],
+  "moonrise": [
+    "arrow",
+    "weather"
+  ],
+  "moonrise.circle": [
+    "arrow",
+    "weather"
+  ],
+  "moonrise.circle.fill": [
+    "arrow",
+    "weather"
+  ],
+  "moonrise.fill": [
+    "arrow",
+    "weather"
+  ],
+  "moonset": [
+    "arrow",
+    "weather"
+  ],
+  "moonset.circle": [
+    "arrow",
+    "weather"
+  ],
+  "moonset.circle.fill": [
+    "arrow",
+    "weather"
+  ],
+  "moonset.fill": [
+    "arrow",
+    "weather"
+  ],
   "mountain.2": [
     "campground",
     "camping",
@@ -7643,6 +8456,9 @@
   "music.microphone.circle.fill": [
     "microphone"
   ],
+  "music.note": [
+    "media"
+  ],
   "music.note.house": [
     "home",
     "house"
@@ -7650,6 +8466,21 @@
   "music.note.house.fill": [
     "home",
     "house"
+  ],
+  "music.note.list": [
+    "media"
+  ],
+  "music.note.slash": [
+    "media"
+  ],
+  "music.note.square.stack": [
+    "media"
+  ],
+  "music.note.square.stack.fill": [
+    "media"
+  ],
+  "music.quarternote.3": [
+    "media"
   ],
   "nairasign": [
     "currencies",
@@ -7716,19 +8547,28 @@
     "currency"
   ],
   "nosign": [
-    "restricted"
+    "block",
+    "crossed out",
+    "restricted",
+    "slash"
   ],
   "nosign.app": [
-    "restricted"
+    "block",
+    "crossed out",
+    "restricted",
+    "slash"
   ],
   "nosign.app.fill": [
-    "restricted"
+    "block",
+    "crossed out",
+    "restricted",
+    "slash"
   ],
-  "note.text.badge.plus": [
-    "+",
-    "add",
-    "create",
-    "new"
+  "nosign.badge.clock": [
+    "block",
+    "crossed out",
+    "restricted",
+    "slash"
   ],
   "notequal": [
     "≠"
@@ -7953,6 +8793,14 @@
     "people",
     "shared"
   ],
+  "person.2.badge": [
+    "people",
+    "shared"
+  ],
+  "person.2.badge.fill": [
+    "people",
+    "shared"
+  ],
   "person.2.badge.gearshape": [
     "people"
   ],
@@ -8002,6 +8850,14 @@
     "people"
   ],
   "person.2.fill": [
+    "people",
+    "shared"
+  ],
+  "person.2.shield": [
+    "people",
+    "shared"
+  ],
+  "person.2.shield.fill": [
     "people",
     "shared"
   ],
@@ -8186,6 +9042,18 @@
     "contact",
     "people",
     "time",
+    "user"
+  ],
+  "person.crop.circle.badge.ellipsis": [
+    "account",
+    "contact",
+    "people",
+    "user"
+  ],
+  "person.crop.circle.badge.ellipsis.fill": [
+    "account",
+    "contact",
+    "people",
     "user"
   ],
   "person.crop.circle.badge.exclamationmark": [
@@ -8466,12 +9334,38 @@
     "people",
     "user"
   ],
+  "person.spatialaudio.3d.fill": [
+    "people",
+    "user"
+  ],
+  "person.spatialaudio.fill": [
+    "people",
+    "user"
+  ],
+  "person.spatialaudio.stereo.3d.fill": [
+    "people",
+    "user"
+  ],
+  "person.spatialaudio.stereo.fill": [
+    "people",
+    "user"
+  ],
   "person.text.rectangle": [
     "card",
     "id",
     "people"
   ],
   "person.text.rectangle.fill": [
+    "card",
+    "id",
+    "people"
+  ],
+  "person.text.rectangle.trianglebadge.exclamationmark": [
+    "card",
+    "id",
+    "people"
+  ],
+  "person.text.rectangle.trianglebadge.exclamationmark.fill": [
     "card",
     "id",
     "people"
@@ -8573,6 +9467,18 @@
   "pesosign.square.fill": [
     "currencies",
     "currency"
+  ],
+  "pet.carrier": [
+    "luggage"
+  ],
+  "pet.carrier.circle": [
+    "luggage"
+  ],
+  "pet.carrier.circle.fill": [
+    "luggage"
+  ],
+  "pet.carrier.fill": [
+    "luggage"
   ],
   "phone.badge.plus": [
     "add"
@@ -9019,10 +9925,12 @@
     "plus"
   ],
   "plus.square.fill.on.square.fill": [
-    "add"
+    "add",
+    "duplicate"
   ],
   "plus.square.on.square": [
-    "add"
+    "add",
+    "duplicate"
   ],
   "plus.viewfinder": [
     "add"
@@ -9146,6 +10054,71 @@
     "path",
     "switchback",
     "trail"
+  ],
+  "pointer.arrow": [
+    "cursor"
+  ],
+  "pointer.arrow.and.square.on.square.dashed": [
+    "cursor"
+  ],
+  "pointer.arrow.click": [
+    "cursor"
+  ],
+  "pointer.arrow.click.2": [
+    "cursor"
+  ],
+  "pointer.arrow.click.badge.clock": [
+    "cursor"
+  ],
+  "pointer.arrow.ipad": [
+    "cursor"
+  ],
+  "pointer.arrow.ipad.and.square.on.square.dashed": [
+    "cursor"
+  ],
+  "pointer.arrow.ipad.rays": [
+    "cursor",
+    "light"
+  ],
+  "pointer.arrow.ipad.slash": [
+    "cursor"
+  ],
+  "pointer.arrow.ipad.slash.square": [
+    "cursor"
+  ],
+  "pointer.arrow.ipad.slash.square.fill": [
+    "cursor"
+  ],
+  "pointer.arrow.ipad.square": [
+    "cursor"
+  ],
+  "pointer.arrow.ipad.square.fill": [
+    "cursor"
+  ],
+  "pointer.arrow.motionlines": [
+    "cursor"
+  ],
+  "pointer.arrow.motionlines.click": [
+    "cursor"
+  ],
+  "pointer.arrow.rays": [
+    "cursor",
+    "light"
+  ],
+  "pointer.arrow.slash": [
+    "cursor"
+  ],
+  "pointer.arrow.slash.square": [
+    "cursor"
+  ],
+  "pointer.arrow.slash.square.fill": [
+    "cursor"
+  ],
+  "pointer.arrow.square": [
+    "cursor"
+  ],
+  "pointer.arrow.square.fill": [
+    "cursor"
   ],
   "polishzlotysign": [
     "currencies",
@@ -9643,6 +10616,12 @@
     "touch",
     "trackpad"
   ],
+  "rectangle.landscape.rotate": [
+    "arrow"
+  ],
+  "rectangle.landscape.rotate.slash": [
+    "arrow"
+  ],
   "rectangle.on.rectangle.dashed": [
     "digital rights management",
     "drm"
@@ -9652,6 +10631,12 @@
   ],
   "rectangle.on.rectangle.slash.fill": [
     "remove"
+  ],
+  "rectangle.portrait.rotate": [
+    "arrow"
+  ],
+  "rectangle.portrait.rotate.slash": [
+    "arrow"
   ],
   "rectangle.slash": [
     "remove"
@@ -9693,6 +10678,12 @@
   ],
   "rectangle.stack.fill.badge.plus": [
     "add",
+    "album"
+  ],
+  "rectangle.stack.slash": [
+    "album"
+  ],
+  "rectangle.stack.slash.fill": [
     "album"
   ],
   "repeat": [
@@ -9741,6 +10732,11 @@
     "trianglehead"
   ],
   "repeat.1.hi": [
+    "arrow",
+    "arrow.trianglehead",
+    "trianglehead"
+  ],
+  "repeat.badge.xmark": [
     "arrow",
     "arrow.trianglehead",
     "trianglehead"
@@ -9894,6 +10890,9 @@
     "select",
     "target"
   ],
+  "selection.pin.in.out": [
+    "trim"
+  ],
   "sensor.tag.radiowaves.forward": [
     "findable",
     "location"
@@ -9901,6 +10900,12 @@
   "sensor.tag.radiowaves.forward.fill": [
     "findable",
     "location"
+  ],
+  "service.dog": [
+    "animals"
+  ],
+  "service.dog.fill": [
+    "animals"
   ],
   "sharedwithyou": [
     "people",
@@ -10106,6 +11111,9 @@
     "currencies",
     "currency"
   ],
+  "siri": [
+    "siri"
+  ],
   "skateboard": [
     "sports"
   ],
@@ -10238,6 +11246,12 @@
   "sparkle.magnifyingglass": [
     "search"
   ],
+  "sparkle.text.clipboard": [
+    "notes"
+  ],
+  "sparkle.text.clipboard.fill": [
+    "notes"
+  ],
   "sparkles": [
     "weather"
   ],
@@ -10316,6 +11330,16 @@
   ],
   "speaker.square.fill": [
     "volume"
+  ],
+  "speaker.trianglebadge.exclamationmark": [
+    "!",
+    "volume",
+    "warning"
+  ],
+  "speaker.trianglebadge.exclamationmark.fill": [
+    "!",
+    "volume",
+    "warning"
   ],
   "speaker.wave.1": [
     "volume"
@@ -10693,6 +11717,36 @@
   "suitcase.rolling": [
     "luggage"
   ],
+  "suitcase.rolling.and.film": [
+    "luggage"
+  ],
+  "suitcase.rolling.and.film.circle": [
+    "luggage"
+  ],
+  "suitcase.rolling.and.film.circle.fill": [
+    "luggage"
+  ],
+  "suitcase.rolling.and.film.fill": [
+    "luggage"
+  ],
+  "suitcase.rolling.and.suitcase": [
+    "luggage"
+  ],
+  "suitcase.rolling.and.suitcase.circle": [
+    "luggage"
+  ],
+  "suitcase.rolling.and.suitcase.circle.fill": [
+    "luggage"
+  ],
+  "suitcase.rolling.and.suitcase.fill": [
+    "luggage"
+  ],
+  "suitcase.rolling.circle": [
+    "luggage"
+  ],
+  "suitcase.rolling.circle.fill": [
+    "luggage"
+  ],
   "suitcase.rolling.fill": [
     "luggage"
   ],
@@ -10791,27 +11845,34 @@
     "weather"
   ],
   "sunrise": [
+    "arrow",
     "weather"
   ],
   "sunrise.circle": [
+    "arrow",
     "weather"
   ],
   "sunrise.circle.fill": [
+    "arrow",
     "weather"
   ],
   "sunrise.fill": [
+    "arrow",
     "weather"
   ],
   "sunset": [
+    "arrow",
     "weather"
   ],
   "sunset.circle": [
+    "arrow",
     "weather"
   ],
   "sunset.circle.fill": [
     "weather"
   ],
   "sunset.fill": [
+    "arrow",
     "weather"
   ],
   "surfboard": [
@@ -11053,6 +12114,7 @@
     "medical"
   ],
   "text.append": [
+    "arrow",
     "end",
     "later",
     "play later"
@@ -11106,9 +12168,19 @@
     "dictionary"
   ],
   "text.insert": [
+    "arrow",
     "beginning",
     "next",
     "play next"
+  ],
+  "text.line.2.summary": [
+    "summarize"
+  ],
+  "text.line.2.summary.badge.xmark": [
+    "summarize"
+  ],
+  "text.line.3.summary": [
+    "summarize"
   ],
   "text.magnifyingglass": [
     "search"
@@ -11116,8 +12188,20 @@
   "text.magnifyingglass.rtl": [
     "search"
   ],
+  "text.pad.header.badge.plus": [
+    "+",
+    "add",
+    "create",
+    "new"
+  ],
+  "text.page": [
+    "reader"
+  ],
   "text.page.badge.magnifyingglass": [
     "search"
+  ],
+  "text.page.fill": [
+    "reader"
   ],
   "text.rectangle.page": [
     "today"
@@ -11199,6 +12283,12 @@
   ],
   "thermometer.variable.and.figure.circle.fill": [
     "feels like",
+    "weather"
+  ],
+  "thermometer.variable.badge.clock": [
+    "weather"
+  ],
+  "thermometer.variable.badge.play": [
     "weather"
   ],
   "timeline.selection": [
@@ -11330,6 +12420,14 @@
     "mail"
   ],
   "tray.and.arrow.up.fill": [
+    "mail"
+  ],
+  "tray.badge": [
+    "inbox",
+    "mail"
+  ],
+  "tray.badge.fill": [
+    "inbox",
     "mail"
   ],
   "tray.circle": [
@@ -11577,6 +12675,18 @@
   "volleyball.fill": [
     "sports"
   ],
+  "wand.and.rays": [
+    "magic"
+  ],
+  "wand.and.rays.inverse": [
+    "magic"
+  ],
+  "wand.and.sparkles": [
+    "magic"
+  ],
+  "wand.and.sparkles.inverse": [
+    "magic"
+  ],
   "water.waves": [
     "dive",
     "ocean",
@@ -11655,6 +12765,7 @@
   ],
   "waveform": [
     "audio",
+    "high",
     "record",
     "speech",
     "voice memo"
@@ -11674,12 +12785,24 @@
   ],
   "waveform.circle": [
     "audio",
+    "high",
     "record",
-    "speech"
+    "speech",
+    "voice memo"
   ],
   "waveform.circle.fill": [
     "audio",
+    "high",
     "record",
+    "speech",
+    "voice memo"
+  ],
+  "waveform.low": [
+    "audio",
+    "speech"
+  ],
+  "waveform.mid": [
+    "audio",
     "speech"
   ],
   "waveform.path.badge.minus": [
@@ -11837,6 +12960,12 @@
     "clear",
     "close",
     "stop",
+    "x"
+  ],
+  "xmark.circle.badge.airplane": [
+    "x"
+  ],
+  "xmark.circle.badge.airplane.fill": [
     "x"
   ],
   "xmark.circle.fill": [

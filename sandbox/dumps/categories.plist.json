@@ -8,12 +8,16 @@
     "icon": "sparkles"
   },
   {
-    "key": "multicolor",
-    "icon": "paintpalette"
+    "key": "draw",
+    "icon": "scribble"
   },
   {
-    "key": "variablecolor",
+    "key": "variable",
     "icon": "slider.horizontal.below.square.and.square.filled"
+  },
+  {
+    "key": "multicolor",
+    "icon": "paintpalette"
   },
   {
     "key": "communication",
