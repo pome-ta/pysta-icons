@@ -1,3 +1,19 @@
+# 📝 2025/11/23
+
+## iOS26.1
+
+```
+symbol_categories.plist: 7761
+symbol_search.plist: 3189
+legacy_flippable.plist: 75
+name_availability.plist: 2
+Info.plist: 22
+categories.plist: 32
+symbol_order.plist: 8302
+
+```
+
+
 # 📝 2025/10/05
 
 ## iOS26.0.1

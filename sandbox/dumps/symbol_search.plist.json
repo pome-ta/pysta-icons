@@ -7239,6 +7239,14 @@
     "people",
     "screen sharing"
   ],
+  "inset.filled.rectangle.and.person.filled.slash": [
+    "people",
+    "screen sharing"
+  ],
+  "inset.filled.rectangle.and.person.filled.slash.rtl": [
+    "people",
+    "screen sharing"
+  ],
   "inset.filled.rectangle.and.pointer.arrow": [
     "cursor"
   ],
@@ -11173,6 +11181,10 @@
     "adjust",
     "edit"
   ],
+  "slider.horizontal.below.sun.min": [
+    "adjust",
+    "edit"
+  ],
   "slider.vertical.3": [
     "adjust",
     "edit"
@@ -11635,6 +11647,12 @@
     "favorite",
     "mail",
     "vip"
+  ],
+  "star.rectangle": [
+    "favorite"
+  ],
+  "star.rectangle.fill": [
+    "favorite"
   ],
   "star.slash": [
     "favorite",

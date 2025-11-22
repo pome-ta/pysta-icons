@@ -3657,14 +3657,6 @@
     "automotive",
     "multicolor"
   ],
-  "ac": [
-    "automotive",
-    "whatsnew"
-  ],
-  "ac.slash": [
-    "automotive",
-    "whatsnew"
-  ],
   "accessibility": [
     "accessibility",
     "human",
@@ -3688,6 +3680,10 @@
     "automotive",
     "multicolor"
   ],
+  "air.conditioner": [
+    "automotive",
+    "whatsnew"
+  ],
   "air.conditioner.horizontal": [
     "home",
     "objectsandtools"
@@ -3695,6 +3691,10 @@
   "air.conditioner.horizontal.fill": [
     "home",
     "objectsandtools"
+  ],
+  "air.conditioner.slash": [
+    "automotive",
+    "whatsnew"
   ],
   "air.conditioner.vertical": [
     "home",
@@ -6087,6 +6087,10 @@
   "arrowtriangle.backward.fill": [
     "arrows"
   ],
+  "arrowtriangle.backward.inset.filled.trailingthird.rectangle": [
+    "multicolor",
+    "whatsnew"
+  ],
   "arrowtriangle.backward.square": [
     "arrows"
   ],
@@ -6096,6 +6100,14 @@
   ],
   "arrowtriangle.down": [
     "arrows"
+  ],
+  "arrowtriangle.down.2": [
+    "arrows",
+    "whatsnew"
+  ],
+  "arrowtriangle.down.2.fill": [
+    "arrows",
+    "whatsnew"
   ],
   "arrowtriangle.down.circle": [
     "arrows",
@@ -6130,6 +6142,10 @@
   ],
   "arrowtriangle.forward.fill": [
     "arrows"
+  ],
+  "arrowtriangle.forward.inset.filled.trailingthird.rectangle": [
+    "multicolor",
+    "whatsnew"
   ],
   "arrowtriangle.forward.square": [
     "arrows"
@@ -6198,6 +6214,14 @@
   ],
   "arrowtriangle.up": [
     "arrows"
+  ],
+  "arrowtriangle.up.2": [
+    "arrows",
+    "whatsnew"
+  ],
+  "arrowtriangle.up.2.fill": [
+    "arrows",
+    "whatsnew"
   ],
   "arrowtriangle.up.arrowtriangle.down.window.left": [
     "automotive"
@@ -7823,6 +7847,14 @@
     "gaming",
     "shapes"
   ],
+  "button.horizontal.top": [
+    "devices",
+    "whatsnew"
+  ],
+  "button.horizontal.top.fill": [
+    "devices",
+    "whatsnew"
+  ],
   "button.horizontal.top.press": [
     "devices"
   ],
@@ -7855,11 +7887,27 @@
     "gaming",
     "shapes"
   ],
+  "button.vertical.left": [
+    "devices",
+    "whatsnew"
+  ],
+  "button.vertical.left.fill": [
+    "devices",
+    "whatsnew"
+  ],
   "button.vertical.left.press": [
     "devices"
   ],
   "button.vertical.left.press.fill": [
     "devices"
+  ],
+  "button.vertical.right": [
+    "devices",
+    "whatsnew"
+  ],
+  "button.vertical.right.fill": [
+    "devices",
+    "whatsnew"
   ],
   "button.vertical.right.press": [
     "devices"
@@ -8150,6 +8198,12 @@
   "camera.viewfinder": [
     "cameraandphotos",
     "objectsandtools"
+  ],
+  "camera.viewfinder.badge.automatic": [
+    "cameraandphotos",
+    "multicolor",
+    "objectsandtools",
+    "whatsnew"
   ],
   "candybarphone": [
     "devices"
@@ -12193,6 +12247,11 @@
     "multicolor",
     "objectsandtools"
   ],
+  "digitalcrown": [
+    "accessibility",
+    "devices",
+    "whatsnew"
+  ],
   "digitalcrown.arrow.clockwise": [
     "accessibility",
     "devices"
@@ -12209,6 +12268,16 @@
     "accessibility",
     "devices"
   ],
+  "digitalcrown.fill": [
+    "accessibility",
+    "devices",
+    "whatsnew"
+  ],
+  "digitalcrown.horizontal": [
+    "accessibility",
+    "devices",
+    "whatsnew"
+  ],
   "digitalcrown.horizontal.arrow.clockwise": [
     "devices"
   ],
@@ -12220,6 +12289,11 @@
   ],
   "digitalcrown.horizontal.arrow.counterclockwise.fill": [
     "devices"
+  ],
+  "digitalcrown.horizontal.fill": [
+    "accessibility",
+    "devices",
+    "whatsnew"
   ],
   "digitalcrown.horizontal.press": [
     "devices"
@@ -17070,7 +17144,7 @@
     "automotive",
     "multicolor"
   ],
-  "head.profile.arrow.forward.and.vision.pro": [
+  "head.profile.vision.pro.remove": [
     "devices"
   ],
   "headlight.daytime": [
@@ -18127,6 +18201,14 @@
     "human",
     "multicolor"
   ],
+  "inset.filled.rectangle.and.person.filled.slash": [
+    "human",
+    "whatsnew"
+  ],
+  "inset.filled.rectangle.and.person.filled.slash.rtl": [
+    "human",
+    "whatsnew"
+  ],
   "inset.filled.rectangle.and.pointer.arrow": [
     "human"
   ],
@@ -18926,6 +19008,9 @@
   "keyboard.fill": [
     "devices",
     "keyboard"
+  ],
+  "keyboard.macwindow": [
+    "multicolor"
   ],
   "keyboard.onehanded.left": [
     "devices",
@@ -20422,10 +20507,23 @@
   "macwindow": [
     "multicolor"
   ],
+  "macwindow.and.pointer.arrow": [
+    "multicolor"
+  ],
+  "macwindow.and.pointer.arrow.rtl": [
+    "multicolor"
+  ],
   "macwindow.badge.plus": [
     "multicolor"
   ],
+  "macwindow.on.rectangle": [
+    "multicolor"
+  ],
+  "macwindow.on.rectangle.rtl": [
+    "multicolor"
+  ],
   "macwindow.stack": [
+    "multicolor",
     "whatsnew"
   ],
   "magazine": [
@@ -24164,6 +24262,13 @@
     "gaming",
     "multicolor"
   ],
+  "radicand.squareroot": [
+    "math"
+  ],
+  "radicand.squareroot.ar": [
+    "math",
+    "whatsnew"
+  ],
   "radio": [
     "objectsandtools"
   ],
@@ -24280,6 +24385,12 @@
   ],
   "rectangle.badge.plus": [
     "multicolor"
+  ],
+  "rectangle.badge.sparkles": [
+    "whatsnew"
+  ],
+  "rectangle.badge.sparkles.fill": [
+    "whatsnew"
   ],
   "rectangle.badge.xmark": [
     "multicolor"
@@ -25448,6 +25559,10 @@
   "slider.horizontal.below.sun.max": [
     "editing"
   ],
+  "slider.horizontal.below.sun.min": [
+    "editing",
+    "whatsnew"
+  ],
   "slider.vertical.3": [
     "editing"
   ],
@@ -26085,6 +26200,13 @@
   ],
   "star.leadinghalf.filled": [
     "multicolor"
+  ],
+  "star.rectangle": [
+    "whatsnew"
+  ],
+  "star.rectangle.fill": [
+    "multicolor",
+    "whatsnew"
   ],
   "star.slash": [
     "multicolor"
@@ -27055,6 +27177,9 @@
   ],
   "text.alignright": [
     "textformatting"
+  ],
+  "text.and.command.macwindow": [
+    "multicolor"
   ],
   "text.append": [
     "arrows",
@@ -28343,7 +28468,8 @@
   ],
   "trash.slash.circle": [
     "multicolor",
-    "objectsandtools"
+    "objectsandtools",
+    "variable"
   ],
   "trash.slash.circle.fill": [
     "multicolor",
@@ -29746,9 +29872,6 @@
   "x.square.fill": [
     "indices",
     "multicolor"
-  ],
-  "x.squareroot": [
-    "math"
   ],
   "xbox.logo": [
     "gaming"
