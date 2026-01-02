@@ -1,3 +1,20 @@
+# 📝 2026/01/02
+
+
+## iOS26.2
+
+```
+symbol_categories.plist: 7761
+symbol_search.plist: 3189
+legacy_flippable.plist: 75
+name_availability.plist: 2
+Info.plist: 22
+categories.plist: 32
+symbol_order.plist: 8302
+
+
+```
+
 # 📝 2026/01/01
 
 ## iOS26.1 (iPhone 15 Pro)
