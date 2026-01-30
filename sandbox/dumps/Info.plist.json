@@ -2,7 +2,7 @@
   "CFBundleName": "CoreGlyphs",
   "DTXcode": "2600",
   "DTSDKName": "iphoneos26.2.internal",
-  "DTSDKBuild": "23C38",
+  "DTSDKBuild": "23C59",
   "CFBundleDevelopmentRegion": "en",
   "CFBundleVersion": "190.1.0.2",
   "BuildMachineOSBuild": "23A344014",
@@ -24,7 +24,7 @@
     1,
     2
   ],
-  "DTPlatformVersion": "26.2",
+  "DTPlatformVersion": "26.2.1",
   "DTXcodeBuild": "17A6264l",
   "CFBundleLocalizations": [
     "ar",
