@@ -536,6 +536,54 @@
   "airpods.pro.chargingcase.wireless.radiowaves.left.and.right.fill": [
     "audio"
   ],
+  "airpods.pro.gen1": [
+    "audio",
+    "sound",
+    "speaker"
+  ],
+  "airpods.pro.gen1.chargingcase.wireless": [
+    "audio"
+  ],
+  "airpods.pro.gen1.chargingcase.wireless.fill": [
+    "audio"
+  ],
+  "airpods.pro.gen1.chargingcase.wireless.radiowaves.left.and.right": [
+    "audio"
+  ],
+  "airpods.pro.gen1.chargingcase.wireless.radiowaves.left.and.right.fill": [
+    "audio"
+  ],
+  "airpods.pro.gen1.left": [
+    "audio",
+    "sound",
+    "speaker"
+  ],
+  "airpods.pro.gen1.right": [
+    "audio",
+    "sound",
+    "speaker"
+  ],
+  "airpods.pro.gen3": [
+    "audio"
+  ],
+  "airpods.pro.gen3.chargingcase.wireless": [
+    "audio"
+  ],
+  "airpods.pro.gen3.chargingcase.wireless.fill": [
+    "audio"
+  ],
+  "airpods.pro.gen3.chargingcase.wireless.radiowaves.left.and.right": [
+    "audio"
+  ],
+  "airpods.pro.gen3.chargingcase.wireless.radiowaves.left.and.right.fill": [
+    "audio"
+  ],
+  "airpods.pro.gen3.left": [
+    "audio"
+  ],
+  "airpods.pro.gen3.right": [
+    "audio"
+  ],
   "airpods.pro.left": [
     "audio",
     "sound",
@@ -576,7 +624,31 @@
   "alarm": [
     "alarm"
   ],
+  "alarm.badge.exclamationmark": [
+    "alarm"
+  ],
+  "alarm.badge.exclamationmark.fill": [
+    "alarm"
+  ],
+  "alarm.badge.minus": [
+    "alarm"
+  ],
+  "alarm.badge.minus.fill": [
+    "alarm"
+  ],
+  "alarm.badge.xmark": [
+    "alarm"
+  ],
+  "alarm.badge.xmark.fill": [
+    "alarm"
+  ],
   "alarm.fill": [
+    "alarm"
+  ],
+  "alarm.slash": [
+    "alarm"
+  ],
+  "alarm.slash.fill": [
     "alarm"
   ],
   "alarm.waves.left.and.right": [
@@ -1074,6 +1146,21 @@
   "arrow.up.and.person.rectangle.turn.right": [
     "people"
   ],
+  "arrow.up.arrow.down": [
+    "sort"
+  ],
+  "arrow.up.arrow.down.circle": [
+    "sort"
+  ],
+  "arrow.up.arrow.down.circle.fill": [
+    "sort"
+  ],
+  "arrow.up.arrow.down.square": [
+    "sort"
+  ],
+  "arrow.up.arrow.down.square.fill": [
+    "sort"
+  ],
   "arrow.up.backward": [
     "left"
   ],
@@ -1351,11 +1438,11 @@
     "currencies",
     "currency"
   ],
-  "australiandollarsign.bank.building": [
+  "australiandollarsign.building.classical": [
     "currencies",
     "currency"
   ],
-  "australiandollarsign.bank.building.fill": [
+  "australiandollarsign.building.classical.fill": [
     "currencies",
     "currency"
   ],
@@ -1383,11 +1470,11 @@
     "currencies",
     "currency"
   ],
-  "australsign.bank.building": [
+  "australsign.building.classical": [
     "currencies",
     "currency"
   ],
-  "australsign.bank.building.fill": [
+  "australsign.building.classical.fill": [
     "currencies",
     "currency"
   ],
@@ -1452,11 +1539,11 @@
     "currencies",
     "currency"
   ],
-  "bahtsign.bank.building": [
+  "bahtsign.building.classical": [
     "currencies",
     "currency"
   ],
-  "bahtsign.bank.building.fill": [
+  "bahtsign.building.classical.fill": [
     "currencies",
     "currency"
   ],
@@ -1500,6 +1587,11 @@
   "barometer": [
     "high",
     "medium"
+  ],
+  "base.unit": [
+    "distance",
+    "measure",
+    "scale"
   ],
   "baseball": [
     "sports"
@@ -1826,11 +1918,11 @@
     "currencies",
     "currency"
   ],
-  "bitcoinsign.bank.building": [
+  "bitcoinsign.building.classical": [
     "currencies",
     "currency"
   ],
-  "bitcoinsign.bank.building.fill": [
+  "bitcoinsign.building.classical.fill": [
     "currencies",
     "currency"
   ],
@@ -1983,11 +2075,11 @@
     "currencies",
     "currency"
   ],
-  "brazilianrealsign.bank.building": [
+  "brazilianrealsign.building.classical": [
     "currencies",
     "currency"
   ],
-  "brazilianrealsign.bank.building.fill": [
+  "brazilianrealsign.building.classical.fill": [
     "currencies",
     "currency"
   ],
@@ -2037,16 +2129,16 @@
     "COVID",
     "deep cleaning"
   ],
-  "building.columns": [
+  "building.classical.columns": [
     "library"
   ],
-  "building.columns.circle": [
+  "building.classical.columns.circle": [
+    "library"
+  ],
+  "building.classical.columns.fill": [
     "library"
   ],
   "building.columns.circle.fill": [
-    "library"
-  ],
-  "building.columns.fill": [
     "library"
   ],
   "calendar": [
@@ -2098,6 +2190,9 @@
   ],
   "calendar.circle.fill": [
     "calendar",
+    "date"
+  ],
+  "calendar.day": [
     "date"
   ],
   "calendar.day.timeline.leading": [
@@ -2272,11 +2367,11 @@
     "currencies",
     "currency"
   ],
-  "cedisign.bank.building": [
+  "cedisign.building.classical": [
     "currencies",
     "currency"
   ],
-  "cedisign.bank.building.fill": [
+  "cedisign.building.classical.fill": [
     "currencies",
     "currency"
   ],
@@ -2304,11 +2399,11 @@
     "currencies",
     "currency"
   ],
-  "centsign.bank.building": [
+  "centsign.building.classical": [
     "currencies",
     "currency"
   ],
-  "centsign.bank.building.fill": [
+  "centsign.building.classical.fill": [
     "currencies",
     "currency"
   ],
@@ -2547,6 +2642,9 @@
   "chevron.forward.square.fill": [
     "right"
   ],
+  "chevron.left.forwardslash.chevron.right": [
+    "code"
+  ],
   "chineseyuanrenminbisign": [
     "currencies",
     "currency"
@@ -2555,11 +2653,11 @@
     "currencies",
     "currency"
   ],
-  "chineseyuanrenminbisign.bank.building": [
+  "chineseyuanrenminbisign.building.classical": [
     "currencies",
     "currency"
   ],
-  "chineseyuanrenminbisign.bank.building.fill": [
+  "chineseyuanrenminbisign.building.classical.fill": [
     "currencies",
     "currency"
   ],
@@ -2846,11 +2944,11 @@
     "currencies",
     "currency"
   ],
-  "coloncurrencysign.bank.building": [
+  "coloncurrencysign.building.classical": [
     "currencies",
     "currency"
   ],
-  "coloncurrencysign.bank.building.fill": [
+  "coloncurrencysign.building.classical.fill": [
     "currencies",
     "currency"
   ],
@@ -2978,11 +3076,11 @@
     "currencies",
     "currency"
   ],
-  "cruzeirosign.bank.building": [
+  "cruzeirosign.building.classical": [
     "currencies",
     "currency"
   ],
-  "cruzeirosign.bank.building.fill": [
+  "cruzeirosign.building.classical.fill": [
     "currencies",
     "currency"
   ],
@@ -3032,11 +3130,11 @@
     "currencies",
     "currency"
   ],
-  "danishkronesign.bank.building": [
+  "danishkronesign.building.classical": [
     "currencies",
     "currency"
   ],
-  "danishkronesign.bank.building.fill": [
+  "danishkronesign.building.classical.fill": [
     "currencies",
     "currency"
   ],
@@ -3281,11 +3379,11 @@
     "currencies",
     "currency"
   ],
-  "dollarsign.bank.building": [
+  "dollarsign.building.classical": [
     "currencies",
     "currency"
   ],
-  "dollarsign.bank.building.fill": [
+  "dollarsign.building.classical.fill": [
     "currencies",
     "currency"
   ],
@@ -3313,11 +3411,11 @@
     "currencies",
     "currency"
   ],
-  "dongsign.bank.building": [
+  "dongsign.building.classical": [
     "currencies",
     "currency"
   ],
-  "dongsign.bank.building.fill": [
+  "dongsign.building.classical.fill": [
     "currencies",
     "currency"
   ],
@@ -3361,6 +3459,10 @@
   ],
   "dot.radiowaves.forward": [
     "right"
+  ],
+  "dot.radiowaves.left.and.right": [
+    "radio",
+    "station"
   ],
   "dot.scope": [
     "circle",
@@ -3827,11 +3929,11 @@
     "currencies",
     "currency"
   ],
-  "eurosign.bank.building": [
+  "eurosign.building.classical": [
     "currencies",
     "currency"
   ],
-  "eurosign.bank.building.fill": [
+  "eurosign.building.classical.fill": [
     "currencies",
     "currency"
   ],
@@ -3859,11 +3961,11 @@
     "currencies",
     "currency"
   ],
-  "eurozonesign.bank.building": [
+  "eurozonesign.building.classical": [
     "currencies",
     "currency"
   ],
-  "eurozonesign.bank.building.fill": [
+  "eurozonesign.building.classical.fill": [
     "currencies",
     "currency"
   ],
@@ -4143,6 +4245,17 @@
     "human",
     "person"
   ],
+  "figure.2.ascending": [
+    "adult",
+    "child",
+    "family",
+    "human",
+    "kid",
+    "parent",
+    "person",
+    "teen",
+    "teenager"
+  ],
   "figure.2.circle": [
     "human",
     "person"
@@ -4150,6 +4263,17 @@
   "figure.2.circle.fill": [
     "human",
     "person"
+  ],
+  "figure.2.descending": [
+    "adult",
+    "child",
+    "family",
+    "human",
+    "kid",
+    "parent",
+    "person",
+    "teen",
+    "teenager"
   ],
   "figure.2.left.holdinghands": [
     "human",
@@ -4200,7 +4324,8 @@
   ],
   "figure.arms.open": [
     "human",
-    "person"
+    "person",
+    "teen"
   ],
   "figure.australian.football": [
     "human",
@@ -5647,6 +5772,17 @@
     "human",
     "person"
   ],
+  "figure.stand.and.figure.teen": [
+    "adult",
+    "child",
+    "family",
+    "human",
+    "kid",
+    "parent",
+    "person",
+    "teen",
+    "teenager"
+  ],
   "figure.stand.dress": [
     "human",
     "person"
@@ -5748,6 +5884,39 @@
     "human",
     "person",
     "sports"
+  ],
+  "figure.teen": [
+    "human",
+    "person",
+    "teen"
+  ],
+  "figure.teen.and.lock": [
+    "human",
+    "person",
+    "teen"
+  ],
+  "figure.teen.and.lock.fill": [
+    "human",
+    "person",
+    "teen"
+  ],
+  "figure.teen.and.lock.open": [
+    "human",
+    "person",
+    "teen"
+  ],
+  "figure.teen.and.lock.open.fill": [
+    "human",
+    "person",
+    "teen"
+  ],
+  "figure.teen.shield": [
+    "human",
+    "teen"
+  ],
+  "figure.teen.shield.fill": [
+    "human",
+    "teen"
   ],
   "figure.tennis": [
     "human",
@@ -6079,11 +6248,11 @@
     "currencies",
     "currency"
   ],
-  "florinsign.bank.building": [
+  "florinsign.building.classical": [
     "currencies",
     "currency"
   ],
-  "florinsign.bank.building.fill": [
+  "florinsign.building.classical.fill": [
     "currencies",
     "currency"
   ],
@@ -6175,11 +6344,11 @@
     "currencies",
     "currency"
   ],
-  "francsign.bank.building": [
+  "francsign.building.classical": [
     "currencies",
     "currency"
   ],
-  "francsign.bank.building.fill": [
+  "francsign.building.classical.fill": [
     "currencies",
     "currency"
   ],
@@ -6230,6 +6399,9 @@
     "control",
     "cruise",
     "warning"
+  ],
+  "gauge.range.33to100.dotted.with.needle": [
+    "timer"
   ],
   "gauge.with.dots.needle.0percent": [
     "low",
@@ -6317,6 +6489,10 @@
   ],
   "globe.americas.fill": [
     "earth"
+  ],
+  "globe.and.person": [
+    "earth",
+    "language"
   ],
   "globe.asia.australia": [
     "earth"
@@ -6417,11 +6593,11 @@
     "currencies",
     "currency"
   ],
-  "guaranisign.bank.building": [
+  "guaranisign.building.classical": [
     "currencies",
     "currency"
   ],
-  "guaranisign.bank.building.fill": [
+  "guaranisign.building.classical.fill": [
     "currencies",
     "currency"
   ],
@@ -6682,6 +6858,36 @@
     "sound",
     "speaker"
   ],
+  "hifispeaker.2.badge.checkmark": [
+    "audio",
+    "sound",
+    "speaker"
+  ],
+  "hifispeaker.2.badge.checkmark.fill": [
+    "audio",
+    "sound",
+    "speaker"
+  ],
+  "hifispeaker.2.badge.checkmark.fill.rtl": [
+    "audio",
+    "sound",
+    "speaker"
+  ],
+  "hifispeaker.2.badge.checkmark.rtl": [
+    "audio",
+    "sound",
+    "speaker"
+  ],
+  "hifispeaker.2.badge.exclamationmark": [
+    "audio",
+    "sound",
+    "speaker"
+  ],
+  "hifispeaker.2.badge.exclamationmark.fill": [
+    "audio",
+    "sound",
+    "speaker"
+  ],
   "hifispeaker.2.badge.minus": [
     "audio",
     "sound",
@@ -6712,6 +6918,36 @@
     "sound",
     "speaker"
   ],
+  "hifispeaker.and.homepod.badge.checkmark": [
+    "audio",
+    "sound",
+    "speaker"
+  ],
+  "hifispeaker.and.homepod.badge.checkmark.fill": [
+    "audio",
+    "sound",
+    "speaker"
+  ],
+  "hifispeaker.and.homepod.badge.checkmark.fill.rtl": [
+    "audio",
+    "sound",
+    "speaker"
+  ],
+  "hifispeaker.and.homepod.badge.checkmark.rtl": [
+    "audio",
+    "sound",
+    "speaker"
+  ],
+  "hifispeaker.and.homepod.badge.exclamationmark": [
+    "audio",
+    "sound",
+    "speaker"
+  ],
+  "hifispeaker.and.homepod.badge.exclamationmark.fill": [
+    "audio",
+    "sound",
+    "speaker"
+  ],
   "hifispeaker.and.homepod.badge.minus": [
     "audio",
     "sound",
@@ -6738,6 +6974,36 @@
     "speaker"
   ],
   "hifispeaker.and.homepod.mini": [
+    "audio",
+    "sound",
+    "speaker"
+  ],
+  "hifispeaker.and.homepod.mini.badge.checkmark": [
+    "audio",
+    "sound",
+    "speaker"
+  ],
+  "hifispeaker.and.homepod.mini.badge.checkmark.fill": [
+    "audio",
+    "sound",
+    "speaker"
+  ],
+  "hifispeaker.and.homepod.mini.badge.checkmark.fill.rtl": [
+    "audio",
+    "sound",
+    "speaker"
+  ],
+  "hifispeaker.and.homepod.mini.badge.checkmark.rtl": [
+    "audio",
+    "sound",
+    "speaker"
+  ],
+  "hifispeaker.and.homepod.mini.badge.exclamationmark": [
+    "audio",
+    "sound",
+    "speaker"
+  ],
+  "hifispeaker.and.homepod.mini.badge.exclamationmark.fill": [
     "audio",
     "sound",
     "speaker"
@@ -6773,6 +7039,36 @@
     "speaker"
   ],
   "hifispeaker.arrow.forward.fill": [
+    "audio",
+    "sound",
+    "speaker"
+  ],
+  "hifispeaker.badge.checkmark": [
+    "audio",
+    "sound",
+    "speaker"
+  ],
+  "hifispeaker.badge.checkmark.fill": [
+    "audio",
+    "sound",
+    "speaker"
+  ],
+  "hifispeaker.badge.checkmark.fill.rtl": [
+    "audio",
+    "sound",
+    "speaker"
+  ],
+  "hifispeaker.badge.checkmark.rtl": [
+    "audio",
+    "sound",
+    "speaker"
+  ],
+  "hifispeaker.badge.exclamationmark": [
+    "audio",
+    "sound",
+    "speaker"
+  ],
+  "hifispeaker.badge.exclamationmark.fill": [
     "audio",
     "sound",
     "speaker"
@@ -6832,6 +7128,36 @@
     "sound",
     "speaker"
   ],
+  "homepod.2.badge.checkmark": [
+    "audio",
+    "sound",
+    "speaker"
+  ],
+  "homepod.2.badge.checkmark.fill": [
+    "audio",
+    "sound",
+    "speaker"
+  ],
+  "homepod.2.badge.checkmark.fill.rtl": [
+    "audio",
+    "sound",
+    "speaker"
+  ],
+  "homepod.2.badge.checkmark.rtl": [
+    "audio",
+    "sound",
+    "speaker"
+  ],
+  "homepod.2.badge.exclamationmark": [
+    "audio",
+    "sound",
+    "speaker"
+  ],
+  "homepod.2.badge.exclamationmark.fill": [
+    "audio",
+    "sound",
+    "speaker"
+  ],
   "homepod.2.badge.minus": [
     "audio",
     "sound",
@@ -6858,6 +7184,36 @@
     "speaker"
   ],
   "homepod.and.homepod.mini": [
+    "audio",
+    "sound",
+    "speaker"
+  ],
+  "homepod.and.homepod.mini.badge.checkmark": [
+    "audio",
+    "sound",
+    "speaker"
+  ],
+  "homepod.and.homepod.mini.badge.checkmark.fill": [
+    "audio",
+    "sound",
+    "speaker"
+  ],
+  "homepod.and.homepod.mini.badge.checkmark.fill.rtl": [
+    "audio",
+    "sound",
+    "speaker"
+  ],
+  "homepod.and.homepod.mini.badge.checkmark.rtl": [
+    "audio",
+    "sound",
+    "speaker"
+  ],
+  "homepod.and.homepod.mini.badge.exclamationmark": [
+    "audio",
+    "sound",
+    "speaker"
+  ],
+  "homepod.and.homepod.mini.badge.exclamationmark.fill": [
     "audio",
     "sound",
     "speaker"
@@ -6917,6 +7273,16 @@
     "sound",
     "speaker"
   ],
+  "homepod.badge.exclamationmark": [
+    "audio",
+    "sound",
+    "speaker"
+  ],
+  "homepod.badge.exclamationmark.fill": [
+    "audio",
+    "sound",
+    "speaker"
+  ],
   "homepod.badge.minus": [
     "audio",
     "sound",
@@ -6948,6 +7314,36 @@
     "speaker"
   ],
   "homepod.mini.2": [
+    "audio",
+    "sound",
+    "speaker"
+  ],
+  "homepod.mini.2.badge.checkmark": [
+    "audio",
+    "sound",
+    "speaker"
+  ],
+  "homepod.mini.2.badge.checkmark.fill": [
+    "audio",
+    "sound",
+    "speaker"
+  ],
+  "homepod.mini.2.badge.checkmark.fill.rtl": [
+    "audio",
+    "sound",
+    "speaker"
+  ],
+  "homepod.mini.2.badge.checkmark.rtl": [
+    "audio",
+    "sound",
+    "speaker"
+  ],
+  "homepod.mini.2.badge.exclamationmark": [
+    "audio",
+    "sound",
+    "speaker"
+  ],
+  "homepod.mini.2.badge.exclamationmark.fill": [
     "audio",
     "sound",
     "speaker"
@@ -7003,6 +7399,16 @@
     "speaker"
   ],
   "homepod.mini.badge.checkmark.rtl": [
+    "audio",
+    "sound",
+    "speaker"
+  ],
+  "homepod.mini.badge.exclamationmark": [
+    "audio",
+    "sound",
+    "speaker"
+  ],
+  "homepod.mini.badge.exclamationmark.fill": [
     "audio",
     "sound",
     "speaker"
@@ -7119,11 +7525,11 @@
     "currencies",
     "currency"
   ],
-  "hryvniasign.bank.building": [
+  "hryvniasign.building.classical": [
     "currencies",
     "currency"
   ],
-  "hryvniasign.bank.building.fill": [
+  "hryvniasign.building.classical.fill": [
     "currencies",
     "currency"
   ],
@@ -7184,11 +7590,11 @@
     "currencies",
     "currency"
   ],
-  "indianrupeesign.bank.building": [
+  "indianrupeesign.building.classical": [
     "currencies",
     "currency"
   ],
-  "indianrupeesign.bank.building.fill": [
+  "indianrupeesign.building.classical.fill": [
     "currencies",
     "currency"
   ],
@@ -7211,7 +7617,19 @@
   "info": [
     "info"
   ],
+  "info.app": [
+    "info"
+  ],
+  "info.app.fill": [
+    "info"
+  ],
   "info.circle": [
+    "info"
+  ],
+  "info.circle.badge": [
+    "info"
+  ],
+  "info.circle.badge.fill": [
     "info"
   ],
   "info.circle.fill": [
@@ -7227,7 +7645,7 @@
     "completed",
     "task"
   ],
-  "inset.filled.rectangle.and.person.filled": [
+  "inset.filled.rectangle.and.person": [
     "people",
     "screen sharing"
   ],
@@ -7239,16 +7657,28 @@
     "people",
     "screen sharing"
   ],
-  "inset.filled.rectangle.and.person.filled.slash": [
+  "inset.filled.rectangle.and.person.slash": [
     "people",
     "screen sharing"
   ],
-  "inset.filled.rectangle.and.person.filled.slash.rtl": [
+  "inset.filled.rectangle.and.person.slash.rtl": [
     "people",
     "screen sharing"
   ],
   "inset.filled.rectangle.and.pointer.arrow": [
     "cursor"
+  ],
+  "interface.window.and.pointer.arrow": [
+    "cursor"
+  ],
+  "interface.window.and.pointer.arrow.rtl": [
+    "cursor"
+  ],
+  "interface.window.badge.plus": [
+    "+",
+    "add",
+    "create",
+    "new"
   ],
   "ipad.landscape.and.applewatch": [
     "applewatch",
@@ -7387,11 +7817,11 @@
     "currencies",
     "currency"
   ],
-  "kipsign.bank.building": [
+  "kipsign.building.classical": [
     "currencies",
     "currency"
   ],
-  "kipsign.bank.building.fill": [
+  "kipsign.building.classical.fill": [
     "currencies",
     "currency"
   ],
@@ -7486,11 +7916,11 @@
     "currencies",
     "currency"
   ],
-  "larisign.bank.building": [
+  "larisign.building.classical": [
     "currencies",
     "currency"
   ],
-  "larisign.bank.building.fill": [
+  "larisign.building.classical.fill": [
     "currencies",
     "currency"
   ],
@@ -7603,11 +8033,11 @@
     "currencies",
     "currency"
   ],
-  "lirasign.bank.building": [
+  "lirasign.building.classical": [
     "currencies",
     "currency"
   ],
-  "lirasign.bank.building.fill": [
+  "lirasign.building.classical.fill": [
     "currencies",
     "currency"
   ],
@@ -7988,18 +8418,6 @@
   "macstudio.fill": [
     "mac studio"
   ],
-  "macwindow.and.pointer.arrow": [
-    "cursor"
-  ],
-  "macwindow.and.pointer.arrow.rtl": [
-    "cursor"
-  ],
-  "macwindow.badge.plus": [
-    "+",
-    "add",
-    "create",
-    "new"
-  ],
   "magnifyingglass": [
     "search"
   ],
@@ -8047,11 +8465,11 @@
     "currencies",
     "currency"
   ],
-  "malaysianringgitsign.bank.building": [
+  "malaysianringgitsign.building.classical": [
     "currencies",
     "currency"
   ],
-  "malaysianringgitsign.bank.building.fill": [
+  "malaysianringgitsign.building.classical.fill": [
     "currencies",
     "currency"
   ],
@@ -8079,11 +8497,11 @@
     "currencies",
     "currency"
   ],
-  "manatsign.bank.building": [
+  "manatsign.building.classical": [
     "currencies",
     "currency"
   ],
-  "manatsign.bank.building.fill": [
+  "manatsign.building.classical.fill": [
     "currencies",
     "currency"
   ],
@@ -8181,6 +8599,15 @@
     "dictate",
     "dictation"
   ],
+  "microphone.dynamic.on.stand": [
+    "microphone"
+  ],
+  "microphone.dynamic.on.stand.circle": [
+    "microphone"
+  ],
+  "microphone.dynamic.on.stand.circle.fill": [
+    "microphone"
+  ],
   "microphone.fill": [
     "dictate",
     "dictation"
@@ -8213,11 +8640,11 @@
     "currencies",
     "currency"
   ],
-  "millsign.bank.building": [
+  "millsign.building.classical": [
     "currencies",
     "currency"
   ],
-  "millsign.bank.building.fill": [
+  "millsign.building.classical.fill": [
     "currencies",
     "currency"
   ],
@@ -8455,15 +8882,6 @@
     "multiply",
     "times"
   ],
-  "music.microphone": [
-    "microphone"
-  ],
-  "music.microphone.circle": [
-    "microphone"
-  ],
-  "music.microphone.circle.fill": [
-    "microphone"
-  ],
   "music.note": [
     "media"
   ],
@@ -8498,11 +8916,11 @@
     "currencies",
     "currency"
   ],
-  "nairasign.bank.building": [
+  "nairasign.building.classical": [
     "currencies",
     "currency"
   ],
-  "nairasign.bank.building.fill": [
+  "nairasign.building.classical.fill": [
     "currencies",
     "currency"
   ],
@@ -8530,11 +8948,11 @@
     "currencies",
     "currency"
   ],
-  "norwegiankronesign.bank.building": [
+  "norwegiankronesign.building.classical": [
     "currencies",
     "currency"
   ],
-  "norwegiankronesign.bank.building.fill": [
+  "norwegiankronesign.building.classical.fill": [
     "currencies",
     "currency"
   ],
@@ -8593,37 +9011,37 @@
   "notequal.square.fill": [
     "≠"
   ],
-  "number": [
+  "number.sign": [
     "#",
     "hash",
     "octothorpe",
     "pound"
   ],
-  "number.circle": [
+  "number.sign.circle": [
     "#",
     "hash",
     "octothorpe",
     "pound"
   ],
-  "number.circle.fill": [
+  "number.sign.circle.fill": [
     "#",
     "hash",
     "octothorpe",
     "pound"
   ],
-  "number.square": [
+  "number.sign.square": [
     "#",
     "hash",
     "octothorpe",
     "pound"
   ],
-  "number.square.fill": [
+  "number.sign.square.fill": [
     "#",
     "hash",
     "octothorpe",
     "pound"
   ],
-  "numbersign": [
+  "numero.sign": [
     "numero"
   ],
   "oar.2.crossed": [
@@ -8913,6 +9331,22 @@
     "human",
     "person"
   ],
+  "person.badge.checkmark": [
+    "people",
+    "user"
+  ],
+  "person.badge.checkmark.fill": [
+    "people",
+    "user"
+  ],
+  "person.badge.checkmark.seal": [
+    "people",
+    "user"
+  ],
+  "person.badge.checkmark.seal.fill": [
+    "people",
+    "user"
+  ],
   "person.badge.clock": [
     "people",
     "time",
@@ -8921,6 +9355,22 @@
   "person.badge.clock.fill": [
     "people",
     "time",
+    "user"
+  ],
+  "person.badge.creditcard": [
+    "people",
+    "user"
+  ],
+  "person.badge.creditcard.fill": [
+    "people",
+    "user"
+  ],
+  "person.badge.gearshape": [
+    "people",
+    "user"
+  ],
+  "person.badge.gearshape.fill": [
+    "people",
     "user"
   ],
   "person.badge.key": [
@@ -8935,6 +9385,14 @@
     "password",
     "people",
     "privacyandsecurity",
+    "user"
+  ],
+  "person.badge.location": [
+    "people",
+    "user"
+  ],
+  "person.badge.location.fill": [
+    "people",
     "user"
   ],
   "person.badge.minus": [
@@ -9013,12 +9471,6 @@
   "person.crop.artframe": [
     "people"
   ],
-  "person.crop.badge.magnifyingglass": [
-    "people"
-  ],
-  "person.crop.badge.magnifyingglass.fill": [
-    "people"
-  ],
   "person.crop.circle": [
     "account",
     "contact",
@@ -9087,6 +9539,12 @@
     "contact",
     "people",
     "user"
+  ],
+  "person.crop.circle.badge.magnifyingglass": [
+    "people"
+  ],
+  "person.crop.circle.badge.magnifyingglass.fill": [
+    "people"
   ],
   "person.crop.circle.badge.minus": [
     "-",
@@ -9334,6 +9792,16 @@
     "physical distancing",
     "social distancing"
   ],
+  "person.number.sign.rectangle": [
+    "card",
+    "id",
+    "people"
+  ],
+  "person.number.sign.rectangle.fill": [
+    "card",
+    "id",
+    "people"
+  ],
   "person.slash": [
     "people",
     "user"
@@ -9363,6 +9831,16 @@
     "id",
     "people"
   ],
+  "person.text.rectangle.badge.clock": [
+    "card",
+    "id",
+    "people"
+  ],
+  "person.text.rectangle.badge.clock.fill": [
+    "card",
+    "id",
+    "people"
+  ],
   "person.text.rectangle.fill": [
     "card",
     "id",
@@ -9384,15 +9862,21 @@
   "person.wave.2.fill": [
     "people"
   ],
+  "person.wave.2.inward": [
+    "people"
+  ],
+  "person.wave.2.inward.fill": [
+    "people"
+  ],
   "peruviansolessign": [
     "currencies",
     "currency"
   ],
-  "peruviansolessign.bank.building": [
+  "peruviansolessign.building.classical": [
     "currencies",
     "currency"
   ],
-  "peruviansolessign.bank.building.fill": [
+  "peruviansolessign.building.classical.fill": [
     "currencies",
     "currency"
   ],
@@ -9420,11 +9904,11 @@
     "currencies",
     "currency"
   ],
-  "pesetasign.bank.building": [
+  "pesetasign.building.classical": [
     "currencies",
     "currency"
   ],
-  "pesetasign.bank.building.fill": [
+  "pesetasign.building.classical.fill": [
     "currencies",
     "currency"
   ],
@@ -9452,11 +9936,11 @@
     "currencies",
     "currency"
   ],
-  "pesosign.bank.building": [
+  "pesosign.building.classical": [
     "currencies",
     "currency"
   ],
-  "pesosign.bank.building.fill": [
+  "pesosign.building.classical.fill": [
     "currencies",
     "currency"
   ],
@@ -9622,6 +10106,24 @@
     "place",
     "sun"
   ],
+  "photo.badge.questionmark": [
+    "environment",
+    "image",
+    "mountain",
+    "photograph",
+    "picture",
+    "place",
+    "sun"
+  ],
+  "photo.badge.questionmark.fill": [
+    "environment",
+    "image",
+    "mountain",
+    "photograph",
+    "picture",
+    "place",
+    "sun"
+  ],
   "photo.badge.shield.exclamationmark": [
     "environment",
     "image",
@@ -9695,6 +10197,24 @@
     "sun"
   ],
   "photo.on.rectangle.angled.fill": [
+    "environment",
+    "image",
+    "mountain",
+    "photograph",
+    "picture",
+    "place",
+    "sun"
+  ],
+  "photo.slash": [
+    "environment",
+    "image",
+    "mountain",
+    "photograph",
+    "picture",
+    "place",
+    "sun"
+  ],
+  "photo.slash.fill": [
     "environment",
     "image",
     "mountain",
@@ -9789,6 +10309,14 @@
   ],
   "pin.slash.fill": [
     "remove"
+  ],
+  "pizza.slice": [
+    "baking",
+    "food"
+  ],
+  "pizza.slice.fill": [
+    "baking",
+    "food"
   ],
   "play.desktopcomputer": [
     "imac"
@@ -10136,11 +10664,11 @@
     "currencies",
     "currency"
   ],
-  "polishzlotysign.bank.building": [
+  "polishzlotysign.building.classical": [
     "currencies",
     "currency"
   ],
-  "polishzlotysign.bank.building.fill": [
+  "polishzlotysign.building.classical.fill": [
     "currencies",
     "currency"
   ],
@@ -10533,6 +11061,9 @@
   "recordingtape": [
     "voicemail"
   ],
+  "recordingtape.badge": [
+    "voicemail"
+  ],
   "recordingtape.circle": [
     "voicemail"
   ],
@@ -10797,11 +11328,11 @@
     "currencies",
     "currency"
   ],
-  "rublesign.bank.building": [
+  "rublesign.building.classical": [
     "currencies",
     "currency"
   ],
-  "rublesign.bank.building.fill": [
+  "rublesign.building.classical.fill": [
     "currencies",
     "currency"
   ],
@@ -10841,11 +11372,11 @@
     "currencies",
     "currency"
   ],
-  "rupeesign.bank.building": [
+  "rupeesign.building.classical": [
     "currencies",
     "currency"
   ],
-  "rupeesign.bank.building.fill": [
+  "rupeesign.building.classical.fill": [
     "currencies",
     "currency"
   ],
@@ -10889,6 +11420,16 @@
     "…"
   ],
   "scope": [
+    "circle",
+    "crosshair",
+    "inspect",
+    "locate",
+    "measure",
+    "point",
+    "select",
+    "target"
+  ],
+  "scope.continuous": [
     "circle",
     "crosshair",
     "inspect",
@@ -10951,11 +11492,11 @@
     "currencies",
     "currency"
   ],
-  "shekelsign.bank.building": [
+  "shekelsign.building.classical": [
     "currencies",
     "currency"
   ],
-  "shekelsign.bank.building.fill": [
+  "shekelsign.building.classical.fill": [
     "currencies",
     "currency"
   ],
@@ -11095,11 +11636,11 @@
     "currencies",
     "currency"
   ],
-  "singaporedollarsign.bank.building": [
+  "singaporedollarsign.building.classical": [
     "currencies",
     "currency"
   ],
-  "singaporedollarsign.bank.building.fill": [
+  "singaporedollarsign.building.classical.fill": [
     "currencies",
     "currency"
   ],
@@ -11120,6 +11661,12 @@
     "currency"
   ],
   "siri": [
+    "siri"
+  ],
+  "siri.gen1": [
+    "siri"
+  ],
+  "siri.gen2": [
     "siri"
   ],
   "skateboard": [
@@ -11569,6 +12116,9 @@
     "create",
     "new"
   ],
+  "square.grid.month": [
+    "date"
+  ],
   "square.on.square.badge.person.crop": [
     "people"
   ],
@@ -11637,6 +12187,9 @@
     "mail",
     "vip"
   ],
+  "star.calendar": [
+    "date"
+  ],
   "star.circle": [
     "favorite"
   ],
@@ -11696,11 +12249,11 @@
     "currencies",
     "currency"
   ],
-  "sterlingsign.bank.building": [
+  "sterlingsign.building.classical": [
     "currencies",
     "currency"
   ],
-  "sterlingsign.bank.building.fill": [
+  "sterlingsign.building.classical.fill": [
     "currencies",
     "currency"
   ],
@@ -11935,11 +12488,11 @@
     "currencies",
     "currency"
   ],
-  "swedishkronasign.bank.building": [
+  "swedishkronasign.building.classical": [
     "currencies",
     "currency"
   ],
-  "swedishkronasign.bank.building.fill": [
+  "swedishkronasign.building.classical.fill": [
     "currencies",
     "currency"
   ],
@@ -12051,11 +12604,11 @@
     "currencies",
     "currency"
   ],
-  "tengesign.bank.building": [
+  "tengesign.building.classical": [
     "currencies",
     "currency"
   ],
-  "tengesign.bank.building.fill": [
+  "tengesign.building.classical.fill": [
     "currencies",
     "currency"
   ],
@@ -12184,6 +12737,42 @@
   ],
   "text.book.closed.fill": [
     "dictionary"
+  ],
+  "text.bubble": [
+    "speech"
+  ],
+  "text.bubble.badge.clock": [
+    "speech"
+  ],
+  "text.bubble.badge.clock.fill": [
+    "speech"
+  ],
+  "text.bubble.badge.clock.fill.rtl": [
+    "speech"
+  ],
+  "text.bubble.badge.clock.rtl": [
+    "speech"
+  ],
+  "text.bubble.badge.sparkles": [
+    "speech"
+  ],
+  "text.bubble.badge.sparkles.fill": [
+    "speech"
+  ],
+  "text.bubble.badge.sparkles.fill.rtl": [
+    "speech"
+  ],
+  "text.bubble.badge.sparkles.rtl": [
+    "speech"
+  ],
+  "text.bubble.fill": [
+    "speech"
+  ],
+  "text.bubble.fill.rtl": [
+    "speech"
+  ],
+  "text.bubble.rtl": [
+    "speech"
   ],
   "text.insert": [
     "arrow",
@@ -12531,11 +13120,11 @@
     "currencies",
     "currency"
   ],
-  "tugriksign.bank.building": [
+  "tugriksign.building.classical": [
     "currencies",
     "currency"
   ],
-  "tugriksign.bank.building.fill": [
+  "tugriksign.building.classical.fill": [
     "currencies",
     "currency"
   ],
@@ -12563,11 +13152,11 @@
     "currencies",
     "currency"
   ],
-  "turkishlirasign.bank.building": [
+  "turkishlirasign.building.classical": [
     "currencies",
     "currency"
   ],
-  "turkishlirasign.bank.building.fill": [
+  "turkishlirasign.building.classical.fill": [
     "currencies",
     "currency"
   ],
@@ -12616,6 +13205,24 @@
   ],
   "video.badge.plus": [
     "add",
+    "facetime"
+  ],
+  "video.badge.questionmark": [
+    "facetime"
+  ],
+  "video.badge.questionmark.ar": [
+    "facetime"
+  ],
+  "video.badge.questionmark.fill": [
+    "facetime"
+  ],
+  "video.badge.questionmark.fill.ar": [
+    "facetime"
+  ],
+  "video.badge.shield.exclamationmark": [
+    "facetime"
+  ],
+  "video.badge.shield.exclamationmark.fill": [
     "facetime"
   ],
   "video.badge.waveform": [
@@ -12670,6 +13277,9 @@
   ],
   "video.square.fill": [
     "facetime"
+  ],
+  "viewfinder.and.person": [
+    "people"
   ],
   "viewfinder.trianglebadge.exclamationmark": [
     "warning"
@@ -12788,7 +13398,7 @@
     "speech",
     "voice memo"
   ],
-  "waveform.and.person.filled": [
+  "waveform.and.person": [
     "people",
     "person"
   ],
@@ -12875,6 +13485,9 @@
   "widget.small": [
     "2x2"
   ],
+  "widget.small.badge.exclamationmark": [
+    "2x2"
+  ],
   "widget.small.badge.plus": [
     "2x2"
   ],
@@ -12930,11 +13543,11 @@
     "currencies",
     "currency"
   ],
-  "wonsign.bank.building": [
+  "wonsign.building.classical": [
     "currencies",
     "currency"
   ],
-  "wonsign.bank.building.fill": [
+  "wonsign.building.classical.fill": [
     "currencies",
     "currency"
   ],
@@ -12962,17 +13575,23 @@
   ],
   "xmark.bin": [
     "junk",
-    "mail"
+    "mail",
+    "spam"
   ],
   "xmark.bin.circle": [
-    "junk"
+    "junk",
+    "mail",
+    "spam"
   ],
   "xmark.bin.circle.fill": [
-    "junk"
+    "junk",
+    "mail",
+    "spam"
   ],
   "xmark.bin.fill": [
     "junk",
-    "mail"
+    "mail",
+    "spam"
   ],
   "xmark.circle": [
     "clear",
@@ -13060,11 +13679,11 @@
     "currencies",
     "currency"
   ],
-  "yensign.bank.building": [
+  "yensign.building.classical": [
     "currencies",
     "currency"
   ],
-  "yensign.bank.building.fill": [
+  "yensign.building.classical.fill": [
     "currencies",
     "currency"
   ],
